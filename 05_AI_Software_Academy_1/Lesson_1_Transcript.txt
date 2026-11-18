@@ -1,0 +1,3812 @@
+# AI Software Academy Part 1
+Course: 05_AI_Software_Academy_1
+Vimeo ID: 1230038810
+Track: English (auto-generated)
+Total Words: 23230
+================================================================================
+
+[00:39] Good evening, everyone. Let's open the camera.
+
+[00:47] Can you hear me?
+
+[01:01] All right, just open the cameras, and hello.
+
+[01:05] Welcome again to another class of AI on skills.ai.
+
+[01:10] AI Specialist 2.0. I hope you can see me
+
+[01:17] clearly. Thank you so much, guys, for showing up.
+
+[01:21] Okay, before starting today's call, let me ask you.
+
+[01:22] So before starting today's call, let me ask
+
+[01:34] you, how many of you tried practicing yesterday what you have learned?
+
+[01:41] If you have practiced, आप
+
+[01:44] मुझे response में thumbs up का symbol दे। Honest be honest with me.
+
+[01:54] Okay.
+
+[02:01] Any one of the student of today's class अगर कल की class आपने किसी वजह से
+
+[02:08] miss करी हो,
+
+[02:10] इस call के बाद
+
+[02:12] आज रात को ही मैं कहूंगा कि कल की जो class है वो LMS पर जाकर आप recording uploaded
+
+[02:17] जो है वो attend करके जरूर देखें because वो बहुत ही important
+
+[02:23] class है जो कल हमने ली है। One of the important class, not just that.
+
+[02:28] And also जैसे आप में से कई लोगों ने practice करी होगी तो कई लोगों को results मिले
+
+[02:33] होंगे। कुछ ना कुछ outcome मिले होंगे। How many of you got the outcome based on what
+
+[02:37] you have learned yesterday? Show me your thumbs up.
+
+[02:42] So that we can understand कि
+
+[02:46] you are understanding my teaching and the way I am teaching.
+
+[02:51] Okay.
+
+[02:59] Perfect। ठीक है।
+
+[03:02] तीन category के audience हैं मेरे लिए, as in चीजों को समझने के लिए। First category,
+
+[03:07] those who have tried जो सीखा कल, practice किया
+
+[03:13] और उनको result मिला कुछ ना कुछ। Second
+
+[03:16] category, आप देखो
+
+[03:22] जिन्होंने practice करी, पहला attempt किया but उनको result नहीं मिला तो वहीं से छोड़
+
+[03:27] दिया।
+
+[03:29] तीसरी category वो थी जिन्होंने सीखा तो बहुत कुछ, theory भी समझ ली, practical सब कुछ
+
+[03:33] देख लिया, मजा बहुत आ गया but implement कुछ भी नहीं किया।
+
+[03:40] आपको लेकर और सबको लेकर मैं एक बात कहूं। पहली चीज जो हमें समझनी है कि किसी
+
+[03:46] भी चीज को अगर सच में हमें सीखना है तो हमें concept,
+
+[03:51] processes and the foundation। यह जो चीज है ना, यह अगर एक बार हमें समझ में आ
+
+[03:57] जाए, उस चीज को real में master करने का
+
+[04:02] next phase होता है हमारी consistency। हम कितना depth में जा रहे हैं उस चीज को
+
+[04:08] लेकर, हम कितना
+
+[04:10] dedicatedly उसको सीखना चाहते हैं, master करना चाहते हैं।
+
+[04:15] It's not like that artificial intelligence है तो
+
+[04:21] सब intelligence उसी के पास हम दे दें, ऐसा नहीं है। हमारे पास भी कुछ intelligence
+
+[04:24] हमें रखना है। So that is the core message कि अगर किसी वजह से outcome नहीं मिला है।
+
+[04:31] So find out the way। मैंने वो process भी बताया कल आपको कि अगर मैं आपकी जगह होता तो
+
+[04:36] मैं उस challenge को कैसे solve करता।
+
+[04:39] मैं कोई course attend करने, उस topic पर तो नहीं जा सकता जब मैं कुछ चीजें कर रहा
+
+[04:43] हूँ। मैं उस चीज को लेकर कैसे खुद वो challenge solve कर सकता हूँ, वो भी ideological
+
+[04:49] मैंने आपको दी है। वो भी तरीका मैंने आपको दिया है जो आपको हमेशा काम आएगा
+
+[04:55] whenever you are starting your service agency or any kind of agencies in India है।
+
+[05:00] तो आप जब
+
+[05:02] day to day नए-नए clients से मिलते हो, नई-नई चीजें होती हैं। Real business में यह
+
+[05:06] चीज होती है, guys। जो real business करता है ना उनको यह चीजें face होती हैं कि जब
+
+[05:11] नए-नए client से मिलते हो, नए-नए challenges मिलते हैं, नए-नए challenges के साथ नई-नई
+
+[05:14] चीजें सीखने को मिलती हैं। Are you getting the point?
+
+[05:19] So it's not like that आपने कोई course attend किया और उससे आप पूरा expert बन गए। If
+
+[05:24] anybody is saying in this line, I can surely say this कि यह line
+
+[05:30] it's not a genuine line to say कि ऐसा हो सकता है।
+
+[05:35] यह वही कह सकते हैं जिन्होंने खुद कभी business किया हो।
+
+[05:39] उनको यह real experience होता है तब जाके होता है। So we are not teachers, we are
+
+[05:43] actual founders. All right, guys. So let's start today's session.
+
+[05:48] First topic मेरा, जैसा आपने कल के class में देखा, कल हमने जब class continue करा था
+
+[05:54] तो काफी topics हमने cover करने चाहे but फिर भी हमारा एक topic कल रह गया which is
+
+[05:59] one of the most important topic जो आप सब लोग आज देखना चाहते हैं। You will be
+
+[06:02] excited to see that। काफी मजा आएगा। So after my class, after my
+
+[06:08] part, I will be inviting Dar sir from Canada.
+
+[06:14] He will be joining us from Canada straight and he will conduct
+
+[06:19] AI Software Academy part one उनका रहेगा। After his part, I will be back
+
+[06:25] again for the
+
+[06:27] next time. All right, guys. So are you with me?
+
+[06:34] Hello. Just show me your thumbs up.
+
+[06:38] Are you with me?
+
+[06:41] Everyone.
+
+[06:42] Engagement जितनी अच्छी रहेगी ना उतना attentiveness आपका रहेगा। That's why I am
+
+[06:46] asking again और again. Thank you so much.
+
+[06:49] So first of all, let me थोड़ा सा idea बता दूं कि हम exactly क्या करने
+
+[06:55] वाले हैं अभी।
+
+[06:57] Just imagine a scenario कि किसी
+
+[07:01] जैसे मैंने कल भी एक example लिया था। हमने Loda जो developer है Mumbai के उनका
+
+[07:06] example लिया था कि Loda developer अगर है तो उनका calling agent जो website उनको
+
+[07:11] लगाना है वो कैसे लगा सकते हैं। उसको लेकर किस तरह से हम बना सकते हैं। One of the
+
+[07:14] example। तो real estate segment में हमने बोल दिया और dentist, doctors के segments
+
+[07:20] में ये काम की चीज है।
+
+[07:22] Coaches and consultants के industry में ये काम की चीज है। So these are
+
+[07:28] the industries जिनको beauty sectors में ये काम की चीज है। आप समझे मतलब?
+
+[07:34] ये सारी चीजें जो हम बना रहे हैं, ये उनको लेकर या किसी भी small and medium
+
+[07:40] business owners जो है जैसे कि कोई electronic shop owner है, उसको लेकर ये काम की चीज
+
+[07:45] है।
+
+[07:47] In general words जिनका भी business structured format में चल रहा है
+
+[07:53] उनको लेकर ये बहुत ही काम की चीज है और वो आपके ideal client भी बन सकते
+
+[07:59] हैं। आपके around भी बहुत सारे लोग मिल जाएंगे। एक sample आप बनाकर उनको दे दोगे तो
+
+[08:05] आपको बताने के लिए रहेगा कि "ये मैं बना सकता हूँ" that you can show them as a demo
+
+[08:10] and then you can create your plan कि हाँ, ये मेरी pricing रहेगी, इतना मेरा
+
+[08:17] time लगेगा और ये details आपकी तरफ से रहेगी। That is one video you have to make that
+
+[08:21] is called deliverables. ठीक है। So as we covered yesterday 11
+
+[08:27] labs. हमने cover किया 11 labs, हमने cover किया make.com, हम दोनों के
+
+[08:32] ऊपर AI agent and automations पर हमने focus रखा हुआ है। Obviously वो एक independent
+
+[08:37] platform है, उसके अंदर और भी चीजें हैं। But हमारा focus था AI agent, हमारा class कल
+
+[08:41] का वो था। तो हमने उस चीज पर focus करा। And today we will gonna cover
+
+[08:47] omnideim.io which is as per my observation one of the most easiest
+
+[08:54] and one of the most powerful platform जो AI calling agent के लिए use किया जा सकता
+
+[09:00] है। All right. So without wasting any more time, let me
+
+[09:06] share the screen. हम उसी के साथ सीखेंगे कि किस तरह से हम उस चीज में एक AI calling
+
+[09:11] agent बना सकते हैं in a matter of just 10 to 15 minutes, उससे भी कम।
+
+[09:17] Ready?
+
+[09:19] Perfect. So let me share my screen. Just a second.
+
+[09:32] Okay,
+
+[09:35] just focus on the screen now.
+
+[09:41] Simply, first of all, I am on the Google, I have to go to the Omnidim.
+
+[09:47] omnidim.io.
+
+[09:54] Omnidim.io.
+
+[09:58] You can create a free account on this. Okay, so this is a try for free.
+
+[10:03] I will first create the account. Try for free.
+
+[10:06] You can enter your name, phone number, email ID as well or you can sign up with
+
+[10:09] Google as well. I am just continuing with this Google. Just click on continue.
+
+[10:16] Continue.
+
+[10:20] Please open the camera, everyone. Right.
+
+[10:24] Perfect, guys. See the screen. When you enter the first time, there are some
+
+[10:29] information as well on the offer running on this particular platform.
+
+[10:33] This is not our platform, but this is the offer from their end. It's okay.
+
+[10:37] We are in the free account, so I am just clicking cancel and see.
+
+[10:43] जब ये पहली बार होगा, इस तरह का look आपको मिलेगा। अब इस look में हो सकता है कि आने
+
+[10:48] वाले time में थोड़ा update भी हो जाए। ये पहले थोड़ा अलग था। पहले ये सब नहीं था
+
+[10:52] starting में, सिर्फ ये वाला window था, ये side में नहीं दिखता था। So अब उन्होंने
+
+[10:56] थोड़ा change किया है। Right? तो now see, पहले हम थोड़ा सा idea ले लें कि क्या-क्या
+
+[11:00] चीजें हैं, कहाँ का क्या है, तो हम थोड़ा सा समझ लें चीजों को, तो हम उस चीज से
+
+[11:05] जब use करेंगे, तो हमें समझ में आएगा कि हाँ, ये चीज यहाँ है। First of all, यहाँ पर
+
+[11:09] आप देखोगे simple एक chat window, जिसे ChatGPT use करते हैं सब लोग। Right?
+
+[11:13] यहाँ पर chatbot, हमारे पास एक chat
+
+[11:16] text input का एक section है। नीचे कुछ आपको templates दी गई है। क्योंकि क्या होता है
+
+[11:21] कि जब आप पहली बार आते हो, तो creative brain तुममें activate नहीं होता है। So
+
+[11:25] platforms have some basic templates जो mostly industries में use होती हैं। जैसे कि
+
+[11:30] lead generation agent बनाना है, आपको calling agent,
+
+[11:34] appointment setter. जैसे हमने कल देखा, वो website पर था। ये call पर होगा। The
+
+[11:39] difference is वो website पर था, ये call करेगा। Support agent हो गया। कि मान लो किसी
+
+[11:43] company में support के regarding जितना knowledge है वो इस agent को हमने दे
+
+[11:49] दिया और वो support के related सारे question answers जो FAQ generally लोग पूछते हैं,
+
+[11:54] वो यहाँ से वो solve कर पाए। Negotiation agent हो गया, collection agent.
+
+[12:00] ऐसे और भी बहुत से agents के types हैं जो हम create कर सकते हैं। और आपको ideas
+
+[12:05] चाहिए, you can simply go to the ChatGPT, जैसे मैंने कल आपको brainstorming का idea
+
+[12:08] बताया कि कैसे हम देख सकते हैं। You can go to the Perplexity, जो कि research के लिए
+
+[12:12] मैंने आपको बहुत बताया कि which is one of the most important LLM for research.
+
+[12:19] Real-time research. तो वहाँ से भी आप ideas ले सकते हो। Omnidim.io के बारे में
+
+[12:23] बताओगे तो these all LLMs also know about this platform, so आप relate कर पाओगे कि
+
+[12:28] मैं इस platform पर agent बनाना चाह रहा हूँ ChatGPT से पूछो तो it will use.
+
+[12:32] ये इतनी सारी चीजें मैं आपको live करके ही बता रहा हूँ कि कुछ चीज ऐसी है ना that I
+
+[12:36] believe कि आप सब लोग उस stage तक तो matured हो चुके हो कि ChatGPT में कैसे
+
+[12:42] जाना है, search कैसे करना है क्योंकि हमने करके देखा है। Are you agree with me?
+
+[12:47] Right. Perfect. So now,
+
+[12:51] here is the chat window we have but on the left-hand side, you can see voice
+
+[12:55] assistant, यहाँ पर हम अभी हैं। Files, integrations, phone numbers, calls,
+
+[12:59] analytics, bulk call, billing, team management, API, resellers, referrals, docs,
+
+[13:05] contacts and reporting, access and settings.
+
+[13:08] So these are the most जो हम लोग use करेंगे, जो मैं अभी बताऊंगा agent बनने के बाद और
+
+[13:12] भी चीजें दिखेंगी आपको तब हम बनाते हैं। Right?
+
+[13:15] So without wasting any more time, let's quickly start.
+
+[13:19] अभी 5-10 minutes में हमारा agent live आप देखोगे बनता हुआ और test
+
+[13:25] करके ready.
+
+[13:28] Let's build an appointment setter calling agent.
+
+[13:33] So हम इस चीज को बनाते हैं तो मुझे अभी idea नहीं है तो मैं इस template को use कर रहा
+
+[13:38] हूँ। ठीक है। मैं इस तरह से सोचता हूँ कि मुझे idea नहीं है। अगर मुझे idea लेनी भी है
+
+[13:42] तो मैं ले सकता हूँ। ChatGPT से भी prompt ले सकता हूँ ये screenshot लेकर। That is
+
+[13:47] also the option. I have option number one.
+
+[13:49] Option number two, I can click on this template.
+
+[13:52] जब मैं इस template पर click करता हूँ, देखिए यहाँ पर नीचे options खुल गए हैं।
+
+[13:56] Appointment booking and reminders, site visit booking.
+
+[13:59] Site visit booking कहाँ used होती है? Real estate.
+
+[14:03] Interior designers.
+
+[14:05] तो ये सारी चीजें हो सकती हैं। Table reservations like restaurants.
+
+[14:11] Restaurants में हो सकती है। फिर
+
+[14:14] if you heard about the co-working space जो mostly metro cities या cities में होते
+
+[14:19] हैं, co-working space, तो उसके लिए भी ये चीजें use की जा सकती हैं। Consultation
+
+[14:24] scheduler. So consultants जितने भी है जो consultation देते हैं, real estate
+
+[14:28] consultation होते हैं, health consultant होते हैं, financial consultant होते हैं,
+
+[14:32] तो उनको लेकर भी agent बहुत काम की चीज है। तो ये हम use करेंगे appointment booking
+
+[14:37] and reminders. इस चीज को हम use करते हैं। जैसे ही मैं इस पर click किया, you can see
+
+[14:41] this is the standard prompt of 953 characters.
+
+[14:45] ये यहाँ पर लिख के आ चुका है। Can you see?
+
+[14:48] थोड़ा सा मैं आपको read करके दिखाता हूँ। Create a voice AI agent of healthcare
+
+[14:52] appointment booking and scheduling reminder. Sending reminders to reduce no-shows.
+
+[14:57] Personality क्या है इसकी? Professional रहेगा। And ये सारी चीजें आप देख ही सकते हैं।
+
+[15:03] Capabilities इसने लिखी हुई है, schedule a new patient appointment, send appointment
+
+[15:07] reminders to patients. अब ये basically इसका जो काम है, जिस तरह से, जिस-जिस
+
+[15:11] consultant को template को design किया गया है, ये health industry को लेकर किया गया
+
+[15:14] है, हम समझ गए। मैं इस चीज को खुद नहीं use करना चाहूँगा। चलो ये तो मैंने बता दिया
+
+[15:18] आपको you can use it the same way. But second option.
+
+[15:21] Now मैं इसको बोलूंगा,
+
+[15:24] हमने कल की website जो थी उसको open कर दिया है Loona। हमने कल ये वाली
+
+[15:30] website open करी थी। ये वाली website को मैं just copy कर रहा हूँ like I want to
+
+[15:36] build an appointment
+
+[15:42] booking agent
+
+[15:48] for my business, for
+
+[15:55] my real estate business.
+
+[15:58] ठीक है?
+
+[16:00] My brand name is-- right, मैं इस चीज को हटा दूँ। My
+
+[16:06] brand name is Loona
+
+[16:08] Developers and
+
+[16:12] my agent name-- चलो ठीक है, इतना ही लिखता हूँ अभी। इस चीज को मैंने इतना लिखा और
+
+[16:17] next चीज मैं करूंगा अगर मुझे आगे prompt नहीं था, this is the button called enhance.
+
+[16:21] अब मैं इस पर जब enhance पर click करूंगा, you can see ये जो line है, इस line को इसने
+
+[16:26] enhance करके बढ़ा ली है proper.
+
+[16:30] मैंने यहाँ तक लिखा था। Can you see everyone?
+
+[16:36] यहाँ तक लिखा था the agent should get the callers, understand their inquiries and
+
+[16:41] assist them in scheduling appointment for the property viewing consultation.
+
+[16:44] The agent must be answer the common questions about the properties, provide the
+
+[16:47] available slot. Obviously, ये सारी चीजें हम चाहेंगे उससे but brainstorming नहीं हो
+
+[16:51] रही है तो enhance से हमने इस चीज को और better किया।
+
+[16:56] एक चीज मैं जरूर कहना चाहूंगा, जितना better आपका intent होगा ना और जितनी ज़्यादा
+
+[17:00] आपकी clarity होगी agent की ये-ये चीज मुझे करवानी है उससे और ये चीजें वो
+
+[17:06] नहीं करना चाहिए। जितना clear आप दोगे ना यहाँ पर, उतना better आपका agent काम
+
+[17:12] करेगा। उतना intelligently वो answers करेगा जैसा आप चाहते हो। अब आप
+
+[17:17] बोलोगे, "Sir, इसमें हम" like how can I help you?
+
+[17:21] I can help my agent. मैं जैसे बनाता था, मुझे पता है। But आप जैसे बनाना चाहते हो, वो
+
+[17:27] सिर्फ आपको पता है कि कैसा वो बनना चाहिए। Are you getting my point?
+
+[17:33] But क्या उसकी standard process होगी?
+
+[17:36] जितनी clarity,
+
+[17:39] जितना
+
+[17:41] structure format, उतना better वो perform करेगा। तो अभी के लिए मैं क्या करूंगा कि
+
+[17:48] इसको मैं as it is रखता हूँ और यहाँ पर मैं create voice AI assistant पर मैं click कर
+
+[17:52] रहा हूँ, that's it for the first demo.
+
+[17:55] मैंने जैसे click किया, you can see
+
+[17:59] on the click of the button मेरा agent बनना start हो गया है। You can see this.
+
+[18:04] Your agent is being created
+
+[18:07] and within seconds you can try and test your agent on your
+
+[18:13] own number
+
+[18:18] Your agent is ready, guys.
+
+[18:21] And let's try it out. ठीक है? So
+
+[18:26] let's enter the number. Just a minute, guys.
+
+[18:34] I am just entering the number here.
+
+[18:43] Okay.
+
+[18:45] And I have a phone with me. Right. I can show you the phone.
+
+[18:53] This is my phone. Right.
+
+[18:58] Okay, I click on the start call button.
+
+[19:01] मैंने अभी click किया।
+
+[19:04] Let me share my screen first.
+
+[19:07] Screen आपके सामने है। मेरे पास call आ गया है यहाँ पर। You can see, guys.
+
+[19:11] Now I am speaker पर डाल दो।
+
+[19:16] Thank you for calling Yoha Developers.
+
+[19:18] How may I assist you with your property inquiry or appointment today?
+
+[19:21] Can you hear everyone? Call का speaker आवाज़ आ रहा है आप लोगों को?
+
+[19:26] Okay, one second.
+
+[19:29] Yeah. Hello, my name is Deepak.
+
+[19:33] Hi, Deepak. Nice to meet you. What can I help you with today regarding Yoha
+
+[19:37] property?
+
+[19:38] I want to buy a property in Mumbai at a budget under 2 Cr.
+
+[19:46] I understand, Deepak. We have one, two and three BHK apartments,
+
+[19:51] penthouses and commercial spaces in Mumbai.
+
+[19:54] I don't have exact prices, but I can help you book an appointment to discuss
+
+[19:58] options with a sales advisor. Would you like to-
+
+[20:00] All right. Thank you.
+
+[20:03] As you can see, guys, instantly within a minute. कितना time लगा हमें बनाने के लिए?
+
+[20:08] 2 minutes या 1 minute समझाने में मुझे time गया होगा। And my agent is created and
+
+[20:13] tested successfully कि call आया, उसने बात करना start किया और कितना अच्छे से बात
+
+[20:18] किया। जबकि हमने इसको अभी तक कुछ भी training नहीं दी है, ना तो हमने इसको कोई
+
+[20:22] knowledge दी है। हमने सिर्फ इसको एक idea दी है कि आपका काम क्या है, आप किस के agent
+
+[20:27] हो। All right, guys. Now, here is the main interesting part start.
+
+[20:34] Now see, अब इस agent के साथ हम क्या-क्या कर सकते हैं। इसकी जो flexibility है,
+
+[20:40] यहाँ से आपका दिमाग चलना start होने वाला है। First,
+
+[20:45] you can change the language of the agent. First of all, language.
+
+[20:50] आप मान लो कि if you belongs to West Bengal. Right.
+
+[20:54] तो वहाँ की language अलग है। If you are belongs to Gujarat, तो यहाँ obviously we
+
+[20:57] will talk Gujarati। Right.
+
+[21:01] So here are all the languages you can see Tamil, Marathi, Spanish, Kannada, French,
+
+[21:06] Punjabi, Urdu. Chinese, Bengali. There are so many languages available here.
+
+[21:12] So as of now, क्योंकि हमने अभी Hindi में भी trying नहीं किया but Hindi यहाँ पर है,
+
+[21:17] but मैं अभी इसको नहीं कर रहा। Now I am just click on done now.
+
+[21:21] The second thing you can change the voice of the agent. Focus on the screen.
+
+[21:26] मैं कहाँ click कर रहा हूँ, क्या कर रहा हूँ, focus रखो तो समझ में आएगा। Voice of the
+
+[21:31] agent. When you click on this, you can see here.
+
+[21:35] यहाँ पर आपके पास multiple agents के अलग-अलग voices हैं, जो pre-recorded हैं। Let
+
+[21:40] me,
+
+[21:42] मैं play करता हूँ एक-दो। यहाँ पर देखोगे this is Riya जो हमारा actual में भी
+
+[21:48] selected था। आवाज़ वो इसका था। इसका मैं देखे।
+
+[21:52] नमस्ते, ज़रा सुनिए मेरी आवाज़ कैसी लगती है। उम्मीद है आपको पसंद-
+
+[21:56] तो यह हमने use किया था अभी। अगर मैं इसको use करके देखूं।
+
+[22:00] Hello, this is a sample of my voice. Thank you for listening.
+
+[22:03] यह depend करता है कि आपकी brand कैसी है, उसकी target audience कैसी है, उसके clients
+
+[22:08] कैसे हैं। उस quality की आवाज़ आप लेना पसंद करोगे। Yes or no? Right.
+
+[22:13] Hello, this is a sample of my voice.
+
+[22:16] Right. So these are different voices available here. You can search as well.
+
+[22:20] You can select on language. आप language में जा के भी अलग अपने like Hindi अगर लेना
+
+[22:24] है तो आपको Hindi की list मिल जाएगी यहाँ पर। आप English में जाओगे तो English की मिल
+
+[22:27] जाएगी। Gender आपको कैसा चाहिए, आपको accent कैसा चाहिए, आपको American, British,
+
+[22:31] Indian, Australian, Scottish, Asian.
+
+[22:32] There are so many things available that you can select based on the client's
+
+[22:36] requirement. Right. So this जो हमारा अभी recently selected था which
+
+[22:42] is
+
+[22:44] recommended, which is Riya maybe. Right.
+
+[22:50] Okay. Let's choose another one.
+
+[22:56] One second.
+
+[23:00] Play.
+
+[23:07] नमस्ते, ज़रा सुनिए मेरी आवाज़ कैसी-
+
+[23:09] That's it. यह हमारा selected था। इसको मैं वापस click करके done कर रहा हूँ। The next
+
+[23:14] is-- now see very carefully. यह जो चीजें हैं ना, सारी यह चीजें important है जो आपकी
+
+[23:18] professionalism को बताएगी। Next is कि इस agent का जो brain है,
+
+[23:24] जैसे मैंने कहा in entire AI, brain क्या है हम सबका?
+
+[23:29] Artificial intelligence का brain है LLMs.
+
+[23:33] So इसका brain आपको सही select करना आना चाहिए। This is one of the most important
+
+[23:38] thing. You can see here by default it selected GPT 4.1 mini which is ChatGPT
+
+[23:44] small. OpenAI का brand है। आप देखोगे यहाँ पर GPT है ऊपर brand है OpenAI.
+
+[23:49] You can select the Google. Google के अंदर आप Gemini 3.6 यह भी ले सकते हो। आप
+
+[23:55] OpenAI के अंदर ले सकते हो। आप Mistral यह भी एक one of the company है Azure जो
+
+[23:59] company है उसका भी ले सकते हो Microsoft.
+
+[24:02] So अभी as of now जो था मुझे लगता है कि जो हमारा by default selected which was good
+
+[24:07] क्योंकि उसकी जो understanding थी, बात करने का जो style था, वो सही लग रहा था मुझे,
+
+[24:11] natural था। तो यहाँ से मैं इसको GPT 4.1 mini ही रख रहा हूँ as of now. Right.
+
+[24:16] Second thing you can-- what is the temperature mean?
+
+[24:20] यहाँ पर temperature का मतलब क्या है?
+
+[24:21] Temperature का मतलब यह है कि मान लो
+
+[24:25] कि
+
+[24:27] अगर मुझे
+
+[24:30] कोई ऐसी business के लिए agent बनाना है जो एकदम ही strict behave करे।
+
+[24:36] Strict in the sense कि अगर उसको कुछ भी question पूछा जाए तो वो हर चीज को
+
+[24:41] लेकर जो उसको training मिली है उसी के ऊपर वो answer करे। Are you
+
+[24:47] getting the point?
+
+[24:49] Temperature को भी दूसरे terms में define कर सकता हूँ। Temperature को आप इस तरह से
+
+[24:53] भी दिखा सकते हो जितना आपका कम current temperature होगा, उतना आपका
+
+[24:58] creativity.
+
+[25:01] Creativity को हम इस से मापेंगे कि उतना वो समझ लो कि आप
+
+[25:10] कम
+
+[25:12] strict रहेगा। Right. जितना ज़्यादा होगा-- sorry, जितना ज़्यादा होगा, उतना ज़्यादा
+
+[25:17] creative होगा, जितना कम होगा, उतना वो to the point बात करेगा। Clear, guys? Right.
+
+[25:22] So temperature always आप इस चीज को balance रख सकते हो आपके हिसाब से। आप दो-तीन बार
+
+[25:27] test करोगे, आपको समझ में आ जाएगी क्या उसका behavior change हो रहा है, बात करने का
+
+[25:30] style ऐसे change हो रहा है। कुछ भी दो-चार अलग-अलग question पूछ ले, क्योंकि लोग कुछ
+
+[25:34] भी question पूछ सकते हैं ना लोगों को अगर ऐसा call आएगा। आप लोगों को भी कई बार ऐसे
+
+[25:37] calls आते होंगे कई companies से, agents से। तो आप as a human हमारे सबके साथ यह होता
+
+[25:42] है कि हम generally कुछ भी questions पूछते हैं, क्योंकि नई चीज है सबके लिए। Right.
+
+[25:46] So it happens with us. Right. तो temperature आप balance out भी कर सकते हो। तो मैं
+
+[25:50] अभी इस चीज को as it is रख रहा हूँ। Next is transcription.
+
+[25:54] Transcriptions obviously आपकी transcript कैसी होनी चाहिए?
+
+[25:58] Hindi, English दो language यहाँ पर selected है by default. Like silence timeout.
+
+[26:01] What is silence timeout?
+
+[26:04] अगर आपको agent ने कोई question पूछा तो as a human हम direct answer तो नहीं देते
+
+[26:08] Robert की तरह। हम कुछ सोचते हैं, कुछ space लेते हैं, फिर answer करते हैं। तो वो
+
+[26:14] space के लिए वो कितना wait करना चाहिए। यहाँ पर आप देख लो microseconds, milliseconds
+
+[26:19] में यहाँ पर 200 milliseconds तक है, 1500 milliseconds तक है। तो यहाँ पर आप select
+
+[26:23] कर सकते हो slide करके कि कितने milliseconds तक वो wait करे। As in general कितना
+
+[26:28] रखना चाहिए। Right. So you can select like 600 milliseconds, that is okay.
+
+[26:34] So
+
+[26:35] as of now मैं इसको save कर रहा हूँ। So these are the persistent details जो यहाँ पर
+
+[26:40] देख सकते हो। नीचे आप देखोगे और चीजें आपको clear होगी। क्योंकि हमने जो AI agent भी
+
+[26:45] बनाया है, calling agent, यह हमने AI से ही बनाया है, हमने manually नहीं बनाया है।
+
+[26:49] Right. But the point is कि यहाँ पर आप देख सकते हो welcome message.
+
+[26:54] जैसे हमने कल भी देखा था। यह relate कर पाओगे कल की class से आप।
+
+[26:59] Welcome message. Welcome message मतलब कि पहला call start होने पर वो क्या बोलेगा।
+
+[27:06] जैसे आपने सुना कि इसने क्या बोला था मेरे call पर। "Thank you for calling Yoha
+
+[27:09] Developer. How can I assist you with the property inquiry appointment today?" So
+
+[27:14] इसको हम इस तरह से भी लिख सकते हैं। Right. "Hi.
+
+[27:17] Hello, I am calling from"
+
+[27:25] You would have developers.
+
+[27:28] My name is, sorry.
+
+[27:35] I am
+
+[27:37] Rhea.
+
+[27:39] How can I assist you with the property buy and appointment today?
+
+[27:43] अब यहां पर ऊपर दो toggles भी देख सकते हो। Dynamic मतलब कि enable dynamic welcome
+
+[27:47] message will get changed based on context and dynamic variables।
+
+[27:53] अगर आपको यही same line से शुरू करना है तो आप उसे offer करोगे। अगर थोड़ा सा variable
+
+[27:58] आप add कर सकते हो तो आप इसको on रखोगे। Interpretable
+
+[28:04] मतलब कि आप समझो कि अगर agent यह line बोल रहा है
+
+[28:08] तो उसके बीच में ही अगर सामने वाला Hello बोल रहा है तो
+
+[28:12] उसकी line वो--
+
+[28:16] Hello सुनकर वो आधी line ही नहीं बोले। या अगर वो Hello बोल भी रहा है तब भी ये line
+
+[28:22] पूरी at least वो कर ले, तभी आगे का conversation start होगा। तो ये अगर आपका on होगा
+
+[28:27] तो बीच में वो रुक जाएगा। अगर सामने वाले ने कुछ भी interrupt किया बोलते-बोलते उसको,
+
+[28:32] या अगर आपका ये off है तो वो पूरी line complete करेगा और फिर आपका आगे का
+
+[28:37] conversation start होगा। फिर वो normal होगा। नीचे आप देखोगे these are the different
+
+[28:44] you can say skills या उसकी detail कि उसको करना क्या है, उसका identity क्या है,
+
+[28:50] उसको facts के बारे में पता होना चाहिए। Knowledge हमको दे। यहां पर देखोगे different
+
+[28:54] flows हैं। First of all, identity purpose.
+
+[28:56] ये सारी जो चीजें आप देख रहे हो ना लिखी हुई, ये सारी AI ने अपने intelligence को use
+
+[29:00] करके लिखी हुई है। But ये obviously accurate नहीं होगी क्योंकि हमने जो starting में
+
+[29:06] prompt दिया था, वो एक line का prompt था कि मुझे इस तरह का agent बनाना है। फिर हमने
+
+[29:10] उसको enhance किया। हमने कुछ भी detail नहीं दी है। तो उसके basis पर ये जो detail
+
+[29:15] यहां पर आई है, हमें इस चीज को accurate करना चाहिए based on the business
+
+[29:21] requirements. Business के पास क्या चीजें हैं। accurate कैसे करो?
+
+[29:27] If you can communicate with the agent in English, जैसे मैंने कल भी कहा, then
+
+[29:33] you
+
+[29:35] can increase the accuracy of the agent easily.
+
+[29:39] But इसका जो core process है वो यह है कि कुछ भी लिख लो, उसमें
+
+[29:44] clarity और intent clear होना बहुत जरूरी है।
+
+[29:51] Are you getting the point? जितना complex लिखोगे, उतना वो
+
+[29:56] unrealistic perform करेगा। जितना clear, easy लिखोगे, उतना better वो perform करेगा।
+
+[30:03] Clear? जैसे मुझे यहां पर अगर लिखना है कि एक चीज यहां पर लिखूं कि if user
+
+[30:10] talks in Hindi
+
+[30:14] then
+
+[30:16] start
+
+[30:19] talking in Hindi.
+
+[30:22] If user talks in English then start
+
+[30:29] talking in English. Similarly. So this is one of the example.
+
+[30:34] अब इस चीज के अंदर मुझे कोई सीखने की जरूरत है क्या?
+
+[30:37] This is a common sense, common knowledge। But मैंने जो एक example दिया, वो इसलिए
+
+[30:42] दिया कि मैंने इसको बड़े clear instructions दिए कि अगर यह हो रहा है तो यह करना है,
+
+[30:46] यह हो रहा है तो यह करना है। यह आपका काम है, यह आपकी identity है। तो वो मैंने पूरा
+
+[30:51] उसको detail में लिखकर दिया है। नीचे आप देखोगे facts.
+
+[30:57] ये सारी जो चीजें आप देख रहे हो facts हो गई, actions and limits हो गई। अब actions
+
+[31:01] and limits में आप देखोगे तो क्या लिखा हुआ है कि आप क्या कर सकते हो, can do, cannot
+
+[31:05] do. Getting the things? अब यहां पर पढ़िए। यहां पर कुछ चीज अगर गड़बड़ होगी तो वो चीज
+
+[31:11] की capability हमने उसको दे रखी है फिर भी वो, वो चीज नहीं करेगा। क्योंकि यहां आपने
+
+[31:17] instructions दे रखे हैं। You can see.
+
+[31:19] अब ये AI के by default इसको आप refine करोगे। जैसे can do मतलब क्या कि answer
+
+[31:23] general queries, general property questions, provide available appointment slots,
+
+[31:27] book appointments, confirm bookings, collect caller details.
+
+[31:30] तो ये सारी चीजें हम चाहते हैं उससे कराना। तो ये सही है। Cannot do में क्या लिखा हुआ
+
+[31:34] है, यहां देख सकते हैं - quote prices, confirm property availability or answer
+
+[31:38] project specific technical, legal questions, instead collect details and offer a
+
+[31:42] callback for a sales advisor. This is proper as per the business.
+
+[31:46] अगर real estate के बारे में सोचोगे तो ये सही है कि ये चीजें उसको नहीं करनी चाहिए कि
+
+[31:50] direct वो price बता दे या सारी चीजें करे। पहले appointment book करे तभी तो sales
+
+[31:53] close होगी। क्योंकि property पर फोटो चीज तो नहीं है। Never promise a slot outside
+
+[31:59] stated hours or confirm booking without caller details.
+
+[32:02] So this is also one of the note कि ये चीजें
+
+[32:07] कभी promise मत करो। जब slot outside working hours है, उसके बाहर के slot अगर book
+
+[32:12] करना चाह रहे हो तो मत करो। और अगर booking ले रहे हो तो caller details लेनी जरूरी है
+
+[32:16] तभी आपकी booking करनी है। तो इसने instructions सही दिए।
+
+[32:20] Flow appointment booking के अंदर देखिए कि flow appointment booking के लिए क्या है।
+
+[32:22] Flow क्या दिया इसने? When caller wants to book an appointment, book a property
+
+[32:26] viewing and consultation appointment.
+
+[32:28] So ask which property or project they are interested in.
+
+[32:31] Obviously, वो clear details हमारे पास होनी चाहिए। Offer available time slot.
+
+[32:35] उसको time slot दो। Confirm the details.
+
+[32:37] अब यहां पर देखो by default ये time slot है। But in your case, जब आप calendar
+
+[32:42] cal.com पर बनाओगे, जैसे कल भी हमने बनाया था
+
+[32:45] वो calendar में आप अपना time zone and date जो रखोगे वही यहां पर आप change कर लेना।
+
+[32:50] अब यहां पर 10:06 बजे तक लिखा हुआ है। 10:00 AM to 6:00 PM.
+
+[32:55] But in your case, client to client सबका time zone अलग होता है ना।
+
+[33:01] तो अगर banking sector के लिए agent बन रहा है तो banking sector का time zone अलग
+
+[33:05] होगा। तो ये जो लिखी हुई चीज है ना, इसी चीज को refine करना है in easy language in
+
+[33:11] English
+
+[33:13] based on the actual data. Is it clear, everyone?
+
+[33:17] I am not gonna do this step by step everything but क्योंकि ये चीजें ना तो इसको
+
+[33:22] coding के जरिए होगा, ना तो इसमें technical skills की जरूरत है। बस सिर्फ एक proper
+
+[33:26] sense of humor की। Are you getting my point?
+
+[33:30] Just show me a response in the
+
+[33:33] reactions. Is it clear till now?
+
+[33:36] It's super easy if you focus.
+
+[33:40] Now,
+
+[33:43] इस चीज के अंदर अगर कोई ऐसी चीज है जो आपको नहीं चाहिए जैसे scope and redirects.
+
+[33:48] अगर ये चीज में हम देखें तो अगर इस चीज को मैं नहीं भी रखूं जैसे इसमें क्या लिखा
+
+[33:53] outer scope like finance and-- ठीक है। तो obviously
+
+[33:58] ये रहने दे। अगर कोई चीज नहीं चाहिए you can simply delete it by here.
+
+[34:02] Click on the delete button, वो delete हो जाएगा तो वो knowledge से हट जाएगी। FAQs आप
+
+[34:07] यहां पर डाल सकते हो कि अगर ये question है तो इसका answer ये है, इस question का इसका
+
+[34:10] answer है। ऐसा 50, 60 या 100 FAQs डाल दो जो generally पूछे जाते हैं उस business को
+
+[34:15] लेकर। वो knowledge उसके पास आ गया। Okay, sorry.
+
+[34:22] So I hope यहां तक ये picture हमारा clear हो रहा है। The next is call configuration.
+
+[34:29] Call configuration में बहुत सी चीजें हैं but at present इसकी हमें ऊपर ही जरूरत नहीं
+
+[34:33] पड़ेगी। Call configuration मतलब call को लेकर और क्या-क्या उसमें changes कर सकते हो।
+
+[34:38] Like silence handling. The first is silence handling कि what happens when a caller
+
+[34:43] goes quiet or stops responding. Situation wise सोचो practically। कभी
+
+[34:49] किसी का call आता है। अब इंसान call करेगा तो obvious बात है वो तो समझ जाएगी कि सामने
+
+[34:54] वाला response नहीं कर रहा, वो call रख देगा। But AI agent को हमें बताना पड़ेगा कि जो
+
+[34:57] सामने वाला call पर कुछ भी नहीं बोल रहा है, just call उठा के रख दिया उसने। So what
+
+[35:03] you have to do? तो यहां पर by default है कि first idle message।
+
+[35:09] क्या होगा यहां पर? ये static है dynamic?
+
+[35:11] अगर आपका static रहेगा तो ये आपको लिखना है। यहां पर dynamic रहेगा तो obviously वो
+
+[35:16] agent उस तरह से दिमाग लगाएगा।
+
+[35:19] Second, end call rules. अब end calls क्या होना चाहिए?
+
+[35:22] like मान लो end call का rule क्या होना चाहिए?
+
+[35:26] End call condition होना चाहिए। When user says goodbye, thank you, indicates that
+
+[35:31] they are done with the conversation.
+
+[35:33] Obviously, अगर वो indicate कर रहा है कि मेरा conversation done हो गया है तो मेरा
+
+[35:36] end call हो गया है तो वो call end होना भी जरूरी है। इसका reason मैं देता हूं। ये
+
+[35:42] सारी चीजें क्यों हो रही है? क्योंकि जब भी आप AI voice agent या AI calling
+
+[35:48] agent बना रहे हो तो voice agent में तो चलो जो conversation हो रहा है उसके basis पर
+
+[35:53] charges हैं, लेकिन calling agent पर भी per minute का एक cost लगता है in AI
+
+[36:00] all over the world, कोई भी platform use करो। क्योंकि जब वो call कर रहा है, वो आपका
+
+[36:06] एक type का employee ही है। इस तरह से आप उसको सोचो। Are you getting my point?
+
+[36:11] So जितना better उसको आप बनाओगे, यहां से आप देखो काफी चीजें हैं जो आपको मैं अगर--
+
+[36:18] if I sit in your space तो यहां मुझे सिर्फ basic sense
+
+[36:24] of humor पता होना चाहिए कि हाँ, ये condition क्या है, ये condition क्या है, ये
+
+[36:29] condition क्या है। So I can change based on the client's requirement, based on
+
+[36:35] our business requirement
+
+[36:38] Is it clear now?
+
+[36:40] Right. Now, transfer and routing, इसका use तब किया जाता है जब,
+
+[36:46] for example, agent ने call किया।
+
+[36:50] अब कोई सामने वाला बोलता है कि I want to talk to your senior या I want to talk to
+
+[36:55] your
+
+[36:57] manager, for example.
+
+[37:00] उस particular scenario में वह automatically call transfer हो सकता है, उस particular
+
+[37:05] number पर जो number आप यहां पर देते हो। So you can see now,
+
+[37:13] the enable call transfer यहां पर disable है तो इसको जब मैं enable करूंगा, यहां पर
+
+[37:16] आप देखोगे static या dynamic-- static number रहता है, इसलिए यहां पर जो number पर
+
+[37:22] transfer करवाना है call, वह number आप यहां पर डालोगे। Transfer की condition क्या
+
+[37:26] होगी? कि transfer when user want to talk with human or manager, right?
+
+[37:32] Or senior, whatever. Right. तो यहां पर आप इस तरह से
+
+[37:37] transfer
+
+[37:40] की conditions डाल सकते हो। message क्या हो सकता है कि I am transferring your call
+
+[37:44] to our team. Please hold I connect you.
+
+[37:47] इस को आप अपने हिसाब से change कर सकते हो, I am transferring your call to our
+
+[37:52] manager or my senior whatever. So you can transfer-- you message अपने हिसाब से
+
+[37:57] change कर सकते हो। And you have to enter the number here, right.
+
+[38:01] So this is one, right. Second, आप इसको और add on कर सकते हैं। Add button पर click
+
+[38:05] करके और भी number add कर सकते हो। दूसरा number, तीसरा number, right.
+
+[38:09] ऐसे multiple numbers आप यहां पर add कर सकते हैं। कि अगर मान लो manager से बात करनी
+
+[38:13] है तो उसका number यह हो गया।
+
+[38:16] Support team से बात करनी है, यह number हो गया। Sales team से बात करनी है, उसका
+
+[38:18] number यह हो गया। Senior से बात करनी है तो उसका number यह हो गया। So similarly, you
+
+[38:23] can add the multiple numbers for the company। Yeah.
+
+[38:30] Now, नीचे आप देखोगे one of the most interesting thing जो सुनके आपको लगेगा कि भाई
+
+[38:35] किस level पर दुनिया पहुंच गई है। So you can understand now, ambient sound.
+
+[38:41] Ambient sound वह चीज है,
+
+[38:44] जब भी agent call करेगा,
+
+[38:48] आपको जब भी कभी real इंसान call करता है तो कैसा feel होता है, जब भी वह किसी office
+
+[38:52] space में होता है या कहीं वह बैठा हुआ होता है तो background voice भी आती है आपको,
+
+[38:56] right? Most of the cases में। You feel it like कि वह कहीं office space में या कहीं
+
+[39:01] बैठा हुआ है। तो यह background audience, background voice जो एक ambience
+
+[39:07] create करने के लिए, यह एक option है यहां पर। आप देखोगे by default off है, but जब भी
+
+[39:11] इसको मैं enable करूंगा, you can see now कौन सा background चाहिए आपको। मैं कुछ play
+
+[39:15] करके दिखाता हूं आपको। Call center background चाहिए, serious.
+
+[39:28] In here. I hope थोड़ी आवाज़ कम है but थोड़ी आवाज़ आ रही है आपको। ठीक है।
+
+[39:34] Traffic outdoor.
+
+[39:40] Right. Restaurant.
+
+[39:45] Getting the point?
+
+[39:48] तो you, your client, your leads will feel it कि it's super real, super naturally
+
+[39:53] agent.
+
+[39:56] कई बार उनको पता भी नहीं चल सकता है। Right. Office ambience.
+
+[40:02] So this is one of the examples जो आप ऐसे रख सकते हो। Volume आप increase कर सकते हो
+
+[40:06] यहां से, जैसे मैंने यहां पर देखा।
+
+[40:10] You can increase the volume
+
+[40:13] of the background. कितना कम होना चाहिए, कितना ज्यादा होना चाहिए, depend किया होता
+
+[40:17] है actual business कैसा है। अगर आपका actual business वैसा है कि जहां पर always आवाज़
+
+[40:23] आती है और आपके clients और आपके users को भी पता है कि आप
+
+[40:29] जहां काम करते हो, आपका office है, वहां पर आवाज़ बहुत है, तो उस तरह का background आप
+
+[40:33] choose कर सकते हो। अगर आपके users को पता है कि आपका एक proper office setup में आपका
+
+[40:37] work है तो office background आप डालोगे। It's based on the situation.
+
+[40:42] So this is the background audience.
+
+[40:44] Ambience, we also have the option under initial ringing sound.
+
+[40:50] This is also one of the most useful thing like phone's ringtone plays until the
+
+[40:54] agent says his first word.
+
+[40:57] So this is also useful mostly जब call inbound हो। inbound
+
+[41:03] मतलब कि company में call आ रहा है। outbound मतलब कि company call कर रही है।
+
+[41:08] Clear? All right, guys. So now the next is knowledge base.
+
+[41:13] Knowledge base is basically the thing जहां पर-- It's nothing like that.
+
+[41:17] Knowledge base is like कि यहां पर आप अपना any document डालोगे। उस company का जितना
+
+[41:22] data knowledge है, वह एक PDF में आप यहां डाल सकते हो, उसकी website URL डाल यहां पर
+
+[41:25] सकते हो और FAQ के sections भी आप यहां पर डाल सकते हो। मान लो कि एक पूरा 500
+
+[41:32] FAQs का section बना दिया, ChatGPT से पूरा knowledge दिया और उससे 500 FAQs के
+
+[41:37] sections लिए उस business को लेकर और वह आपने यहां पर add कर दिया। PDF बना के डाल दो
+
+[41:42] या आपने FAQs डाल दिए। So उस particular agent के पास end-to-end उस company का पूरा
+
+[41:47] knowledge आ गया। Clear, guys?
+
+[41:53] मैं अगर कुछ चीज यहां पर कर रहा हूं, आप देखोगे थोड़ा सा screen focus करके, अगर मैं
+
+[41:57] बोलूंगा भी नहीं तब भी आपको वो चीज समझ में आने वाली है। इतना easy है।
+
+[42:04] Right. But थोड़ा सा आपको brain storming तो करनी है। Strategically सोचना है,
+
+[42:10] that is the core point. Integration.
+
+[42:13] Now understand, integration मतलब कि बाहर के जो tools है, जैसे हमने कल cal.com
+
+[42:18] connect करके देखा। Same way we will connect the cal.com here as well.
+
+[42:23] Calendly, custom, Google Sheets, Salesforce.
+
+[42:25] Salesforce और CRM most of the companies use करती हैं। Slack, Hubspot, यह सारी जो
+
+[42:31] integrations यहां पर दे रखी है, you have to integrate.
+
+[42:33] जैसे मैंने कल बताया, same process होगा। Connect पर click करोगे। आपको अपना
+
+[42:38] integration नाम डालना है, API key डालनी है जो cal.com से निकल रही थी same.
+
+[42:43] Event type, event की ID हमने डालनी है। Event ID हमें कहाँ से मिलेगी?
+
+[42:47] जो मैंने कल डाली है, same process होगी और यहां पर time zone select करोगे, जो actual
+
+[42:53] time zone है आप लोगों का, जहां से आप यह agent बना रहे हो, जहां पर आपकी company है।
+
+[42:58] जहां पर आपका cal.com भी same time zone है। So that you have to enter, that's it.
+
+[43:02] You click on save, जैसे आप save पर click करोगे, एक option आ जाएगा ऊपर, वहां आपको
+
+[43:06] select करना होगा। The same process.
+
+[43:08] I'm not going to repeating the same process, but the process will be same. Right.
+
+[43:13] What is next is post call action. Post call action मतलब कि call खत्म होने के बाद
+
+[43:19] आपको क्या actions लेनी है। जैसे यहां पर by default selected है, which is good, कि
+
+[43:24] call summary मुझे मिलनी चाहिए, sentiment analysis मुझे मिलना चाहिए, full
+
+[43:28] conversation के transcript मेरे पास होने चाहिए कि पूरी क्या बात हुई। अगर हजार लोगों
+
+[43:32] से बात हुई तो क्या-क्या बात हुई, मुझे कभी देखना हो तो मैं देख सकूं। Like extracted
+
+[43:37] information भी मुझे चाहिए, कि मान लो key data points extracted from the
+
+[43:40] conversation. कि पूरे conversation को सुनना नहीं है मुझे। मान लो पाँच-दस मिनट का
+
+[43:43] conversation है, तो पूरा नहीं सुनना है मुझे। उसके highlight point मुझे समझ लेना है
+
+[43:47] ताकि मेरा time बचे। तो यह सारे topics selected are by default, which is good to go।
+
+[43:52] And यहां पर आप detail में और चीजें change कर सकते हो और variables आप add भी कर सकते
+
+[43:56] हो कि कुछ और post call की चीज आपको record करनी है, तो you get to record
+
+[44:02] it.
+
+[44:03] The next is recent calls. जो भी call हमने ली है,
+
+[44:09] जब भी agent call करता है, उसकी data आपको recent calls में मिलती है। When you click
+
+[44:14] on this, अभी यह recent वाला है। अभी इस चीज के अंदर जब भी आप देखोगे, अभी मैं इसको--
+
+[44:20] You can hear now. जो मेरे को अभी just call आया था, उसी का data है यह। Right.
+
+[44:26] So I'm just playing it for you.
+
+[44:31] Thank you for calling Lodha Developers.
+
+[44:33] How can I assist you with your property inquiry or appointment today?
+
+[44:45] Yeah, hello, my name is Deepak.
+
+[44:48] Hi, Deepak. Nice to meet you. What can I help you with today regarding Lodha
+
+[44:52] properties?
+
+[44:54] I want to buy a property in Mumbai at-
+
+[44:58] Perfect. I hope कि आपने सुनी। यह same मैंने अभी जो बोला, वही पूरा call की recording
+
+[45:03] यहां पर भी आई है। Same imagine करो आपके सारे clients का data यहां पर आ रहा है। जो
+
+[45:08] यह बात कर रहा है, क्या बात कर रहा है, क्या response कर रहा है, end-to-end. Right.
+
+[45:13] Now you can see the transcript as well.
+
+[45:16] जो मैं बोल रहा था, वह भी यहां पर आ रहा है और वह जो बोल रहे हैं सामने से, वह भी यहां
+
+[45:20] पर आ रहा है। The caller is me. Right.
+
+[45:23] Hello, my name is Deepak, जो मैंने बोला, assistant को क्या बोल रहा है, फिर caller
+
+[45:27] क्या बोल रहा है, फिर assistant क्या बोल रहा है। यह पूरा जो मैंने बोला, उसने जो
+
+[45:30] बोला, वह पूरा recording यहां पर transcript बन के भी आ चुकी है। Is this powerful,
+
+[45:34] guys? Tell me a big thumbs up. Is this powerful?
+
+[45:37] और इस चीज को जब आपने देखा,
+
+[45:40] how many of you are saying in the confidence कि यह चीज आप बना सकते हो?
+
+[45:47] Right?
+
+[45:50] One most important point left for this जो मैं आपको अभी बता दूं, जो आपको समझना
+
+[45:54] पड़ेगा, क्योंकि यह चीज में आपको जो process बताई which is it's not that much hard
+
+[46:01] कि आप जब भी agent real में use करना चाहोगे तो आपको एक real number buy करना पड़ता
+
+[46:06] है। You can see the phone number section में आ गया। Real number buy करना पड़ता है।
+
+[46:11] यह Indian
+
+[46:13] TRAI regulations के according हमें करना ही पड़ता है। safety को लेकर कुछ गलत चीजें न
+
+[46:18] हो इसके लेकर। तो यहां पर आप देखोगे buy a phone number, यहां पर buy number पर जैसे
+
+[46:22] आप click करते हो, यहां पर आपके पास browse number का option आ गया। यहां पर आपके पास
+
+[46:26] India selected by default, आपके पास carrier है और यहां पर आपके पास number है। जो
+
+[46:30] आपको पसंद है उसके हिसाब से आप select जब करते हो पर select करने से पहले यह आपकी क्या
+
+[46:35] details मांगेगा? यह KYC आपसे करवाएगा। KYC में आपका PAN card, आपका Aadhar card और
+
+[46:40] कुछ details ही आपसे मांगेगा। आपकी KYC होने के बाद ही आप number purchase कर सकते हो।
+
+[46:45] It's just five minute process, it's not that much technical.
+
+[46:48] Just click on the number, reserve and start KYC.
+
+[46:51] देखो आप यहां पर आ गए। Individuals या आपका business है, आपका details आप यहां पर
+
+[46:54] डालिए। जैसे आप डालोगे आगे PAN number मांगेगा, जैसे आप डालोगे आगे Aadhar card number
+
+[46:58] मांगेगा that's it.
+
+[47:00] आप submit करो, आपकी KYC complete हो जाएगी and you can have your own AI agent
+
+[47:05] number.
+
+[47:08] I hope this makes sense.
+
+[47:12] So alright guys, it's 8:08 p.m. now and
+
+[47:19] how many of you are confident कि यह चीज आप करके दिखाओगे?
+
+[47:27] Thank you.
+
+[47:28] Great energy. Thank you so much guys.
+
+[47:31] So now it's a high time
+
+[47:33] for the first part of AI Software Academy. How many of you are excited?
+
+[47:38] And I would like to invite with high enthusiasm
+
+[47:44] Mr. Dush Singh from Canada to conduct the AI Software Academy part one.
+
+[47:49] And hello Dush, are you there?
+
+[47:51] Hi, Deepak.
+
+[47:53] Can you hear me?
+
+[47:55] Yes, I can hear you.
+
+[47:57] Okay, perfect.
+
+[47:59] Right. Thank you.
+
+[48:02] Thank you, Deepak. Thanks for that awesome session.
+
+[48:06] We wanted to cover this yesterday but कल time नहीं मिला तो Deepak is covering that
+
+[48:10] today. So good to see you guys once again.
+
+[48:15] मैं आज जो cover करने वाला हूँ उसका topic
+
+[48:19] इतना important topic है when it comes to building solutions कि
+
+[48:25] मैं
+
+[48:27] words में, उसके emphasis में बता नहीं सकता कि कितना important topic है जो मैं आज
+
+[48:32] cover करने वाला हूँ। Fundamental foundational topic है। So just
+
+[48:38] दो मिनट मैं पहले summarize कर लूं कि क्यों मैं यह बात कर रहा हूँ। So Gautam is
+
+[48:42] great when it comes to masses and
+
+[48:47] when it comes to B2C market. मेरा main experience है B2B market में। B2B market
+
+[48:51] means your business to business के जो मैंने solutions बनाए वो सारे business to
+
+[48:56] business solutions बनाए हैं। तो उसमें होता क्या है कि
+
+[49:01] when you are building a solution, कोई भी आप solution जो बना रहे हो ना तो उसमें बहुत
+
+[49:04] सारी चीजें ध्यान रखनी पड़ती हैं। और एक ऐसी चीज जो आज मैं cover करने वाला हूँ,
+
+[49:10] वो एक ऐसी चीज है कि कोई भी जब आप solution design करते हो, कि आपको
+
+[49:18] let's say कोई भी platform बनाना है। हमारा जो LMS आप use कर रहे हो ना, वो भी हमने
+
+[49:24] खुद ही बनाया था। तो कहीं बाहर से नहीं वो खरीदा। तो उसका जैसे for example भी उसमें
+
+[49:29] क्या है कि उसमें बहुत सारे features हैं। हम उसमें live lessons की link
+
+[49:35] डालते हैं। आपको its email आती है, live lesson है, उसका link आता है। Then हम जब live
+
+[49:39] lesson हो जाता है, उसका recording हम डालते हैं वहां पर। ये सारे अलग-अलग features
+
+[49:43] हैं उसके। जब आप recording देख लेते हो then you can go on to the next recording and
+
+[49:48] next recording. आप course complete कर सकते हो, program complete कर सकते हो। तो ऐसे
+
+[49:53] जितने ये सारे features हैं ना इनको बनाने के लिए
+
+[49:57] सिर्फ जो एक thought process लगता है कि क्या thought होना चाहिए, क्या दिमाग में चीज
+
+[50:01] होनी चाहिए कि make sure करो आपके चीजें खराब न हो जाए जब आप बना रहे हो, जब आप उसको
+
+[50:06] grow कर रहे हो, जब और features उसमें add कर रहे हो तो चीजें खराब ना हो। एक तो चीज
+
+[50:10] होती है वो, एक तो चीज होगी features बनाने वाली।
+
+[50:14] दूसरी चीज यह होती है
+
+[50:17] जब आप कोई solution बनाते हो तो वो solution
+
+[50:22] 10 लोगों के लिए जब आप solution बनाते हो तो
+
+[50:26] solution बनाने का जो उसका background होता है, वो different होता है अगर वो same
+
+[50:32] solution आप 10 लाख लोग चाहते हो use करें। 10 लोग use करेंगे उस solution को, वो चल
+
+[50:37] जाएगा। 1000 लोग भी use करना चाहेंगे ना, तो solution breakdown होना शुरू हो जाएगा
+
+[50:41] because आपने उसको उतना powerful नहीं बनाया था कि 1000 users एक time पर आके उसको use
+
+[50:46] कर सकें।
+
+[50:48] दूसरी चीज हो गई थी। तीसरी चीज होगी risk which is कि आपने solution तो बना लिया,
+
+[50:52] लेकिन अगर मैं आपके solution में बहुत easily hack करके देख सकता हूँ अंदर आप ने क्या
+
+[50:57] किया, क्या नहीं किया, तो मैं आपका solution destroy भी कर सकता हूँ। तो solution
+
+[51:01] बनाना is not the only thing. Solution बनाकर उसको scale कैसे कर सकते हो,
+
+[51:07] आप उसको protect कैसे कर सकते हो hacker से कि आपका solution
+
+[51:13] hack न कर पाए। ये सारी चीजें जब आप बनाना शुरू करते हो ना तब
+
+[51:19] जो एक foundational, एक fundamental thing जो आपको ध्यान में रखनी होती है कुछ भी करने
+
+[51:24] से पहले, मैं वो cover करने वाला हूँ आज। और यही चीज हम use करते हैं जब भी
+
+[51:30] हमने कोई भी platform बनाया जिसमें millions of dollars की revenues आई हैं। This is
+
+[51:34] the fundamental thing that we always use basically। इसको
+
+[51:40] बोलते हैं decision trees। Now, what is decision-- मैं आपको screenshot करके
+
+[51:47] पूरा वो दिखाऊंगा कि decision trees क्या होते हैं। पहले मैं एक story के format में
+
+[51:52] आपको समझा देता हूँ कि क्या है, क्या नहीं। Let's say आप दिल्ली में हैं। Let's say
+
+[51:57] you are in Delhi right now
+
+[51:59] और आपको Russia जाना है।
+
+[52:03] अब Russia जाने के बहुत सारे ways हैं। आप trains ले ले के change करके जा सकते हो,
+
+[52:09] जहां भी आप पहुंचना चाहते हो train लेकर जा सकते हो।
+
+[52:15] Second is you can take a plane. Third is you can take car.
+
+[52:19] So it depends on you कि आप कौन सा method use करना चाहते हो। Let's say you decided
+
+[52:24] कि आपको car से जाना है Delhi से Russia।
+
+[52:30] अब target is fixed कि Russia जाना है लेकिन
+
+[52:37] आप जब चलना start करोगे अपनी car लेकर, there is a possibility कि
+
+[52:43] आप
+
+[52:46] जब travel करना start करो, खासकर के अगर आपने पहले कभी travel नहीं किया इतना ज्यादा
+
+[52:51] तो आपको रास्ते में पहाड़ी इलाका भी मिलेगा and you will be like अच्छा यह तो सामने
+
+[52:55] पहाड़ आ गया। So there is Himalaya between India and China and then Russia जाने से
+
+[53:01] पहले। Now उसमें एक तरीका यह हो सकता है कि आप या तो tunnel खुद बनाओ
+
+[53:08] या आप उस tunnel से जाओ जो tunnel already बनी हुई है या आप उस चीज को पूरा के पूरा,
+
+[53:13] पूरे Himalaya को avoid करके घूम के जाओ।
+
+[53:17] So ये जो decisions लेने होते हैं जब आप travel कर रहे हो, इतना पता है कि Russia जाना
+
+[53:23] है।
+
+[53:24] लेकिन जब आप travel कर रहे होते हो ना तो रास्ते में आपको decisions लेने पड़ते हैं और
+
+[53:30] वो decisions कैसे लेते हैं is what I am basically gonna teach you today when it
+
+[53:35] comes to building a software, a platform, a solution. ठीक है?
+
+[53:41] मेरे part के बाद Deepak will come back again and he will show you कि आप एक simple
+
+[53:46] apps कैसे बना सकते हो। हमने जितना automate कर सकते हैं ना चीजों को, उनको हमने
+
+[53:51] automate किया हुआ है। तो मेरे session के बाद Deepak will come back again.
+
+[53:54] He will show you a couple of solutions जैसे आप उसको easy से easy तरीके से बना सकते
+
+[53:58] हो। कल
+
+[54:01] Gautam will come and Gautam दिखाएगा आपको कि कैसे आप complex solutions भी बहुत easy
+
+[54:07] तरीके से बना सकते हो। लेकिन उसका जो fundamental, जो foundation है, वो मैं आज cover
+
+[54:11] करने वाला हूँ। ठीक है?
+
+[54:13] मैं screen share करता हूँ अपनी
+
+[54:19] और
+
+[54:21] मैं दो-तीन platforms भी खोल लेता हूँ साथ में ताकि आप देख पाओ कि मैं
+
+[54:26] किसके बारे में बात कर रहा हूँ। Okay.
+
+[54:29] So
+
+[54:33] कोई भी platform है उसका कम से कम एक login screen होती है पहले। Complex platform की
+
+[54:38] login screen होती है। आप हमारे LMS पर भी जाते हो तो वहां पर एक login screen है। आप
+
+[54:42] अपना email address और password वहां डालते हो। So हम एक login screen design करते
+
+[54:48] हैं। ठीक है?
+
+[54:51] Login screen में
+
+[54:55] let's say this is your login screen
+
+[55:00] तो login screen में एक तो आ जाएगा आपका user ID
+
+[55:11] या email
+
+[55:13] और second आपका आ जाएगा
+
+[55:19] password।
+
+[55:23] Okay? And then नीचे एक button होगा यहाँ पर which is
+
+[55:29] Sign In।
+
+[55:31] Okay?
+
+[55:36] इस में कोई doubt अभी तक जो मैं बोल रहा हूँ? Any doubt in this?
+
+[55:43] यह clear है? You know login screen में ये ही चीजें होती हैं। इतना clear है? Okay.
+
+[55:54] Let me go back.
+
+[55:58] So
+
+[56:00] अभी जब मैं Sign In पर click करूंगा तो there are two possibilities। Right?
+
+[56:08] एक possibility है
+
+[56:13] successful Sign In
+
+[56:19] और
+
+[56:21] Sign In
+
+[56:23] unsuccessful.
+
+[56:27] ठीक है? दो possibilities हैं। या तो Sign In मैं कर पाऊंगा या नहीं कर पाऊंगा जब अपना
+
+[56:31] user ID password डालूंगा।
+
+[56:33] अभी Let's say Russia वाला जो मैंने example दिया। Let's say Russia
+
+[56:43] का मतलब है successful login. यह आप करवाना चाहते हो।
+
+[56:49] This is the ideal outcome. This is what you want should happen आपकी app पर। Right?
+
+[56:55] कि जो भी user आए वो successfully login कर पाए। This is your ideal outcome.
+
+[57:01] तो एक तो scene यह है कि उसने user ID password डाला, Sign In पर click किया,
+
+[57:05] successfully sign up हो गया। Sign in हो गया which is great.
+
+[57:08] तो यह आपका-- आप Russia पहुँच गए basically। ठीक है?
+
+[57:13] अब अगर Sign In unsuccessful है, अगर इसको tackle करना है
+
+[57:19] तो क्या-क्या reasons हो सकते हैं? Let me ask you guys.
+
+[57:24] क्या-क्या reasons हो सकते हैं कि आप successfully Sign In नहीं कर पा रहे हो?
+
+[57:35] Tell me the reasons.
+
+[57:48] Let me read the reasons.
+
+[57:51] Forgot password, wrong password. Right?
+
+[57:53] Password भूल गए।
+
+[57:55] Then when it comes to
+
+[58:00] user ID is incorrect. Great! Okay. Wrong password. Okay. Not registered.
+
+[58:06] Okay, perfect. So you've covered three things that I wanted to talk about.
+
+[58:10] User does not exist, password is incorrect,
+
+[58:14] and
+
+[58:16] user ID
+
+[58:21] wrong. User ID गलत है। या तो user ID exist ही नहीं करता या गलत है या password गलत
+
+[58:26] है। Right?
+
+[58:29] So let me share my screen again.
+
+[58:34] Which is this
+
+[58:36] here.
+
+[58:38] For the sake of हमारी आज की class के लिए मैं दो situations cover
+
+[58:44] करूंगा।
+
+[58:46] हमने तीन discuss करीं, मैं दो cover करूंगा ताकि concept समझ आए।
+
+[58:50] पहला is user ID incorrect या user ID does not exist, for example,
+
+[58:58] और दूसरा is incorrect password.
+
+[59:03] ठीक है? अभी
+
+[59:06] ये दो outcomes हमारे-- ये दो reasons हो गए हमारे। ठीक है?
+
+[59:10] अब Russia जाना था, रास्ते में पहाड़ मिल गए। अब या तो tunnel बनाएंगे या हम घूम के
+
+[59:15] जाएंगे। उसका क्या situation है, उसको कैसे solve करना है is what we gonna talk about
+
+[59:19] right now. So अगर यहाँ पर stuck हो गए हो आप।
+
+[59:26] user अगर आपका stuck हो गया और आपका ideal outcome यह है कि आपको उसको successfully
+
+[59:31] login करवाना है और अगर user ID exist नहीं करता तो what are
+
+[59:37] the
+
+[59:39] things that you can do for somebody जो आपके platform पर आएगा?
+
+[59:44] अगर user ID exist नहीं करता तो आप क्या कर सकते हो उस user के लिए कि वह login कर
+
+[59:49] पाए? अगर वह user ID exist ही नहीं करता तो आप क्या कर सकते हो?
+
+[59:53] अभी login screen पर। Remember आप login screen पर हो।
+
+[59:58] Awesome, निशंत।
+
+[01:00:01] Exactly, विनय।
+
+[01:00:05] Generate new user ID, login screen, register new user. Perfect. You guys got it.
+
+[01:00:11] So I am basically teaching you how to think about this entire thing। Right?
+
+[01:00:14] So अगर user ID exist नहीं करता you can send this person to
+
+[01:00:20] signup page। Right? यहाँ पर आप उसको signup page पर लेकर जा सकते
+
+[01:00:24] हो। Send user to signup
+
+[01:00:29] page। लेकिन send करने से पहले आप directly send नहीं कर दोगे। आप
+
+[01:00:35] user को यह बताओगे-- आप basically उसको एक message दोगे यहाँ पर। Show a message
+
+[01:00:42] that tells the user
+
+[01:00:45] that user ID does not exist.
+
+[01:00:50] ठीक है?
+
+[01:00:54] And give an option to sign up
+
+[01:00:59] और जब Sign Up पर कोई click करेगा
+
+[01:01:03] then आप उसको signup page पर भेजो।
+
+[01:01:07] Before I move forward, कितना clear हो गया?
+
+[01:01:12] Is this part clear?
+
+[01:01:15] मैं इसको थोड़ा complex लेकर जाऊंगा। अभी हम सिर्फ login page ही बात कर रहे हैं।
+
+[01:01:19] Right? I will take it to the next level as well. Okay, perfect.
+
+[01:01:24] So यह एक हमारा cover हो गया कि signup page पर जाएगा। अब signup page पर जाएगा तो
+
+[01:01:29] signup page की अपनी fields होंगी वहाँ पर। Right?
+
+[01:01:32] आप उसमें शायद उसका नाम पूछोगे। Name, email address,
+
+[01:01:39] phone number अगर चाहिए तो। नहीं चाहिए तो उसको mandatory मत करो।
+
+[01:01:45] What else do you need here? Address, depending upon आप कौन से services offer कर रहे
+
+[01:01:50] हो। Signup page पर आपको उसका शायद user ID भी चाहिए हो कि आप user ID भी बनाओ अपना।
+
+[01:01:56] Then आप password उससे पूछोगे कि what is the password that you wanna keep? Right?
+
+[01:02:02] So ये
+
+[01:02:04] दो-तीन चीजें जो mandatory हैं वो तो हैं आपका email address और password। ये दो चीजें
+
+[01:02:10] तो mandatory ही हैं। और नाम। ये तीन चीजें mandatory हैं। Right?
+
+[01:02:14] This is mandatory, this is mandatory and this is mandatory.
+
+[01:02:19] So if you see हम login screen से बात करते-करते हम signup screen पर पहुँच गए
+
+[01:02:25] हैं। What we are basically doing right now--
+
+[01:02:30] अगर मैं आपको बोलूं कि आप जाकर एक software बनाओ, platform बनाओ। Let's say आपको
+
+[01:02:36] platform बनाना सिखा दिया। लेकिन अगर आप इस thought process के साथ नहीं चल रहे कि
+
+[01:02:41] आपका user कहाँ-कहाँ stuck हो सकता है और आपने उन possibilities को
+
+[01:02:46] पहले सोच के tackle नहीं किया then कहीं ना कहीं कोई ना कोई user stuck होगा
+
+[01:02:52] और आपको तब पता चलेगा जब complaints आनी शुरू होंगी।
+
+[01:02:57] तो decision trees basically आपको help करता है to find out कि
+
+[01:03:03] आपका user कहाँ-कहाँ stuck हो सकता है और उसको आपको कैसे-कैसे tackle करना है। This is
+
+[01:03:08] the first reason why decision trees are important.
+
+[01:03:13] दूसरा चीज-- and I will go back to the
+
+[01:03:16] screen again. But दूसरा reason decision trees इसलिए use होते हैं कि let's say
+
+[01:03:23] आपकी app में आपको calendar का कोई feature देना है। ठीक है?
+
+[01:03:27] You wanna give a feature for calendar on your app.
+
+[01:03:31] अब उसमें क्या है कि आप लोग आएंगे and then they can book a meeting and all of that
+
+[01:03:35] stuff.
+
+[01:03:37] You have two options. एक you can develop your own
+
+[01:03:42] calendar。 Let's say if I ask you to build an app जिसमें calendar का feature हो तो
+
+[01:03:47] एक तो option आपके पास यह है कि you can build the calendar by yourself or you
+
+[01:03:53] can use an existing calendar from outside और उसको integrate कर सकते हो अपनी app के
+
+[01:03:57] साथ। Right? अब उसमें भी decision tree काम आएगा। उसमें
+
+[01:04:03] decision tree कैसे काम आएगा? You have to understand कि आपके पास time कितना है,
+
+[01:04:09] आपके पास पैसे कितने हैं और आपको इन दो चीजों को ध्यान में रखकर यह देखना है
+
+[01:04:15] कि आपको नया calendar बनाने में पैसे ज्यादा लग रहे हैं और time ज्यादा लग रहा है या
+
+[01:04:19] एक existing calendar लेकर आकर integrate करने में time ज्यादा लग रहा है, पैसे ज्यादा
+
+[01:04:23] लग रहे हैं। और आपको product कब deliver करना है?
+
+[01:04:27] अगर आपको वह product deliver करना है एक हफ्ते में और आपको calendar बनाने में छह दिन
+
+[01:04:32] लग जाएंगे, तो आप test कब करोगे?
+
+[01:04:35] आपने जो कुछ चीज बनाई है, उसे test भी करोगे ना आप, कि वह ठीक चल रही है कि नहीं। तो
+
+[01:04:40] अगर आपको पता है कि एक हफ्ते का time period है, पैसे कम हैं, budget कम है और मेरे
+
+[01:04:46] पास time भी उतना नहीं है बनाने के लिए। You will go out and आप external calendar use
+
+[01:04:51] करना start कर दोगे for the time being. Making sense?
+
+[01:04:58] So उस case में आप decision tree कैसे use करोगे?
+
+[01:05:01] मैं जो example show कर रहा हूँ, उसके पास आऊँगा अभी। I will come back to this.
+
+[01:05:05] Let me
+
+[01:05:08] go to this example that I just talked about कि इसमें let's say calendar हमें use
+
+[01:05:12] करना है।
+
+[01:05:13] तो there are two options. Option one जो अभी हमने बात करी is
+
+[01:05:20] build
+
+[01:05:22] a calendar. Second is
+
+[01:05:27] use an existing calendar and integrate it.
+
+[01:05:32] ठीक है। अभी इसमें आप factor करोगे नीचे चीजें,
+
+[01:05:39] let's say
+
+[01:05:41] time taken.
+
+[01:05:45] इसमें आप डालोगे जैसे यहाँ for example time investment,
+
+[01:05:51] money investment,
+
+[01:05:53] delivery timelines. ये तो delivery timelines दोनों cases में same होगी। Calendar
+
+[01:05:58] let's say in
+
+[01:06:02] one week. यह आपको deliver करना है। So you look at these two things। आप देखोगे कि
+
+[01:06:07] time investment कितनी है उसमें
+
+[01:06:11] and money investment कितनी है उसमें। Right?
+
+[01:06:15] These are the two things that you see। And here आप लिखोगे
+
+[01:06:21] again time investment, money investment same चीज यहाँ पर। And जब आप इन दोनों चीजों
+
+[01:06:25] को compare करोगे,
+
+[01:06:28] you will understand कि एक हफ्ते में मुझे कौन सा feature use करना है। तो most
+
+[01:06:32] probably you will be like कि मुझे इसके साथ जाना है and then you will be able to
+
+[01:06:36] implement that। और ये सारी चीजें जब आप ऐसे
+
+[01:06:40] decision tree बनाकर करते हो-- I cannot tell you मैं
+
+[01:06:47] कैसे words में इसको emphasize करके बताऊँ कि जब आप एक complex
+
+[01:06:55] बनाने की कोशिश
+
+[01:07:05] कर रहे हो पूरा का पूरा काम किया था।
+
+[01:07:16] After some time कि आपने वो decision क्यों लिया?
+
+[01:07:22] So
+
+[01:07:25] decision क्यों लिया था और आपको वैसे क्यों continue करना है?
+
+[01:07:28] उसका एक और reason मैं बताता हूँ कि क्या है। What are the other things?
+
+[01:07:32] Why आपको decision trees use करने चाहिए?
+
+[01:07:36] तो अभी let me go back to the-- Let me share my screen again.
+
+[01:07:45] एक second.
+
+[01:07:54] So
+
+[01:07:56] एक हो गया ये। You know, it helps you to take the--
+
+[01:07:59] Then when it comes to deciding कि let's say
+
+[01:08:05] third thing I'll cover after covering this.
+
+[01:08:07] ठीक है। वो तब ज्यादा समझ आएगा। तो अभी हम sign up screen पर पहुँच गए थे। Basically,
+
+[01:08:12] after login screen से हम sign up screen पर पहुँच गए। दूसरा हमारा scene था
+
+[01:08:18] incorrect password. अब incorrect password में you will give a message to the user,
+
+[01:08:22] "Your password is incorrect।" ठीक है। अब
+
+[01:08:28] incorrect password दो reasons की वजह से हो सकता है।
+
+[01:08:36] तीन reasons हैं actually इसके।
+
+[01:08:39] या तो user mistyped the password,
+
+[01:08:49] user forgot the password
+
+[01:08:55] or
+
+[01:08:57] it is somebody else
+
+[01:09:01] trying to log in as a user.
+
+[01:09:06] ठीक है। समझ आ रही है मेरी बात? तीन reasons हो सकते हैं कि password क्यों गलत है। या
+
+[01:09:11] तो user password भूल गया है या वह type ही गलत कर रहा है या वह user ही नहीं
+
+[01:09:16] है। So इन तीन situations को tackle करने के लिए
+
+[01:09:23] आप पहले तो एक message दोगे। But you don't know इनमें से क्या situation है। तो आप इन
+
+[01:09:29] तीनों की situation में एक ही message दोगे। That message will be,
+
+[01:09:33] "Please check your password again।"
+
+[01:09:40] तो
+
+[01:09:43] इसके again
+
+[01:09:45] तीन outcomes हैं।
+
+[01:09:49] Actually, दो outcomes हैं इसके। Which first is successful login
+
+[01:09:55] or
+
+[01:09:56] unsuccessful login.
+
+[01:10:03] ठीक है। अब successful अगर हो गया then you reach your goal which is this one.
+
+[01:10:08] आप इस goal को achieve कर चुके हो which is fine, which is great.
+
+[01:10:11] You don't have to think about anything else.
+
+[01:10:12] ये आपका goal achieve हो गया। अगर unsuccessful login है then ये तीन
+
+[01:10:18] situations फिर से applicable हो गई ना। या तो user password भूल गया है या गलत डाल
+
+[01:10:23] रहा है या कोई और login कर रहा है। तो इसको tackle करने के लिए अगर तीन times से
+
+[01:10:28] ज्यादा password गलत डाला है या पांच times से password ज्यादा गलत डाला है, you can
+
+[01:10:32] block the account temporarily.
+
+[01:10:35] Right? That's what happens.
+
+[01:10:37] अब अगर आप ध्यान दो
+
+[01:10:40] पिछले 20 minutes से हम लोग सिर्फ login screen की बात कर रहे हैं।
+
+[01:10:46] हमने अभी किसी भी app का example लेकर features develop करने की बात
+
+[01:10:52] करी ही नहीं है।
+
+[01:10:55] So the reason why मैं इस पर इतना emphasize इसलिए कर रहा हूँ कि जब भी आप कोई
+
+[01:11:01] feature list पर काम करना start करते हो, उस feature list पर भी कैसे काम करना चाहिए
+
+[01:11:07] I'll cover that as well कि उस पर भी कैसे काम करना चाहिए। तो आपको इतना
+
+[01:11:13] depth में जाकर plan करना चाहिए कुछ भी start करने से पहले।
+
+[01:11:19] आप जितना time इस activity में डालोगे उतने ही challenges आपको कम पाएंगे
+
+[01:11:24] आगे आने वाले time पर। So let's go back यहाँ पर।
+
+[01:11:30] तो अगर तीन times से पांच times अगर उसने password गलत डाला तो आप
+
+[01:11:36] temporarily account उसका block कर दो। और अगर user click करता है forgot password पर।
+
+[01:11:42] Right? अगर user इस पर click करता है forgot password पर then एक और screen आ जाएगी
+
+[01:11:47] यहाँ पर। Right? जहाँ पर आप user को बोलोगे
+
+[01:11:54] your email address.
+
+[01:11:57] आप सिर्फ email address मांगोगे user से
+
+[01:12:00] और जब user पर click करेगा submit button पर यहाँ पर,
+
+[01:12:07] तो
+
+[01:12:10] एक email जाएगी।
+
+[01:12:13] Email sent to the user on their email address to reset the password.
+
+[01:12:25] अभी तक जो cover किया कोई doubt, कोई question?
+
+[01:12:37] ठीक है। So if I go back to the screen now.
+
+[01:12:42] जब मैंने बात करनी start करी थी और अगर आपके दिमाग में आया था हम login screen की तो
+
+[01:12:47] बात कर रहे हैं, क्या problem है login screen में। तो यह इतना बड़ा workflow सिर्फ
+
+[01:12:53] login screen का ही है।
+
+[01:12:55] Right? And that is the reason why you will see-- अब ultimately आप चाहते हो कि
+
+[01:13:01] successfully login हो जाए। Right?
+
+[01:13:03] अब इस case में जब उसको forgot password की email गई और उसने अपना password reset किया
+
+[01:13:08] then ultimately वह successfully login कर पाएगा user। Right? Then successful login.
+
+[01:13:15] तो इतना basically if you see
+
+[01:13:22] कि इन सब चीजों का ध्यान रखना पड़ा हमें successful login करवाने के लिए। तो इसकी वजह
+
+[01:13:28] से ही you will see कि login screen पर generally आपको दो चीजें और दिखती हैं। एक
+
+[01:13:34] तो दिखता है forget password का button
+
+[01:13:38] और एक आपको दिखता है sign up का button.
+
+[01:13:49] Okay. तो ये दो चीजें आपको दिखती हैं। ताकि जब आपकी login screen पर कोई user आए और
+
+[01:13:55] उसका user ID और password उसको नहीं पता तो वो forget password पर click
+
+[01:14:01] करके अपना password reset कर ले यहीं से directly ताकि वो sign up successfully कर
+
+[01:14:06] सके। और अगर sign up ही नहीं कर रखा है उसने then sign up पर click करें ताकि इस
+
+[01:14:11] screen पर जाए जहाँ पर sign up होता है और उसके बाद sign in कर सके। If you see
+
+[01:14:15] Facebook और Instagram की अगर मैं बात करूं।
+
+[01:14:19] Login screen ये है Facebook की - user ID, password,
+
+[01:14:23] login. यहां पर आप click करोगे तो login कर पाओगे। Forget password पर click करोगे तो
+
+[01:14:28] password आप reset कर पाओगे। Create new account is your sign up. Right.
+
+[01:14:31] Instagram की बात करें same user ID, password, login, forget password
+
+[01:14:38] and create new account.
+
+[01:14:42] तो
+
+[01:14:45] जब आप इन सब चीजों को tackle कर लिया then आपको पता है कि आपका user कहीं stuck नहीं
+
+[01:14:53] होगा। इन चीजों को समझना इसलिए जरूरी था क्योंकि
+
+[01:15:00] mostly जब हम कोई भी app बनाने की बात करते हैं, हम कोई भी solution बनाने की बात करते
+
+[01:15:06] हैं तो problem यहां आ जाती है कि हम complexity नहीं समझ पाते, उन चीजों की
+
+[01:15:11] complexity कितनी है।
+
+[01:15:14] तो इसी वजह से एक term होती है, उसको बोलते हैं MVP,
+
+[01:15:21] which is called Minimum Viable Product.
+
+[01:15:24] Minimum
+
+[01:15:26] Viable Product.
+
+[01:15:29] तो जब भी आप कोई solution बनाने की कोशिश कर रहे हो या बनाना चाहते हो या जब भी
+
+[01:15:35] हम बनाते हैं कोई solution, हम पहले focus करते हैं MVP पर। हमने जो अपना
+
+[01:15:41] पूरा का पूरा platform बनाया है,
+
+[01:15:43] you don't know how it looks like in detail.
+
+[01:15:46] We will cover that in the next one or two days क्योंकि शायद आपको पता है कि नहीं कि
+
+[01:15:51] Saturday को in-depth bootcamp है। तो उसमें बहुत सारी चीजें हम reveal करने वाले हैं
+
+[01:15:56] और बहुत सारी चीजें। तो जब हमने वो platform बनाना start किया था तो ऐसा नहीं था
+
+[01:16:02] जैसा आप देखने वाले हो। वो platform ऐसा नहीं था।
+
+[01:16:07] और LMS भी जो आप देखते हो वैसा नहीं था, जैसा हमने start किया था बनाने। तो
+
+[01:16:13] MVP का मतलब Minimum Viable Product मतलब क्या होता है?
+
+[01:16:15] आप सबके phone में bank की कोई न कोई app होगी। कोई न कोई bank की app होगी या कोई न
+
+[01:16:21] कोई UPI की app होगी। Right. मैं bank की app की अगर मैं बात करूं। चाहे आपका bank
+
+[01:16:27] HDFC है, ICICI है,
+
+[01:16:30] IDBI bank है, कोई भी bank है, आपका SBI bank है, कोई भी bank है।
+
+[01:16:36] अगर मैं आपसे पूछूं कि आप
+
+[01:16:39] banking वाली app में कौन-कौन से features use करते हो?
+
+[01:16:43] तो 90% of the people बोलोगे कि आप या तो balance check
+
+[01:16:49] करते हो
+
+[01:16:51] या balance transfer करते हो या balance transfer request करते हो
+
+[01:16:57] या statement अपनी download करते हो। ये तीन-चार features हैं जो 90% of the people
+
+[01:17:03] use करते हैं और 90% of the time यही features use करते हैं। या credit card block
+
+[01:17:07] करना हो गया, ये चार-पांच features हैं।
+
+[01:17:11] Let me know if I am correct or not. यही features use करते हो आप लोग
+
+[01:17:16] most of the time जब आप banking app में जाते हो।
+
+[01:17:21] लेकिन
+
+[01:17:23] उस banking app में कितने सारे features और हैं। आप loan apply
+
+[01:17:29] कर सकते हो, आप customer service से connect कर सकते हो, आप नई checkbook order कर
+
+[01:17:33] सकते हो। कितनी सारी चीजें और हैं। वहां पर आपको offers भी आते रहते हैं - नया credit
+
+[01:17:38] card ले लो, नया loan ले लो and all that stuff. But you don't use those options.
+
+[01:17:44] आप उन options को नहीं use करते हो। तो अगर मैं कहूं कि आपको एक successful banking
+
+[01:17:50] app बनानी है और आप मेरे पास आओ कि okay, ये चार features, पांच features तो मुझे
+
+[01:17:55] चाहिए और मुझे बाकी सारे features भी चाहिए कि लोग checkbook order कर सकें, लोग loan
+
+[01:17:59] भी apply कर सकें, लोग बाकी customer service से भी contact कर सकें। तो ये सारे अगर
+
+[01:18:04] मैं features की बात करूं, they are not as important as checking the balance,
+
+[01:18:08] downloading statement, sending the money and receiving the money.
+
+[01:18:12] ये चार चीजों के अलावा बाकी के features उतने important नहीं हैं।
+
+[01:18:18] आप पहले इन चार features पर काम करो। इनको ढंग से test करो। That is your
+
+[01:18:24] MVP, Minimum Viable Product. इन चार features के basis पर आप बोल सकते हो कि आपके पास
+
+[01:18:29] एक working banking app है। उसके बाद आप features continuously add कर सकते हो।
+
+[01:18:35] क्योंकि इन चार features को ही जब आप develop करने की बात करोगे, decision trees बनाना
+
+[01:18:39] start करोगे। अगर आपने देखा कि हमने login screen पर की बात करनी start करी और दो
+
+[01:18:44] screens और उसमें से निकल के आ गई sign up की और forward password की और ऐसा हमें पूरा
+
+[01:18:48] का पूरा बनाना पड़ा एक workflow. Imagine, ये चार features को बनाने के लिए आपको
+
+[01:18:54] कितना workflow depth में जाकर बनाना पड़ेगा। देखना पड़ेगा कि कहाँ-कहाँ लोग stuck हो
+
+[01:18:58] सकते हैं और उनकी कैसी-कैसी problems आप resolve कर सकते हो। It is going to be very
+
+[01:19:03] complicated. But
+
+[01:19:07] इन सभी complications को दूर करके हमने solutions develop किए वो हैं
+
+[01:19:13] कि आपको इन सब चीजों से tackle न करना पड़े is the reason why we built a
+
+[01:19:19] few solutions.
+
+[01:19:21] उनमें काफी सारी चीजों का हमने take care already करके रखा हुआ है। आपको जानना इसलिए
+
+[01:19:26] जरूरी होता है ये सारा कुछ ताकि जब आप देख रहे हो, बना रहे हो कुछ
+
+[01:19:33] तो आपको समझ आना चाहिए कि हो क्या रहा है। ताकि कल को अगर कोई challenge आए तो आप deep
+
+[01:19:38] dive करके solve कर सको उस चीज को।
+
+[01:19:43] और decision trees की अगर मैं बात करूं risk को लेकर तो आपको ये ध्यान में रखना
+
+[01:19:49] पड़ेगा। Like for example, हमने थोड़ा सा अभी touch किया उस चीज पर risk को लेकर कि
+
+[01:19:54] user नहीं है, लेकिन वो user के account में login करने की कोशिश कर रहा है। वो risk
+
+[01:19:58] है ना कि account hack करने की कोशिश कर रहा है बार-बार password डालकर। तो उसमें आपने
+
+[01:20:01] उसको tackle कर लिया कि तीन बार या पांच बार अगर गलत password डाला तो account
+
+[01:20:06] temporarily block हो जाए। वैसे ही आपको बाकी की सारी चीजें हैं कि और किस-किस तरीके
+
+[01:20:12] से आपका जो app है वो access किया जा सकता है, आप कैसे-कैसे उसको tackle कर सकते हो।
+
+[01:20:16] Right. So you have to come up with all of that list और आपको उसको tackle करना
+
+[01:20:20] पड़ेगा। देखना पड़ेगा कि कैसे आप उसको protect करो। उस case में भी decision trees
+
+[01:20:26] will help you.
+
+[01:20:29] So the point is
+
+[01:20:32] कि
+
+[01:20:34] जब भी आप
+
+[01:20:37] किसी भी app और project आप लेना चाहते हो, आप कभी भी starting में price
+
+[01:20:43] quote मत करो। आप पहले depth में जाकर discussion करके, understand करके कि क्या-क्या
+
+[01:20:48] उसमें features हैं और in fact अपने client को भी समझाओ कि भाई go with MVP.
+
+[01:20:53] MVP से एक तो time कम लगता है, एक पैसे कम लगेंगे। आप अपनी market ज्यादा जल्दी study
+
+[01:20:58] कर पाओगे। आपको क्या पता-- अगर ये चार features की अगर मैं बात ना करूं,
+
+[01:21:04] banking app की जो चार features हैं कि balance check कर पाओ,
+
+[01:21:08] पैसे transfer कर पाओ, पैसे ले पाओ और statement download कर पाओ। इन चार features को
+
+[01:21:13] छोड़ के आपको नहीं पता कि लोग loan ज्यादा लेंगे या credit card
+
+[01:21:19] block ज्यादा करेंगे या customer service के साथ ज्यादा contact करेंगे। You don't
+
+[01:21:23] know कि कौन से features लोग ज्यादा use करेंगे। आपको वो तभी पता चल सकता है जब आप
+
+[01:21:29] अपने product को market में लेकर जाओगे और आप market से survey करोगे कि आपको कौन-कौन
+
+[01:21:34] से features चाहिए। और अगर आपको लगता है कि कोई specific feature आपको launch
+
+[01:21:40] करना चाहिए और आप कर देते हो और वो उतना use नहीं हो रहा then you can also change.
+
+[01:21:45] उस feature की location भी आप change कर सकते हो क्योंकि आपके phone की screen तो
+
+[01:21:49] सिर्फ इतनी ही है ना।
+
+[01:21:51] This is the screen. यही इतना size है आपकी screen का phone का। तो इसमें कितने
+
+[01:21:55] options आप डाल सकते हो। तो अगर कोई feature अगर use नहीं हो रहा उतना, उसको remove कर
+
+[01:21:59] दो वहां से।
+
+[01:22:03] Another very important thing, decision trees जिसमें आपको help करते हैं वो ये
+
+[01:22:09] है कि अगर आपको
+
+[01:22:13] additional features add करने हैं अपनी app बनाने के बाद
+
+[01:22:18] तो उन features का पहले वाले बने हुए features में कहाँ-कहाँ impact आ रहा है और उसको
+
+[01:22:24] कैसे tackle करना है, उसमें काफी help हो जाती है।
+
+[01:22:29] For example,
+
+[01:22:32] मैं अगर अपने example पर वापस जाऊँ जो मैं example दे रहा था। Banking app की ही बात
+
+[01:22:37] कर लेते हैं और calendar की ही बात कर लेते हैं, जो हमने पहले बात की थी। Let's say यह
+
+[01:22:42] banking app का login screen है। ठीक है?
+
+[01:22:45] यह banking app का login screen successful sign in पर आपके user को दिख रहा है
+
+[01:22:51] balance और वहाँ उनको option दिख रहा है Download statement,
+
+[01:22:57] Transfer funds,
+
+[01:23:01] Request funds।
+
+[01:23:04] Let's say आपकी banking app पर ये चार चीजें उनको दिख रही हैं।
+
+[01:23:08] ठीक है? अब calendar वाला अगर हम option लें यहाँ पर। आप कहते हो कि मुझे
+
+[01:23:14] calendar का option यहाँ add करना है कि जो मेरे bank के customer हैं ना, वो
+
+[01:23:22] मेरे
+
+[01:23:26] bank के official के साथ meeting book कर पाएं। Calendar booking for
+
+[01:23:33] customers with
+
+[01:23:35] bank employees. This is a new feature that you have to build.
+
+[01:23:40] अब यह feature
+
+[01:23:43] आ रहा है आपकी इस screen पर। Right? जो screen already बन चुकी है, जिस पर already
+
+[01:23:48] चीजें दिख रही हैं। अब आप नया feature बना रहे हो, उसको add करना चाहते हो उस screen
+
+[01:23:54] पर। अगर आपके पास हर option का decision tree बना होगा ना, then you will be able to
+
+[01:23:57] understand कि इस option का कहाँ-कहाँ impact आ रहा है और मुझे यह नया feature कहाँ
+
+[01:24:02] दिखाना चाहिए, कहाँ नहीं दिखाना चाहिए। So जब आप app को expand कर रहे हो नए feature
+
+[01:24:08] के साथ, तब भी आपको यह चीज help करेगी समझने के लिए कि कहाँ
+
+[01:24:14] वह नया feature add करना चाहिए और नए feature का पुराने वाले features पर कहाँ-कहाँ
+
+[01:24:18] impact आ रहा है।
+
+[01:24:22] समझ आ रही है मेरी बात?
+
+[01:24:33] So this is basically why you need decision trees.
+
+[01:24:37] लेकिन एक चीज मैंने बोली
+
+[01:24:40] कि
+
+[01:24:43] हम इस technology को, इस पूरे के पूरे thought process को,
+
+[01:24:48] इस पूरे के पूरे process को इतना simplify कर चुके
+
+[01:24:54] हैं कि आपको बहुत सारी चीजों का ध्यान रखने की जरूरत नहीं है।
+
+[01:25:01] Deepak will show you app बनाकर
+
+[01:25:05] कि simple apps आप कैसे बना सकते हो basic prompt के साथ।
+
+[01:25:10] आप अपना custom ChatGPT कैसे बना सकते हो simple prompt के साथ।
+
+[01:25:17] And कल Gautam will show you कि आप complex app कैसे बना सकते हो
+
+[01:25:23] एक simple prompt के साथ। वह पूरा आपको एक demo दिया जाएगा। Right?
+
+[01:25:29] But I want to ask you अभी for the next five minutes कि
+
+[01:25:35] कोई question या doubt कि why decision trees are important या decision tree क्या
+
+[01:25:41] होते हैं? concept ना समझ आया हो तो मुझे बताओ।
+
+[01:25:49] Okay, I am just checking.
+
+[01:25:53] Okay, Preeti's question कि rules for creating user ID and password.
+
+[01:25:57] Syntax depend करता है। आप अपना password कम से कम eight characters का रखो। कम
+
+[01:26:03] से कम eight characters का password रखो and have at least alphabets and numbers and
+
+[01:26:09] special characters in it. यह तीन चीजें होनी चाहिए आपके password को थोड़ा strong
+
+[01:26:13] करने के लिए
+
+[01:26:15] alphabets, numbers and special characters और कम से कम आठ characters का password
+
+[01:26:21] रखो।
+
+[01:26:25] I am just messages check कर रहा हूँ because Deepak will come in a few minutes
+
+[01:26:32] and cover the rest of the part. App बनाकर दिखाएगा आपको and then he'll show you कि
+
+[01:26:36] आप अपना custom ChatGPT कैसे बना सकते हो। We'll cover that as well.
+
+[01:26:44] Okay, I don't see any questions with regards to कि क्यों। Okay,
+
+[01:26:50] कुछ लोग जो हैं वो advanced questions पूछ रहे हैं कि आप Google के साथ login कर सकते
+
+[01:26:55] हो। तो let me tell you this a little bit.
+
+[01:26:58] इसमें एक two factor authorization होता है, जिसमें
+
+[01:27:02] या तो आपको SMS आएगा। जब आप login कर रहे हो तो आप उसमें SMS डालोगे, तब आप login कर
+
+[01:27:07] पाओगे। उसको two factor authorization बोलते हैं। या आपके phone में ही एक app होती
+
+[01:27:11] है, जिसमें code आता है। हर 30 seconds, 1 minute में वो code generate होता रहता है
+
+[01:27:15] और code डालोगे तब आप login कर पाओगे, password डालने के बाद।
+
+[01:27:20] या आपको वो captchas दिखेंगे कि photo दिखेगी और आपको पूछा जाएगा कि किस-किस
+
+[01:27:26] photos में, किस-किस part में आपको truck दिख रहा है या bus दिख रही है या stairs दिख
+
+[01:27:31] रही हैं। या
+
+[01:27:33] आप Google के साथ login कर सकते हो directly। आपको user ID, password याद रखने की
+
+[01:27:37] जरूरत नहीं है। Login with Google पर click करो और आपका Google के through account बन
+
+[01:27:42] जाएगा।
+
+[01:27:43] इसके बारे में आपको ध्यान रखना यह जरूरी है कि जब आप Google के through account
+
+[01:27:49] बनाना allow कर रहे हो, अगर उस user का Google
+
+[01:27:55] account block हो गया किसी वजह से,
+
+[01:28:00] that user will not be able to use your app.
+
+[01:28:03] So you have to think about that कि अगर आपको option देना है कि नहीं। कि आप कितना
+
+[01:28:08] sensitive काम कर रहे हो, कितना sensitive काम नहीं कर रहे और आपको Google account कौन
+
+[01:28:14] से allow करने हैं, कौन से allow नहीं करने। मेरे कहने का मतलब कि you can make your
+
+[01:28:20] professional email addresses on Google as well.
+
+[01:28:22] So let's say appdaddy.ai for example मैं यह Google पर भी बना सकता हूँ। Right?
+
+[01:28:27] और मैं personal अपना email address भी बना सकता हूँ। So आपको personal email address
+
+[01:28:31] allow करने हैं या आपको सारे के सारे allow करने हैं। कि अगर वो किसी company में काम
+
+[01:28:35] कर रहा है बंदा और उसकी company में वो काम बंद कर दिया उसने करना,
+
+[01:28:41] how will that person log into your app?
+
+[01:28:44] So you have to think about all of those things.
+
+[01:28:54] So another question, Saksham का, MVP.
+
+[01:28:57] Regarding how to get to know about MVP of different fields.
+
+[01:29:01] Okay, so how to get to know about the MVP of different fields?
+
+[01:29:04] This is for मैंने banking के बारे में बात करी कि banking में what do you generally
+
+[01:29:08] do? तो it is your own exercise. आपको खुद देखना पड़ेगा कि कौन
+
+[01:29:14] सी field में कौन सी चीजें use होती हैं ज़्यादा। I can't give you कि
+
+[01:29:22] एक thought process का सिर्फ यही है। You have to understand कि उस particular
+
+[01:29:26] industry की जिसके आप app बना रहे हो,
+
+[01:29:29] उस industry में कौन-कौन से features ज़्यादा से ज़्यादा use होते हैं। So that is
+
+[01:29:34] something that you have to understand in depth.
+
+[01:29:36] Let's say अगर आप एक app बना रहे हो book के related या book writing की app बना रहे
+
+[01:29:41] हो for example. उसमें आपके कौन-कौन से features लोग use करेंगे उस book writing
+
+[01:29:47] app में that is something that you have to understand in the beginning MVP में। For
+
+[01:29:51] example, आप चाहते हो कि लोग decide कर पाएं कितने chapters हों उस book में, कितने
+
+[01:29:57] नहीं, then आप वो feature डालो। एक feature आपको डालना जरूर चाहिए अगर book writing की
+
+[01:30:01] अगर आप app बना रहे हो कि कितने words की book हो। Right?
+
+[01:30:04] वह तो चाहिए। The user would want to decide कि कितने words की book हो। उसका एक
+
+[01:30:10] option आपको देना चाहिए। लेकिन उसका front cover, back cover वह उतना
+
+[01:30:15] important नहीं है क्योंकि जब तक book ही नहीं है, तब तक front cover, back cover का
+
+[01:30:19] क्या करोगे?
+
+[01:30:21] Right? So you have to understand the process, पूरा step by step process कि अगर
+
+[01:30:27] आपने पूरा का पूरा focus book cover ही बनाने में डाल दिया, पूरा का पूरा अपना time कि
+
+[01:30:32] book cover अच्छा बनना चाहिए। लेकिन अगर book ही नहीं generate हो रही, what's the
+
+[01:30:36] point?
+
+[01:30:40] ठीक है? So I'm gonna hand-- Deepak, are you there?
+
+[01:30:47] Yeah, hello, I am here.
+
+[01:30:49] Okay. So I'm gonna hand it over to Deepak for the rest of the part so that Deepak
+
+[01:30:54] आपको दिखा देगा कि how to build an app and how to build a custom ChatGPT so that you
+
+[01:31:00] can understand कि हमने जितना simplify कर सकते थे, हमने उतना simplify कर दिया है
+
+[01:31:03] process को। कल miss मत करना, last day of the training bootcamp Saturday को है।
+
+[01:31:09] Gautam दिखाएगा आपको कि आप complex app भी कैसे बना सकते हो। जितना simplify कर सकते
+
+[01:31:14] थे, उतना हमने simplify कर दिया। ठीक है?
+
+[01:31:16] I hope you enjoyed and you learned something कि आपको कैसे decisions लेने चाहिए। और
+
+[01:31:20] यह decision tree सिर्फ आप app और products बनाने में नहीं, जब आप कोई important
+
+[01:31:26] business decision भी ले रहे हो ना, आप तब भी यह decision tree use कर सकते हो।
+
+[01:31:31] ठीक है। चलो, it was great seeing you guys.
+
+[01:31:34] I will see you again on Saturday,
+
+[01:31:37] bootcamp में। Till then thank you so much. Thank you for joining once again.
+
+[01:31:41] Take care. Thanks. Bye, bye.
+
+[01:31:42] Thank you Darsh for the tremendous knowledge and thank you so much for the
+
+[01:31:47] insightful topic because
+
+[01:31:52] app बनाना सिर्फ नहीं होता है guys obviously.
+
+[01:31:55] जब भी कोई structured app बनता है, जब भी कोई
+
+[01:32:00] professional system बनता है तो उसके behind the scenes जो thought process होती है
+
+[01:32:04] ना, वो बहुत important है। That we have covered this one.
+
+[01:32:07] Thank you so much Darsh again. All right, guys.
+
+[01:32:10] So now first
+
+[01:32:14] we are gonna see how we can build an app.
+
+[01:32:20] पर उससे पहले मैं तीन-चार topic cover कर दूँ ताकि concept clear हो
+
+[01:32:26] जाए। एक thought है जो पूरे दुनिया में आज के date में चल रहा है कि
+
+[01:32:32] app बनाना आज के date में prompting अंदर आती है, आप app बन सकता है। This is a common
+
+[01:32:37] general term जो industries में हर जगह चल रहा है। Social media पर आपको viral reach
+
+[01:32:41] मिल जाएगी। This is a common thing available.
+
+[01:32:44] But
+
+[01:32:45] जब आप उस चीज को genuinely build करते हो, उस perspective से कि कल जाके उस
+
+[01:32:51] app के ऊपर 10,000 या 50,000 active users आएंगे। Are you getting my
+
+[01:32:57] point?
+
+[01:32:59] वो एक अलग तरीका हो जाता है।
+
+[01:33:03] कुछ चीजें same होगी but कुछ चीजें जो होती हैं ना, वो एक experience, एक process उसी
+
+[01:33:09] way में की जाती है। Just a second.
+
+[01:33:24] All right. Thank you so much. So
+
+[01:33:28] what is the one point? That is कि
+
+[01:33:33] जो हवा चल रही है market में, which is not that much straightforward अगर आप उस चीज
+
+[01:33:37] से business देख रहे हो आने वाले time में in long scale,
+
+[01:33:43] not just छोटा-मोटा। दूसरा,
+
+[01:33:47] जब हम देखते हैं कि app बनाना है तो पहले ये भी हमें समझना होगा कि कितने
+
+[01:33:53] types के apps होते हैं। इसकी clarity होगी तो आपकी confusion, clarity में convert हो
+
+[01:33:59] जाएगी। So
+
+[01:34:01] अगर मैं इसको clear करूं, number one जो आज के date में सबसे
+
+[01:34:06] ज्यादा use किया जाता है, which is a web application.
+
+[01:34:10] Web applications वो apps होती हैं जो आपके browsers में चलती है। वो कहीं पर भी आप
+
+[01:34:15] download नहीं कर सकते या उसका कोई mobile application आप download नहीं कर सकते,
+
+[01:34:19] which is a web application. For example, अगर मैं बात करूं Chat GPT की। Chat
+
+[01:34:25] GPT अपने आप में एक software है। But software वो आप chatgpt.com पर जाकर ऊपर भी login
+
+[01:34:30] कर सकते हो। वो अलग बात है कि उन्होंने अपना एक application भी बनाया, वो अलग बात है
+
+[01:34:34] कि उन्होंने एक desktop application भी बनाया। तो वो एक अलग category का system है, जो
+
+[01:34:38] कि high-end zone में चला गया सीधा। दूसरा मैं अगर example लूं Netflix आप लोग use
+
+[01:34:43] करते होंगे most of you. तो Netflix क्या है?
+
+[01:34:46] Netflix mobile applications भी उन्होंने develop करवायी है और उन्होंने एक website भी
+
+[01:34:50] डाली हुई है, जहाँ जाकर वो सारी चीजें देख सकते हो जो आप mobile से करते हो।
+
+[01:34:56] Right? So there are so many apps जो कुछ ऐसी apps होंगी जो सिर्फ website से ही आप
+
+[01:35:02] access कर सकते हो, which is called a web application. Is it clear?
+
+[01:35:07] Second, mobile applications which is iOS and Android.
+
+[01:35:12] इस point पर एक बहुत बड़ा important point बताना चाहूँगा because कई लोगों के दिमाग
+
+[01:35:16] में ये रहता है कि एक mobile app बनाके हम देखें कि वो कैसा होगा। But इस चीज की
+
+[01:35:20] knowledge बहुत लोगों को नहीं होती। इस वजह से obvious बात है कि वो शायद शुरू कर लेते
+
+[01:35:25] हैं but वो end नहीं कर पाते क्योंकि सही तरीका पता नहीं होता। और obvious बात है कि
+
+[01:35:29] वो चीज का knowledge नहीं है। Mobile applications का एक सबसे बड़ा,
+
+[01:35:36] आप कह सकते हो,
+
+[01:35:38] not easy to do thing है कि आपको development को लेकर तो चलो
+
+[01:35:44] AI help करता है। There are so many platforms.
+
+[01:35:47] But
+
+[01:35:48] उसको जब आपको deploy करना होता है। Deploy in the sense या उसको Play Store, या तो
+
+[01:35:54] Android user है तो Play Store पर जाएगा, या तो iPhone user है तो iOS पर जाएगा। अपना
+
+[01:35:59] App Store. Right?
+
+[01:36:01] तो App Store या Play Store के ऊपर जब भी वो publish किया जाता है, उससे पहले आपको
+
+[01:36:06] उनका एक developer account लेना पड़ता है। उसका कुछ cost वो लोग आपसे लेते
+
+[01:36:12] हैं।
+
+[01:36:14] Who will? Google, otherwise Apple। ये उनके marketplace है। Google का marketplace है
+
+[01:36:20] Android का अपना Play Store और
+
+[01:36:24] Apple का marketplace है Apple का अपना App Store जो iPhone में हम लोग use करते हैं।
+
+[01:36:29] वहाँ पर developer license लिए बिना आप वो चीज directly publish नहीं कर सकते। उसके
+
+[01:36:33] बाद भी आपकी quality checking होती है। Unqualified apps। मान लो कि आपने
+
+[01:36:39] वो चीज पर मेहनत करके, अपना दिमाग लगाकर, idea लगाकर आपने बना लिया, सब कुछ हो गया।
+
+[01:36:44] But किसी वजह से App Store या Play Store ने आपका app reject किया ये बोलकर कि वो
+
+[01:36:50] हमारे quality standard से match नहीं करता है।
+
+[01:36:53] That's where आज के time पर तो एक तो ये reason है कि लोग ज़्यादा उस तरफ दिमाग नहीं
+
+[01:36:58] लगाते, जो particular कोई business देख रहे हैं इस चीज का। दूसरे reason ये
+
+[01:37:03] है कि
+
+[01:37:05] अगर मान लो वो हो भी गया। पर आज की जो market है, पूरे दुनिया की ही मैं बात करूं अगर,
+
+[01:37:11] entire world, आज की जो market है ना, सभी के पास आज के date में सबसे ज़्यादा
+
+[01:37:17] important चीज जो हो रही है, which is a lot of data, lot of content.
+
+[01:37:22] सबके mobile में आज for example, space की issues होती है। Are you getting my point?
+
+[01:37:28] Practically सोचिए। देखो, on a personal level you will understand कि लोगों के
+
+[01:37:32] actions क्या हैं, लोगों के decisions छोटे-छोटे क्या हैं। उससे पूरी industry run
+
+[01:37:36] करती है।
+
+[01:37:39] Personal level पर आप देखोगे, आज के date में हम अपने खुद का भी example लें, तो हम
+
+[01:37:44] हमारे app में, हमारे mobile में unwanted apps खुद ही delete करते हैं
+
+[01:37:50] to save our data, to save our space, कि extra space मिले
+
+[01:37:54] हमें। Right? तो space की problem का reason तो शुरुआत हुई कि content ही
+
+[01:38:00] इतना बढ़ रहा है market में कि उसकी वजह से वो space तो occupant होना ही है। आज से 15
+
+[01:38:06] साल पहले अगर आ जाओगे तो इतना content नहीं था जितना आज develop हो रहा है। Are you
+
+[01:38:09] agreeing with this?
+
+[01:38:11] So इसी वजह से mobile में downloadable apps लोग वही download करना पसंद करते हैं जो
+
+[01:38:17] actual में बहुत ही ज़्यादा problem-solving होने के लिए। Else they will install
+
+[01:38:23] it, use it and delete it.
+
+[01:38:27] So this is one of the second reason जिसकी वजह से लोग mobile app development में
+
+[01:38:30] ज़्यादा नहीं जाते। Directly नहीं जाते या फिर मान लो जाते नहीं हैं। तो एक तो हो गया
+
+[01:38:35] web applications, एक हो गया mobile based applications.
+
+[01:38:38] अब web applications में भी अगर मैं जाऊं तो उस category में भी
+
+[01:38:44] आप देखोगे तो एक हो गया full stack application.
+
+[01:38:47] Full stack applications का मतलब क्या?
+
+[01:38:49] कि जो application में सारी चीजें, जैसे Darshan ने पूरा समझाया कि sign in कर रहा है
+
+[01:38:54] user, sign out कर रहा है, forget password, whatever the conditions हैं, whatever
+
+[01:38:59] the user authentication system हो गया, पूरा उसके अंदर पूरी चीजें हैं। This is all
+
+[01:39:03] in the full stack application जिसमें अपना खुद का payment gateway है payment collect
+
+[01:39:07] करने के लिए। Payment आया तो verified करके उसको access देने के लिए। So this is
+
+[01:39:12] called a full stack application जिसके लिए backend, frontend दोनों का knowledge होना
+
+[01:39:16] की जरूरत है। It's not like that कि सिर्फ आप frontend develop कर लो, आपका app बन
+
+[01:39:21] गया। It's not like that.
+
+[01:39:23] एक बहुत basic चीज है जो वैसे आप लोगों को पता होगी most of you, but फिर भी ये point
+
+[01:39:29] कई बार मैंने notice किया है कि बहुत लोगों को confuse करता है। So that I am focusing
+
+[01:39:35] on this कि
+
+[01:39:38] एक confusion मैंने देखा जो मैंने repeatedly बहुत लोगों में देखा है in the last
+
+[01:39:43] three years कि
+
+[01:39:45] जो non-tech background से हैं, उनकी बात कर रहा हूँ, कि website और app में
+
+[01:39:49] difference क्या है?
+
+[01:39:51] मैं आपको एक बड़ा simple difference सिखाता हूँ। एक website और एक app
+
+[01:39:58] का difference ये हो सकता है कि अगर आपकी website है और website के ऊपर information
+
+[01:40:04] है और information के साथ सिर्फ data collect किया जा रहा है, मतलब lead collect की जा
+
+[01:40:09] रही है, नाम, number, email ID और कुछ questions collect किए जा रहे हैं,
+
+[01:40:13] तो वो आपकी website है। Informative websites जिसमें lead आपका
+
+[01:40:19] capture हो रहा है।
+
+[01:40:22] अगर उसी website पर कुछ ऐसा section भी है जहाँ पर मैं login करके और
+
+[01:40:28] अंदर जा सकता हूँ, sign in करके या account बनाकर sign up करके,
+
+[01:40:33] तो वो website का front page हो गया पर backend में पूरा application हो गया। Now it's
+
+[01:40:38] an app.
+
+[01:40:40] Is it clear?
+
+[01:40:44] Is it clear now? So website और app के अंदर बड़ा difference है, guys। Website is not
+
+[01:40:49] an app until उसके पीछे वो app log-in करके।
+
+[01:40:55] तो website
+
+[01:40:58] में user authentication नहीं होता है। वो एक website होती है। तो ये confusion clear
+
+[01:41:03] करना था। एक web applications के अंदर हमने एक चीज देखी कि web applications के अंदर
+
+[01:41:07] कौन से types के apps होते हैं। Web applications के अंदर सबसे important जो आज के
+
+[01:41:11] date में use किए जाते हैं और जो
+
+[01:41:15] straight forward to build है until कि आपका idea validate होना चाहिए। कि आपका
+
+[01:41:20] idea कितना problem-solving है किस target market के लिए। That is ज्यादा
+
+[01:41:26] दिमाग लगता है। बाकी चीजें बड़ी easy कर दी गई हैं जो मैं अभी आपको एक बनाकर दिखाऊंगा।
+
+[01:41:32] You will understand how to do this, right?
+
+[01:41:36] तो custom GPT applications is the foundation of this.
+
+[01:41:41] उस stage से आप देखोगे custom GPT applications हो गया। फिर आपका input-output वाला
+
+[01:41:46] applications हो गया। फिर आपका full stack applications हो गया जो कल वाला part होगा।
+
+[01:41:50] कल के class का part हो गया। Right? So focusing on today, we have 15-20 minutes
+
+[01:41:56] now. So we are first building custom GPT applications।
+
+[01:42:04] Let's say an idea of...
+
+[01:42:11] I have
+
+[01:42:13] a
+
+[01:42:16] idea। Right?
+
+[01:42:19] कई लोग हैं जो reels बनाना चाहते हैं। एक problem है जो दिमाग में आ गया मेरे भी। कई
+
+[01:42:25] लोग हैं जो reels बनाना चाहते हैं। Right?
+
+[01:42:26] अब reel बनाने के लिए
+
+[01:42:30] they don't
+
+[01:42:32] exactly know कि क्या बोलना है।
+
+[01:42:37] This is the problem.
+
+[01:42:39] Exact क्या बोलना है?
+
+[01:42:41] Quality content नहीं मिल रहा है। This is the problem। Right?
+
+[01:42:46] कि कैसे मैं एक ऐसा app बनाऊं जहाँ पर मैं अगर मेरी information दे दूं business की,
+
+[01:42:52] तो उसके basis पर मुझे एक viral reel content मिल जाए।
+
+[01:42:58] Script। So we can call it as an reel script generator और
+
+[01:43:04] इसका higher level का अगर additional use case देखें Meta Ads Video Script
+
+[01:43:09] Writer। उसकी psychology अलग होती है जो कि high level की psychology है।
+
+[01:43:15] Meta Ads के अंदर कौन सी चीजें होती हैं जो हमें उस तरह से अगर बोले तो लोग रुकते
+
+[01:43:20] हैं। वो marketing psychology क्या है? उसका क्या बन सकता है? So let's do it.
+
+[01:43:26] Start with this now and secondly इसके बाद हम देखेंगे कि कैसे हम एक इसी चीज को लेकर
+
+[01:43:31] हम देखेंगे कि social media में चीजों को लेकर लोगों का problem है कि क्या डालना है,
+
+[01:43:36] कहाँ से बनाऊं। Confusion बहुत सारी चीजें हैं। तो पूरे सात दिन का अगर हमें एक plan
+
+[01:43:40] मिल जाए कि पहले दिन ये डालो, दूसरे दिन ये डालो, तीसरे दिन ये डालो, चौथे दिन ये
+
+[01:43:44] डालो, पांचवे दिन ये डालो, छठे दिन ये डालो, सातवे दिन ये डालो। So you are good to go
+
+[01:43:49] with proper strategy, not just कि random कुछ भी। Right? Excited guys?
+
+[01:43:56] Show me the reaction.
+
+[01:44:00] All right。
+
+[01:44:02] So now I am into the system of
+
+[01:44:04] AppDaddy। You can see now。 So
+
+[01:44:10] first we will build an AI
+
+[01:44:14] script writer for Meta Ads। Not just reel, Meta Ads के लिए which is more
+
+[01:44:19] strategically to create।
+
+[01:44:23] Two thing you need for this, you just click on this Create AI Personality button।
+
+[01:44:29] Most importantly, you need this app title, app का नाम क्या रखना है। Second app का
+
+[01:44:33] description क्या रखना है। And now personality types की एक list है जो मैं अभी
+
+[01:44:38] खोलूंगा। Instructions आपको क्या देने हैं and knowledge base आपको अगर कुछ देना हो so
+
+[01:44:42] you can add by adding the knowledge base। जैसे हमने home the name में देखा, जैसे
+
+[01:44:47] हमने कल की 11 apps पर देखा। Knowledge base के बारे में। Same here is the
+
+[01:44:53] knowledge base। Like knowledge base में हमने अपनी PDF add कर दी और knowledge यहाँ
+
+[01:44:56] पर collect कर दिया। तो उसके पास पूरा knowledge है उस चीज को लेकर। उस चीज के बारे
+
+[01:45:01] में आप कुछ भी पूछोगे, उसके पास वो answers होगा और बहुत ही accurate answer होगा। Not
+
+[01:45:04] just generalized ChatGPT। So now understand कि यहाँ पर मैं इसका नाम अगर सोचूं तो
+
+[01:45:10] नाम इसका रख सकते हैं
+
+[01:45:13] Pro Meta Ads Script Writer। Right?
+
+[01:45:20] Pro Meta Ads Script Writer। एक simple नाम मेरे दिमाग में आया।
+
+[01:45:24] App का description मैं simple language में लिख सकता हूँ कि you are a
+
+[01:45:30] professional
+
+[01:45:32] Meta Ads Video Script
+
+[01:45:38] Writer for Indian market
+
+[01:45:43] who understand
+
+[01:45:47] the
+
+[01:45:50] Meta marketing
+
+[01:45:54] and human--
+
+[01:45:56] obviously it's a human psychology। Right?
+
+[01:45:58] कि लोग अगर रुकेंगे आपके ad देखकर, it's a human psychology।
+
+[01:46:05] Human के साथ आप कर रहे हो ना, it's a human psychology। So it's just one line or two
+
+[01:46:10] line you can say you are a professional Meta Ads Video Script Writer for Indian
+
+[01:46:14] market who understand the Meta marketing and Meta marketing strategy। You
+
+[01:46:20] can say algorithm।
+
+[01:46:24] Even I guess keep it simple, it's more shorter है for Indian market
+
+[01:46:33] you and you understand
+
+[01:46:37] human psychology very well। Right?
+
+[01:46:42] This is the first line I have added। Now personality types के अंदर आप देखोगे तो
+
+[01:46:47] यहाँ पर कई सारे types हैं। यहाँ पर आप देख सकते हो कि we have custom personality,
+
+[01:46:51] coach, marketing research and competitive analysis। By default भी कुछ नाम हैं। But
+
+[01:46:55] यहाँ पर अगर आपको कुछ नहीं मिल रहा है कि यहाँ पर हमारे related कुछ नहीं है तो you
+
+[01:47:00] will select the custom personality because उसके बारे में हमने यहाँ पर लिखा हुआ है।
+
+[01:47:04] Next you have to add the instruction which is optional। Right?
+
+[01:47:08] तो यहाँ पर आप डाल सकते हो। Instructions में आप ये डाल सकते हो कि before giving the
+
+[01:47:15] script
+
+[01:47:18] ask
+
+[01:47:22] this
+
+[01:47:24] important questions for personalize
+
+[01:47:30] script to the user। Right? So क्या question हो सकते हैं?
+
+[01:47:36] Brand name।
+
+[01:47:39] Right? What is your brand name? Second हो सकता है आपका कि
+
+[01:47:43] what is your name?
+
+[01:47:47] Second हो सकता है how long या इसका हम दूसरा भी ले सकते हैं
+
+[01:47:53] language। कौन से language में आपकी ये चाहिए।
+
+[01:48:00] Even we can see it simple। हम इस चीज को अभी के लिए रखते हैं। बाद में इस चीज को हम
+
+[01:48:04] देखेंगे। तीसरा हम लेते हैं target market। किसके लिए आप बना रहे
+
+[01:48:10] हो that is clear। उसको clear करना बड़ा जरूरी है target market। Right?
+
+[01:48:16] And what problem you are solving। That's
+
+[01:48:22] it। ये चीजें होनी चाहिए तभी तो एक script बन पाएगी। थोड़ा knowledge हमें लेना चाहिए।
+
+[01:48:26] तो ये उसने question पूछा। Knowledge base यहाँ पर अभी कुछ हमने नहीं रखा है। We have
+
+[01:48:31] kept it here simple। तो नीचे तीन option हैं। Strict remain on the topic मतलब
+
+[01:48:37] कि अगर ये toggle on है तो ये इस topic के बाहर के किसी भी conversation को
+
+[01:48:42] entertain नहीं करेगा। It should be strict on the topic। अगर ये toggle off है तो कुछ
+
+[01:48:47] general questions भी बीच में आ सकते हैं, उसके भी answers देगा। Second है AI start
+
+[01:48:52] the conversation मतलब कि अगर आपका chat bot जब open किया जाता है तो पहला
+
+[01:48:57] conversation AI start करेगा या पहला conversation human start करेगा। अगर ये off है
+
+[01:49:02] तो human start कर रहा है, on है तो AI start कर रहा है। तीसरा हो गया publish
+
+[01:49:06] obviously। Second आपको पहले इसको directly ये नहीं करना है तो आपको इसको off रखना है।
+
+[01:49:12] अगर toggle on रखो के तो ये directly system में publish हो जाएगी। That's it, guys।
+
+[01:49:16] So now I am just clicking on Create button and
+
+[01:49:22] here you can see-- oh sorry, one second। Okay, it's being created। You can see
+
+[01:49:28] now
+
+[01:49:30] in just two-three minutes we have built an AI
+
+[01:49:36] Pro Meta Ads Script Writer। Is it powerful?
+
+[01:49:44] Show me the reaction
+
+[01:49:47] In just two, three minutes. We have not given the huge information.
+
+[01:49:52] Perfect. So देखो, यहां पर इसको testing कर लेते हैं पहले। इसके testing करके हम check
+
+[01:49:57] करेंगे कि outcome भी दे रहा है कि नहीं दे रहा। Outcome देगा तो हमें समझ में आएगा।
+
+[01:50:00] Now you can see now इसने बोला है कि, "Hey, I am a Meta Ads script writer.
+
+[01:50:04] I help create scholarship video ad script that actually converts for the Indian
+
+[01:50:09] market. Before we dive in, what's your brand name?" इसने पूछा। तो मैंने इसे बोला,
+
+[01:50:14] "Hey there,
+
+[01:50:16] my brand name is"
+
+[01:50:20] let's say for example,
+
+[01:50:23] Lodha Developers.
+
+[01:50:31] So now it's asking me again. Let's wait for a moment. Okay, perfect.
+
+[01:50:35] Now you can see guys. Now जैसे मैंने इसको बताया था, "Hey, nice Lodha Developers,
+
+[01:50:39] great brand to work with. Before I write you killer script, I need a few quick
+
+[01:50:44] details. What's your name?" Okay। तो मैं इसको बोलूंगा number wise बोल दूंगा मैं
+
+[01:50:49] इसको my name is Deepak। Second-- sorry मैंने enter दबा दिया। But let's wait
+
+[01:50:55] कि हम इस चीज को आगे लें।
+
+[01:50:58] Okay चलो। इसने दूसरा-- देख लिया कि दूसरी चीज नहीं आई। तो इसको target market देना है
+
+[01:51:02] मुझे। Target market are
+
+[01:51:09] luxury या you can say--
+
+[01:51:14] what I can say, अगर कोई premium property buy कर रहा है तो I have to think about it
+
+[01:51:18] कि मेरा target market कौन है इस category में। Premium property
+
+[01:51:23] buyers in Mumbai.
+
+[01:51:28] That's it. यह हो गया। Second मुझे क्या देना है?
+
+[01:51:32] What problem we are solving for them?
+
+[01:51:34] Dream home, higher ROI, lesser lifestyle, prime locations.
+
+[01:51:37] So we are offering
+
+[01:51:40] मान लो कि we are offering premium properties
+
+[01:51:48] for
+
+[01:51:50] very good
+
+[01:51:52] ROI on renting.
+
+[01:51:57] So that is a good idea.
+
+[01:52:00] And
+
+[01:52:01] इस चीज को अगर मैं दे रहा हूं तो यहां पर मैं थोड़ा change कर सकता हूँ मेरी strategy,
+
+[01:52:04] क्योंकि मेरे premium property buyers-- premium property
+
+[01:52:09] investors
+
+[01:52:12] for income। Now you say that. Premium property investors
+
+[01:52:18] for income in Mumbai. We are offering premium property
+
+[01:52:22] with very good
+
+[01:52:27] ROI on renting the property.
+
+[01:52:33] So we are
+
+[01:52:37] also helping
+
+[01:52:40] them
+
+[01:52:42] to rent
+
+[01:52:45] their property
+
+[01:52:47] for first time to start. That is okay?
+
+[01:52:52] Offer भी सही है मेरे business की और मैं problem भी सही solve कर रहा हूँ। Now let's
+
+[01:52:55] say click on enter. Now waits for the outcome कि यह क्या intelligence use कर रहा है
+
+[01:53:00] और कितनी इसके अंदर और improvement की जरूरत है। Because we have not given the enough
+
+[01:53:05] data. Still, let's see.
+
+[01:53:13] Okay,
+
+[01:53:14] alright guys. तो इसने हमें script दी है। So let's read it out first in the
+
+[01:53:20] first outcome, क्या इसने हमें दिया है। चलिए साथ में पढ़ते हैं। Perfect Deepak
+
+[01:53:25] excuse me, I need a negative-- ठीक है। So let's start, script यहां से start हो रही
+
+[01:53:30] है। Okay, script यह इसने बोला है कि script में हो गया smart Mumbai investors.
+
+[01:53:34] Just visualize, आप visualize करोगे तो समझ में आएगा because अगर ये script की बात
+
+[01:53:38] आपको नहीं समझ में आ रही तो you can visualize. Scene 1: hook, zero to three second.
+
+[01:53:43] That is the first important point जो इसने समझ लिया है। Meta Ads के marketing में
+
+[01:53:47] कोई भी ad जब बनी जाती है, तो पहले तीन second decide किए जाते हैं जिसको हम बोलते हैं
+
+[01:53:52] hook line.
+
+[01:53:54] जो visual hook हो सकता है, kinesthetic hook हो सकता है, auditory hook हो सकता है।
+
+[01:54:00] जो मैं आपको यह part content creation में लिया था। Visual इसने लिखा है कि sleek
+
+[01:54:05] Mumbai skyline shot cut to well-dressed investors checking his phone, looking
+
+[01:54:10] mildly stressed. Imagination आ रहा है, guys?
+
+[01:54:14] इसने scene भी बताया कि कैसे करना है आपको shoot इसको। Confidently बच्ची you are
+
+[01:54:19] money is sitting in the bank earning 4%.
+
+[01:54:21] Meanwhile, smart Mumbai investors are earning double that every single month.
+
+[01:54:26] Connect हो गया real problems। कि अगर आपका पैसा bank में पड़ा हुआ है, investors का
+
+[01:54:31] पैसा bank में पड़ा होगा mostly। तो उसको कितना return आ रहा है। अगर यही पैसा आप
+
+[01:54:35] Mumbai में डाल रहे हो तो smart investors इतना अच्छा कमा रहे हैं। Next में इसने क्या
+
+[01:54:39] लिखा देखो। Scene two: aggravate the problem.
+
+[01:54:43] Obviously इस problem को बड़ा बनाओगे। Visual में split screen.
+
+[01:54:46] One side shows a bank passbook with a low interest and other side shows a Lodha
+
+[01:54:51] property with a rented tag.
+
+[01:54:54] Is this powerful, guys? पहले outcome में बहुत अच्छा दिया इसने। Real estate Mumbai
+
+[01:54:59] is just about owning a home anymore.
+
+[01:55:02] It's about owning an asset that pays you back.
+
+[01:55:05] But most investors don't know how to find the right property or how to rent it out
+
+[01:55:09] fast. This is the problem. Scene three को आप complete सुनोगे तो आपको I think we
+
+[01:55:14] will understand कि यह क्या कह रहा है and I hope this is still powerful.
+
+[01:55:19] Scene three: introduce solution. Now we are offering solutions.
+
+[01:55:22] पहले हो गया hook, फिर हो गया problem, problem को फिर बड़ा बनाया, फिर बता रहा हूँ
+
+[01:55:27] solution. Visual drone shot of premium Lodha property, the interior shots focusing
+
+[01:55:32] quality, amenities, clubhouse, pools. That's where Lodha comes in.
+
+[01:55:35] And we don't just sell premium properties in Mumbai's best location.
+
+[01:55:39] We help you rent them out even if you are doing it for the first time.
+
+[01:55:45] यह एक decision वाला moment बन गया है। यह बड़ा problem solve कर रहा है बड़ी अच्छी
+
+[01:55:50] script दी इसने। चौथे scene में क्या बताया है credibility and proof.
+
+[01:55:54] Obviously, trust लाना भी जरूरी है how smart the app is.
+
+[01:55:57] Visual: quick testimonials, style clips, happy investors talking to camera or
+
+[01:56:02] non-screen text with ROI numbers.
+
+[01:56:05] With my experience अगर मैं आपको बताऊं, with my experience over Meta Ads, running
+
+[01:56:10] with over on spend over almost multiple crores.
+
+[01:56:14] One of the finest script for real estate जो मुझे समझ में आ रही है यहां पर। क्योंकि
+
+[01:56:18] real estate एक ऐसी चीज है जो buy करने से पहले लोग पहले तो hook lines से attract
+
+[01:56:23] हैं। दूसरा, उनके problem से connected है। तीसरा, solution के साथ उनका core problem
+
+[01:56:29] solve किया जा रहा है कि property
+
+[01:56:31] sell भी कर रहे हो और sell के साथ आपको पहला rent भी आप offer कर रहे हो कि वो भी आपको
+
+[01:56:36] help की जाएगी।
+
+[01:56:38] उसके बाद जब decision रुकता है वो वहीं रुकता है कि trust कैसे करूंगा।
+
+[01:56:44] So credibility वाला point भी इसने डाला हुआ है which is that my opinion is good.
+
+[01:56:49] And the scene five is visual bold text overlay.
+
+[01:56:52] Visual bold text overlay with property images, contact button animation
+
+[01:56:58] and नीचे लिखा है ready to make your money work harder?
+
+[01:57:01] Book a free consultation with our investment expert today and discover properties
+
+[01:57:05] built for returns, not just for living. Is this wow, guys?
+
+[01:57:09] Show me the reaction पहले outcome में।
+
+[01:57:14] Right so
+
+[01:57:16] अब इस चीज के साथ क्या-क्या हो सकता है ना वो मैं बताऊंगा। But मैं करूंगा अभी इतना
+
+[01:57:22] नहीं क्योंकि we have to move on the second app also.
+
+[01:57:25] But possibilities are like very simple कि इस चीज के साथ आप simply chat शुरू कर सकते
+
+[01:57:29] हो। How it different from ChatGPT?
+
+[01:57:34] How it is different from Claude? Because ChatGPT, Claude, Gemini,
+
+[01:57:39] Perplexity, these are all the generalized AI applications which is not
+
+[01:57:45] specifically trained for an high ticket, high skills.
+
+[01:57:52] Are you getting a point?
+
+[01:57:54] So this kind of personal GPT applications को बोलते हैं जो
+
+[01:57:59] dedicatedly एक particular skills के लिए mastery करके उसको train किया जाता है।
+
+[01:58:06] जो आपने अभी देखा ना कि आपने input दिया कुछ minutes में app बन गया। दिखने में जितना
+
+[01:58:12] easy है, पर उसके behind the scenes जो structure बड़ा prompt इस
+
+[01:58:18] system में लिखा है ना which is not easy to think, which is not easy to write.
+
+[01:58:24] तब जाके इतना precise outcome आ रहा है। Are you getting my point?
+
+[01:58:29] So this is the difference. Alright guys, so obviously you have the settings options
+
+[01:58:33] here. You can change your logo of the applications, you can change the identity and
+
+[01:58:37] all this stuff later on also जब भी आपको करना हो, जब भी करना हो। Alright, guys?
+
+[01:58:43] Okay, so now we will see how we can build
+
+[01:58:50] an seven days social media post. Same चीज।
+
+[01:58:55] दो चीजें आपको लगती है। Click on new app.
+
+[01:59:00] आपके पास एक app का नाम है, आप दोगे उसको और exactly आप बताओगे कि वह app कर रहेगा
+
+[01:59:05] क्या? Exactly यह बताओ। For this you can use ideas
+
+[01:59:11] from the ChatGPT and all this stuff.
+
+[01:59:14] जैसे मैंने बताया screenshot लेकर ideas भी ले सकते हैं and you can use your own
+
+[01:59:17] brain उसको और accurate करने के लिए। Ideas तो मिल जाएगी but accuracy as a human हमें
+
+[01:59:22] करना होता है ताकि वह real problem solve करे। So I have built an app। मैंने
+
+[01:59:28] इसके लिए एक छोटा prompt बनाया है जो मैंने ChatGPT से लिया है। Let me show you। मैं
+
+[01:59:33] इसे यहाँ paste कर रहा हूँ और यहाँ मैंने लिखा है। यह ChatGPT से लिया है। यह कोई खुद
+
+[01:59:38] की दिमाग नहीं है। Right? Build a complete AI-powered social media content
+
+[01:59:41] generation app and that creates a seven-day social media content pack for a brand,
+
+[01:59:47] creator, business, coach, agency and all। Core purpose क्या होगा अपना?
+
+[01:59:50] यहाँ पर पूरा लिखा हुआ है। यह पढ़ना क्यों जरूरी है?
+
+[01:59:53] क्योंकि यह पढ़ोगे तभी उस चीज का outcome तुम्हें समझ में आएगा। The app should
+
+[01:59:56] generate seven completely ready-to-post social media posts, one for each day.
+
+[02:00:02] That is okay. यही हमें चाहिए। Important क्या है?
+
+[02:00:05] Do not create only hero images or generic AI-generated pictures.
+
+[02:00:11] That we don't want. जो भी generalized AI में चीजें problem है। Generalized AI में
+
+[02:00:16] आप कुछ भी बोलोगे तो generalized image देता है वह। So we don't want that.
+
+[02:00:21] Every poster must be a proper graphic social media post where the
+
+[02:00:27] visual designs, typography, headlines, supporting text, layouts, icons,
+
+[02:00:31] illustrations, GIFs, charts, screenshots or other visual elements are intentionally
+
+[02:00:37] composed together.
+
+[02:00:39] Right? अब यह जो इतना लिखा है, यह पूरी line, यह पूरा content भी हमने ideas ChatGPT
+
+[02:00:45] या other AI elements से लिया है। We have refined it थोड़ा हमारा दिमाग लगा के और यह
+
+[02:00:51] input हमारा बन गया for this particular app.
+
+[02:00:55] Obviously, इसको हम एक नाम देंगे। इसको हम नाम देंगे मान लो कि
+
+[02:00:59] AI
+
+[02:01:02] Social
+
+[02:01:04] Media
+
+[02:01:15] Pro। Right? इसको हम कुछ भी नाम दे सकते हैं। We have to relate कर सकते हैं उस चीज के
+
+[02:01:20] लिए। Okay, after this only we just have to click on the generate app button। That's
+
+[02:01:26] it, guys.
+
+[02:01:28] जो भी दिमाग लगाना है, यहाँ लगाना है हमें कि exact क्या करेगा? क्या नहीं करेगा?
+
+[02:01:32] किस-किस चीज को लेकर करेगा? And obviously these are all the generative AI
+
+[02:01:36] applications
+
+[02:01:38] which is not full stack application। At present हम इस पर focus कर रहे हैं। Tomorrow
+
+[02:01:43] we will gonna see full stack applications की process और उसके बारे में भी हम कल
+
+[02:01:48] समझेंगे। All right, guys.
+
+[02:01:51] तो मैंने just generate app पर click किया। Now it's generating for me and let's wait
+
+[02:01:55] for the output.
+
+[02:02:00] It may take one or two minute max.
+
+[02:02:04] Behind the scenes बहुत चीजें चल रही हैं। पूरा idea को समझा जा रहा है, उसको
+
+[02:02:08] structure format में लिखा जा रहा है, उसकी master prompting निकाली जा रही है। Master
+
+[02:02:13] prompting के साथ ही आपका code generate किया जा रहा है। Right?
+
+[02:02:17] Coding भी इसके backend में चल रही है जो शायद ये सारी चीजें front-end में दिखती नहीं
+
+[02:02:20] है। It's like an all stuff.
+
+[02:02:27] All right.
+
+[02:02:29] It's great. Okay, you can see guys, our app is created.
+
+[02:02:35] Social Media Pro। Let's test it out for the first phase में यह कैसा
+
+[02:02:41] बना है। इसको हम preview पर click करेंगे। You can see now। Okay, you
+
+[02:02:47] can see।
+
+[02:02:50] हमने क्या दिया था उसको? हमने कुछ नहीं दिया था। Right?
+
+[02:02:52] हमने एक simple idea दिया कि आपको करना क्या है?
+
+[02:02:54] Outcome क्या हुआ, мы किया था। Intent мы किया था। Intelligence level लेकर उसने खुद
+
+[02:02:59] inputs ले लिए। Brand name उसको मांगना था, उसने मांगने के लिए आप input डालिए। Brand
+
+[02:03:04] and business types में आपकी पूरी list आ गई है कि कौन से type का business है। Right?
+
+[02:03:10] आपका offer क्या है? यह आपका यहाँ पर पूरा लिखा गया है। आपका target audience क्या है?
+
+[02:03:16] आपका primary platform क्या है? Instagram feed है, Instagram story है, Reel है,
+
+[02:03:19] TikTok है। किसके लिए आप बनाना चाहते हो? Right? How details. Content goal क्या है?
+
+[02:03:24] Brand awareness है, आपका engagement करना चाहते हो, lead generate करना चाहते हो,
+
+[02:03:28] sales, education, community building, thought leadership etc.
+
+[02:03:31] Brand voice क्या हो सकती है आपकी? Friendly, bold, professional, playful,
+
+[02:03:37] minimalistic, luxury etc.
+
+[02:03:39] Visual style क्या होना चाहिए? जो image बनेगी, उसका visual style क्या होना चाहिए?
+
+[02:03:43] Minimalistic होनी चाहिए, modern gradient होनी चाहिए, corporate clean होनी चाहिए, 3D
+
+[02:03:48] render style होनी चाहिए या illustrated होनी चाहिए etc.
+
+[02:03:52] Brand color आपका specific है, वह आप डाल सकते हो। Typography font feel आपको कुछ
+
+[02:03:56] चाहिए तो आप यहाँ पर डाल सकते हो। Right?
+
+[02:03:58] Topic or theme of this post। यह आप यहाँ पर डाल सकते हो for example कि Monday
+
+[02:04:03] motivation quote, Wednesday tip of the protein intake। Right?
+
+[02:04:05] For example like this. Things to avoid कि ऐसी कोई चीज है जो avoid करनी है कि जो
+
+[02:04:10] उसमें वह ना करें। यह experience के बाद आपको समझ में आएगा। जब आप करते जाते हो तो
+
+[02:04:14] आपको समझ में आता है कि यह चीज AI कर रहा है तो आप avoid करने लगोगे उसको। Existing
+
+[02:04:18] brand assets for guidelines and inspiration। It is not like just कि यह input आया,
+
+[02:04:22] इस input के basis पर ही अब चलेगा यह। You have the capacity to change the inputs and
+
+[02:04:28] customize the app based on your requirement by customize button। Right?
+
+[02:04:33] So this is the first thing। तो उसके पहले हम इसको test करके देखेंगे ताकि इस चीज को
+
+[02:04:37] हमें समझ में आए कि कैसे करेगा। So इस चीज को मैं अभी सबसे पहले नाम दे दूँ। नाम
+
+[02:04:43] मैं दे रहा हूँ Looha Developer। Right?
+
+[02:04:48] Brand and business type क्या अपना हुआ यहाँ पे? Let's say कि real estate। Right?
+
+[02:04:54] What do you offer? जो मैंने यहाँ लिखा था। So we offer
+
+[02:05:00] premium properties
+
+[02:05:05] in Mumbai
+
+[02:05:08] for--
+
+[02:05:10] right?
+
+[02:05:15] With best
+
+[02:05:18] investment
+
+[02:05:20] opportunity
+
+[02:05:24] for high ROI। Right?
+
+[02:05:27] So this is the one thing। Second, target market कौन है हमारे? Right?
+
+[02:05:32] Premium
+
+[02:05:34] investors। These are our target market in Mumbai।
+
+[02:05:40] Primary platform पर मुझे कौन से platform के लिए चाहिए?
+
+[02:05:42] Let's say for example मेरे को चाहिए अभी के लिए-- इस चीज को change नहीं किया जा सकता
+
+[02:05:46] कि मुझे dropdown देनी चाहिए, मुझे select वाला चाहिए क्योंकि मेरे पास यह भी हो सकता
+
+[02:05:49] है कि मेरे को अलग-अलग platform के लिए चाहिए। तो अभी के लिए मैं इसको रखूंगा
+
+[02:05:54] Instagram feed। ठीक है? Content का goal क्या होना चाहिए?
+
+[02:05:58] Brand awareness, engagement, comments, lead generation, sales promotion, education,
+
+[02:06:02] community building, thought leadership। अब इस चीज को अगर मैं offer दे रहा हूँ कि यह
+
+[02:06:07] है तो मेरा होना चाहिए lead generation, brand awareness and education
+
+[02:06:13] as well engagement। यह सारी चीजें मुझे चाहिए तो मैंने select कर ली। Brand की voice
+
+[02:06:18] क्या होगी मेरी? Brand की voice होगी मेरी let's say कि real estate है तो
+
+[02:06:21] professional authority भी काम आती है, luxury premium भी काम आती है। तो यह भी हम ले
+
+[02:06:26] सकते हैं। Bold and luxury या फिर हम ले सकते हैं
+
+[02:06:31] let's say for example luxury and premium। Right? Visual style हमारा कैसा होगा?
+
+[02:06:35] Visual style हमारा corporate clean, modern gradient shapes, retro, photography
+
+[02:06:39] based। Let's say for example मैं इसको देता हूँ
+
+[02:06:46] photography based या फिर it's okay flat design या ठीक है photography based रख देते
+
+[02:06:51] हैं इसको। Brand के colors क्या हो सकते हैं?
+
+[02:06:54] Like आपका कुछ specific color था, डालिए। पर यह star mark नहीं है कोई यहाँ पे तो अभी
+
+[02:06:57] optional है तो इसको आप कभी भी जोड़ सकते हो। Font type आप ले सकते हो। Font type मैं
+
+[02:07:01] ले सकता हूँ यहाँ पे bold and bold sensory। Topic our theme of the
+
+[02:07:07] post। Right? तो topic and theme of the post यह हो गया कि let's say कि
+
+[02:07:17] investors
+
+[02:07:20] opportunity।
+
+[02:07:23] Right? This could be my topic for
+
+[02:07:27] best ROI
+
+[02:07:31] in real estate
+
+[02:07:35] in Mumbai। Right?
+
+[02:07:39] Things to avoid obviously यह सब चीजें भी optional है तो इसको नहीं fill up कर रहा
+
+[02:07:43] हूँ। It's like an empty space तो इसको मैं as it है रख रहा हूँ। Just take कि first
+
+[02:07:47] outcome यह क्या देता है। Let's click on generate button। That's it। मैंने कुछ
+
+[02:07:50] information दी उसको जो मेरा brand के related थी। उसके बाद I just click on the
+
+[02:07:54] generate button। That's it। Now wait for the output.
+
+[02:08:03] All right
+
+[02:08:08] Okay.
+
+[02:08:10] It's working behind the scenes. Let's wait for the outcome because it's the first
+
+[02:08:14] phase.
+
+[02:08:16] Okay?
+
+[02:08:32] Sorry. It may take some time because
+
+[02:08:38] behind the scenes.
+
+[02:08:41] It's not generalized app.
+
+[02:09:02] Okay. In the meantime,
+
+[02:09:05] observe. Just give me two minutes. Let me share my screen again.
+
+[02:09:10] And just a second.
+
+[02:09:24] Okay. In the meantime, let me show you
+
+[02:09:33] one of the second app,
+
+[02:09:38] but
+
+[02:09:46] because it's still generating, it may take some time.
+
+[02:09:48] So in the meantime, I will show you.
+
+[02:10:04] So I can customize it on my basis.
+
+[02:10:10] for example,
+
+[02:10:13] things to avoid
+
+[02:10:24] And additional instructions . So I will go to the customize section.
+
+[02:10:29] I have this here also. Do not worry about the prompting, do not worry about the
+
+[02:10:33] coding. Just click on this and customize it.
+
+[02:10:39] remove
+
+[02:10:39] this
+
+[02:10:45] inputs
+
+[02:10:49] from my app. First is this and second is generate the
+
+[02:10:55] other things for it. That's it. Just click on Enter.
+
+[02:10:59] When I enter the data-- And you can see, guys, it started thinking.
+
+[02:11:04] In matter of minutes,
+
+[02:11:06] exactly inputs
+
+[02:11:08] from the app.
+
+[02:11:18] So, okay, now see,
+
+[02:11:22] just to confirm. Want me to remove both of the optional field from the input?
+
+[02:11:33] Yes, implement this. That's it.
+
+[02:11:39] You can see now,
+
+[02:11:41] it started thinking, and it will ask for the permission, for the final permission
+
+[02:11:47] before the implementation.
+
+[02:11:50] So let's wait.
+
+[02:12:06] So you can read it out also
+
+[02:12:16] All right, guys, see this. Final changes
+
+[02:12:22] accept and apply. So I just click on this button, Accept and Apply.
+
+[02:12:30] Let's check it out on the Run button. Now let's go to the bottom.
+
+[02:12:36] Okay, see now.
+
+[02:12:38] Now, before it was having
+
+[02:12:42] two options about the additional instructions,
+
+[02:12:47] we have just additional instructions now and the rest of the information
+
+[02:12:52] I hope this is clear. It's super easy to do now.
+
+[02:12:57] All right, so let's check it out. Okay, see,
+
+[02:13:02] outcome, guys. See the screen now.
+
+[02:13:07] And tell me the difference between a generalized app and specialized app.
+
+[02:13:11] You will see the quality of the outcome.
+
+[02:13:14] The first image
+
+[02:13:17] is this powerful? It's not just general image.
+
+[02:13:22] Okay? So this
+
+[02:13:25] let's check it out here.
+
+[02:13:29] But
+
+[02:13:40] so we can do it easily by customize.
+
+[02:13:46] Okay.
+
+[02:13:48] I want
+
+[02:13:51] complete
+
+[02:13:54] seven days social media post with
+
+[02:13:59] captions
+
+[02:14:01] and images.
+
+[02:14:06] In single output. I hope
+
+[02:14:24] You can see this thing
+
+[02:14:27] You can see now
+
+[02:14:29] that's great goal, but it runs into hard platform limitations, obviously.
+
+[02:14:35] AI
+
+[02:14:49] before the call,
+
+[02:14:54] AI
+
+[02:14:56] All over the AI, not just any platform, all over the AI.
+
+[02:14:59] ChatGPT
+
+[02:15:06] Any AI platform
+
+[02:15:17] That is the reason the app is smart enough to understand AI working
+
+[02:15:28] All right, so now
+
+[02:15:31] let's implement this.
+
+[02:15:36] And it implement obviously
+
+[02:15:39] In the meantime,
+
+[02:15:42] this is also an app for the weekly social media post.
+
+[02:15:46] I will show you this demo as well. So let's say the--
+
+[02:15:51] I enter here the input, Loader Developers.
+
+[02:15:56] Let's say
+
+[02:16:00] Let's say
+
+[02:16:02] Indian yoga or Indian
+
+[02:16:08] healthy meal.
+
+[02:16:14] Healthy Meal.com.
+
+[02:16:18] So what they do, we provide
+
+[02:16:21] healthy meals for young Indian
+
+[02:16:28] society
+
+[02:16:31] to stay healthy and fit.
+
+[02:16:37] So brand awareness target audience students.
+
+[02:16:43] Students.
+
+[02:16:46] Brand
+
+[02:16:47] let's say for example, play and-- playful and fun because it's student.
+
+[02:16:51] Visual let's
+
+[02:16:52] say,
+
+[02:16:59] editorial photography. Brand colors optional and we are keeping it optional.
+
+[02:17:03] E-theme for campaign of this week.
+
+[02:17:07] Launching six new
+
+[02:17:12] dishes for the
+
+[02:17:16] students
+
+[02:17:18] With taste and health. This is the theme, for example, कुछ नया
+
+[02:17:24] launch करें। Post की types क्या हो सकती है?
+
+[02:17:28] आपकी let's say for example behind the scenes, engagement questions, before and
+
+[02:17:32] after comparisons, यह आप select कर सकते हो। Call to action क्या हो सकता है?
+
+[02:17:38] Contact for order ले सकते हैं। क्योंकि
+
+[02:17:44] अगर मान लो कोई restaurant है, उस तरह की category है तो it's like a contact for
+
+[02:17:48] order. Size क्या हो सकता है? Size आप ले सकते हो कि portrait आपका 1/1 है。
+
+[02:17:54] Portrait let's say for example मैं इसको 1/1 या portrait में रखा अभी, जो Instagram
+
+[02:17:58] की feed size है। Additional let's keep it empty and click on generate button.
+
+[02:18:02] Let's wait for the outcome now for this particular differently build app with
+
+[02:18:08] the same process. Now see guys, it's working,
+
+[02:18:14] started working
+
+[02:18:17] and generating something.
+
+[02:18:22] In the meantime, let's go to the first app जो हमने changes बोले थे। यहाँ पर apply
+
+[02:18:26] का button दबाना है मुझे। मैंने implement कर दिया।
+
+[02:18:30] Done. My implementation is done. Let's go to the run button.
+
+[02:18:34] अब यहाँ पर inputs में आपको changes नहीं दिख रहे हैं क्योंकि inputs में हमने कोई
+
+[02:18:37] changes करने को बोला नहीं था। हमने बोला था outcome में change करने के लिए। So this
+
+[02:18:41] is the way. And see, on the first app, it started generating the entire content in
+
+[02:18:47] front of you with a very structured format with a day-wise headlines, supporting
+
+[02:18:53] text, visual layout, captions.
+
+[02:18:57] Also with images, it's generating. It's in process. See on the screen.
+
+[02:19:05] और यह पूरी process अगर बताओ हमने कितने time में करी?
+
+[02:19:09] Hardly 15 minutes.
+
+[02:19:12] Hello.
+
+[02:19:14] It's a 15-20 minutes work.
+
+[02:19:17] Breakdown करके अच्छे से करेंगे तो और better हम इसका outcome निकाल सकते हैं।
+
+[02:19:25] Okay.
+
+[02:19:27] So day six तक यह पहुंच चुका है, guys.
+
+[02:19:35] Day seven तक आ चुका है।
+
+[02:19:40] Its weekly
+
+[02:19:42] social media posts obviously day seven तक ही रहेगा। That's it. Done.
+
+[02:19:47] So पूरी content यहाँ पर आ गई है। अब थोड़ा सा ध्यान से पढ़ोगे ना, you will feel the
+
+[02:19:52] difference. Day one - launch announcement.
+
+[02:19:56] Day two - behind the scenes. Day three - before and after comparison.
+
+[02:20:03] उसके अंदर भी चीजें हैं, I am gonna reading it out but आपको समझ में आएगा outlines
+
+[02:20:06] से। Day four - engagement questions.
+
+[02:20:09] Day five
+
+[02:20:11] - आपका campaign features या whatever आपका start होगा, उसके according.
+
+[02:20:16] Day six - behind the scenes and lifestyle.
+
+[02:20:20] And day seven -
+
+[02:20:22] code graphic brand statement.
+
+[02:20:25] So it's a seven-day strategically build entire content की headline यह रहेगी,
+
+[02:20:30] supporting headline यह रहेगी। आपका visual layout, directions क्या होगा, वो यहाँ पर
+
+[02:20:34] लिखा हुआ है। और इसके नीचे यह images भी generate कर रहा है। Let's wait for the
+
+[02:20:38] outcome कि यह क्या-क्या दे रहा है हमें। यह अभी भी generate किया जा रहा है।
+
+[02:20:42] Additional outputs भी इसने नीचे दिए हैं। Let's
+
+[02:20:45] check this out, guys. Additional outputs में इसने day one से लेकर day seven तक सारी
+
+[02:20:50] चीजें हमें दी हैं। Okay. अभी images की हमारे पास आ चुकी है for our seven days
+
+[02:20:55] social media posts along with the content captions and all. See this guys.
+
+[02:21:00] पहली image.
+
+[02:21:02] Is this powerful?
+
+[02:21:05] Second वाली भी देखते हैं। This is the second image for the day two.
+
+[02:21:10] Obviously, it's day two. Right?
+
+[02:21:15] This is the third image before and after.
+
+[02:21:19] Is this powerful?
+
+[02:21:21] See the Pepsi can, it's super real. See the Lays wafer.
+
+[02:21:29] This is the day four में engagement questions. What's your go-to comfort food?
+
+[02:21:36] Students can relate easily ये क्या बोल रहे हैं। Savory or sweet.
+
+[02:21:42] Day five में क्या है? देखिये यहाँ, six new dishes to love.
+
+[02:21:48] So this is the thing.
+
+[02:21:51] Day six and in day six, we have the behind the scenes and lifestyles.
+
+[02:21:56] Eat well, study well, healthy meals for a busy college days.
+
+[02:22:00] Meals starting at just ₹18 a meal. Obviously, यह सारी चीजें easily change हो जाती
+
+[02:22:03] है। आपने content creation वाला academy तो देखा ही होगा, first academy.
+
+[02:22:08] उसमें मैंने यह process बताया है कि edit कैसे करना है। किसी भी element से चीज edit
+
+[02:22:13] हो जाएगी। Foundation अच्छा होना चाहिए आपका। You can see the quality of the images
+
+[02:22:17] you can never find on generalized AI application because it's personalized thing.
+
+[02:22:21] And day seven, this is our final day जहाँ पर हम Saturday and Sunday डाल रहे
+
+[02:22:27] हैं। Imagine a scenario कि यह सातों sequence जो आपके social media जा रहे हैं
+
+[02:22:33] is-- tell me in the reaction in a honest way, is this powerful, not just
+
+[02:22:37] generalized outcome?
+
+[02:22:41] Everyone.
+
+[02:22:46] So
+
+[02:22:49] 15, 20 minutes में क्या-क्या हो सकता है that is the one possibilities that you can
+
+[02:22:54] think in AI. All right, guys. So now I hope that there are
+
+[02:23:00] so many things to do, but obviously it's time up.
+
+[02:23:03] So now I hope that concept आपका clear करना बड़ा
+
+[02:23:09] important होता है जब भी कुछ चीज आपको structure format में बनाते हो और जब आप उसको
+
+[02:23:15] long term vision के साथ बनाते हो तो वो एक important हमेशा रहता है चीज। दूसरा
+
+[02:23:21] application development एक ऐसी चीज है जो
+
+[02:23:27] fact check में करने बोलूंगा आप लोगों को। Fact check यह है
+
+[02:23:32] as if I talk about myself,
+
+[02:23:36] मैं आपको एक eye-opener moment देना चाहूंगा आज। Eye-opener moment क्या है?
+
+[02:23:40] Eye-opener moment यह है
+
+[02:23:44] कि I am not focusing on कि कोई चीज अगर आप
+
+[02:23:48] build कर रहे हो
+
+[02:23:51] और उसका behind the scene mind में
+
+[02:23:55] जो आप thought रख रहे हो just to achieve your own dopamine.
+
+[02:24:03] बड़ी deep line है, guys सुनिएगा। यह चीजें हो रही है सबके साथ तो उस trap में आपको
+
+[02:24:07] नहीं फंसना है।
+
+[02:24:11] चीजें करने की बहुत सी चीजें हैं but skills जो आप सीखते हो रही है हमें।
+
+[02:24:17] Ask yourself a question first
+
+[02:24:21] कि
+
+[02:24:23] am I just building a dopamine in my brain?
+
+[02:24:27] यह मेरे दिमाग में है or I am clear with my outcome in terms of
+
+[02:24:33] business, in terms of monetization, in terms of solving the problem in real world.
+
+[02:24:40] These are two different thing.
+
+[02:24:44] जो सच में business कर रहे हैं AI का, मैं आपको इसकी सच्चाई बताना चाहूंगा, वो
+
+[02:24:49] Instagram के reels में time waste नहीं करते। They know कि उसकी reality क्या
+
+[02:24:53] है। जो सच में business कर रहे हैं they know that
+
+[02:24:59] strategically किस तरह से चीजों को build किया जाता है, जिसमें हमने कई topics इस पूरे
+
+[02:25:04] academy में cover करे हैं। हमारे पूरे program में कई बार हमने इन चीजों के ऊपर focus
+
+[02:25:08] करवाया होगा आपसे।
+
+[02:25:11] Are you agree with us? Hello, everyone. Be honest to us.
+
+[02:25:18] So do not fall into the trap just to build a dopamine in your brain.
+
+[02:25:23] That will not generate income for you. Obviously, that will make you happy.
+
+[02:25:29] But happy से वो income आज आपको कोई guarantee नहीं है until and unless you are
+
+[02:25:33] solving a real problem.
+
+[02:25:35] So your focus should be on solving the problem for others to have a dopamine, not
+
+[02:25:41] you.
+
+[02:25:44] If you are able to build a dopamine into others brain, then you can make a
+
+[02:25:49] business.
+
+[02:25:52] It's very important line for you guys for this entire journey of AI till now.
+
+[02:25:57] It's not finished yet. It's till now.
+
+[02:25:59] So I hope that you got the value of today's class.
+
+[02:26:01] You have understood the concepts, understanding and reality of the market as well
+
+[02:26:07] जो है present in experience with us.
+
+[02:26:12] So thank you so much guys for joining us.
+
+[02:26:14] But before that, let me tell you, tomorrow class is very important because
+
+[02:26:20] tomorrow हम full stack applications के बारे में भी समझेंगे। गौतम sir will be live
+
+[02:26:24] with us and
+
+[02:26:27] obviously there will be some important things to go ahead.
+
+[02:26:31] So thank you so much for joining today's class and इस class के according कल
+
+[02:26:37] afternoon 12 बजे से पहले LMS पर upload की जाएगी। एक चीज मैं जाते-जाते यह बोलना
+
+[02:26:41] चाहूंगा जो most of the questions हमारे पास repeatedly आ रहे हैं, जो common
+
+[02:26:45] questions हैं। LMS पर जब भी आप recording देख रहे हो तो कई students में देख रहा हूँ
+
+[02:26:50] कि lesson one complete नहीं कर रहे या उसका एक reason हो सकता है कि उन्होंने live
+
+[02:26:56] attend किया हो सकता है। तो आपको lesson two open नहीं दिखता है। चले जा रहा है यह
+
+[02:27:04] LMS पर। Lesson one आपका दिख रहा है but lesson two open नहीं दिखता है।
+
+[02:27:11] Meta ads को लेकर लोगों के questions बहुत से थे। इसका reason बड़ा simple है। आपको
+
+[02:27:15] LMS में lesson one में जाना है। उस video के नीचे mark complete का आपको एक button
+
+[02:27:21] मिलता है। उस button को आपको click करना है। अगर आपने वो video पूरा देखा है, वो class
+
+[02:27:26] पूरी attend करी है तो।
+
+[02:27:30] Until and unless आप पूरी class attend करें recording और फिर mark complete का button
+
+[02:27:34] दबाएं and automatically आपका lesson two open हो जाएगा।
+
+[02:27:40] Is it clear now?
+
+[02:27:43] Show me। अगर आप जो भी लोग इस चीज से जूझ रहे थे, आप लोग respond करें ताकि मैं समझ
+
+[02:27:48] पाऊं कि आपको clear हुआ है। अगर नहीं हुआ है तो आप मुझे thumbs down भी कर सकते हो, I
+
+[02:27:52] can understand.
+
+[02:27:57] Okay. So I hope that's clear. So thank you so much, guys.
+
+[02:28:01] See you tomorrow at 8:00 p.m. Be on the sharp time and thank you so much.
+
+[02:28:07] Bye.

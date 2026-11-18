@@ -1,0 +1,96 @@
+[
+  {
+    "course": "00_Orientation",
+    "lesson_index": 1,
+    "title": "Lesson 1 - Orientation ClaimSkills 2.0 By Founders - Complete",
+    "url": "https://lms.claimskills.ai/lesson/1317f996-74c9-475d-8254-d6ed805dacf8",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230650559?api=1&player_id=vimeo-player-1230650559&dnt=1&playsinline=1"
+  },
+  {
+    "course": "01_AI_Content_Creator_Avatar",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI Content Creator & Avatar Academy 2.0 - Complete",
+    "url": "https://lms.claimskills.ai/lesson/1ba1a6bf-495b-42de-bb24-f4a95bc6101a",
+    "resources": [
+      {
+        "name": "Prompts AI CLOTHING COMMERCIAL Professional .pdf \u00b7 4.0 MB",
+        "url": "https://lvfwjfvobtmsneciokrj.supabase.co/storage/v1/object/public/lesson-documents/lessons/1ba1a6bf-495b-42de-bb24-f4a95bc6101a/98f25b1d-cff0-48ec-81ba-10907c71b016.pdf"
+      }
+    ],
+    "vimeo_url": "https://player.vimeo.com/video/1230137874?api=1&player_id=vimeo-player-1230137874&dnt=1&playsinline=1"
+  },
+  {
+    "course": "01_AI_Content_Creator_Avatar",
+    "lesson_index": 2,
+    "title": "Lesson 2 - AI Avatar & Content Creation Academy 1.0 Part 1",
+    "url": "https://lms.claimskills.ai/lesson/6c65df26-278c-4325-b62f-ee7ba74ea722",
+    "resources": [
+      {
+        "name": "ICP Creation Template ICP Creation Template.pdf \u00b7 305 KB",
+        "url": "https://lvfwjfvobtmsneciokrj.supabase.co/storage/v1/object/public/lesson-documents/lessons/6c65df26-278c-4325-b62f-ee7ba74ea722/e6d220d7-5693-4d5d-adf3-529dbfd5b386.pdf"
+      },
+      {
+        "name": "Ai Ads Ai Ads.pdf \u00b7 407 KB",
+        "url": "https://lvfwjfvobtmsneciokrj.supabase.co/storage/v1/object/public/lesson-documents/lessons/6c65df26-278c-4325-b62f-ee7ba74ea722/a150a920-fd92-46a4-abc1-20d071c2ef25.pdf"
+      }
+    ],
+    "vimeo_url": "https://player.vimeo.com/video/1230159717?api=1&player_id=vimeo-player-1230159717&dnt=1&playsinline=1"
+  },
+  {
+    "course": "02_AI_AEO_Optimization",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI/ANSWER ENGINE OPTIMISATION (AEO 2.0) \u2014 PART 1",
+    "url": "https://lms.claimskills.ai/lesson/88592473-d941-4fc8-bb10-6b83e36d6e44",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230140364?api=1&player_id=vimeo-player-1230140364&dnt=1&playsinline=1"
+  },
+  {
+    "course": "03_AI_Marketing_Academy",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI Marketing Academy 2.0 By Gautam Jain & Dipak Jain",
+    "url": "https://lms.claimskills.ai/lesson/486120b0-c451-4ffe-aaf0-1a1e4ddc95ba",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230009846?api=1&player_id=vimeo-player-1230009846&dnt=1&playsinline=1"
+  },
+  {
+    "course": "03_AI_Marketing_Academy",
+    "lesson_index": 2,
+    "title": "Lesson 3 - WhatsApp API AI Academy 2.0 \u2014 Setup & Launch by Dipak Jain",
+    "url": "https://lms.claimskills.ai/lesson/a492fc88-c3c3-4967-992e-307cbe294fcb",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230009845?api=1&player_id=vimeo-player-1230009845&dnt=1&playsinline=1"
+  },
+  {
+    "course": "04_Agentic_AI_Automation",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI Agent & Automation Academy 2.0 \u2014 Live with Dipak Jain",
+    "url": "https://lms.claimskills.ai/lesson/1f5b03bd-8424-42ae-a8ad-e3437f3a0409",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230038807?api=1&player_id=vimeo-player-1230038807&dnt=1&playsinline=1"
+  },
+  {
+    "course": "05_AI_Software_Academy_1",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI SOFTWARE ACADEMY \u2014 PART 1",
+    "url": "https://lms.claimskills.ai/lesson/c7ac5bc4-4e50-4e71-afb5-3e667c78c963",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230038810?api=1&player_id=vimeo-player-1230038810&dnt=1&playsinline=1"
+  },
+  {
+    "course": "06_AI_Software_Academy_2",
+    "lesson_index": 1,
+    "title": "Lesson 1 - AI SOFTWARE ACADEMY \u2014 PART 1",
+    "url": "https://lms.claimskills.ai/lesson/6ba5ca78-b8b6-4f33-a837-ab7564cba7d8",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230038810?api=1&player_id=vimeo-player-1230038810&dnt=1&playsinline=1"
+  },
+  {
+    "course": "07_AI_Specialist_Bootcamp",
+    "lesson_index": 1,
+    "title": "Lesson 1 - Full day AI Specialist Bootcamp 2.0 - PART 1",
+    "url": "https://lms.claimskills.ai/lesson/b26ae265-36fd-47b7-aeff-b7ef886f8804",
+    "resources": [],
+    "vimeo_url": "https://player.vimeo.com/video/1230654060?api=1&player_id=vimeo-player-1230654060&dnt=1&playsinline=1"
+  }
+]

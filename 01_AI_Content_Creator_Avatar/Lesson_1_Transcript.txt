@@ -1,0 +1,3918 @@
+# AI Avatar & Content Creation Academy 2.0
+Course: 01_AI_Content_Creator_Avatar
+Vimeo ID: 1230137874
+Track: English (auto-generated)
+Total Words: 23882
+================================================================================
+
+[00:46] Good evening everyone. Am I audible?
+
+[00:52] Just show me a big thumbs up.
+
+[00:56] I am super excited for today's class.
+
+[01:00] Just show me a big thumbs up, everyone, and please open the video camera.
+
+[01:06] Everyone, hi. Hello, everyone. I am able to see all of you. Can you see me?
+
+[01:13] Just give me a thumbs up. All good. Thank you so much for the great energy in the
+
+[01:17] room. I like this. Thank you so much. All good.
+
+[01:21] I request everyone, जितने भी लोग हैं, सभी अपने camera on करें। Not for me, it's for
+
+[01:27] you. Obviously, it's for your attention, it's for your presence of mind.
+
+[01:33] Camera के पीछे आपका ही नहीं रहेगा, you know better than me. All good guys.
+
+[01:38] Thank you so much for the great energy in the room, and obviously, people are
+
+[01:41] joining still but we have the time. Let's start the session.
+
+[01:45] How many of you are excited for today's class?
+
+[01:48] Are you excited?
+
+[01:50] Let me picture my screen.
+
+[01:54] Thank you so much.
+
+[01:57] All good, guys. Thank you so much.
+
+[02:00] Okay, without wasting any more time,
+
+[02:08] let's start the session on time so that we can finish it on time.
+
+[02:14] Perfect.
+
+[02:15] So first of all, let me welcome to the first class of
+
+[02:21] Flameskills.ai, AI Specialist 2.0.
+
+[02:25] Maybe आप में से कुछ लोग होंगे जो 1.0 batch भी attend कर चुके होंगे। आप में से कई
+
+[02:30] लोग होंगे जो हमारे पुराने 1.0 batch को भी attend किए होंगे, and आपने 1.0 की भी
+
+[02:36] content creation की academy attend करी होगी। Make sure.
+
+[02:41] अगर आप में से कोई लोग recent हैं जिन्होंने 2.0 में ही enrollment की है in the month
+
+[02:45] of August, so no worries, guys. इसके लिए आप लोगों के लिए भी एक मैं good news दूंगा
+
+[02:50] at the end of the class so that you can avail
+
+[02:55] both benefits. So thank you so much.
+
+[02:59] But make sure you stay till the end because
+
+[03:03] today's topic is highly creative topic.
+
+[03:07] AI अपने आप में एक creative world है, और AI के अंदर content एक अपने आप
+
+[03:13] में highly creative world है।
+
+[03:17] So make sure you attend fully. Do not skip in between,
+
+[03:23] until and unless कोई genuinely कोई logical या genuine reason आया आपके पास कि नहीं
+
+[03:27] जाना ही पड़ रहा है। Obviously, यह call record हो रहा है, इसकी recording कल in the
+
+[03:32] afternoon till afternoon team LMS पर upload कर देगी। But इसका मतलब यह नहीं कि हम
+
+[03:37] live attend ना करें। हमें यह समझना है because we are not teachers, as you know, we
+
+[03:43] are the actual founders building the AI startups and scaling them to globally from
+
+[03:47] scratch.
+
+[03:49] So teachers तो चलो सिखा के चले जाते हैं, but जो लोग खुद चीजें implement कर रहे हैं,
+
+[03:55] कोई चीज सीख के कुछ चीज implement कर रहे हैं, उस चीज का business already लोग बना रहे
+
+[03:59] हैं। उसका एक factor मैं आपको देना चाहूंगा। वह यह factor है कि सिर्फ सीखने के
+
+[04:05] mindset से नहीं हमें लेना है इस चीज को। जो भी आज आप सीखोगे, आज आपका पहला दिन आप समझ
+
+[04:10] लीजिए।
+
+[04:13] आपको किसी भी चीज को किस perspective से देखना चाहिए, यह मैं आपको पहले guide करूंगा।
+
+[04:18] फिर मैं main topic पर भी आऊंगा। But make sure यह वाली जो knowledge है, यह बहुत
+
+[04:23] important है आपके लिए।
+
+[04:25] आप जो भी सीखोगे in entire AI Specialist 2.0 program, हर एक चीज
+
+[04:31] को business के angle से जरूर देखें।
+
+[04:36] Business के angle मतलब-- दो मैं example दूंगा, आपका mind clear हो जाएगा इसमें। एक
+
+[04:41] वह चीज कि मुझे सीख के खुद के लिए सिर्फ वह एक, you know कि मैंने सीख लिया और
+
+[04:47] एक dopamine generate हो रहा है brain में। Wow! मैंने भी यह कर लिया। Wow!
+
+[04:51] मैंने भी वो कर लिया। मैंने भी video बना लिया। मैंने भी UGC ads बना लिए। मैंने भी
+
+[04:56] hyper realistic content बना लिया। तो यह चीजें खुद को तो dopamine देता ही है।
+
+[05:01] Dopamine you know that, happy molecules.
+
+[05:05] AI में आप कुछ भी करोगे, आपको happy molecule मिलने वाला है। I hope यह बात तो आप
+
+[05:09] agree करोगे। But what is my point here?
+
+[05:12] My point is we are not here to teach you how to generate happy molecules.
+
+[05:18] Happy molecules in some are dopamine.
+
+[05:20] We are here to teach you how to create an
+
+[05:26] outcome in form of income. Are you getting the point?
+
+[05:30] दोनों में बड़ा difference है।
+
+[05:33] Business का outcome लाना, उस mindset से सीखना, अलग mindset होता है।
+
+[05:40] सीखने के लिए कि अरे चलो ठीक है, 999 दिया है, attend करना ही है। यह mindset से कभी
+
+[05:45] कोई outcome नहीं आएगा। Make sure because we are into AI since three and three and a
+
+[05:50] half years. हजारों लोगों से हमारी globally one-to-one हुई है। हजारों meetings हम ले
+
+[05:55] लिए हैं in the last 20 years in marketing, training and leadership, last 3 years से
+
+[06:00] AI में। We know that human mind का behavior कैसा होता है जब भी कोई चीज सीखने जाता
+
+[06:05] है। It's not first time we are conducting any big events.
+
+[06:09] We have already conducted 30-30,000 gathering events also in India.
+
+[06:13] So the point is
+
+[06:15] you-- whatever I am trying to say यह आपके लिए बोल रहा हूँ, not for me.
+
+[06:20] So take it very carefully, take it very seriously and be attentive, obviously.
+
+[06:23] यह call मैं कोशिश करूंगा कि 10:00 बजे तक खत्म करूं because I know that
+
+[06:29] काफी सारी चीजें मुझे आप लोगों को बतानी हैं, दिखानी हैं। Obviously practicals भी
+
+[06:33] करके दिखाऊंगा so it will be exciting for you.
+
+[06:36] But obviously, as much as I can cover in today's call that I will cover, जिसमें
+
+[06:42] आपकी एक complete understanding आ जाए in content creation क्या हमें follow करना
+
+[06:48] है।
+
+[06:50] दूसरा मेरा यह point है आपसे
+
+[06:52] कि
+
+[06:54] इस चीज को अगर best सीखना है, content creation को अगर AI से अगर best सीखना है,
+
+[07:00] तो सबसे पहली चीज आपको यह समझनी होगी कि अगर मैं आपको एक चीज generate करके बता रहा
+
+[07:06] हूँ, for example, मैं एक चीज generate करके बता रहा हूँ, वह चीज तो आप समझ जाओगे।
+
+[07:12] But उससे आपका agency या business शुरू नहीं होगी। You have to become flexible in
+
+[07:16] your skills. Obviously. दुनिया का कोई भी trainer किसी एक
+
+[07:22] particular class में content creation, AI content creation cannot cover.
+
+[07:27] It's a very big, very wide, very creative subject.
+
+[07:31] It's upon us कि हम कितना दिमाग लगा रहे हैं, हमारी creativity क्या है। Obviously.
+
+[07:37] As we believe before artificial intelligence, there is a human intelligence that
+
+[07:40] controls the artificial intelligence.
+
+[07:42] So here it applies the same कि हमारा creative brain कितना अच्छा है,
+
+[07:48] उतना better आप creative tools को use कर पाओगे, उतना better आपकी outcome आएगी। I
+
+[07:53] hope you are getting the point.
+
+[07:56] So make sure that आप
+
+[08:01] यह चीजें ध्यान में रखें सारी and
+
+[08:04] without wasting the time let's start the session.
+
+[08:08] Starting का कुछ मैं आप लोगों को theory समझाऊंगा, जिसमें आपको यह समझना है सबसे पहले
+
+[08:14] कि-- हाँ, एक और point जो मेरा यहाँ पर point मैं highlight करना चाहूंगा
+
+[08:21] how you can become excellent in AI content creation that nobody
+
+[08:26] is teaching in India and globally this actual practical insights जो एक insight
+
+[08:32] secret है, जो जितने भी लोग सिखा रहे हैं उनके brain में। That you have to
+
+[08:37] understand. अगर वह चीज आपने पकड़ ली ना, तो आपका दिमाग अपने आप में एक engine बन
+
+[08:43] जाएगा। You become your self. आपके level पर आप भी लोगों को सिखाने के mindset से,
+
+[08:49] उस mindset पर आ जाओगे। I hope. How many of you are in the same frequency with me?
+
+[08:54] अब तक मैं जो बोल रहा हूँ I have to make sure कि मैं समझू चीजें ताकि मैं-- you know,
+
+[09:00] great
+
+[09:02] You are on the same page. Are you getting the point? Thank you.
+
+[09:06] I am trying to make it very easy,
+
+[09:09] ताकि सभी लोगों के mind में समझ में आए।
+
+[09:14] So, what is the engine जो अगर हमें चलना start हो जाए
+
+[09:20] so we can understand कि हम बाकी चीजों पर भी इस तरह से इस चीज का use कर सकते हैं।
+
+[09:26] So the second point जो मैं बता रहा हूं यह है कि AI content creation
+
+[09:32] in itself-- अगर मैं AI की बात करूं।
+
+[09:38] अगर मैं तीन महीने पहले या चार महीने पहले लिख देता तो, आज से चार महीने पहले थोड़ा सा
+
+[09:45] तरीका अलग था। Obviously, उसकी भी training हमारी हो रखी है। वह recording हम सब लोगों
+
+[09:49] को देने वाले हैं। आपके LMS पर कल आ जाएगी। जो 1.0 के हैं उनको तो मिल ही गई है। 2.0
+
+[09:55] वालों को भी हम देंगे। Make sure उसकी में चीजें क्या हैं, उसके अंदर हम से क्या cover
+
+[09:59] है, मैं last में बताऊंगा। Second, हमें समझना क्या है?
+
+[10:03] हमें समझना है the process.
+
+[10:07] Are you getting the point? क्या ऐसा standard process है जिसको अगर we follow करें,
+
+[10:12] जिससे हमें quality outcome आए।
+
+[10:15] Make sure यह आप ध्यान से समझिए।
+
+[10:18] Outcome लाना आज की date में कोई बड़ी बात नहीं है। You already have ChatGPT। आप सब
+
+[10:23] लोगों के पास होगी, majority of you। आप सब लोगों के पास Gemini वाला भी app होगा। आप
+
+[10:28] सब लोगों के पास Claude वाला भी app होगा। In mobile itself, आप Chrome browser में भी
+
+[10:34] login करके देख सकते हैं। But what is the difference?
+
+[10:38] जो लोग business कर रहे हैं, जो लोग नहीं कर पा रहे हैं, difference है quality।
+
+[10:43] Are you getting the point?
+
+[10:45] So, quality outcome लाने के लिए क्या process है, वह हमें अगर समझ में आ गई,
+
+[10:52] उसमें आप कितनी भी creativity add कर रहे हो that will make you versatile in content
+
+[10:57] creation.
+
+[11:00] अगर यहां तक clear है तो give me a big thumbs up, guys। Honest रहना मेरे साथ ताकि
+
+[11:04] मैं समझ पाऊं कि मैं सही तरह से पढ़ा पा रहा हूं आपको and you are understanding the
+
+[11:08] right way।
+
+[11:10] Thank you so much. Thank you so much, guys.
+
+[11:13] So let me clear you first कि how and what are the
+
+[11:19] processes, then we will obviously see some demos। मैं कुछ आपको अपनी तरफ से
+
+[11:24] foundational prompts भी दूंगा, जो आपको beginning में काम आएंगे। आप trial and test
+
+[11:30] कर पाओगे चीजों को। क्योंकि Gemini is free, ChatGPT is free, Claude is free।
+
+[11:35] Starting में आप उसको use कर सकते हो। Some case में शायद वह लोग paid version
+
+[11:40] required मांगते हैं to generate some additional stuff। Obviously, उनको भी खर्चा
+
+[11:45] लगता है, तो वह लेंगे ही आपसे। Simple सी बात है। So nice.
+
+[11:49] ठीक है। Let me share my screen first and focus on the screen now.
+
+[11:57] Just a minute.
+
+[12:13] Okay.
+
+[12:17] Number one।
+
+[12:19] थोड़ा सा इसको हम ध्यान से समझेंगे। 15-20 minute का, maximum आधे घंटे का हम theory
+
+[12:24] cover कर रहे हैं पहले, ताकि outline हमारी clear हो जाए पहले। book जब हम पढ़ते हैं,
+
+[12:29] book पढ़ने से पहले हम outline पढ़ते हैं। Table of content.
+
+[12:32] ताकि book का अल्हडा मिल जाता है। तो हमें outline clear करनी है। फिर हम one by one
+
+[12:37] चीजों को भी देखेंगे। Execute करके भी बताएंगे, process भी बताऊंगा मैं, step by step.
+
+[12:43] मैं आप सभी लोगों को साथ में चलकर--
+
+[12:49] we are all together. आप में से कुछ लोग होंगे जो काफी अच्छे से कर रहे होंगे कुछ
+
+[12:52] चीजें। I appreciate that. But आप में से कुछ लोग होंगे जो शायद beginner होंगे। So I
+
+[12:56] am the person जो साथ में लेकर चलेगा ताकि मैं वो चीजें easy way में starting to end
+
+[13:01] दिखाऊं, ताकि सबको सब समझ में आए। I hope this makes sense.
+
+[13:07] All good. So now the number one thing कि AI content creation में क्या ऐसे
+
+[13:13] platforms हम use करें जो हमें मदद करें और हमें वह required
+
+[13:19] होंगे उस process को outcome तक पहुंचाने के लिए। The number one page जो मैं screen
+
+[13:24] पर share कर रहा हूं। Serious. So number one is-- और उसके
+
+[13:30] process सिर्फ नहीं समझनी है। हमें यह भी समझना है कि
+
+[13:34] कौन सी चीज कहां apply करनी है। वह भी थोड़ा सा दिमाग-- आपका सारा focus अभी screen पर
+
+[13:38] रखिएगा, guys। नहीं तो यह चीजें ऊपर से भी जा सकती है। थोड़ा सा ध्यान से समझिएगा।
+
+[13:46] पहली चीज है हमें AI के foundation को यह समझना होगा कि पूरे world में
+
+[13:52] AI की अगर हम बात करें तो what is exactly AI?
+
+[13:57] यह route आपको clear होगा ताकि वहां से हम सारा clear हो जाए। सारी dots connected है।
+
+[14:00] Be with me. What is exactly AI? If I ask this question तो इसका honest
+
+[14:06] answer अगर मैं देना चाहूं कि AI is not any platform.
+
+[14:13] AI is not any software.
+
+[14:16] AI का full form ही यह चीज बता रहा है कि AI is the
+
+[14:21] intelligence, artificial intelligence.
+
+[14:25] So the word यह दिमाग में रखिएगा intelligence.
+
+[14:30] एक चीज मैं आपको अभी feel करवा रहा हूं जो शायद आपको-- पता नहीं आप लोगों ने उस चीज को
+
+[14:35] उस तरह से देखा नहीं है, but वो चीज उस तरह से देखना start करोगे तो उस तरह से आपका
+
+[14:39] using का जो vision है, जो सोच है वह limitless हो जाएगी।
+
+[14:45] Think about it like a-- कोई इंसान है जिसने PhD level की degree
+
+[14:50] लेकर life में बहुत बढ़िया कर लिया है। He is a highly successful people. Any person.
+
+[14:55] Think about it. Obviously, उसका intelligence level अच्छा होगा तभी तो वो कर पाया।
+
+[15:02] match कर रही है बातें। Same.
+
+[15:05] Artificial intelligence.
+
+[15:09] Artificial intelligence knew everything जो market में, दुनिया में
+
+[15:15] generalize available है, internet पर available है, news में available है।
+
+[15:21] उसको सब पता है। अब question यह है कि what is exactly AI?
+
+[15:26] ChatGPT है, Gemini है, Hexfield है, Agent है, Claude है। कौन AI है?
+
+[15:31] AI की foundation है LLM।
+
+[15:37] Large Language Model.
+
+[15:40] Get it?
+
+[15:43] Why it called large language model basically?
+
+[15:46] Basically, इसको large language model इसलिए बोला जाता है क्योंकि intelligence को जो
+
+[15:50] data चाहिए था, knowledge चाहिए होता है। इंसान के पास knowledge कहां से आता है?
+
+[15:54] बाहरी चीजों से आता है। Books पढ़ता है,
+
+[15:57] learning में invest करता है, courses खरीदता है। यह सब कर-कर कर जितना-जितना जिसने
+
+[16:03] ज्यादा invest करा होगा उतना data उसके पास ज्यादा होगा दिमाग में, उतना better वह
+
+[16:07] intelligence कहलाता है। Same with AI.
+
+[16:11] LLMs को एक तरह से models भी कहा जाता है। तो यह जो models है इनकी
+
+[16:16] intelligence भी अलग-अलग होती है। Now think deeply. ChatGPT is the LLM.
+
+[16:23] Gemini is the LLM. Hexfield is not the LLM.
+
+[16:26] Hexfield is the platform which is using the LLMs in the backend. Clear?
+
+[16:32] Agent is also not the LLM. He is also using some different LLMs in the backend।
+
+[16:39] Combination use करके वह सारी चीजें दिमाग अलग level पर रखता है। And Claude is also
+
+[16:44] the LLMs. और यह तीन नहीं है। अभी यहां पर पांच में से तीन LLMs है। But ये तीन LLMs
+
+[16:49] नहीं है दुनिया में सिर्फ। दुनिया में China
+
+[16:53] के पास भी बहुत से LLMs है। Kimi 3 and all this stuff like DeepSeek और बहुत सारे
+
+[16:59] names मिल जाएंगे आपको। आप simple ChatGPT को भी say कर दो give me a list of entire
+
+[17:02] LLM list, entire LLM models all over the world। आपको list मिल जाएगी। It's very
+
+[17:06] simple. मैं इस पर time ज्यादा नहीं दूंगा। आप समझ पा रहे हो मेरा। But these are the
+
+[17:11] LLMs, Large Language Model। यह intelligence का base है।
+
+[17:16] Now I hope यह clear हो रहा है। अब intelligence का base अगर है तो किसी की कोई चीज
+
+[17:22] अच्छी होती है। Intelligence में भी, इंसान में भी होता है। अगर कोई दोनों PhD user
+
+[17:28] है, दो PhD holder है, किसी की कुछ strength होगी, किसी की कुछ weakness होगी।
+
+[17:34] Depend कि उसका knowledge कैसा है, इसका knowledge कैसा है, इसका experience कैसा है,
+
+[17:38] इसका experience कैसा है। Same। Models में भी अपनी कुछ
+
+[17:44] strengths है, अपनी कुछ weaknesses है। Let me guide you that जो foundation आपका
+
+[17:49] clear होगा तो देखने का नजरिया आपको समझ में आ जाएगा कि कौन सी चीज कहां ज्यादा हम use
+
+[17:54] करें तो वह ज्यादा better result देगा हमें। ठीक है। If I ask about ChatGPT--
+
+[18:00] content creation में हमने यह चीजें जो सामने करके screen पर, यह most of the people
+
+[18:04] जो बड़े-बड़े agencies है वह use करते हैं आज की date में content creation ऐसे करने
+
+[18:09] के लिए। Number one is ChatGPT. If I talk about ChatGPT
+
+[18:16] In my personal experience as well, it's not like that I am just writing it here.
+
+[18:21] Idea generation, prompt generation, scripts and storyboards,
+
+[18:28] इन सब में ChatGPT की intelligence बहुत बढ़िया है।
+
+[18:33] Clear?
+
+[18:35] Second, अगर मैं बोलूं क्या इसकी strength है?
+
+[18:37] इसकी strength है image generation, जो भी recently दो-तीन महीने पहले updates आए थे।
+
+[18:42] इसका एक चीज और बता दूं। यह हम आज बात कर रहे हैं 2026 में। It doesn't
+
+[18:48] mean कि आज अगर यह चीज मैं बता रहा हूं, यही चीज रहेगी। हर model की strength यही
+
+[18:52] रहेगी, हर model की weakness यही रहेगी। Every model is continuously updating.
+
+[18:57] In every day, in every month, every week.
+
+[19:00] वो continuously update हो रहा है। Model change हो रहा है, upgrade हो रहा है। जैसे
+
+[19:03] एक बच्चा बड़ा होता है, उसका intelligence बड़ा होता है ना। उसकी maturity बढ़ती है।
+
+[19:08] Same with this intelligence. It's just like a three and a half years of artificial
+
+[19:13] intelligence baby, we all have in all over the world. So it's still growing.
+
+[19:18] इसकी intelligence दिन ब दिन बढ़ रही है क्योंकि data बढ़ रहा है। लोग use कर रहे हैं
+
+[19:22] तो data और मिल रहा है। So ChatGPT is basically the point number one is ChatGPT is
+
+[19:26] basically great in ideas, prompting, scripting, storyboard,
+
+[19:33] video scripts। इसमें बहुत बढ़िया इसका outcome आता है। Okay?
+
+[19:39] Second, if I talk about Google Gemini.
+
+[19:42] Google Gemini है, यह Google का product है। ChatGPT obviously OpenAI का product है।
+
+[19:47] Google Gemini के अगर बात करूं तो it's very good at photo generation.
+
+[19:53] If I talk about ChatGPT and Google Gemini, दोनों ही photo generation में अच्छे हैं
+
+[19:57] वैसे आज के date में। But at some point, Gemini is giving better
+
+[20:03] outcomes. जब हम बड़े level पर चीजें करना start करते हैं ना, जब हम बहुत से photos
+
+[20:08] create करते हैं दोनों चीजों पर, तो हमें समझ में आता है कि यह थोड़ा ज्यादा
+
+[20:11] intelligent है। यह mistake कम करता है, यह mistake ज्यादा करता है। Similarly, if I
+
+[20:17] talk about the third LLM in this slide, which is Claude。
+
+[20:23] अब Claude की अपनी strength क्या है?
+
+[20:25] Claude की भी अपनी एक strength है कि it's very good at
+
+[20:31] the
+
+[20:33] code generation। Coding के लिए use किया जाता है इसका आज के date में, जिसमें जो भी
+
+[20:38] engineers आज के date में हैं, जिनका time बच रहा है, जो code वो बड़े-बड़े time दे
+
+[20:43] देते थे, वो थोड़ा fast हो गया उनका काम।
+
+[20:46] Claude is also very good at scripting.
+
+[20:50] But इसको आप थोड़ा सा इस तरह से समझिए, यह inside knowledge आपको समझ में आएगी मेरी
+
+[20:55] बात।
+
+[20:57] Claude ने अभी recently दो दिन पहले Fable 5.1 launch किया,
+
+[21:03] जो कि दुनिया का सबसे intelligence models माना जाता है। यह वो claim कर रहा है। We
+
+[21:08] are not claiming it.
+
+[21:11] But obviously इसमें intelligence है comparatively जो बाकी सारे models हैं, but वो
+
+[21:14] intelligence किसकी ऊपर है? मतलब क्या strength के ऊपर है?
+
+[21:18] Which is the coding related mostly, complex tasks and coding related stuff.
+
+[21:24] Clear?
+
+[21:26] So what is the weakness then? Weakness पर हम बात करते हैं अभी। What is the
+
+[21:30] weakness? Weakness if I talk about the Claude, Claude is not built for image
+
+[21:36] generation until and unless आप दूसरी third party tool को उससे integrate ना कर दो।
+
+[21:43] Clear?
+
+[21:45] Gemini is not primarily built for coding.
+
+[21:53] ChatGPT it's also a good in coding.
+
+[21:57] इसका Codex करके एक और product है, ChatGPT Codex। उसमें वो better है
+
+[22:03] which is beating the Claude code.
+
+[22:07] One second. Now let me ask you because it's very important.
+
+[22:15] Let me stop the screen for a second and let me ask you, यहाँ तक how many of you got
+
+[22:20] here on the same page? Show me a big thumbs up.
+
+[22:25] Strength, weakness समझ में आ रही है। LLMs क्या होता है वो समझ में आ रही है। और अभी
+
+[22:29] हम साढ़े तीन साल के baby से ही काम चला रहे हैं, वो भी बहुत बढ़िया चल रहा है।
+
+[22:43] Guys, just a second. Okay,
+
+[22:47] thank you so much, guys. Thank you so much.
+
+[22:53] We are just 1000 people in
+
+[22:56] the
+
+[23:18] room, basically. So we are streaming it on YouTube on the private screen for the
+
+[23:24] people who are not able to join. So thank you so much, guys.
+
+[23:28] So now
+
+[23:31] the next screen.
+
+[24:17] Now,
+
+[24:19] before this,
+
+[24:22] let me ask you.
+
+[24:24] When we create any kind of images-- सबसे पहले हम images में समझेंगे। फिर हम videos
+
+[24:29] के section में जाएंगे। Step by step हम समझेंगे ताकि clear हो जाए। ऊपर से ना जाए कोई
+
+[24:32] चीज। जब भी कोई चीज हम create करते हैं ना, make sure that उसकी
+
+[24:38] purpose हमें पता हो।
+
+[24:40] Right? कि क्या purpose है उस चीज का, कि वो किसके लिए बनाई जा रही है। किसके लिए in
+
+[24:44] the sense of उसकी position क्या है, कौन से platform पर post होगा। Let's say, for
+
+[24:48] example, social media के लिए बनाई जा रही है या Meta Ads के लिए बनाई जा रही है। Meta
+
+[24:52] Ads obviously you know that. आप में से कई लोगों को idea होगा Meta Ads क्या होता है।
+
+[24:56] आप लोगों को नहीं पता है, मैं बता दूं। Instagram, Facebook, WhatsApp ये तीन platform
+
+[25:00] Meta के हैं और उसके ऊपर तीनों platform पर ads कैसे चलाने हैं, ये class भी हम आने
+
+[25:06] वाले time में cover करने वाले हैं। Agency level setup कैसे होगा, वो सारी बाद की बात
+
+[25:09] है। But make sure that Meta Ads
+
+[25:13] पर जो ads चलती हैं ना, वो ads का content का psychology अलग होता है और general
+
+[25:19] social media post की psychology अलग होती है। Clear?
+
+[25:23] So majority people
+
+[25:29] को ज्यादा दिया जाता है पैसा जो Meta Ads के creative बनाने के expert होते हैं
+
+[25:33] because इसका reason simple है। Social media post करके देना आज के date में it's not
+
+[25:39] a big deal because आज के date में AI से वो easily बन जाते हैं post। But social
+
+[25:44] media से businesses उतने नहीं आते हैं जितना Meta Ads चलाके आते हैं।
+
+[25:50] Business का root क्या है? Business के root हैं leads.
+
+[25:55] So Meta Ads के लिए जो creative लगती है, वो थोड़ी psychology अलग होती है उसकी। मैं
+
+[26:00] बताऊंगा वो उसका psychological factor क्या है ताकि आप वो चीज relate कर पाएं। और उस
+
+[26:06] psychology के experts जो होते हैं ना,
+
+[26:12] they are charging more for creating the content.
+
+[26:17] Getting it? Because वो creative के ऊपर depend रहता है। जो भी आपका business
+
+[26:23] client है, वो fund invest करने वाला है Meta Ads में वो creative के साथ। तो जितना
+
+[26:28] आपका powerful creative होता है ना, उतना कम उसको fund invest करना पड़ता है और उतने
+
+[26:33] कम fund में उनको ज्यादा से ज्यादा leads मिलती हैं। Basically, the science behind
+
+[26:36] that है कि पैसा बचाना client का भी और आपकी तरफ से quality output
+
+[26:42] मिलना। So now
+
+[26:45] what is the
+
+[26:49] psychology? The psychology is very simple.
+
+[26:55] In any winning creative,
+
+[26:59] जो winning है-- winning का definition यह हो गया कि
+
+[27:03] cost per lead करके एक term है। जो सारी चीज आपको याद रखनी है। देखो, पूरी batch है ना
+
+[27:08] connected है। Dots सारे connect होंगे आपके। So make sure you focus.
+
+[27:12] Meta Ads वाले class में सारी चीज आपको याद आ जाएगी जो मैं बोल रहा हूं अभी। Cost per
+
+[27:16] lead करके एक term है जो Meta Ads चलाने के बाद आपको समझ में आता है कि
+
+[27:22] एक lead generate करने का क्या cost पड़ रहा है आपके case में।
+
+[27:26] तो वह cost per lead कम से कम कैसे आए?
+
+[27:31] is equal to कम से कम तो आए but ज्यादा से ज्यादा quality leads भी आए।
+
+[27:38] वह कब होगा? इसका मैं आपको practical experience बताता हूं।
+
+[27:42] एक imagine करो कि एक ऐसा creative है। आप सब लोग Instagram use करते हो for sure
+
+[27:47] definitely इस बात की मुझे कोई doubt नहीं है। Facebook भी use करते ही होंगे। Right?
+
+[27:52] So make sure that आप जब भी खोलते हो यह platforms को, there is a sea
+
+[27:58] of ocean of content always available for you.
+
+[28:02] Always new, always fresh, always available, endless.
+
+[28:07] अब imagine करो कि इतने बड़े content के sea में आप scroll up कर
+
+[28:13] रहे हो। Just imagine a small movement.
+
+[28:15] You are scrolling
+
+[28:17] up. And what happens suddenly कि you just stop your finger.
+
+[28:23] क्यों? उसके तीन factor होते हैं। अब यह ध्यान से समझो आप।
+
+[28:29] तीन factor की वजह से इंसान के अंगूठे का thumb रुकता है या नहीं रुकता है,
+
+[28:35] यह समझ में आता है। वो तीन factor हैं scroll stopping hook line that relates with
+
+[28:41] you.
+
+[28:43] Scroll stopping visuals
+
+[28:47] that can make sense with the hook line
+
+[28:51] and call to action button जिसका short form है CTA.
+
+[28:56] CTA. क्या होगा आगे? Action लिया जाना है। Attention तो लाना पहला stage है। Attention
+
+[29:02] लाने के बाद action दिलाना दूसरा stage है।
+
+[29:07] Right? कि learn more पर click करके वो landing page पर तो आए at least.
+
+[29:11] clear हो रहा है सबको?
+
+[29:13] So अब बात हम कर रहे हैं कि वो visuals की तीन factor हैं यहां पर। So just scroll
+
+[29:17] stopping hook line the number one.
+
+[29:20] The strong headlines, curiosity, problem and desire in the first line.
+
+[29:25] The second is visuals on attentions.
+
+[29:28] अब ये तीन चीजें कैसे psychologically connected हैं, यह neuroscience से connected
+
+[29:31] है, मैं समझा दूंगा कैसे। इंसान जब decision लेता है-- हम life में हर रोज decision
+
+[29:36] लेते हैं
+
+[29:38] but हम कभी उसको decision word नहीं बोलते। मैं आपको बताता हूं कैसे। आप लोगों को यह
+
+[29:43] Zoom meeting मिली होगी, right? आप लोगों को शायद email में मिली होगी। आप लोगों को
+
+[29:46] शायद WhatsApp community में मिली होगी या WhatsApp में मिली होगी। जब मिली, उस moment
+
+[29:52] पर आपने decision ले लिया था ना कि connect होना है।
+
+[29:56] That was also a decision. Similarly, a practical example जब आप Instagram पर ad चला
+
+[30:01] रहे हो, आपके client की ad चल रही है, creative आपने बना के दिया है।
+
+[30:05] Why will people stop? तो वो तीन factor होते हैं। एक तो ये तीन बता दिए, एक
+
+[30:10] psychological तीन factor हो गए। इंसान decision लेता है तीन चीजों के basis पर जब
+
+[30:13] उसको believe हो जाए। कुछ लोग सुनने पर विश्वास रखते हैं। सुनाई
+
+[30:19] गई बातों को सुनके decision लेते हैं। वह एक category इंसान की होती है auditory
+
+[30:24] category. They are auditory persons.
+
+[30:28] Auditory वो लोग होते हैं जो अगर सुन ली कोई चीज तो उसी पर trust करके decision बना
+
+[30:34] लेते हैं। दूसरी category में है कुछ लोग ऐसे होते हैं जो visuals में believe
+
+[30:40] करते हैं। Getting the point? देखी हुई चीजों में believe करते
+
+[30:45] हैं। Right? So second category के लोग होते हैं जो देख रहे हैं कोई
+
+[30:51] चीज, "हां भाई देख लिया, मैंने देख लिया", उस चीज पर decision लेते हैं। ये सबका
+
+[30:56] अपना-अपना by nature होता है, अलग-अलग होता है। हमारी grown up case भी उस पर depend
+
+[30:59] करता है। हमारा brain इस तरह से काम करता है। तीसरे वो लोग होते हैं जो बोला जाता है
+
+[31:04] उनको kinesthetic in term of scientific word.
+
+[31:07] Kinesthetic मतलब वो देखते भी हैं, सुनते भी हैं but उससे decision नहीं लेते।
+
+[31:13] Decision लेते हैं उनकी gut feeling से।
+
+[31:17] vibe कैसी आ रही है, वो देखने के बाद।
+
+[31:20] Clarity कितनी है? Understanding दिमाग में कितनी अच्छे से बैठ रही है वो चीजों को
+
+[31:25] देखने के बाद। जो भी आपका visual है या जो भी आपका creative है। So ये तीनों category
+
+[31:30] के audience
+
+[31:32] यहां पर cover हो जाते हैं जब आपकी scroll stopping hook line है, scroll stopping
+
+[31:35] visuals है और obviously यह image के अंदर नहीं होगा। हमें videos में आपका audio आएगा
+
+[31:41] तो audio वहां से connect होगा लोगों का। So it's just about images जहां पर हमें समझ
+
+[31:46] आ रही है। Obviously image ऐसे ही result आता है, ऐसा नहीं है। हमें video ads भी लगती
+
+[31:51] है। Right? तो वो एक अलग topic है। But make sure आप यह चीज समझ पा रहे हो कि तीनों
+
+[31:56] category के audience दुनिया में हैं। अब तीनों category के audience को अगर हमारा
+
+[32:00] target market है, obviously हमारे target में तीनों category होगी, तो तीनों की
+
+[32:04] psychology के base पर हमें content create करना चाहिए। तभी वह meta ads पर अच्छा
+
+[32:08] perform करेगा। I hope this makes sense, right? Thank you.
+
+[32:15] So now
+
+[32:18] next. अच्छा, इस चीज को मैं बाद में बताता हूं। Let me now share and let's go to
+
+[32:23] the--
+
+[32:25] just give me a minute.
+
+[32:34] Okay.
+
+[32:36] Number one, let's go. यहां तक clear है सबको, right?
+
+[32:39] So let me share my screen again.
+
+[32:44] Screen is visible everyone?
+
+[32:47] Now able to see जिनके video camera on है। बाकी reactions मुझे नहीं दिख रहे। Thank
+
+[32:51] you so much. Perfect. So obviously यह video आप लोगों में से कई लोगों ने use किया
+
+[32:55] होगा obviously. इसमें कुछ सीखने जैसा है नहीं। अगर आप directly use करोगे तो
+
+[33:01] सीखोगे। कुछ ना कुछ तो आएगा ही आएगा। But क्या process को हम follow करें जिससे हमारा
+
+[33:07] result और better आए।
+
+[33:10] Got it. So number one, let's imagine the scenario कि अगर मैं किसी intelligence को
+
+[33:17] use कर रहा हूं in artificial. हमारे पास direct communication का channel है कि हम
+
+[33:22] direct उसको बोल रहे हैं कि ये बनाते दे दे। Let me try in front of you.
+
+[33:25] Let me try to create an image
+
+[33:28] for
+
+[33:30] AI specialist
+
+[33:33] program 2.0.
+
+[33:36] Date let's say for example second September.
+
+[33:41] Time 08:00 p.m.
+
+[33:46] IST and
+
+[33:50] let's see. इसको मैं simple एक input दे दूंगा। यह मुझे कुछ ना कुछ outcome दे देगा
+
+[33:54] for sure. इसमें कोई knowledge नहीं है। go through कर रहा हूं कि चीजें कैसी आएगी।
+
+[33:59] Let me try again.
+
+[34:02] Sometimes it say retry. It's okay.
+
+[34:06] It's developing phase in the AI all over the world. You just have to retry.
+
+[34:12] So जब तक यह आता नहीं है, तब तक मैं आपको दूसरी चीजें भी guide करता हूं ताकि हमारा
+
+[34:15] time बचे। So what is the other stage? What is the other step?
+
+[34:19] Other step is कि अगर हमें कोई visual create करना है, just imagine a first scenario
+
+[34:23] में और easy-easy भी अभी समझाऊंगा but पहले यह समझाओ क्योंकि ये भी आपको समझना जरूरी
+
+[34:29] है। अगर हमें यह process से result नहीं मिला तो हमें वो process से मिलेगा। दोनों
+
+[34:32] process, तीनों process वो सारी चीजें बताऊंगा मैं आपको। तो point number one कि अगर
+
+[34:37] मैं direct communicate कर रहा हूं और मुझे image दे रहा है तो मुझे कुछ ना कुछ अच्छा
+
+[34:40] ही देगा क्योंकि intelligence बढ़ रहा है। But उसको मुझे अगर better करना है। Let me
+
+[34:45] see. अब पहला outcome आ गया है। Just waiting. आ गए.
+
+[34:51] See this. अब मैं आपको यह समझाना चाह रहा हूं, ध्यान से समझिएगा। जब भी आप AI से
+
+[34:57] direct image मांगते हो या direct content मांगते हो,
+
+[35:02] वह क्या कर रहा है और वह क्यों कर रहा है, उसका भी मैं practical understanding दूंगा
+
+[35:06] कि आप समझ पाओ कि मैं किस way में समझा रहा हूं। अब मैंने इसको बोला कि create an
+
+[35:11] image for AI specialist program 2.0.
+
+[35:14] Date हो गई, यह time हो गया। मैंने और कुछ भी data उसको दिया नहीं था।
+
+[35:18] But फिर भी उसने अपना दिमाग लगा के यह सारा data उसमें डाल दिया।
+
+[35:25] Right?
+
+[35:26] अब पहली चीज जो आपको समझनी है कि जब भी आप AI से कोई भी चीज create करवा रहे हो,
+
+[35:33] over content यह हमेशा देगा आपको।
+
+[35:38] Human psychology को समझो। Over content कभी आपको मजा नहीं आता। किसी को मजा नहीं
+
+[35:43] आता। क्यों नहीं आता? आज के time में इतना content है ना कि लोग
+
+[35:49] कम से कम word में पूरी understanding लेने के mindset से ही चीजों को देखते हैं।
+
+[35:55] जहां ज्यादा दिख रहा है ना, वो सीधा skip हो जाता है क्योंकि दिमाग पर ज़ोर ही नहीं
+
+[35:58] देना है आज के time में लोगों को।
+
+[36:01] That's the reason. अब यह क्यों कर रहा है AI?
+
+[36:03] अगर मैं practical समझाता हूं, आप बहुत अच्छे से समझ पाओगे।
+
+[36:07] देखो जी, जब भी intelligence किसी का बढ़ता है ना पहली-पहली बार life में-- थोड़ा सा
+
+[36:11] हम इंसान की बात करते हैं। पहली-पहली बार intelligence life बढ़ता है किसी का कि यह
+
+[36:16] नया-नया बहुत ज्यादा ज्ञानी हो गया है। है ना?
+
+[36:19] हमने ऐसे stories भी सुने हैं life में बचपन से। तो जब नया-नया बहुत knowledge आता
+
+[36:25] है ना किसी को, तो वह बढ़ा-चढ़ा के बताता है अपने आप को।
+
+[36:29] How you relating with this line? ऐसा होता है। बहुत knowledge है, बहुत
+
+[36:35] knowledge है। जैसे बोलता है, वह बढ़ा-चढ़ा कर बताता है अपने आप को। होता कुछ नहीं है।
+
+[36:40] Obviously होगा but वह ज्यादा बताता है। Same with this model happening right now in
+
+[36:45] all over the world. इनकी intelligence अभी-अभी इतनी आई है। यह सालों से नहीं थी, यह
+
+[36:51] महीनों से नहीं थी। It's just two, three months and छह महीना बोल दो ज्यादा से
+
+[36:55] ज्यादा, जो इतना better यह कर पा रहा है। ChatGPT इतनी clarity, without spelling
+
+[37:01] mistake, इतने अच्छे images नहीं दे पा रहा था पहले। आज से छह, सात, आठ महीने पहले की
+
+[37:05] बात कर रहा हूँ। जब से image model 2.0 आया है इसका, तब से यह कर पा रहा है। तो it's
+
+[37:09] just a beginning of the era of intelligence in artificial.
+
+[37:13] So वह over देगा। You have to control with your human intelligence कि
+
+[37:18] उसमें क्या remove करना है, क्या minimal करना है ताकि उसकी appealingness बढ़े।
+
+[37:25] So it's just in conversation with the AI.
+
+[37:27] Let's start with this conversation कि what happens next.
+
+[37:31] The next is let's say कि make it minimal and
+
+[37:37] pure value added poster only.
+
+[37:43] Let me just give it a simple line. Let me reiterate it.
+
+[37:51] Models भी improve हो जाते हैं। Models day and night उनकी improvement चलती रहती है।
+
+[37:54] तो sometimes क्या होता है कि ChatGPT, Claude, Gemini इनके भी down आते
+
+[38:00] हैं servers.
+
+[38:02] तो यह चीजें होती रहती है, it's normal in AI.
+
+[38:08] So in the meantime, जब तक यह दे रहा है, what is the best way to create such image?
+
+[38:14] What is the best way to create this image?
+
+[38:16] देखो, कोई भी quality image की definition अगर बताओ तो क्या है?
+
+[38:19] Quality image की definition है कि उसके design में तो बढ़िया है सब कुछ but अंदर के
+
+[38:25] content में भी clarity और value होनी चाहिए।
+
+[38:31] Am I right that way?
+
+[38:33] So in winning marketing की अगर मैं psychology बताऊं, winning marketing वह होती है
+
+[38:39] जिसमें
+
+[38:41] quality लोग उसको पसंद करते हैं because quality people are the ones जो आप समझ लो
+
+[38:47] कि actual जहां से business आता है दुनिया में।
+
+[38:54] So उनकी जो actual base foundation है, जो सबकी common ही होगी-- minimalistic,
+
+[39:00] pure value added content को पसंद करते हैं।
+
+[39:05] So that is the foundation. Now see this. Is it clear than this?
+
+[39:10] This is the first image जिसको देखकर
+
+[39:14] obviously इसमें content ज्यादा है but पढ़ रहा कौन है, वह समझो।
+
+[39:18] Second, this is also the content but it looks premium than the
+
+[39:24] previous one.
+
+[39:27] Am I right that way? हो सकता है इसका improve किया जा सकता है but just an example to
+
+[39:31] understand you that content की difference कितनी आ रही है। just मैंने उसको एक चीज
+
+[39:36] समझाई कि भाई यह चीज नहीं करनी है। This is also a general way to work around जो सब
+
+[39:41] आप करते ही हो but now understand this point.
+
+[39:44] Before creating any image, you just have to create the content first.
+
+[39:49] Content कैसे create होगा? मैं आपको कुछ ideas starting बता रहा हूँ। You just have to
+
+[39:52] understand. First of all, अगर content की बात हो तो content के masters वो लोग होते
+
+[39:58] हैं जो content create करते हैं या marketing expert होते हैं।
+
+[40:03] Obviously marketing के जो expert लोग होते हैं, उनको पता है कौन सा word कैसे use
+
+[40:08] करना है।
+
+[40:10] Now, we usually give the roles to the AI in
+
+[40:17] today's time. What is the type? किस तरह से जाएंगे हम इस चीज को?
+
+[40:20] Let me give the role. Let's say how to do it? Image बनाओ.
+
+[40:25] Act as a
+
+[40:30] professional
+
+[40:36] performance marketer and a
+
+[40:44] marketing expert. A performance marketer it's obviously not needed here.
+
+[40:50] Act as a marketing expert who have--
+
+[40:55] just imagine the scenario-- who have worked for
+
+[40:59] Google and,
+
+[41:02] एक नाम ले लेता हूँ, Alex Hormozi is one of the names जो काफी
+
+[41:07] marketing के expert हैं in the world.
+
+[41:10] So
+
+[41:16] act as a professional marketing expert who have worked for Google and Alex Hormozi
+
+[41:21] almost
+
+[41:28] five plus years
+
+[41:33] to help them
+
+[41:36] create scroll-stopping
+
+[41:41] hook lines,
+
+[41:45] content
+
+[41:48] and CTA
+
+[41:54] for generating scroll-stopping
+
+[42:00] visual graphic ads. ठीक है?
+
+[42:05] So now
+
+[42:07] यह क्या कर रहा हूँ मैं, आप समझो। यह काम मैं कर रहा हूँ कि intelligence के पास बहुत
+
+[42:12] knowledge है। अब वो intelligence को सब knowledge अब तेरे को एक साथ नहीं चाहिए। अभी
+
+[42:15] मान लो मुझे creative बनाना है। अब मुझे creativity के अंदर expert level का creative
+
+[42:19] बनाना है, तो मुझे वही expert role उसको देना है।
+
+[42:23] मुझे वो role नहीं देना है। अभी मैं इसको यह role दूँगा कि you are a coding engineer
+
+[42:27] expert, तो वो role यहाँ पर काम नहीं आएगा मेरे को। Obviously वो चीज अलग है, वो skill
+
+[42:32] अलग है, वो भी समझ जाओ वो चीज को। तो हमें एक चीज का role देना है जो हमें out का
+
+[42:35] design करना है। उसका एक best role उसको दे दो, उसका एक experience उसको दे दो, कुछ
+
+[42:39] नाम उसको दे दो कि इसके लिए तूने काम किया है so that it can understand कि हाँ, मुझे
+
+[42:42] इस level पर सोचना है अभी और उस level पर मुझे सोच के outcome निकालना है। So let's
+
+[42:48] hit enter. मैं इसको सिर्फ enter करता हूँ। Now let's wait for the outcome.
+
+[42:52] वह समझेगा इस चीज को। Now see.
+
+[42:56] Obviously मेरे पास content आ गया है। Now
+
+[43:00] high-performing creative formula, इसने सबसे पहले समझ लिया है कि hook में क्या होगा।
+
+[43:04] The biggest text on the display, ideally four to ten words like value, outcome and
+
+[43:09] proof, scarcity, CTA and here are the 20 scroll-stopping hook direction I would
+
+[43:14] test. अब यह इस चीज में क्यों आया? क्योंकि already मैं इस चीज के ऊपर already chat कर
+
+[43:18] चुका हूँ। Same chat window में मैंने किया है इसके लिए। आपके case में नए chat होगा
+
+[43:21] तो शायद यह चीजें direct नहीं आएंगी। आपको बताना पड़ेगा कि हाँ, इसके ऊपर मेरे को एक
+
+[43:24] बनाना है तो मुझे दो। So let's see these hook lines first of all.
+
+[43:30] Stop collecting AI tools, start using them.
+
+[43:31] AI won't replace you, someone using AI might.
+
+[43:34] From AI confusion to practical AI skills. This is good, I like this.
+
+[43:38] Top sort out तो हो। Don't just learn AI, build with it.
+
+[43:41] 20 days real AI skills build real output.
+
+[43:44] You can select 20 इसने दिए हैं। हो सकता है इसमें भी generic लग रहा हो आपको। So what
+
+[43:48] you can do? Obviously, don't give me generic.
+
+[43:53] Give me
+
+[43:57] above the ordinary
+
+[44:01] 99% people
+
+[44:06] are doing. ठीक है? Let's wait for the other outcome.
+
+[44:11] Focus on the screen, everyone, please. Focus on the screen.
+
+[44:15] Now see this. Everyone has ChatGPT, very few know about what to do with it.
+
+[44:19] It is a good line for the AI specialist program. Is it relating?
+
+[44:25] relate हो रहा है ना? Empty course hook. You don't need another AI course.
+
+[44:29] You need AI capability. It's a good line. It's non-generic.
+
+[44:33] अब generic नहीं करना है। It's unique.
+
+[44:36] और यह
+
+[44:38] समझ रहा है कि यह sense बना रहा है चीजों को। Knowing 50 AI tools is not an AI
+
+[44:43] skills. Obviously it's not an AI skills.
+
+[44:45] वो tool collection वाला काम है। AI won't make you valuable.
+
+[44:49] What can you do with AI will. So it's like that.
+
+[44:52] मेरे को यह सारी चीज अच्छी लग रही है। मैं यह वाला लेता हूँ।
+
+[44:57] Let's use this one.
+
+[45:00] Now what I will do? मैंने paste कर दिया, copy करके paste कर दिया। मैंने कुछ नहीं
+
+[45:04] किया। Second वाला मेरे को अच्छा लगा, तो मैंने लिया। Now on this content
+
+[45:11] create a
+
+[45:14] scroll-stopping
+
+[45:20] image ad.
+
+[45:22] Just hit enter. Now wait for the outcome. क्या देता है यह?
+
+[45:29] In the meantime, मैं आपको आगे की process बता दूँ कि यह एक तरीका है कि हम चीजों
+
+[45:34] को better way में ले जाएं। Intelligence वही है, tools वही है, platform वही है। एक
+
+[45:40] इंसान direct मांग रहा है, एक इंसान उसको proper structure में expert बनाकर मांग रहा
+
+[45:44] है।
+
+[45:46] एक चीज हमेशा ध्यान रखो। 90% लोग दुनिया में best result इसके लिए भी नहीं निकाल पाते।
+
+[45:51] ये line आप लिख ही लो because it's very important.
+
+[45:53] ये आप सब लोग में से कई लोग कर रहे होंगे, I know that.
+
+[45:57] 90% दुनिया में लोग AI से better result इसके लिए भी नहीं ले पाते because कि वो सारी
+
+[46:03] चीजें,
+
+[46:06] पूरा निबंध ऐसे लिख के पूरा उसको एक साथ बता देते हैं। Are you getting the point?
+
+[46:13] जब भी ऐसे better result लाना है जो भी आपका outcome है, वो पहले clear करो। Outcome
+
+[46:19] clear हो गया तो-- let's wait. मैं इस point पर आता हूँ। Now see this.
+
+[46:25] This is something different। Right?
+
+[46:29] Let me open in the big screen.
+
+[46:32] This is something different। Right?
+
+[46:34] Visual scroll stopping है। Hook line आप देख लो, बड़े words में लिखी हुई है।
+
+[46:40] Right? And clarity is better not 10 on 10, but it's better.
+
+[46:46] और मेरा जो hook line है, वो कुछ ना कुछ sense बना रहा है। It's just beginning, guys.
+
+[46:51] Be with me. आगे और भी चीजें बताऊंगा ताकि आपको और ज्यादा clarity मिले कि और इसको
+
+[46:55] better कैसे बनाया जा सकता है। यहां तक clear है सबको?
+
+[47:03] Okay, thank you so much.
+
+[47:06] Now,
+
+[47:09] let me share my screen. The next page is series.
+
+[47:15] How many of you would like to see the shortcuts
+
+[47:19] of creating great content
+
+[47:22] in ChatGPT? Recently उन्होंने shortcut features add किए हैं,
+
+[47:29] जिससे आपको outcome की quality और better मिलेगी। You will be amazed.
+
+[47:33] मैं कुछ करके दिखाऊंगा, आपको मजा आने वाला है। कोई भी prompt किए बिना। अगर आपके पास
+
+[47:38] image है ना, उसके साथ आप क्या-क्या कर सकते हो आज की date में without any prompting,
+
+[47:43] just see this. ये कुछ top outcome oriented आप
+
+[47:49] कह सकते हो, commands है जो हम use करते हैं mostly.
+
+[47:54] इसके अलावा और भी बहुत है। आप ChatGPT से मांगोगे, वो भी आपको दे देगा but these are
+
+[47:58] the top जो highly use किए जाते हैं। Now let me see.
+
+[48:03] अभी तक आपने जो समझा, मैं उसको थोड़ा सा revise कर दूं। We see that कैसे basically हम
+
+[48:08] ChatGPT को generally use करते हैं। Generally use करके क्या मिलता है। हमारा content
+
+[48:13] कोई clear नहीं है कि content क्या आने वाला है। अगर expert बनाकर उसको use कर रहे हैं
+
+[48:17] तो उसकी difference क्या है। उसको हम कैसे minimize कर सकते हैं। ये सारी basic
+
+[48:21] understanding है समझ लीजिए। यहां तक mostly सबको समझ में आ ही गया होगा for sure
+
+[48:24] because it's just basic part. Now, here is the magic का जहाँ पर
+
+[48:30] if I have the image already--
+
+[48:34] अगर नहीं है obviously बनाने का तरीका भी बताया मैंने। If I have the image already,
+
+[48:39] now let me show you some magical things.
+
+[48:43] Let me copy this image and paste here.
+
+[48:47] Let me
+
+[48:51] use the
+
+[48:54] first
+
+[48:56] command, magazine. Let me use the first command, magazine.
+
+[49:01] तो मैंने यहाँ पर image upload करा और simply magazine डाला और let's hit enter.
+
+[49:06] Now see this, zero prompting, nothing to do with the prompting here.
+
+[49:11] Now see the outcome. चार-पाँच करके देखेंगे you will be understanding the
+
+[49:14] versatility कि कितना versatile है यह चीज।
+
+[49:19] All good.
+
+[49:21] What the second one? Second one is the ad.
+
+[49:23] इसमें सारी details लिखी गई हैं, इसका आप screenshot ले सकते हैं। इस screenshot आपको
+
+[49:29] समझ में आएगा कि कब कौन-सा use करना चाहिए।
+
+[49:36] Magazine is for the personal branding.
+
+[49:37] Personal branding के लिए use किया जा सकता है कि आपका खुद का photo उसको magazine
+
+[49:40] cover बनाना है। Ad के लिए use करना है obviously ad/ use करोगे, scroll stopping
+
+[49:44] creativity दे देगा he already. कोई prompting नहीं करनी। Product अगर कोई आपका है,
+
+[49:49] E-commerce brand है किसी का, किसी को E-commerce brand का अपने product का
+
+[49:52] photography करना है, तो उसके लिए command है। UGC ad के लिए आपको कोई user generated
+
+[49:56] photo चाहिए। User generated मतलब कोई user हो जो आपका product hand कर रहा है। उसके
+
+[50:01] लिए use किया जाता है for E-commerce and B2C brands.
+
+[50:04] Models अगर मान लो कोई है like fashion, jewelry या textile related आप पकड़ सकते हो,
+
+[50:10] उसके लिए use किया जाता है। Cinematic basically cinematic brandings, campaigns and
+
+[50:14] brandings के लिए लिखा हुआ है सारा कुछ। I am just reading it out.
+
+[50:17] Poster, headshot, social thumbnails, I am not reading all of these things.
+
+[50:20] You are reading it. Billboard, packshot ये कुछ और advanced चीज है जो और scroll
+
+[50:26] stopping content हमें देता है। Let me see outcome आया होगा। Now see this, guys.
+
+[50:33] Is this powerful?
+
+[50:36] मैंने कोई prompting नहीं करी but उसने समझी कि magazine कैसी होती है, magazine का
+
+[50:41] outcome क्या होता है और उसकी quality क्या होती है। Right? This is powerful.
+
+[50:46] Now चलिए दो-तीन और करके देखते हैं ताकि और दिमाग आपका चले। Now let me
+
+[50:52] use this again same image and this time let me use
+
+[50:58] /ads. What is the command? /ad not ads, sorry.
+
+[51:04] So let's hit enter. Now see the difference.
+
+[51:07] Difference देखना अभी आप। पहला वाला तो ये था जो हमने समझा। दूसरा वाला का difference
+
+[51:12] आप समझ ही गए होंगे कि it's not the same thing happening without prompting.
+
+[51:19] Okay. We will also see the billboard one.
+
+[51:23] This is also the example to see the potential of these commands
+
+[51:29] and
+
+[51:31] एक बार ये outcome आ जाए after that we will generate the billboard one also। Right?
+
+[51:37] Okay.
+
+[51:42] Content creation एक ऐसी academy है ना, guys। इसमें कुछ time AI भी ले लेता है। जो
+
+[51:48] भी आप देख पा रहे हो, ले रहा है। Right?
+
+[51:50] So that's the reason ये थोड़ा लंबा भी जाता है।
+
+[51:55] Okay.
+
+[51:59] In the meantime मैं यहाँ पर आगे की process के लिए ready कर लूँ ताकि-- मैंने अभी hit
+
+[52:05] enter नहीं करना है, मेरे को सिर्फ लेकर ready रहना
+
+[52:09] है। Now wait for the outcome with this image.
+
+[52:18] आप ऐसे कुछ लोग side by side भी कर रहे होंगे but make sure आप focus करें। बाद में आप
+
+[52:22] कर सकते हो। You will have this understanding। Right?
+
+[52:27] Just a second। Okay. So it replaces-- okay, one second.
+
+[52:33] There is something happened.
+
+[52:36] Oh no, let me try again. It doesn't work right way। It does it on the other way।
+
+[52:40] Let me try again। I have this photo。 Let me
+
+[52:45] try। Okay, let me try with another photo
+
+[52:52] to show you the example.
+
+[52:55] Just hit enter। Okay।
+
+[53:02] Maybe some updates happening in the ChatGPT। It's all good.
+
+[53:06] ठीक है, ये आता है तब तक हम process समझते हैं आगे की। ये सारे commands
+
+[53:12] तो same sort of the area。 Right? So we will not gonna invest such time because ये
+
+[53:17] process में कोई ज्यादा complex चीज नहीं है जो आपको बताऊं कि कैसे करना है। You just
+
+[53:21] have to give the uploaded image and you just have to upload the right command कि
+
+[53:27] कैसा आपको चाहिए। Right? मैंने कुछ already बनाए हुए हैं, वो भी आपको दिखा दूं ताकि
+
+[53:32] you will get the idea. Just give me a minute, guys. Let me find that.
+
+[53:41] To save our time, nothing else.
+
+[53:49] Great.
+
+[53:52] Great, I found it.
+
+[53:55] See this.
+
+[53:59] Look at the outcome difference ताकि आप समझ पाओ कि क्या यह कर रहा है। Now see this.
+
+[54:05] मैंने यह image दिया था, मैंने यह command दिया था। See this image first। Right?
+
+[54:11] This is a generic image not for the optimized for the ad psychology.
+
+[54:16] Now see this outcome
+
+[54:19] with the
+
+[54:21] ad image.
+
+[54:24] See this insane difference। Right? This is the-- okay, this is not.
+
+[54:29] This is the general image। Right? And this is the
+
+[54:34] /ad command given image. Second
+
+[54:39] When I give it again with the UGC command, it gives me the difference
+
+[54:45] between this image and this image. UGC comes from User Generated Content.
+
+[54:51] So user generated content. Third, when I give
+
+[54:56] the cinematic command. So this is the image, which is our original
+
+[55:02] image, obviously, this is the outcome. Is this powerful now?
+
+[55:07] Are you getting the differences?
+
+[55:12] So it's not just a shortcut, it's very powerful commands which you can
+
+[55:18] see and use easily without any problem.
+
+[55:20] You just have the base image ready with you.
+
+[55:23] I have one more to show you. Let me
+
+[55:29] search, just a minute. I will show you one last thing so that this chapter is
+
+[55:32] closed and we can move on to the next chapter.
+
+[55:37] Okay.
+
+[55:51] Exposure magazine.
+
+[55:58] Let me check. One second.
+
+[56:11] No worries.
+
+[56:18] Let me show you. No problem.
+
+[56:22] Find it, it will take time, until then let me show you.
+
+[56:26] All good, guys. So let me use this image.
+
+[56:30] You must have seen this image which is in the community. This is made here.
+
+[56:37] Let me open this and see the final outcome so that you can understand the limit of
+
+[56:40] your creativity, how far you
+
+[56:45] can go. Billboard. This will be the final for this particular topic.
+
+[56:51] So we will move to the next topic after this, but make sure we see its outcome so
+
+[56:54] that you get an idea of what the limit of things can be. So what is its science?
+
+[57:00] The science is very simple, which is written here at the bottom.
+
+[57:06] /Command is equal to desired business outcome.
+
+[57:11] Getting the point?
+
+[57:13] So what is your desired business outcome? What do you want?
+
+[57:16] That you have to /command, the command can be a billboard, it can be a luxury, it
+
+[57:21] can be food, it can be infographics, it can be interior, it can be editorial,
+
+[57:25] whatever the idea you have in your mind for that particular image.
+
+[57:31] Now let's wait for the billboard. For this image, let's wait for the billboard.
+
+[57:37] And I want your reactions for this particular outcome.
+
+[57:40] I am also excited to see what the AI is giving.
+
+[57:50] Just a minute. It will take one minute or two minute, max to max.
+
+[57:56] If it is taking more than that in your case, then also keep in mind that many times
+
+[57:58] it may take refreshing. This happens
+
+[58:02] in AI. You have to refresh because these are very complex operations.
+
+[58:06] Even though it is a matter of an image, but hardware inputs are very complex.
+
+[58:13] Now, okay, great.
+
+[58:18] It's generated the different one,
+
+[58:22] maybe. So let's wait. I want to show you. Just give me a minute.
+
+[58:28] One second.
+
+[58:31] Model magazine request. It's good, but it's not the exact thing that I am looking
+
+[58:36] for.
+
+[58:38] Just a minute.
+
+[58:47] I hope you got the clarity, but make sure, let me show you the
+
+[58:53] potential.
+
+[58:56] So I found it in one minute, I will show you, no problem. The process is same.
+
+[59:00] Just a minute.
+
+[59:12] Anyways, no problem. The process is same, guys. I hope you got the understanding.
+
+[59:18] In the meantime, we have to save time. The process is same.
+
+[59:22] I hope you got the understanding. Now, the next point.
+
+[59:26] A problem that comes in AI is that whenever we create something, as you just saw
+
+[59:31] that something is in creative, so if you have to change it again and again, it
+
+[59:36] takes time to change and edit in these images. This is a problem.
+
+[59:42] So
+
+[59:44] one solution for this that agencies use is that they connect ChatGPT to
+
+[59:50] the Canva account.
+
+[59:53] How many of you have used Canva? Let me show, first of all, just give me a thumbs
+
+[59:57] up. Canva is a graphic design software which is used worldwide these days.
+
+[01:00:04] So many people. Okay, nice. So by integrating ChatGPT with Canva,
+
+[01:00:09] whatever user generated content is there, how can you bring it directly to Canva in
+
+[01:00:12] an editable format? I am telling you its process. Pay attention.
+
+[01:00:17] I have already connected it, but the process is very simple so that I can repeat
+
+[01:00:20] it. So this process is--
+
+[01:00:24] let me share with
+
+[01:00:26] you. The process is you have to
+
+[01:00:30] go to the
+
+[01:00:33] plugins option on the left-hand side. Can you see?
+
+[01:00:37] Plugins options on the left-hand side.
+
+[01:00:40] Here you have multiple options of different softwares to connect in which one of
+
+[01:00:45] them is Canva.
+
+[01:00:48] In my case, it's already connected.
+
+[01:00:50] The connection process does not require any coding or any knowledge.
+
+[01:00:52] It is a simple process of yours. When you click on
+
+[01:00:58] Canva, here obviously try and chat option is showing because it is already
+
+[01:01:01] connected. As you log in for the first time, when you click on Canva for the first
+
+[01:01:05] time, the connect option will appear here.
+
+[01:01:07] Let me show you how with the other platforms. Let me open any one of them.
+
+[01:01:13] One second.
+
+[01:01:20] I need...
+
+[01:01:23] Okay, now see this. Install like this. Install plugins. Can you see this button?
+
+[01:01:29] Likewise, it is connected to Gmail but not connected to Gmail.
+
+[01:01:32] So the option of install plugin is visible.
+
+[01:01:34] In the same way, in Canva you will find the install plugin button.
+
+[01:01:37] When you click on this button-- How many of you can log in to Gmail?
+
+[01:01:42] Just give me a thumbs up.
+
+[01:01:46] Google account, Gmail account, you can log in easily.
+
+[01:01:50] There is no technical knowledge in it.
+
+[01:01:51] Similarly, when you click on Canva,
+
+[01:01:54] your login window, the Canva account, it will ask you to log in.
+
+[01:01:57] You just have to keep going and log in the account.
+
+[01:02:00] When your login is done, then obviously you will get it in the install section.
+
+[01:02:04] It will
+
+[01:02:07] come in the install section. When it comes in the install section,
+
+[01:02:10] now the next step is very simple.
+
+[01:02:14] Let me open that.
+
+[01:02:20] Let me open that
+
+[01:02:23] window which I have told you
+
+[01:02:25] about. One second.
+
+[01:02:37] Perfect. Now see this. This was the image. The process is very simple.
+
+[01:02:41] There is no sense in repeating it, but the process is very simple. Look carefully.
+
+[01:02:44] This was an image. Now when I got this image, now there is so much content in this
+
+[01:02:49] image, I will tell it again and again, it will take time again and again, it will
+
+[01:02:52] make it again and again, there may be some mistake in that too or may not be.
+
+[01:02:55] Depends on the clarity of input. Now if I get its editable format, then I myself
+
+[01:02:59] can quickly delete whatever is needed and not needed from Canva, adjust whatever is
+
+[01:03:01] needed and get its outcome.
+
+[01:03:06] So what I have to do after the Canva login, after your login setup is done, which I
+
+[01:03:10] told you, after that I have to give you a simple command under that image @Canva.
+
+[01:03:16] Likewise, I am writing it once and showing you @Canva.
+
+[01:03:20] If I do @Canva, it means Canva is installed and it has come.
+
+[01:03:23] And I have written this link here, message here, "Convert this image into fully
+
+[01:03:28] editable format for Canva." The simple line I gave it.
+
+[01:03:33] When I gave it, it gave me the option to customize this edit directly.
+
+[01:03:37] As I-- look at this image carefully.
+
+[01:03:39] As I click on it
+
+[01:03:42] I will land into my Canva account with same image.
+
+[01:03:46] But the magic is जो मैंने अभी already change किया है इसमें कुछ-कुछ, तो आपको दिख रहा
+
+[01:03:50] होगा, I already change है यहां पर, क्योंकि I have already tried this.
+
+[01:03:53] So the magic is you can move whatever you want to move, wherever you want to move
+
+[01:03:59] and जो भी आपको करना है आप easily इसमें कर सकते हो। You can select, you can
+
+[01:04:04] unselect, you can delete, you can whatever.
+
+[01:04:09] Just सारी चीजें इसमें आ गई हैं। So it's very nice time-saving, जो कभी भी अगर
+
+[01:04:15] creative अच्छा है, उसमें कुछ चीजें अगर अपने को manage करनी है या हटानी है या change
+
+[01:04:19] करना है, color change करना है, whatever.
+
+[01:04:21] All you can do with this single simple strategy.
+
+[01:04:27] It's very valuable thing. जब आप ये चीजें करते हो ना, तो आपको इसकी value पता चलती है
+
+[01:04:32] कि कितनी powerful चीज है। बड़ी छोटी सी चीज है, पर बड़ी powerful चीज है। I hope you
+
+[01:04:36] got the clarity. Show me big thumbs up, guys. Right.
+
+[01:04:42] Now,
+
+[01:04:47] the next is-- अभी we will see now
+
+[01:04:52] images को लेकर भी काफी सारी चीजें हमने समझी because it's not that much complex in
+
+[01:04:56] 2026 images कैसे बनानी हैं। But हाँ, images की psychology हमने आज समझी होगी कि किस
+
+[01:05:01] तरह psychology हमें लेनी चाहिए। Visuals में क्या चीजें कम होनी चाहिए, कैसी visuals
+
+[01:05:07] ज्यादा अच्छी रहती हैं, कैसी visuals ज्यादा अच्छी नहीं रहती हैं। By default AI क्या
+
+[01:05:10] देता है। कुछ shortcuts हमने command देखे और ये सारी चीजें हमने अभी तक समझी। The
+
+[01:05:15] next is कि कैसे हम AI से
+
+[01:05:20] realistic videos बना सकते हैं, उसकी क्या process है, वो हम देखने वाले हैं अभी। So
+
+[01:05:25] let me show you that. So be with me on the screen, guys. Be with me on the screen.
+
+[01:05:32] I am just
+
+[01:05:33] closing it
+
+[01:05:39] and
+
+[01:05:41] removing all the tabs.
+
+[01:05:44] So
+
+[01:05:47] I have already created a detailed document for this process because थोड़ा सा step
+
+[01:05:53] by step है तो आपको वो याद रहेगा नहीं। Obviously you need a document.
+
+[01:05:56] तो वो document भी you will find it in LMS के video के नीचे आपको मिलेगा। जहां पर भी
+
+[01:06:02] video आपको होगा LMS का, उसके नीचे आपको मिलेगा। You can able to download the
+
+[01:06:08] document as well. Right. So now let me open the document first.
+
+[01:06:17] ठीक है। Document से पहले मैं थोड़ा सा आपका mind open करना चाहूंगा। पहले हम देखेंगे
+
+[01:06:22] outcome, फिर हम देखेंगे outcome बनाने से। Is it okay? Right.
+
+[01:06:26] ताकि purpose clear हो जाता है। ठीक है। Let me show you the first process of
+
+[01:06:32] the outcome that I am showing.
+
+[01:06:39] Just a second.
+
+[01:06:41] Okay, perfect.
+
+[01:06:46] Perfect.
+
+[01:06:49] Now
+
+[01:06:52] imagine a scenario कि
+
+[01:06:58] जो भी बता रहा हूँ मैं which is the AI clothing commercials, basically ये practical
+
+[01:07:03] business के लिए आपको use होगा। Clothing industry is one of the biggest industry in
+
+[01:07:07] India. Right. Textile industry. Right.
+
+[01:07:10] बहुत बड़ी industry है। तो textiles के लिए हम modeling कैसे कर सकते हैं professional
+
+[01:07:14] level की। उस modeling की model video shoot कैसे करवा सकते हैं professional level
+
+[01:07:20] की। वो process मैं आपको बता रहा हूँ। Prompts भी दूंगा मैं आपको but prompts is
+
+[01:07:24] like-- is not like that कि वो हर बार आपको same ही काम आएगी। But prompts की idea मैं
+
+[01:07:28] जरूर दूंगा कि उसके आप varieties कैसे बना सकते हो।
+
+[01:07:32] Getting the point? So now understand this point.
+
+[01:07:35] Let me show you the video first. See this.
+
+[01:07:46] Okay.
+
+[01:07:51] Got the video. Now
+
+[01:07:54] see this video and after video, I want reactions, guys.
+
+[01:08:12] I am repeating again. ध्यान से देखिएगा।
+
+[01:08:26] Is it hyper-realistic? Right.
+
+[01:08:30] Is it detailed?
+
+[01:08:33] Number three is very important. Is it character consistent?
+
+[01:08:40] That is the main thing that you have to focus जहां पर लोगों को problem आती है।
+
+[01:08:44] Right. So now
+
+[01:08:46] how many of you excited to see how to do this?
+
+[01:08:50] Great. Thank you so much. Now let me share my screen and process में पहले
+
+[01:08:56] guide कर दूँ आप लोगों को
+
+[01:09:00] with the
+
+[01:09:02] document जो
+
+[01:09:05] specially आपके लिए बनाया है for this batch.
+
+[01:09:08] जो पुराने batch के users हैं, जो पुराने batch के community में हमारे already 1.0 के
+
+[01:09:12] obviously उन्होंने भी ये चीजें नहीं देखी होंगी। आप में से कई लोग होंगे I know that,
+
+[01:09:16] but make sure ये चीजें सभी लोग focus करके देखें। पहली चीज हमें क्या लगेगी?
+
+[01:09:21] पहली चीज हमें लगेगी एक proper model.
+
+[01:09:25] एक digital model लगेगा right, जिसकी video बना सकते हैं हम।
+
+[01:09:30] Second चीज हमें क्या लगेगी? Let me show you.
+
+[01:09:33] This is the first outcome जो model हमने बनाया, सबसे पहला point.
+
+[01:09:37] और यह जो process है, ये process generally कोई भी video के लिए जब user-generated
+
+[01:09:42] content या उसमें इंसान है, यह process by default आपका common रहेगा most of the
+
+[01:09:48] cases में।
+
+[01:09:51] Getting the point? So the first step is to create a model using
+
+[01:09:57] your prompts. अब prompts दिमाग में आते नहीं हैं। Let me tell you a very secret
+
+[01:10:03] thing in the AI all over the world.
+
+[01:10:06] Nobody,
+
+[01:10:08] literally nobody
+
+[01:10:11] sits and write the entire long, long prompts in 2026.
+
+[01:10:20] The prompts you see over the social media, आपने देखे होंगे कई ऐसे reels, कई ऐसे
+
+[01:10:24] videos कि लोग बोलते हैं कि ये करो, ये करो, ये ऐसा outcome आ जाएगा। If you want the
+
+[01:10:28] prompt, kindly
+
+[01:10:31] comment में prompt डालो या comment में ये add डालो। आपने बहुत ऐसे देखे होंगे reels,
+
+[01:10:35] I know that. Right. तो वो जो आपको देखते हुए obviously देखने में अच्छा लगता है but
+
+[01:10:39] वो जो prompt की दिमाग है ना, वो खुद की नहीं होती है, guys.
+
+[01:10:42] It's already generated with the help of AI.
+
+[01:10:46] Are you getting the point? So the point here I
+
+[01:10:51] am focusing on to realize you all of you.
+
+[01:10:55] If they can use the same platform and able to generate such prompts and with the
+
+[01:10:59] help of that prompt, they can able to generate such quality outcome.
+
+[01:11:03] You have the same tools, you have the same systems.
+
+[01:11:06] You just have to understand how to do it properly.
+
+[01:11:08] ठीक है। So now पहला हमें लगेगा model.
+
+[01:11:12] कोई भी textile related हो गया, garment related हो गया तो हमें एक model लगेगा。
+
+[01:11:16] Right. उस model का हमें photo चाहिए plain white background में। Second हमें लगेगा
+
+[01:11:21] उस model की character sheet. Let me show you.
+
+[01:11:26] अच्छा, model second हमें लगेगा उसको जो actual costume हमें लगेगा उसके ऊपर वो
+
+[01:11:32] costume हमें उस photo को हमें लगेगा। The first is model, the second is actual
+
+[01:11:38] costume. Is it clear? In this case, here is the prompt
+
+[01:11:44] that I am creating right away with you.
+
+[01:11:47] Just copy this
+
+[01:11:50] and
+
+[01:11:52] we will go to the Gemini.
+
+[01:11:55] Let's paste this, right and just hit enter.
+
+[01:12:00] Right. Initially, Gemini offers the free.
+
+[01:12:04] If you have Jio cards, Jio cards पे शायद ये कुछ और advance benefit दे रहा है। They
+
+[01:12:09] are maybe tie up with the Jio. Right. So it depends.
+
+[01:12:12] You can find it in MyJio store. See this, guys.
+
+[01:12:16] Simple input, simple output, एक proper quality का एक photo मुझे मिल चुका है। मेरा
+
+[01:12:20] पहला phase मैंने achieve कर लिया है। The second I will need that is
+
+[01:12:27] the product photo. Right. अब पहला stage तो मैंने achieve कर लिया। Second क्या है?
+
+[01:12:32] यहां पर लिखा हुआ है upload a master model जो हमारा already है。 Original clothing
+
+[01:12:36] reference together जो हमारा actual costume है, जो client आपको दे सकता है या आपके
+
+[01:12:41] पास अगर कोई already आप ही business कर रहे हो तो आपको चाहिए content creation के लिए
+
+[01:12:44] और social media. That. तो clothing reference is the product source of truth. Right.
+
+[01:12:48] तो ये सारी चीजें हो गई यहां पर along with this prompt
+
+[01:12:53] So now what I will do, I will first find the costume.
+
+[01:13:01] Let's say
+
+[01:13:05] Indian traditional
+
+[01:13:09] women wear.
+
+[01:13:13] So let me
+
+[01:13:16] find it over Google
+
+[01:13:19] and
+
+[01:13:20] okay, मेरे पास बहुत से options हैं but एक ध्यान देना जब भी आप photos किसी से भी
+
+[01:13:24] लेते हो, Google से भी ले रहे हो तो यहाँ पे hack है। Tools के options में size का
+
+[01:13:29] option होता है। Images के section में आप आते हो, tools के options में size का
+
+[01:13:32] option होता है। हमेशा large size के photos use करो अगर आपके पास photo लेनी हो तो।
+
+[01:13:36] क्योंकि large size के photos जब भी आप लोगे आपको 99% case में आपको up to 4K
+
+[01:13:42] resolution के photo ही दिखाएगा और बाकी photo नहीं दिखाएगा। So यहाँ पर देखिए बहुत से
+
+[01:13:47] already like उन्होंने
+
+[01:13:50] पहने wear है। तो हमें ऐसा नहीं चाहिए। हमें चाहिए proper जो dummy ने पहना हो।
+
+[01:13:57] Dummy wear जो हम देखते हैं दुकान के सामने होता है। यह देखो dummy wear आ गए।
+
+[01:14:03] Now see, there are so many dummies available here and let me
+
+[01:14:09] try with you.
+
+[01:14:17] This one is not the clear.
+
+[01:14:20] Anyone I can try.
+
+[01:14:24] Why not trying to use the original person photo इसका reason बता दूं ताकि यह confuse
+
+[01:14:30] ना हो जाए यह face लेना है कि वो face लेना है। So use the dummy instead.
+
+[01:14:36] That's better.
+
+[01:14:38] I hope this will be better.
+
+[01:14:43] अच्छा यह भी ठीक है। This is good. अरे पर इसमें words हैं,
+
+[01:14:49] watermark it will not work. It's also not working.
+
+[01:14:54] Let me open any one of them. कोई भी अच्छी चीज मिल जाए मुझे। ठीक है, that's it.
+
+[01:14:58] This is good. Let me copy this. Let me download this first. Let me download this.
+
+[01:15:03] We have watermark but it's okay, it's very minimal. Let me try.
+
+[01:15:08] I have this first image that I have to copy here. I have to paste it here.
+
+[01:15:14] Second image मुझे लेनी है जो अभी मेरा actual costume है。
+
+[01:15:19] I have to copy and paste it here and third I have to take this
+
+[01:15:24] exact
+
+[01:15:26] product integration prompt that I can copy here
+
+[01:15:31] and paste it here. Just hit enter. Let's wait for the first outcome.
+
+[01:15:37] क्या दे रहा है यह?
+
+[01:15:44] Now, if यहाँ पर अगर कोई चीज हमें ठीक करनी है obviously we can make it by changing
+
+[01:15:49] the problem को बता रही। Now see this thing.
+
+[01:15:54] Is it proper?
+
+[01:15:58] This is the image
+
+[01:16:00] we have got and the next
+
+[01:16:04] step is-- अच्छा,
+
+[01:16:07] I have done, one second.
+
+[01:16:11] It was a huge prompt, sorry. Let me again do it properly.
+
+[01:16:20] Copy. Let me do it again.
+
+[01:16:24] Copy.
+
+[01:16:28] Let me paste the first and the
+
+[01:16:34] second
+
+[01:16:36] product photo.
+
+[01:16:38] Got it. Now it's complete prompt till here.
+
+[01:16:43] Let's enter again. Now it will be different.
+
+[01:16:46] Basically starting
+
+[01:16:49] list of the product was missed here.
+
+[01:16:51] Now see this
+
+[01:16:53] with the complete prompt. The next step is step three, create your product sheet.
+
+[01:16:58] यह ध्यान से समझना। जब भी आपके पास पहला model आ जाए,
+
+[01:17:04] the first model you have, then you have the costume आपका पूरा आ गया उसके ऊपर। The
+
+[01:17:10] next step जो सबसे important होता है before making video that is your product
+
+[01:17:15] sheet. जिसको हम बोलेंगे product sheet, character sheet.
+
+[01:17:20] Character sheet is like a different thing जिसमें सिर्फ उस character के front view,
+
+[01:17:24] side view, left view, back view, full view, half view इस सारे angles से उसकी
+
+[01:17:28] character sheet बनी जाती है। Product sheet मतलब products के related focus किया जाता
+
+[01:17:32] है उस चीज के ऊपर। Now see this guys. This is more real than the previous one.
+
+[01:17:38] You can see the detailing. You can see the detailing here as well in this side.
+
+[01:17:44] Now the next step is to create such product sheets
+
+[01:17:50] before making the video. So we need this, हमारे पास अभी second point आ गया। हमें
+
+[01:17:56] तीसरी चीज चाहिए। So what is the तीसरी चीज के लिए हमें basically कुछ नहीं करना है।
+
+[01:18:01] We have to upload this again here and we have to write this
+
+[01:18:06] down.
+
+[01:18:09] ध्यान से देखिएगा क्या कर रहा हूँ मैं। And obviously we need this detailing कि
+
+[01:18:14] product sheet अगर चाहिए तो product sheet के अंदर हमें क्या चाहिए?
+
+[01:18:18] कितने products चाहिए? Sorry, कितने shorts चाहिए?
+
+[01:18:21] तो हमें 10 चाहिए। उसकी detailing यहाँ पर लिखी हुई है।
+
+[01:18:27] Copy करके paste कर दिया मैंने। That's it. It's okay.
+
+[01:18:32] Let me check short_1 and short_10. ठीक है। Then let me hit enter.
+
+[01:18:38] Now wait for the outcome.
+
+[01:18:42] We created model, we selected the product, product model तो बन ही
+
+[01:18:48] गए। The next step is create your product sheet.
+
+[01:18:55] Now wait for the outcome.
+
+[01:18:58] See these guys. Now आपका दिमाग अच्छे से चलना start हो रहा होगा। Its
+
+[01:19:04] detail,
+
+[01:19:05] it's clear and it's
+
+[01:19:10] same model consistent.
+
+[01:19:13] That's it, guys. यह अगर आपका सही से बन गया product sheet then आपकी
+
+[01:19:19] quality of video बहुत अच्छी होगी जब तक यह सही होगा।
+
+[01:19:25] Getting the point? Don't try to create direct video क्योंकि direct video create
+
+[01:19:29] करोगे तो वो खुद ही confuse है, खुद ही clear नहीं है कि करना क्या है। वो अपना दिमाग
+
+[01:19:35] लगाएगा और खुद की imagination लगा देगा जो imagination गलत भी हो सकती है, सही हो सकती
+
+[01:19:39] है। But in this case we have this sheet ताकि उसको clear रहे कि सारे angles से क्या
+
+[01:19:44] होगा। Now the next is upload the final model product sheet in 16 by 9 sheet जो
+
+[01:19:49] हमारे पास already है and tell the Google Omni-- what is Google Omni?
+
+[01:19:53] Basically Google का यह product है। Google Omni को कोई अलग से नहीं जाना है आपको। You
+
+[01:19:58] have this feature here video वाला section यहाँ से ही आप सीधा operate कर सकते हैं।
+
+[01:20:03] But make sure यह शायद maybe Google is not offering in free।
+
+[01:20:09] Jio के case में शायद दे रहा होगा। It depends on the situation from the Google क्या
+
+[01:20:13] offers होंगे। But make sure this is very powerful outcome that you will see now.
+
+[01:20:17] Now let me copy this now and let's go to the video section.
+
+[01:20:23] ठीक है। अब तक हम chat section में थे, अब हम video section में हैं। Let's upload the
+
+[01:20:28] photo of character sheet
+
+[01:20:31] and now let's copy this one
+
+[01:20:39] यहाँ से
+
+[01:20:42] यहाँ तक। copy किया मैंने। Now this is the checklist obviously at the end of the
+
+[01:20:47] bottom इसका outcome हमने already बनाया वो दिखाऊंगा आपको, आपने अभी देखा है already।
+
+[01:20:51] Now see this one and video वाला section है। 16 by 9 का size हमने यहाँ पर दिया हुआ
+
+[01:20:56] है जो कि already सारी चीज लिखी गई है। Scenes यहाँ पर दिए गए हैं panel 1, panel 2 यह
+
+[01:21:01] सारी चीज लिखी गई है। Now let's hit the enter.
+
+[01:21:04] 16 by 9 यहाँ पर भी selected है ध्यान देना। Hit the enter.
+
+[01:21:08] Let's wait for the first outcome that is coming in our process.
+
+[01:21:14] All good?
+
+[01:21:16] It's not rocket science, right? सबको समझ में आ रहा है यहाँ तक?
+
+[01:21:19] Show me a big thumbs up. It's easy.
+
+[01:21:25] Now the question is-- यह तो create हो रहा है। Now the question is
+
+[01:21:30] how we can do it for other products?
+
+[01:21:36] यह तो textile हो गया ना। How we can do it for other products? That is the question.
+
+[01:21:41] So for that let me wait for the outcome first because it excites me always whenever
+
+[01:21:46] I am doing it.
+
+[01:21:51] Defining it's working, that's okay. So it's generating now.
+
+[01:21:56] Okay, ठीक है।
+
+[01:21:58] So the process
+
+[01:22:01] will be,
+
+[01:22:02] you have the product photo,
+
+[01:22:07] you have the base prompts.
+
+[01:22:11] Right?
+
+[01:22:14] As I said, it's a creative world,
+
+[01:22:17] so you have to be
+
+[01:22:19] little bit creative when you are doing it.
+
+[01:22:22] You have to be creative. It's a creative world. It's creative mind.
+
+[01:22:26] So you have the product's photo, you have the prompts ready.
+
+[01:22:32] So number one, model create करने वाला जो prompt है, वो तो same है। Right?
+
+[01:22:38] Then the second one is कि वो model के साथ photo, ये जो process है, ये process मैं
+
+[01:22:42] एक बार आपको आगे भी करके दिखाऊंगा on the second one ताकि आपको वो चीजें clear हो जाए।
+
+[01:22:47] वो processing में जाए तो सही रहेगा। In the meantime ये generate हो रहा है। So let's
+
+[01:22:54] wait for few minutes for this generation.
+
+[01:23:00] If you want to drink water, obviously you can drink.
+
+[01:23:03] वैसे हम generally पांच minute का water break देते हैं but इसमें नहीं दिया क्योंकि
+
+[01:23:09] काफी चीजें और हैं जो मुझे बतानी है and we have the limited time. Right?
+
+[01:23:13] So I understand and you also understanding the point.
+
+[01:23:18] Sweet.
+
+[01:23:26] All good, guys.
+
+[01:23:34] एक और magical चीज बताऊंगा आपको after this.
+
+[01:23:38] Gemini से कुछ भी हम बनाते हैं ना-- Oh, great. Now great, guys. Our video is ready.
+
+[01:23:44] Excited to see you. I am also excited. I am also curious now.
+
+[01:23:48] I was excited, obviously. So let's open the video.
+
+[01:24:03] Is it powerful? Now show me the comments.
+
+[01:24:06] Show me the reactions. एक-एक बार और देख लेते हैं। ठीक है?
+
+[01:24:14] आवाज आ रही है सबको?
+
+[01:24:17] Music भी है उसके पीछे।
+
+[01:24:20] चल नहीं आ रही है? एक second, मैं download कर लेता हूँ।
+
+[01:24:27] अब मैं आपको एक बहुत अच्छा hack बता रहा हूँ जो आपको बहुत काम आएगा ताकि आपके client
+
+[01:24:31] आपको बोलेंगे नहीं कि आपने ये कैसे किया या कहाँ से किया। Right?
+
+[01:24:35] उनको नहीं पता चलना चाहिए। Simple सी बात है, आपका business है ना वो। तो ये देखिए। ये
+
+[01:24:40] video मैं अभी upload कर रहा हूँ। और ये video अभी आपको शायद आवाज--
+
+[01:24:49] Sorry, आवाज बंद था। अभी आपको आवाज आएगी।
+
+[01:24:54] ठीक है। Now let me play. See this.
+
+[01:25:07] Now tell me the reaction. Is it powerful?
+
+[01:25:11] Right? Some of the others जो हमने पहले देखा वो भी है। Right?
+
+[01:25:14] तो और भी मैं दिखाऊंगा आपको। Be with me.
+
+[01:25:18] So now
+
+[01:25:21] ठीक है।
+
+[01:25:23] All good, guys. तो अभी एक problem है। Problem ये है जब हम business standards से
+
+[01:25:27] इसको देख रहे हैं, you can see यहाँ पे एक Gemini का by default logo है। Can you see
+
+[01:25:32] this? It's very easy to remove this. I will show you। इसको कैसे remove करोगे?
+
+[01:25:37] क्योंकि Gemini में आप कुछ भी बनाओ, ये logo तो आने वाला है। तो how you-- आप client
+
+[01:25:42] को तो ये तो नहीं दोगे। Right? So how will you give it to the client?
+
+[01:25:45] It's very simple. You just go to the Google and just
+
+[01:25:51] search here
+
+[01:25:53] Gemini
+
+[01:25:55] watermark remover
+
+[01:26:02] video
+
+[01:26:05] free.
+
+[01:26:07] Just click this first link, geminiwatermarkremover.io.
+
+[01:26:12] Just click this first link.
+
+[01:26:15] Come here, choose the video,
+
+[01:26:19] upload the desired video. जैसे आप upload करोगे, obviously start local के option पे
+
+[01:26:25] आप click करो。 That's it. It start working and we will see the difference of both
+
+[01:26:30] quality. We will see the difference and the outcome कि वो properly remove हुआ है कि
+
+[01:26:36] नहीं हुआ
+
+[01:26:39] है। चीजें simple है but चीजों की outcome बहुत powerful है, guys.
+
+[01:26:45] Until and unless you understand the processes.
+
+[01:26:49] कोई shortcut तरीके से करोगे तो शायद वो outcome नहीं मिलेगा जो outcome मिलना आपको
+
+[01:26:52] है। Process से जाओगे तो चीजें अच्छी बनेगी आपकी। Getting the point?
+
+[01:26:56] किसी भी चीज में। In businesses as well.
+
+[01:27:02] Perfect, done. Let me download.
+
+[01:27:07] Now let me download and let me show you again this
+
+[01:27:14] ताकि आप detail में देख पाओ कि quality क्या है।
+
+[01:27:22] Everyone can able to see the video? See this.
+
+[01:27:27] तो
+
+[01:27:28] आपको अच्छी selling desk बनाने की 需 要 होगी। This as well for your business and
+
+[01:27:33] client भी खुश हो जाएगा देख के। Right?
+
+[01:27:36] क्योंकि वो भी जब social media में कहीं promote करेगा तो वो भी happy रहेगा इसे करके।
+
+[01:27:40] Right? So I hope this makes sense and you get the clarity how to create such
+
+[01:27:44] content. Second चीज मैं बताने जा रहा हूँ। ध्यान से देखिएगा। इसको देख के और मजा आएगा
+
+[01:27:49] आपको because it's very-very-- थोड़ा-थोड़ा और interesting हो जाएगा यह चीज यहाँ से
+
+[01:27:52] आपका अभी। कोई product है तो product का promo video कैसे
+
+[01:27:56] बनाना है? तो मैं पहले outcome दिखा दूँ आपको ताकि आप
+
+[01:28:02] समझो कि क्या होता है promo video. एक second देना मेरे को खाली आप।
+
+[01:28:10] Okay.
+
+[01:28:17] Wait you just a minute, guys.
+
+[01:28:25] Let me show you the outcome first.
+
+[01:28:36] Be with me.
+
+[01:28:39] It's opening.
+
+[01:28:47] Some time.
+
+[01:28:53] Just a minute, guys. It's opening.
+
+[01:29:25] Okay.
+
+[01:29:30] Done. Let me share you the screen.
+
+[01:29:42] Okay.
+
+[01:29:53] Let me share your screen. Now see this.
+
+[01:29:56] If you imagine any product, let's we have used the most popular one जो सब
+
+[01:30:02] use कर ही रहे होंगे। उस photo के साथ--
+
+[01:30:07] मैंने photo दिया ना, उस photo के साथ क्या उसने बना के दिया है let's see this.
+
+[01:30:18] Can you see? It's not. Just to show me. Is it visible?
+
+[01:30:23] Okay, one second.
+
+[01:30:30] One second.
+
+[01:30:40] Okay ठीक है। मैं screen share वापस कर रहा हूँ। Now it
+
+[01:30:46] will be visible. No worries.
+
+[01:30:50] Okay, now it's visible, right? Now I am playing it. Just look at this first.
+
+[01:30:54] Now understand how to do it now later.
+
+[01:31:02] Is it powerful?
+
+[01:31:04] Photo से ये video बनाया है।
+
+[01:31:11] Right, excited? The process is super simple until and unless you understand the
+
+[01:31:16] process।
+
+[01:31:19] Number one that you need... Let me stop screen again and share it fully
+
+[01:31:25] with you।
+
+[01:31:28] Number one that is
+
+[01:31:32] ये वाला part हमने अभी cover करा कि कैसे हमारा
+
+[01:31:37] garment related video हमें बनाना है। Second promo video like for the product। Now
+
+[01:31:41] here is the process। सबसे पहले आपको जाना है Hexweb में। Hexweb क्या है?
+
+[01:31:45] Hexweb एक ऐसा platform है जहां पर आपको multiple
+
+[01:31:51] platforms मिल जाते हैं जैसे Gemini हो गया, Seedance 2.5 करके अभी सबसे latest चल रहा
+
+[01:31:57] है model है। जैसे मैंने starting में models बताया था, correct?
+
+[01:31:59] Gemini, ChatGPT। Seedance 2.5 करके भी एक model है जो video generation के लिए ही
+
+[01:32:04] train किया गया है specifically।
+
+[01:32:07] तो वो अभी तक का सबसे best model कहा जा रहा है। In which second you have to go to
+
+[01:32:12] the marketing studio। Third you have to go to the select model as an Seedance 2.5।
+
+[01:32:17] Fourth obviously you have this prompt। अब यह prompt जो Vaseline का prompt है how we
+
+[01:32:21] can change it for other product? It's very simple, I will show you the process।
+
+[01:32:26] Enter the prompt, upload the product photo like Vaseline in this case। Select the
+
+[01:32:31] ratio and hit enter। That's it। Process बताने में ही complex है, but करने में बड़ा
+
+[01:32:36] easy है। Let me open the Hexweb। Now you just have to copy this।
+
+[01:32:42] मुझे full screen करनी पड़ेगी ताकि मैं दोनों thing आपको दिखा सकूं side by side।
+
+[01:32:49] See this। I am just copying this prompt
+
+[01:32:55] first।
+
+[01:32:59] I am coming to the marketing studio here in the Hexweb।
+
+[01:33:04] Hexweb may charge sometimes। Free शायद नहीं है so obviously it is very valuable
+
+[01:33:10] also। Here you have these options। देखिए इस तरह कुछ window है। अब इस window के अंदर
+
+[01:33:16] आप नीचे देखिए options हैं। ये options के अंदर by default ये marketing studio image
+
+[01:33:19] selected है। यहां से आपको select करना है
+
+[01:33:23] Seedance का।
+
+[01:33:26] First of all, you have to select the video section because it is video, it is not
+
+[01:33:30] photo जो हमें create करना है। Then select these options, then select the Seedance
+
+[01:33:34] 2.5। Seedance 2.5 जैसे आप select करते हो, यहां पर जो prompt था, वो prompt डालिए। I
+
+[01:33:40] am not gonna generate again because ये time लेगा थोड़ा so we have the limited time।
+
+[01:33:44] The process same है। कोई इसमें ज्यादा hidden चीज कोई नहीं है। जो process था वही है।
+
+[01:33:50] Seedance 2.5 prompt मैंने ले लिया। Prompt के साथ मेरे को चाहिए image, plus icon पर
+
+[01:33:54] डालूंगा यहां पर मैं। Plus icon के ऊपर मैंने देखी upload हो गई। यहां uploaded है।
+
+[01:33:59] नहीं होगी तो आपको upload करनी है यहां से आपके own computer से। ये मैंने image ले
+
+[01:34:02] ली। इसको close कर दिया। Image मेरी आ गई। Prompt मेरा आ गया। अब मेरे को settings
+
+[01:34:07] check करनी है। यहां पर लिखी है। क्या settings check करने बोल रही है?
+
+[01:34:10] 2.5 select हो गए चलो ठीक है, product upload हो गए ठीक है, prompt आ गया ठीक है। 16
+
+[01:34:14] by nine की size चाहिए। ये 16 by nine already selected ही था तो मैंने select कर
+
+[01:34:19] दिया। And obviously quality अभी यहां से select कर सकते हो कि क्या quality का video
+
+[01:34:23] चाहिए। 1080 HD quality मानी जाती है तो आप select करोगे। कितने seconds का video
+
+[01:34:27] चाहिए then you can select by sliding it here। Maximum you have this 30 second
+
+[01:34:33] option। All over the globe आज के date में generally 30 second तक के
+
+[01:34:39] videos most of the platforms highest offer करते हैं। आज के time
+
+[01:34:43] में। थोड़ा हमारी ये part खत्म हो जाए तो मैं आपको एक चीज और भी बताऊंगा at the end of
+
+[01:34:49] the program कि कैसे
+
+[01:34:51] इससे ज्यादा भी कर सकते हैं जो कि एक process है with this.
+
+[01:34:57] Now see, after this, select the right seconds and after this, you just have to
+
+[01:35:03] create this generate button, that's it। It's this simple process।
+
+[01:35:09] Not confusing? यहां पर clear हो रहा है तो I am not gonna hit enter because it will
+
+[01:35:13] take some time to generate। So we don't have such time। We have other stuff to work
+
+[01:35:18] on that। Process is simple।
+
+[01:35:21] Everyone please respond so that I can understand the
+
+[01:35:26] frequency with you।
+
+[01:35:29] All good, guys.
+
+[01:35:32] All good। So now the next is
+
+[01:35:35] UGC ads। How many of you are excited now? UGC मतलब पता है क्या होता है?
+
+[01:35:39] UGC मतलब होता है user generated content जो आज के date में बहुत viral चल रहा है। But
+
+[01:35:44] problem क्या पता है? Problem यह है कि user generated content में realistic nature
+
+[01:35:49] नहीं आता है। Realism नहीं आता है। Natural चीजें नहीं लगती। वो थोड़ा artificial लगता
+
+[01:35:55] है।
+
+[01:35:57] मैं अभी आपको एक video दिखाऊंगा। After the video, I need a response from you। Honest
+
+[01:36:02] response, obviously।
+
+[01:36:05] And वो कैसे किया फिर हम देखेंगे। ठीक है?
+
+[01:36:11] Until and unless यहां तक सबको clear है। We are on the same page now?
+
+[01:36:15] अब तक on the same page?
+
+[01:36:21] I can see many of the faces.
+
+[01:36:24] Thank you so much for this one, guys। Thank you। All good। So now let me show you
+
+[01:36:29] the video first। ठीक है?
+
+[01:36:37] Just a minute। Let me share my screen।
+
+[01:36:44] Perfect।
+
+[01:36:57] It's open।
+
+[01:37:02] पहले देखेंगे, पहले response मत करिएगा।
+
+[01:37:06] ठीक है?
+
+[01:37:14] Okay। I hope screen is visible to all of you।
+
+[01:37:19] Let me hit the play button.
+
+[01:37:21] It blends easily into the skin. See, no rubbing, no effort. Natural finish.
+
+[01:37:26] Skin still looks like skin. Raspberry seed oil, carrot and licorice root extracts
+
+[01:37:29] right there on the label. And we're gonna dive every morning. This is the step.
+
+[01:37:32] Make SPF the easiest step. Camellia SPF 50 plus.
+
+[01:37:36] It blends easily into the-
+
+[01:37:38] Now let me play again.
+
+[01:37:39] Skin. See, no rubbing, no effort. Natural finish. Skin still looks like skin.
+
+[01:37:45] Raspberry seed oil, carrot and licorice root extracts right there on the label.
+
+[01:37:48] And we're gonna dive every morning. This is the step. Make SPF the easiest step.
+
+[01:37:52] Camellia SPF 50 plus. It blends easily into the skin.
+
+[01:37:55] Now tell me honestly
+
+[01:37:59] कौन बोलेगा कि यह AI generated video है?
+
+[01:38:05] If you see such reels over the social media,
+
+[01:38:10] 1% लोगों को छोड़कर जो already जानते हैं, जो डूबे हुए हैं हैं, उनको छोड़कर बाकी
+
+[01:38:14] लोगों को नहीं पता चलेगा कि यह AI generated video है। How to do it?
+
+[01:38:17] Now it's the point that we have to learn.
+
+[01:38:20] So be with me, guys। अच्छा ठीक है, एक question, permission जरूर चाहिए before
+
+[01:38:25] showing this because it's very important for you, not for me। थोड़ा अगर 10:00 बजे
+
+[01:38:29] से आगे call 15 मिनट या 20 मिनट थोड़ा shift हो जाए, आगे हो जाए तो it's comfortable
+
+[01:38:34] for you all of you? Because मेरा भी reason हुआ नहीं है so don't worry। After call
+
+[01:38:39] ही करना है। Right?
+
+[01:38:41] ठीक है जी। So thank you so much for the great energy। Thank you so much। चलो
+
+[01:38:47] process पहले मैं guide कर दूं आपको process क्या है इसकी।
+
+[01:38:51] Let me-
+
+[01:38:52] Natural finish.
+
+[01:38:54] अच्छा एक second।
+
+[01:38:55] Skin still looks like skin. Raspberry seed oil, carrot and licorice root-
+
+[01:39:01] Number one, इसके लिए हमें क्या लगेगा?
+
+[01:39:05] Screen पर देखें। हमें लगेगा सबसे पहले एक platform, Hexweb।
+
+[01:39:10] Model लगेगा हमें Seedance 2.5।
+
+[01:39:21] Okay, now I can see you all। And first we need obviously a
+
+[01:39:27] model कि किस पर ऊपर video बनेगा। First we need this। So here is the
+
+[01:39:33] prompt। Here is the prompt। Here is the first outcome।
+
+[01:39:39] Now
+
+[01:39:41] अब यह ध्यान दो आप कि अगर आपका outcome real नहीं आ रहा है क्योंकि it's a creative
+
+[01:39:46] world। हो सकता है कि आपके case में AI थोड़ा सा अलग दे। हो सकता है, it depends
+
+[01:39:51] क्योंकि AI is a creative world।
+
+[01:39:53] तब क्या करना है? वो मैं आपको बताता हूं पहले। So अगर आपके case में-- let's open this
+
+[01:39:58] prompt मैं आपको ये side by side करके भी दिखाऊं। Let's go to the ChatGPT
+
+[01:40:05] या Gemini भी जा सकते हैं। Let's do it for both। दोनों पर करके देख सकते हैं हम।
+
+[01:40:09] ChatGPT में गया। यह photo मेरे पास है। अब मैं इसको hit enter करता हूं
+
+[01:40:15] And obviously I will go to the Gemini in new chat, hit enter.
+
+[01:40:20] Let's wait for the both outcomes. किस में ज्यादा realistic आ रही है ताकि
+
+[01:40:25] understanding आपकी भी बढ़ना start हो जाए चीजों के लिए।
+
+[01:40:32] पहले मैंने ChatGPT को दिया, फिर मैंने Gemini को दिया। चलो Gemini का आ गया है। Now
+
+[01:40:36] see this.
+
+[01:40:39] Real है।
+
+[01:40:42] Now wait for the ChatGPT.
+
+[01:40:46] अच्छा, let's try again.
+
+[01:40:50] Maybe some updates happening on ChatGPT right now.
+
+[01:40:53] चलता रहता है इन लोगों का।
+
+[01:40:56] क्योंकि speed चाहिए सबको आज की date में। Competition China और USA से ज़्यादा है आज
+
+[01:41:00] की date में।
+
+[01:41:07] One second. My screen is not visible. Someone save me.
+
+[01:41:13] Now I hope it's visible.
+
+[01:41:26] Just a minute, guys.
+
+[01:41:30] Okay, now it's visible properly.
+
+[01:41:35] Wait for the ChatGPT.
+
+[01:41:46] It's taking some time.
+
+[01:42:00] In this entire process, एक चीज मैं आपको और point out करवा दूं।
+
+[01:42:05] क्या हो रहा है?
+
+[01:42:07] One second. Whenever you are operating
+
+[01:42:13] on AI, specially on content creation,
+
+[01:42:18] so इस पूरे process में patience was very less.
+
+[01:42:23] Now see this, guys. This is
+
+[01:42:26] much real
+
+[01:42:32] than this.
+
+[01:42:34] How many of you agree? Show me a big thumbs up. This is much real than this.
+
+[01:42:41] Obviously both are 19-20 का difference है, ज़्यादा difference नहीं है but this is
+
+[01:42:45] much. I will prefer this one over this.
+
+[01:42:48] The ChatGPT is winner in this case, so I use this now.
+
+[01:42:52] And
+
+[01:42:54] the next thing is we have to have a product.
+
+[01:42:59] So we have the product here. Let me
+
+[01:43:06] show you.
+
+[01:43:09] Just a minute.
+
+[01:43:19] एक second।
+
+[01:43:22] Okay.
+
+[01:43:30] So we have this image ready on ChatGPT.
+
+[01:43:35] We have the product. The product is this.
+
+[01:43:43] I cannot zoom this product. The product is this.
+
+[01:43:47] एक second।
+
+[01:43:49] There are different apps, so
+
+[01:43:52] this is happening.
+
+[01:43:54] The product is this. Now it's visible. So this is the product, this is the model.
+
+[01:44:00] But आपके case में क्या है? यह
+
+[01:44:05] modeling है और यह product है。 So we have this one and this one, both we
+
+[01:44:10] have
+
+[01:44:12] copied। And the next prompt is this.
+
+[01:44:17] Step two यहाँ पे लिखा हुआ है। Step two के ऊपर मैंने यह prompt लिया
+
+[01:44:23] and इसको मैंने copy किया and इसको मैंने paste किया। Let's wait for the-- I have
+
+[01:44:29] to cancel this old one.
+
+[01:44:34] यह button activate हो रहा है, एक second देना।
+
+[01:44:42] Now,
+
+[01:44:44] जब आपका model जितना real है,
+
+[01:44:48] उतना better आपका content बनेगा in form of video.
+
+[01:44:51] अगर यहाँ पर गड़बड़ है जैसे कि मान लो कि पहले वाला यह था। अगर मैं यह लेता तो शायद
+
+[01:44:56] quality of video उतना नहीं होता जितना इसमें आ सकता है।
+
+[01:45:02] There may be some
+
+[01:45:05] thing that I have to refresh the ChatGPT again.
+
+[01:45:16] ठीक है। So prompt आ गया, उसके साथ मेरा product आ
+
+[01:45:21] गया। अच्छा, prompt के अंदर हमें देना है--
+
+[01:45:29] One second देना। Okay, here you will understand the
+
+[01:45:35] image one, white pump bottle, black pump orange। यह पूरा image one जो है ना, यह जो
+
+[01:45:41] image one के अंदर जो product है ना उसकी detailing इस में already लिखी गई है। अब
+
+[01:45:45] आपको लगा कि sir आपके image में अगर यह product है तो आपके case में शायद दूसरा
+
+[01:45:50] product हो सकता है, तो उस particular case में यह जो existing prompt है ना, इस
+
+[01:45:53] existing prompt के साथ यह आपके जो existing product है, वह image डाल के
+
+[01:45:59] just add one command. मैं अभी यह नहीं कर रहा हूं but आपको process बता रहा हूं। Just
+
+[01:46:03] add one command, change the prompt as per the image product.
+
+[01:46:10] यह आप जब दोगे ChatGPT को, वह आपके product के according यही prompt
+
+[01:46:16] को modified कर देगा। I hope यह clear है क्योंकि इसमें कोई भी rocket science नहीं
+
+[01:46:21] बताया मैंने अभी तक।
+
+[01:46:23] So next is I have to copy this image of the girl and मैंने
+
+[01:46:29] paste कर दिया। Now, once it's uploaded, now let's wait for the outcome
+
+[01:46:35] of this both product and the model.
+
+[01:46:40] It should be like this. It should be like this in different-different
+
+[01:46:46] scenes. One, two, three, four, five, six, seven, eight.
+
+[01:46:49] Eight scenes के अंदर यह है। Properly
+
+[01:46:53] हमारा outcome आना चाहिए। Let's wait for the outcome.
+
+[01:47:00] It's 9:47.
+
+[01:47:18] Just a minute.
+
+[01:47:23] So it may take some time, but it's okay क्योंकि यह चीजें सही दे रहा है compared to
+
+[01:47:28] the Gemini, as you see live with me.
+
+[01:47:35] ChatGPT if you can see what is the weakness of ChatGPT?
+
+[01:47:38] ChatGPT की weakness मैं बता सकता हूं कि it's not built specifically for videos.
+
+[01:47:45] It's not built for videos. Its core strength is content, idea, image, etc.
+
+[01:47:51] So obviously we need it for this. In this case, we need Cedars or Gemini for the
+
+[01:47:57] video generation.
+
+[01:48:02] एक second देना। Let me
+
+[01:48:06] cover the next topic in the meantime.
+
+[01:48:09] Okay.
+
+[01:48:13] तब तक, जब तक यह बन रहा है, मैं आपको वो process समझा दूं ताकि आपका screenshot ले लो
+
+[01:48:18] और आपकी outline clear हो जाए office, इस process की। See this, guys.
+
+[01:48:24] See on the screen. Perfect the frame first, then create the motion.
+
+[01:48:28] इस पूरे process को हमने किस तरह से किया है, यह एक screen पर आपको clear होगा ताकि आप
+
+[01:48:33] समझ पाओ कि क्या हमने process follow करी। Idea number one, obviously we need a idea.
+
+[01:48:40] The second is we need a required images.
+
+[01:48:42] Images पहले होगी video बाद में बनती है। AI में हमेशा ध्यान रखो direct text to video
+
+[01:48:46] बनाने जाओगे तो गड़बड़ होगी। Images reference होगी तो वह ज़्यादा अच्छा बनाएगी। Model
+
+[01:48:50] चाहिए model plus product plus environment plus reference। मतलब कि अगर आपका model
+
+[01:48:54] है, model का environment भी अगर आपने ready कर दिया कि मान लो office में बैठा है या
+
+[01:48:57] मान लो वह garden में घूम रहा है so and so.
+
+[01:49:01] Product के साथ model के photos, this is required images.
+
+[01:49:05] तीसरा जो है ना which is perfect key frame.
+
+[01:49:08] First make the still image correctly मतलब जो भी बता रहा हूं मैं।
+
+[01:49:14] It's not generated. हाँ, देखिए आ गया। See this, guys carefully
+
+[01:49:21] It looks real in every frame that I can see.
+
+[01:49:26] If you are same with the same mind, आपको भी सही लग रहा है जो मैं बोल रहा हूँ, you
+
+[01:49:31] can show me the reaction.
+
+[01:49:34] It looks real in each one of the frame.
+
+[01:49:40] Right?
+
+[01:49:42] That's it. यह चीज अगर आपकी बहुत अच्छी है ना, तब आपका video का quality है ना, वो
+
+[01:49:47] बहुत better होगा।
+
+[01:49:50] I hope this makes sense.
+
+[01:49:52] So
+
+[01:49:53] now we have this character
+
+[01:49:57] sheet ready with product.
+
+[01:50:01] This step two is done. I think आपको हिंदी करना होगा।
+
+[01:50:11] Okay, step two is done.
+
+[01:50:14] The next, we have achieved this one and the next is this prompt for the video
+
+[01:50:20] generation along with this image. This is the entire prompt that we have to copy.
+
+[01:50:26] But video generation में time लगेगा obviously I am not going to do it right now
+
+[01:50:30] because already we have discussed the process की क्या process है। So we have this
+
+[01:50:35] sample जो पहले हमने दिखाया था, उसका sample यहाँ पर है, इसी process से। यह हमारा
+
+[01:50:41] prompt है। इस prompt के साथ आप देख सकते हो कि इसमें क्या-क्या लिखा हुआ है। सारी
+
+[01:50:46] चीजें लिखी हुई हैं, वो according आप समझ भी पाओगे कि यह चीज कर क्या रहा है।
+
+[01:50:51] So what you can do? Go to the Hexfield। Hexfield के अंदर हमारे पास देखिए, यहाँ पर
+
+[01:50:57] video का option है। Video के options में यहाँ पर reference image का option है। यह
+
+[01:51:02] मैं delete कर दूँ, यह पहले वाला है।
+
+[01:51:05] Reference image के अंदर हमें हमारी जो desired image है, यह वाली। Right, इसको मैं
+
+[01:51:09] download कर दूँ।
+
+[01:51:12] Character sheet वाली। मैंने यह upload कर दी।
+
+[01:51:27] It's uploading.
+
+[01:51:30] Be focus on the screen guys. Be focus.
+
+[01:51:38] Okay.
+
+[01:51:44] It's uploading.
+
+[01:51:53] No worries. Okay, it's uploaded. अब ठीक है चलो।
+
+[01:51:58] Once it gets fully upload, I can use it.
+
+[01:52:01] चलो, यह आ गया। Now let's cancel this.
+
+[01:52:06] Here you have to add the prompt। मैं थोड़ा सा इसको minimize करके दिखा दूँ ताकि आपको
+
+[01:52:10] सारी चीजें दिखे। Okay.
+
+[01:52:14] यहाँ मैंने image upload करी। कौन से section में?
+
+[01:52:15] Hexfield में video वाले section में। Right?
+
+[01:52:17] Video वाले section में directly किया मैंने। After this, I have uploaded the
+
+[01:52:24] पूरी जो हमारा sheet है and here I have to give the
+
+[01:52:30] video prompt। यह मैंने को डालना है but make sure हमें यहाँ पर model कौन सा select
+
+[01:52:36] करना है। यहाँ पर नीचे देखो model का option है Hexfield में। Hexfield में बहुत से
+
+[01:52:39] models हैं आपके पास अलग-अलग जो सारे-- जैसे Google OmniFlash भी है। Kling 3.2 भी एक
+
+[01:52:45] अच्छा model है but जो हमने select करना है वो CDance 2.5। CDance 2.5 already
+
+[01:52:50] selected है यहाँ पर। नीचे आप आओ। नीचे आपको यह select करना है, कितने second का video
+
+[01:52:55] बनाना है आपको।
+
+[01:52:56] क्या आपका frame-- यह aspect ratio क्या है?
+
+[01:52:59] Aspect ratio already यहाँ पर लिखा हुआ है। If you can read this obviously nine by 16
+
+[01:53:03] यहाँ पर लिखा हुआ है। तो we have to हमें confuse नहीं करना है। यहाँ जो लिखा है उसके
+
+[01:53:07] according हम लोग यहाँ भी select करेंगे features में और 1080 का pixel है हमारा जो कि
+
+[01:53:12] HD quality का video है। That's it guys. Once you click on generate, that's it.
+
+[01:53:17] This is the complete process. Once you click on generate, it starts generating the
+
+[01:53:20] video. It may take around five minutes, 10 minutes, up to 15 minutes some cases
+
+[01:53:24] में। So obviously we don't have such time right now. It's 9:53 p.m.
+
+[01:53:28] But the process is same. I want to understand from you all
+
+[01:53:34] कि how many of you got the clarity in process?
+
+[01:53:40] Right.
+
+[01:53:42] Big screen here so that I am watching you all here.
+
+[01:53:47] Thank you.
+
+[01:53:49] Thank you so much.
+
+[01:53:51] Thank you so much, guys. Thank you. Someone is saying wow. Thank you.
+
+[01:53:55] ठीक है, no worries. आप में से कुछ लोगों को मैं एक
+
+[01:54:00] input देना चाहूँगा। If any one of you जिसने आज पहली बार कोई चीज
+
+[01:54:06] देखी ऐसी, हो सकता है क्योंकि आप अपने-अपने काम में busy रहे। I know you are all
+
+[01:54:11] working professionals.
+
+[01:54:14] But it doesn't make
+
+[01:54:16] sense कि it doesn't means like that कि अगर मुझे 100% समझ में नहीं आ रहा है। मैं
+
+[01:54:22] आपको यह practical बता रहा हूँ जो हर इंसान के साथ होता है। तो आप उस category में अगर
+
+[01:54:25] हो तो आपके लिए यह अच्छी बात है जो मैं बता रहा हूँ। 100% समझ में नहीं आया है, don't
+
+[01:54:31] worry. AI करने वाली चीज है। Yes, देखने वाली तो चीज है ही but करने वाली चीज है। जब
+
+[01:54:36] करना करना करने लगोगे तो आपका दिमाग अच्छे से चलेगा। दूसरा
+
+[01:54:42] point यह है कि अगर 50 जगह भी समझ में आया, 50% भी समझ में आया, positive sign
+
+[01:54:48] है। और यह मैं अभी inside secret बता रहा हूँ।
+
+[01:54:53] जब हम किसी भी successful इंसान को देखते हैं, हम सोचते हैं कि उसको हमारे से ज्यादा
+
+[01:54:57] समझ आती है। But हमें यह समझ लेना चाहिए कि वो भी इंसान ही है।
+
+[01:55:04] किसी भी इंसान को कोई भी चीज जब पहली बार वो देखता है,
+
+[01:55:09] यह किस की बात कर रहा हूँ मैं? 100% किसी को भी समझ में नहीं आती है। If I
+
+[01:55:15] talk about the Einstein level brain as well तो भी।
+
+[01:55:20] So this is not like the abnormal, it's normal कि 50% आया समझ में।
+
+[01:55:26] So now the understanding is कि जब हम करते हैं उस चीज को, अगर हमें अच्छा लगे, उसके
+
+[01:55:30] ऊपर master करना है। We will obviously take it as a priority and practice it daily।
+
+[01:55:36] किसी भी चीज में आप देख लो life में हम यही करते हैं। तो उसकी percentage बढ़ती जाती
+
+[01:55:40] है। 55%, 60%, 65%, 70% then you master from the rest of the people all over the
+
+[01:55:45] planet. So I hope this makes sense.
+
+[01:55:48] So don't overthink कि अगर पूरा समझ में नहीं आया but ठीक है। Process समझ में आ गई
+
+[01:55:54] है, that's good. Light सब लोग use करते हैं ना?
+
+[01:55:58] Light हम लोग हमारे आपके घर में, सबके घर में light देख पा रहे हो आप लोग। Light चल
+
+[01:56:01] रही है। But आप में से बहुत से लोग light चलती कैसे है वो नहीं पता है। सही
+
+[01:56:07] बोल रहा हूँ मैं? उसका science क्या है वो नहीं पता है but हम use कर पा रहे हैं ना।
+
+[01:56:12] Same with this technology. सब समझने की जरूरत नहीं है। Process समझनी है। Process समझ
+
+[01:56:17] गया, business दिमाग है, you can start making money by serving the services, selling
+
+[01:56:21] the services.
+
+[01:56:23] These are the small skills that are very impactful in your local area as well.
+
+[01:56:29] All good, guys. So now
+
+[01:56:33] I want to understand how many of you are clear till now, till point with the same
+
+[01:56:38] page? एक बार सब लोग मुझे thumbs up दिखाएं अगर clear है तो ही।
+
+[01:56:45] नाम भी आता है, नाम भी पढ़ता हूँ मैं। Thank you.
+
+[01:56:53] Thank you so much.
+
+[01:56:56] Perfect.
+
+[01:56:59] ठीक है। Now.
+
+[01:57:08] ठीक है। All good, guys. So let me share my
+
+[01:57:14] screen again.
+
+[01:57:21] Let me share my screen again.
+
+[01:57:25] Before that, एक बार मैं जरूर जानना चाहूँगा
+
+[01:57:31] आज के class में कितने लोगों को मजा आया। Eye-opener moment था, wow वाली feeling
+
+[01:57:37] आई। सब लोग मुझे एक बार last time reaction देने दे ताकि मैं आगे के conclusion पर
+
+[01:57:42] पहुँचूँ और इसको हम conclude करें। Right?
+
+[01:57:46] अगर सच में आया तो ही बताओ, मुझे कुछ नहीं करना है। आपको अगर अच्छा लगा है obviously
+
+[01:57:50] then you just show me reaction.
+
+[01:57:54] Okay, perfect. Thank you so much. It's just the beginning, guys.
+
+[01:57:59] It's not the end of the class. It's not the end of the program yet.
+
+[01:58:02] especially इसका just पहला class आज खत्म होने ही वाला है। मैं conclusion point पर
+
+[01:58:06] आऊँगा और आगे एक-दो topics मुझे लेने हैं जो आपको मिलूँगा। अब मैं एक वो चीज बताऊँगा
+
+[01:58:11] before coming to the final topic.
+
+[01:58:14] वो चीज बताऊँगा जो
+
+[01:58:17] लोगों ने August batch में August month में enroll किया है या September के starting
+
+[01:58:21] of the week में enroll किया है in just one-two days.
+
+[01:58:24] आप में से अगर कोई ऐसा है पहली चीज यह है कि आज का जो आपने Academy पूरा देखा, its AI
+
+[01:58:30] content creation Academy and Avatar Academy.
+
+[01:58:33] The Avatar Academy थोड़ा सा topic लंबा है तो हमने already उस call को conduct किया
+
+[01:58:38] हुआ है। वह process थोड़ी लंबी है। It will take around one hour to understand this
+
+[01:58:42] process। But make sure
+
+[01:58:46] आप सभी लोगों को कल जैसे ही working hours में team आएगी office और उस time
+
+[01:58:52] period पर सभी लोगों को
+
+[01:58:55] दो घंटे का detail content on another way of creating
+
+[01:59:01] content
+
+[01:59:03] and Avatar and UGC, उसका एक और class आपको मिलेगा in the
+
+[01:59:09] recorded format all over the MS.
+
+[01:59:13] Is it wow?
+
+[01:59:15] जो लोग 1.2 के batch में थे obviously उन लोगों को आज live value मिल चुकी है। जो लोग
+
+[01:59:20] live नहीं आ पाए obviously उन लोगों को भी इस class की access मिलेगी। So we believe
+
+[01:59:25] in building community. So we are offering like-- हमारा एक और purpose था छोटा सा जो
+
+[01:59:30] अभी याद आया तो बता दूं मैं आपको। Many of you like--
+
+[01:59:35] we are not a course selling company first of all, right.
+
+[01:59:37] We are the actual founders building softwares and scaling it to the world level.
+
+[01:59:42] So ground experience जो है, जो practical में चीजें काम करती हैं, वही चीज हम focus
+
+[01:59:47] करते हैं सिखाने की, जो actual में business बना पाता है। हमारा focus उस पर रहता है।
+
+[01:59:51] हमारा focus उस पर नहीं रहता है कि कोई Academy सिखा रहे हो, वह चीज सिखा रहे, मैं
+
+[01:59:56] उसको वही चीज सिखाकर पैसे कमाऊंगा। It's not like that here in your community.
+
+[02:00:01] Second point यह है कि
+
+[02:00:07] it's just the first day of your entire program and
+
+[02:00:15] जो भी एक intent fee हम उसको बोलते हैं, जिसका reason यह है क्योंकि already
+
+[02:00:21] you know that 3000 से ज्यादा, 3000-3500 से ज्यादा लोगों ने specialist program में
+
+[02:00:27] registered किया है। मैं आपको world की practical reality बता रहा हूं अभी। और यह अभी
+
+[02:00:31] इसके लिए बता रहा हूं क्योंकि आज पहला class है। आगे और भी classes होंगी। तो यह चीज
+
+[02:00:35] आपके साथ ना।
+
+[02:00:38] 3000-3500 लोगों ने ₹999 pay करके specialist program में enroll किया हुआ है।
+
+[02:00:45] But you are watching कि आज के call पर हजार लोग हैं और YouTube पर कुछ और plus
+
+[02:00:51] हैं, 100-200 लोग plus हैं। जो हमारे पास data था, जो हमने देखा। ज्यादा नहीं होंगे। I
+
+[02:00:56] am just roughly.
+
+[02:00:58] So why are other people are still not able like क्यों join नहीं करते?
+
+[02:01:02] क्यों उसको वह नहीं करते? Because it's three inner problem that everyone is facing
+
+[02:01:08] in 2026 जो बहुत जरूरी है हमें समझना। अगर हमें आगे बढ़ना है, हमारी जो wall है, उसको
+
+[02:01:14] cross करके ऊपर आना है। Right level change करना है। तो यह चीज क्या
+
+[02:01:20] है? Number one is overthinking.
+
+[02:01:25] Second is perfection syndrome and third is procrastination.
+
+[02:01:29] These are the three inner enemies.
+
+[02:01:33] जो हमेशा आए तो उसको shoot करके उसको खत्म करो। उसको रखो मत अपने अंदर। This
+
+[02:01:39] is not gonna save you. Obviously वह आपका outcome उसके साथ अच्छा नहीं रहता। यह चीज
+
+[02:01:43] हमें भी होती है। We are also human but we understand, we have developed the skills
+
+[02:01:47] कि कैसे वह चीज को overcome करना है। Outcome पर focus करो।
+
+[02:01:51] Complete करने पर focus करो। पूरी understanding जब होगी ना तब आपका mind अच्छे से
+
+[02:01:55] चलेगा। तब decision सही पाओगे आप कि कौन से direction में business करना है AI में।
+
+[02:02:00] ठीक है। In the coming time we will also guide you on that point particular topic.
+
+[02:02:04] I hope this is meaningful जो मैंने अभी आपको बोला guys.
+
+[02:02:11] Perfect.
+
+[02:02:17] All good. I hope यह screenshot आप ले लो। जो process का screenshot है जो अभी हमने
+
+[02:02:23] किया generating hyper realistic videos.
+
+[02:02:26] यह process की screenshot में आपको काफी detailing मिलेगी। यह recording में तो होगा
+
+[02:02:30] ही but screenshot होगा तो क्या use कर पाओगे। Now understand this most
+
+[02:02:36] important point.
+
+[02:02:38] Prompt को लेकर लोग बड़े confuse हैं कि sir prompt कैसे और क्या हमें उसके अंदर चीजें
+
+[02:02:43] देखनी चाहिए। क्या होता क्या है basically।
+
+[02:02:48] Prompt का एक मैं बड़ा ही layman language में चीज समझाता हूं। Prompt is the
+
+[02:02:53] communication,
+
+[02:02:55] communicative message to the LLM by human.
+
+[02:03:01] Communicative message to the LLMs चाहे LLM ChatGPT हो, Gemini हो, Grok हो anything,
+
+[02:03:07] any LLM by the human. Now the word comes here
+
+[02:03:13] engineering.
+
+[02:03:15] कई लोग इसके courses बेच रहे हैं prompt engineering के。 Right.
+
+[02:03:21] और कई universities भी बेच रही हैं लाखों में। So what is basically prompt
+
+[02:03:26] engineering means now? It simply means writing the same stuff in a very
+
+[02:03:32] better way.
+
+[02:03:37] Better का definition क्या है? Better का definition है clear intent, fully clear.
+
+[02:03:43] AI को आपका intent समझ में आता है, आपका
+
+[02:03:49] words उसको समझ में नहीं आता है। Words की spelling mistake वो भी चलेगी।
+
+[02:03:54] आपका grammar का spelling mistake वो भी चलेगा। But अगर आपका intent उसमें समझ में आ
+
+[02:03:58] रहा है कि हां, यह intentive है
+
+[02:04:01] तो वो better outcome आपको देगा जो आपका desired outcome है। चाहे वह video बनाना हो,
+
+[02:04:06] चाहे वह image बनाना हो, चाहे वह text to text copy writing करना हो whatever.
+
+[02:04:12] So these are the four inputs जहां पर आपको समझ में आ रहा है। पहले में आप देखो
+
+[02:04:16] purpose. What are we creating? Ad, photo. आपका intent क्या है?
+
+[02:04:20] Purpose क्या है आपका? Subject. Second point is subject.
+
+[02:04:23] What or who or what is the focus? Right.
+
+[02:04:28] आपका product, person, brand.
+
+[02:04:30] Reference आपके पास अगर है तो obviously आप reference दे रहे हो। जैसे हमने what must
+
+[02:04:35] remains accurate, right. Face, product, clothes, logo.
+
+[02:04:38] अगर reference को जो आप reference दे रहे हो कि अगर मान लो logo है तो obviously आप एक
+
+[02:04:41] line लिखोगे keep the logo same as it is.
+
+[02:04:45] Logo में change नहीं आनी चाहिए। Logo में change चलता नहीं है। किसी भी company में
+
+[02:04:48] नहीं चलेगा। And obviously the outcome where it will use Instagram, meta ads,
+
+[02:04:52] Amazon, website, reels. यह आप सारे dots connect करते पाओगे जब हमने पूरी process
+
+[02:04:57] starting से देखी कि किस type का image चाहिए, उसके लिए क्या outcome है, क्या
+
+[02:05:01] psychology है। Images का हो गया, UGC ads का हो गया,
+
+[02:05:07] promo video आपका product ad promo video का हो गया like these are all.
+
+[02:05:12] Now so if I talk about in detail video prompt को लेकर so don't
+
+[02:05:18] write like this कि make her walk beautifully.
+
+[02:05:20] अगर मुझे किसी को चलाना है तो मैं अगर ऐसे लिखूं कि make her walk beautifully तो वो
+
+[02:05:23] शायद उतना better समझेगा नहीं जितना उसको समझना चाहिए। आपके दिमाग में सारी clarity है
+
+[02:05:28] but उसको बताया नहीं आपने पूरा in the form of word. So what is the process now?
+
+[02:05:32] The same woman from reference. Subject आपका उसको देना जरूरी है। Action क्या होगी
+
+[02:05:37] उसकी? Walking naturally towards camera.
+
+[02:05:40] Camera movement आपको बता दीजिए slow cinematic tracking shot.
+
+[02:05:43] Right कि अगर मान लो video बन रहा है obviously अगर video real में बनाता मैं
+
+[02:05:48] real modeling के साथ बना रहा तो obviously cameraman की expertise आती थी ना।
+
+[02:05:54] Cinematographer बोलते हैं, cameraman बोलते हैं, videographer बोलते हैं। उसकी
+
+[02:05:57] expertise आती थी। तो वो भी यहां पर add होनी जरूरी है। Environment हमें देना जरूरी
+
+[02:06:01] है क्योंकि actual में तो हम करते time environment तो हमारा select करते हैं ना अच्छा
+
+[02:06:04] वाला कि कहां पर जाकर video बनानी है। Similar way with AI.
+
+[02:06:09] Lighting हम select करते हैं right real में भी। तो जो चीजें आप real में करते हैं वही
+
+[02:06:13] चीज करने के लिए वही चीज अगर आप AI को दे रहे हो detail तो वो better outcome देगा।
+
+[02:06:19] You can also यह बोल सकते हो कि मान लो कि iPhone 17 Pro से shoot करो तो वो चीज की
+
+[02:06:24] settings set करेगा। Right.
+
+[02:06:27] Emotions अगर आपके पास है obviously वहां पर add करनी है constantly, perceive exact
+
+[02:06:32] सारी pattern, color, face. Right कि अगर मान लो कोई ऐसी चीज है जो गड़बड़ नहीं चलेगी。
+
+[02:06:38] Textiles की industry में textiles जो fabric है उसके texture में गड़बड़ नहीं चलती
+
+[02:06:46] क्योंकि उसी के basis पर उसकी selling होती है। Logo अगर किसी का है तो logo में
+
+[02:06:52] changes नहीं चलते। तो कुछ ऐसी चीज है जहां पर changes या AI generated changes थोड़े
+
+[02:06:57] बहुत भी नहीं चलेंगे तो आप उसको exact command दें कि यह चीज आप जैसी दी है, जैसा
+
+[02:07:03] photo दिया है वैसा का वैसा ही आप use करें। उसकी quality में difference ना आए। Clear
+
+[02:07:08] है guys.
+
+[02:07:10] तो outcome क्या है? इसका outcome यही है कि जितना हम उसको
+
+[02:07:16] real में करते हैं उतना better उतना ही उसको detail देंगे तो वह
+
+[02:07:22] चीजों को वैसे ही execute करेगा जो आपके दिमाग में
+
+[02:07:26] है। ठीक है।
+
+[02:07:28] Now
+
+[02:07:30] एक और point है यहां पर what should I use
+
+[02:07:36] अगर मैं इस चीज की बात करूँ कि Cedance 2.5 भी video generate करता है
+
+[02:07:43] और Gemini है Omni, Flash। यह model भी video generate करता है।
+
+[02:07:50] Hixfield में - यह green color का symbol आ रहा है देख रहे हैं - Hixfield का symbol
+
+[02:07:54] है। Right? Hixfield में दोनों model available है but
+
+[02:07:58] Cedance 2.5 is good। जब उसको हम बोले कि
+
+[02:08:06] professional level की videos अगर बनानी है तो I would recommend the Cedance 2.5 at
+
+[02:08:10] present,
+
+[02:08:12] आज के date में। Right?
+
+[02:08:16] इसको इस तरह से सोचो, अगर आपने यह service चालू करी है, तो आपका दिमाग
+
+[02:08:22] चलेगा।
+
+[02:08:23] तो आपके पास दो package है client को देने के लिए, offer देने के लिए।
+
+[02:08:28] तो अगर client बोलता है कि मैंने
+
+[02:08:32] आपको एक ₹2000 का package बोला और एक ₹4000 या ₹5000 का package बोला और 30 second
+
+[02:08:37] video आया, for example, 15 second video for example.
+
+[02:08:42] Up to 30 second most of the platforms देते हैं but मैं आपको एक चीज बताऊंगा आज जो
+
+[02:08:47] आपका aha moment होगा at the end of the class.
+
+[02:08:51] अगर client आपका ₹5000 वाला package लेता है तो obviously उसकी quality अच्छी होगी,
+
+[02:08:56] उसकी detailing अच्छी होगी। तो you will select the model 2.5 of Cedance।
+
+[02:09:02] अगर client बोलता है कि मेरा budget कम है तो obviously उसकी quality में difference
+
+[02:09:05] आएगा। आप Gemini का Omni, Flash भी use कर सकते हैं। It's all about कि जब भी आप कोई
+
+[02:09:10] भी model use करते हो, जो भी generation आप करते हो, चाहे वह दुनिया का कोई भी AI का
+
+[02:09:16] platform हो,
+
+[02:09:18] Gemini से लेकर ChatGPT से लेकर दुनिया का कोई भी AI अगर आप use कर रहे हो
+
+[02:09:24] तो उसमें credits या tokens की costing लगती है। वह आपको ही नहीं लग रही, ऐसी नहीं बात
+
+[02:09:29] है। वह आपको भी लग रही है और जो company है उसको भी लग रही है, आपकी generation.
+
+[02:09:35] Are you getting the point? It's not like that आप जो भी credits खरीदते हो किसी से
+
+[02:09:39] भी, वह पूरा उसका profit होता है, ऐसा नहीं होता है।
+
+[02:09:43] 80% उसका खर्चा होता है उसके अंदर
+
+[02:09:46] to generate such content. इसका एक logical reason भी देना चाहूंगा on the day one
+
+[02:09:50] क्योंकि आज का पहला दिन है, तो पहले दिन ही foundation भी clear हो जाए अपनी। AI
+
+[02:09:54] industry में आ रहे हो। इसका logical reason बहुत simple है।
+
+[02:09:58] आप में से सभी लोग phone use करते हैं, right?
+
+[02:10:02] Just give me a break for this chat. सभी लोग phone use करते हैं obviously.
+
+[02:10:07] अब आप imagine करो वह दिन, जिस दिन आपने phone को intense level पर use किया। सात घंटा
+
+[02:10:13] लगातार use किया, छह घंटा लगातार use किया। क्या चीजें होती हैं, आपको समझ में आएंगी।
+
+[02:10:18] पहली चीज, आपका phone गर्म होगा। दूसरा क्या होता है?
+
+[02:10:24] वह hang कर सकता है।
+
+[02:10:27] सही बात है। तीसरा क्या हो सकता है? उसकी battery down हो जाए। तीन चीजें होती हैं। अब
+
+[02:10:32] phone क्या है? Computer ही है, computing machine ही है। उसके साथ आप input, output
+
+[02:10:37] कर रहे हो। आपने input दिया, उसने
+
+[02:10:39] कुछ outcome दिया। तो उसका जो processor है, जहां पर main processing हो रही है input,
+
+[02:10:43] output की, वह गर्म होता है mostly।
+
+[02:10:48] और वहां की heat इतनी ज्यादा होती है जब आप constantly use करते हो, तो आपको समझ में
+
+[02:10:52] आता है क्यों गर्म होता है। Now imagine scenario.
+
+[02:10:54] यह तो phone वाला case है। जब AI नहीं था, उस time का जमाना याद करो, आज से चार साल
+
+[02:10:58] पहले।
+
+[02:11:00] Imagine करो now, किसी भी model को, दुनिया का कोई भी software AI driver या कोई भी
+
+[02:11:06] model है, आप AI use कर रहे हो। आपने कुछ भी मांगा, generally
+
+[02:11:12] minutes में आपको outcome मिल रहा है। मिल रहा है?
+
+[02:11:16] Intelligent outcome मिल रहा है, detailed outcome मिल रहा। So
+
+[02:11:22] just imagine कि AI भी तो hardware पर ही चल रहा है। Right?
+
+[02:11:28] जब आप input देते हो free वाले platform पर भी कि यह text generate करके दो, यह मेरे
+
+[02:11:33] को ऐसे लिख के दो।
+
+[02:11:36] वह छोटे से process में भी company को खर्चा आता है। कहां पर खर्चा आता है, मैं बताता
+
+[02:11:40] हूँ। जब भी वह process, आपका command जाता है server पर, जहां पर वह model है,
+
+[02:11:46] वह server पर उसकी processing जब होती है ना, तो hardware level पर दो सबसे बड़े खर्चे
+
+[02:11:51] हैं, जहां पर AI के बड़े companies जितने भी हैं, उनको सबसे ज्यादा खर्चे लगते हैं
+
+[02:11:56] which is number one is water and number two is electricity.
+
+[02:12:00] It's a massive cost every day. Millions of rupees every day
+
+[02:12:06] लोगों को maintenance में जाता है AI servers को चलाने के लिए। Right? क्यों लगता है?
+
+[02:12:11] Simple सी बात है। जब आप input दे रहे हो, fraction of minutes में आपको outcome मिल
+
+[02:12:15] रहा है आपके chat में। Just imagine कि कितनी speed से वह process हो रहा है in the
+
+[02:12:21] hardware। Right? तो वह जो speed है, जहां speed है, वहां friction है, जहां
+
+[02:12:27] friction है, वहां पर heat है, जहां heat है तो उसको cool करने के लिए water लगेगा या
+
+[02:12:31] कुछ और लगेगा।
+
+[02:12:34] और water अगर required daily है तो obviously उसकी costing लगेगी। Second,
+
+[02:12:40] उसको operate करने में अगर उतनी heat generate हो रही है, जैसे हम press करते हैं सब
+
+[02:12:44] लोग। Right? Press या press में कपड़े देते हो आप। Press electricity क्यों ज्यादा
+
+[02:12:49] खाती है? क्योंकि वह heat generate करती है।
+
+[02:12:53] Friction हो रहा है वहां पर electrons का। Right?
+
+[02:12:55] तो friction same, जब आप models use कर रहे हो तो processing में जो power चाहिए होती
+
+[02:13:00] है ना, वह power बड़ी electricity का बहुत बड़ा खर्चा है। That is the reason दुनिया
+
+[02:13:04] का कोई भी platform या कोई भी model या कोई भी AI tool, आज हम यह चीज समझ रहे हैं कि
+
+[02:13:10] AI आया है। Mark this line, in the coming time, in the coming years you will all see
+
+[02:13:15] it everywhere all over the world. जैसे आज हम electricity का bill pay करते हैं, सभी
+
+[02:13:19] लोग करते हैं, right?
+
+[02:13:21] In the coming life, हमारा सबका for sure AI का bill आएगा। उसके
+
+[02:13:27] बिना competition नहीं रहेगा। Competition में आप नहीं रह पाओगे।
+
+[02:13:31] आप चीजें ही execute नहीं कर पाओगे। यह direction में बढ़ रहा है। So
+
+[02:13:37] make sure that अभी हम जो समझ रहे हैं, जो सीख रहे हैं-- तो चलो यह तो पहला class है,
+
+[02:13:41] हमारा subject था content creation, videos बनाना। This is all the foundation
+
+[02:13:47] learning. जब आप आगे बढ़ते हो, industry में entry करते हो, business start करते हो तो
+
+[02:13:52] obviously foundation जितना जल्दी आप strong करते हो, उतना better आपका outcome मिलता
+
+[02:13:56] है, किसी भी revolution में। किसी भी revolution की बात करूँ। ठीक है, इस topic पर हम
+
+[02:14:00] आगे guide करेंगे आपको。 No worries. But this makes sense, right?
+
+[02:14:07] Perfect.
+
+[02:14:09] All good guys. So now obviously this is the conclusion point and after this I will
+
+[02:14:14] show you some magical thing जो industry में बहुत rare है। बहुत मतलब बहुत rare है।
+
+[02:14:20] कि कैसे डेढ़ मिनट का
+
+[02:14:23] video बना सकते हैं, जिसके ऊपर हमने खुद research करके खुद एक ऐसी चीज बनाई है
+
+[02:14:29] जिसको by यह possible है in one shot डेढ़ मिनट का video.
+
+[02:14:33] पहले यह चीज समझ लो one system, every output idea number one.
+
+[02:14:37] Second is creative brief. Third is reference images. Perfect key frame.
+
+[02:14:41] Perfect key frame क्या है अपना? जो अपनी character sheet हो गई या product sheet हो
+
+[02:14:46] गई। Right?
+
+[02:14:49] वह आपका perfect key frame. वह आपका अगर सही है तो आपका video की quality वहां पर
+
+[02:14:54] better दिखेगी with the right prompt.
+
+[02:14:58] AI obviously is not skill, it's the creating the right output
+
+[02:15:04] for the right businesses.
+
+[02:15:07] Right? Purpose is the skill. All good?
+
+[02:15:11] Now I hope
+
+[02:15:15] यह सब clear है सबको। Now I will show you the
+
+[02:15:20] two minute video.
+
+[02:15:23] This is just the outcome. पहले मैं आपको दिखा दूँ एक video.
+
+[02:15:29] ध्यान से सुनिएगा, फिर उसके बारे में बताऊंगा।
+
+[02:15:39] I hope सबको screen
+
+[02:15:41] दिख रहा है। All good.
+
+[02:15:44] It's one minute and 30 second video। Okay?
+
+[02:15:49] And let me play this button.
+
+[02:15:52] Grey light on the window pane.
+
+[02:15:56] Gold letters spelling out a name. Kettle and stone before
+
+[02:16:02] the day. Quiet street, she leads the way.
+
+[02:16:09] Metal drum starts to tick and hum. Green beans falling one by one.
+
+[02:16:14] She flips the switch, the warmth begins. Morning waking from within.
+
+[02:16:20] Watching close through the little glass.
+
+[02:16:23] Waiting for the color to pass from green to gold to something more.
+
+[02:16:28] She's done this a hundred times before. This is how the morning starts.
+
+[02:16:34] One small room, one steady heart.
+
+[02:16:54] Sun comes up along the street. Warms the glass beneath her feet.
+
+[02:16:59] She cracks a bean between her hands. Breathes it in and understands.
+
+[02:17:05] Watching close through the little glass. Waiting for the color to pass.
+
+[02:17:11] From green to gold to something more. She's done this a hundred times before.
+
+[02:17:17] This is how the morning starts. One small room, one steady heart.
+
+[02:17:23] How was it, guys? How was it?
+
+[02:17:27] मैं अभी बताता हूँ एक बात। अब आपको समझ आएगा 全 部 ।
+
+[02:17:31] This 1 minute 30 second video is built in entire one
+
+[02:17:38] shot.
+
+[02:17:40] That is not available all over the world right now, but we have developed such
+
+[02:17:45] solutions for this. यह कहाँ काम आता है मैं बता दूँ। Don't कि इस पर पूरा दिमाग लगा
+
+[02:17:50] दो आप। बाकी चीजें जो मैंने सिखाई हैं वह भी बहुत important हैं। right.
+
+[02:17:54] वह भी चीजें हैं। AI filmmaking या long form promo
+
+[02:17:59] video किसी particular brand के लिए अगर करना है, उस particular चीज के लिए इसका बहुत
+
+[02:18:05] ज्यादा benefit होता है। इस particular video का market rate अगर हम बोले तो कम से कम
+
+[02:18:10] आप
+
+[02:18:12] 7 to 10,000 आप charge कर सकते हो। Depend आपने उस पर कितना effort डाला obviously
+
+[02:18:18] detailing के लिए
+
+[02:18:20] for one video. Minimum side बता रहा हूँ मैं आपको। अगर यही video real में shoot करना
+
+[02:18:25] है तो किसी को बहुत ज्यादा खर्चा लग सकता है, लाखों में जा सकते हैं। That is
+
+[02:18:28] obviously you can tell to the client कि वह पूछेगा कि इतना क्यों?
+
+[02:18:32] Its
+
+[02:18:34] number one reason. एक तो number one ये है। Number two reason कि
+
+[02:18:39] आज के time पर 1 minute 30 second की videos एक साथ नहीं बन पाते
+
+[02:18:44] हैं। 99% case in AI.
+
+[02:18:49] right. So लोग क्या करते हैं? लोग करते हैं कि वह 10 scene अलग-अलग बनाते हैं 10-10
+
+[02:18:54] second के या
+
+[02:18:57] 15 scene बना लिए 10-10 second के या 20 second के। उसके according फिर सभी scenes
+
+[02:19:02] को video editor को देके उसको merge करवा के फिर वही video बनाते हैं, जिसमें भी
+
+[02:19:08] consistency of character-- यह पूरे video में आपने अगर ध्यान से देखा होगा, character
+
+[02:19:12] consistency दिखी आपको।
+
+[02:19:15] Character consistency थी, right.
+
+[02:19:17] अब मैं आपको और एक अच्छी चीज बताता हूँ। इस video में
+
+[02:19:22] images भी AI की थी,
+
+[02:19:25] video भी AI का ही था,
+
+[02:19:28] music भी AI का था और जो song था वो भी AI का था। Now its wow.
+
+[02:19:35] So that is the concluding point, but that today we don't have such time.
+
+[02:19:41] So it's built on AppDaddy.ai which is built by us। right.
+
+[02:19:47] So
+
+[02:19:49] this is the process. Process बता दूँ मैं आपको screen share करके क्योंकि generate
+
+[02:19:54] करने में time लग सकता है। right.
+
+[02:19:59] It's a long video obviously.
+
+[02:20:02] So let me share my screen.
+
+[02:20:07] Just a minute.
+
+[02:20:12] Let me share my screen. See this guys.
+
+[02:20:16] I hope you all are visible to screen.
+
+[02:20:18] Process इसके अंदर यह है कि which is one of the app is video studio in which the
+
+[02:20:23] option is promo video. Here the sample idea you will give like for
+
+[02:20:28] example, यहाँ पर लिखा हुआ है that a late
+
+[02:20:32] night drive of
+
+[02:20:39] student going to home। right. मैंने एक simple idea दिया। Simple idea
+
+[02:20:45] को, मेरे पास prompt नहीं है। Prompt का idea नहीं है। The prompt what I will do,
+
+[02:20:48] what I will just polish my idea. When I click on this polish my idea, it will
+
+[02:20:52] create a idea on the basis of this simple line। right.
+
+[02:20:58] So process number one is कि यहाँ पहले, ये देखिये आ गया। Process का पूरा idea यहाँ
+
+[02:21:03] पर generate हो के आ गया। Now the next is आप screen size select करते हो कि 9 by 16
+
+[02:21:07] या 16 by 9। कितने लंबा video चाहिए आपको 20 second, 30 second, 40 second, 50 second,
+
+[02:21:11] 60 second, 70 second, 80, 90 या total आपका 90 second का आ गया जैसे कि आपका डेढ़
+
+[02:21:17] minute का video.
+
+[02:21:19] Person अगर आपका कोई है या product आपके पास कोई है या logo कोई है तो ये सारी चीज आप
+
+[02:21:23] यहाँ डालने का option है। right. Plan and draw it.
+
+[02:21:25] जैसे आप इस पर click करते हो, इसकी process आगे थोड़ी लंबी है but I will guide you
+
+[02:21:29] verbally. Just जैसे आप इस पर click करते हो it will give you first the two
+
+[02:21:34] या three images depend कि आपका video कितना लंबा है। अगर मान लो 90 second का है तो
+
+[02:21:38] obviously वो आपको nine images देगा या 10 images देगा।
+
+[02:21:42] जैसे मैंने आपको अभी सिखाया। इस चीज को इससे relate करो। अभी हम क्या कर पाते हैं
+
+[02:21:48] कि हम
+
+[02:21:50] photo बना रहे हैं prompt से। Photo अगर सही है तो फिर हम
+
+[02:21:56] उसको video में convert कर रहे हैं। Clear.
+
+[02:21:59] So यह idea के basis पर images हमें देता है। Images अगर हमें सही लगी तो फिर उसी
+
+[02:22:05] images के basis पर आगे हमें
+
+[02:22:08] agree करके लेकर जाएगा। फिर वहाँ पर हमारा जो music है, हमारे जो
+
+[02:22:15] images के
+
+[02:22:17] साथ फिर हमें यह video के section में लेकर जाएगा कि क्या उसकी video बना के दी उसने
+
+[02:22:22] पहले। अगर video आपको सही लग रही है then you approve it.
+
+[02:22:27] अगर video सही नहीं लग रही है तो उसको आपको crop करने को ऐसा लग रहा है कि इसमें यह
+
+[02:22:30] section crop करना है तो आप crop कर रहे हो और उसके साथ फिर जब आप आगे बढ़ रहे हो तब
+
+[02:22:36] आपका music आप खुद बना सकते हो with the help of AI.
+
+[02:22:41] Music के साथ अगर आपको, अगर मान लो AI generated music नहीं चाहिए you can upload your
+
+[02:22:45] own as well. कोई voice over देना है तो वो आप add कर सकते हो। वो जब final हो जाए
+
+[02:22:50] then you hit enter then वो आपको complete video बना के दे रहा है जो 1 minute 30
+
+[02:22:56] second that we-- 90 second right total all out.
+
+[02:22:59] 90 second की video in one shot with entire clip together with character
+
+[02:23:05] consistency यह बना के दे रहा है। Let me show you the another example ताकि आप और
+
+[02:23:10] relate कर पाओ कि यह कितनी हमारी मेहनत गई इस चीज को करने के लिए। It's
+
+[02:23:15] not easy.
+
+[02:23:18] Let me show you the another video। right. See this now.
+
+[02:23:26] Now visible right. I am playing it again 1 minute 30 second.
+
+[02:23:36] Gray light on the terminal floor. Strangers running to somebody's arms.
+
+[02:23:42] Kit bag heavy on my shoulder. I just wanna see that
+
+[02:23:48] gate.
+
+[02:23:50] Fields go running past the window. My own face looking back at me.
+
+[02:23:56] 31 stops till the platform where a taxi's waiting under a tired sky.
+
+[02:24:02] Same old streets and crooked numbers. Same blue door I've seen in dreams.
+
+[02:24:07] Hand on the latch of the garden gate now.
+
+[02:24:10] Boots in the grass, still damp with rain.
+
+[02:24:17] एक बात मैं पूछना चाहता हूँ आप How many of you feel this is the real dog?
+
+[02:24:23] This is not real dog. This is AI generated.
+
+[02:24:27] Now आगे देखिए।
+
+[02:24:29] Something moves behind the kitchen glass. Ears go up, feet go loud on the tile.
+
+[02:24:34] I hear the door before I see it swing.
+
+[02:24:39] I'm home. I'm home, I'm finally home.
+
+[02:24:42] Down on my knees on the wet green grass. Cold fur under my hands, my face.
+
+[02:24:48] I'm home, I'm home, I'm finally home.
+
+[02:24:52] Bag in the grass where I let it fall.
+
+[02:24:55] Nothing else matters at all. He hit me like the whole world
+
+[02:25:01] missed me. Paws on my chest, my name in his eyes.
+
+[02:25:05] There's my mother in the doorway crying. Both hands pressed against her mouth.
+
+[02:25:14] Wow! मजा आया।
+
+[02:25:17] So obviously these are the possibilities.
+
+[02:25:21] दुनिया कहाँ जा रही है, क्या-क्या कर रहे हैं, हमें कितना सीखना चाहिए, कहाँ चीजें
+
+[02:25:25] ज्यादा priority रखनी चाहिए।
+
+[02:25:27] आप कोई भी business में हो guys, किसी भी situation में हो, काम कर रहे हो, retired
+
+[02:25:32] life जी रहे हो, student हो, working professional हो, housewife हो, mark this line
+
+[02:25:37] for all of you because artificial intelligence is the thing जो सभी को सीखनी चाहिए,
+
+[02:25:44] जो आगे जाकर सबको जरूरत पड़ने वाली है उसकी। कहीं ना कहीं पड़ेगी। आपको समझने में
+
+[02:25:49] easy रहेगा जब आप आगे जल्दी इसको enter करो। All good guys.
+
+[02:25:54] So thank you so very much. It's 10:26 p.m.
+
+[02:25:58] As I said थोड़ा late होगा। तो हो गया थोड़ा late.
+
+[02:26:02] Thank you so much for joining the call.
+
+[02:26:04] But make sure before leaving मैं थोड़ी सी information दे दूं कि कल क्या है, ताकि
+
+[02:26:09] आप right time पर connect करो। आज जितने भी लोग live connect हुए हैं, एक बात मैं
+
+[02:26:13] पूछना चाहूंगा you got some quality value in the today's class?
+
+[02:26:18] I want your final reaction.
+
+[02:26:25] Thank you. That's great.
+
+[02:26:28] Thank you so much. Thank you so much. That's very means a lot to us.
+
+[02:26:34] Now let me tell you what is the next chapter.
+
+[02:26:39] कल हम क्या देखने वाले हैं, इसके ऊपर मैं बात कर रहा हूं। ध्यान से समझिएगा।
+
+[02:26:44] पहली चीज कल दर्शन Canada से आपको live आकर
+
+[02:26:50] guide करने वाले हैं। उनका subject रहने वाला है AEO,
+
+[02:26:56] Answer Engine Optimization.
+
+[02:27:00] Right.
+
+[02:27:02] अब मैं थोड़ी सी background भी बता दूं ताकि आप इस चीज को उस perspective से जरूर
+
+[02:27:06] सुनें।
+
+[02:27:08] Answer Engine Optimization 2025 में
+
+[02:27:13] या मैं 2024 के end of the year की बात करूं। Right.
+
+[02:27:19] End of the year of 2024.
+
+[02:27:21] SEO के बारे में कितने लोगों ने सुना है, एक बार मुझे react करके बताइए। Search Engine
+
+[02:27:26] Optimization mostly सुना होगा। नहीं सुना है तो basically होता यह है उसमें कि अगर
+
+[02:27:32] Google पर आपके बारे में कोई search कर रहा है तो आपकी website या आपका page rank करे
+
+[02:27:37] जल्दी से जितना ऊपर से उतना rank करें competitor से आपके। ताकि ज्यादा
+
+[02:27:42] visitors आपकी website पर आए, ज्यादा लोग आप तक पहुंचे और ज्यादा business आपको मिले।
+
+[02:27:46] Simple logic यही है इसका। एक SEO optimize करने का एक अच्छी marketing agency
+
+[02:27:53] ₹2 लाख से ₹5 लाख तक लेती है। तीन से छह महीने का project रहता है generally। फिर
+
+[02:27:58] maintenance रहता है हर महीना अलग। It's not one time activity, it's a consistent
+
+[02:28:01] activity जिसके लिए लोग इतना charge करते हैं। एक बार rank करके number one पर आ गए
+
+[02:28:06] इसका यह मतलब नहीं कि आप number one पर ही रहोगे हमेशा। दूसरे लोग भी तो कर रहे हैं।
+
+[02:28:09] तो वो भी तो competitor है। वो भी तो कर रहा है काम। आप भी कर रहे हो काम। तो platform
+
+[02:28:14] तो एक ही है। Google एक ही platform है तो वो कितने लोगों को ऊपर दिखाएगा?
+
+[02:28:17] That is the science.
+
+[02:28:19] अब Answer Engine Optimization basically the advance and the future of SEO.
+
+[02:28:26] मैं थोड़ा सा history बता दूं इस topic को लेकर। ताकि आप लोग कल के session को time पर
+
+[02:28:29] connect करके अच्छे से note and pen के साथ attend करो। It's not straightforward, यह
+
+[02:28:35] समझो पहले। AEO is a high ticket skill और AEO करके
+
+[02:28:41] देना वह charging भी high ticket है market में। So obviously उसकी skills भी high
+
+[02:28:45] ticket होंगी। Obviously वह straightforward थोड़ा नहीं होगा। But मैं इसलिए पहले बता
+
+[02:28:50] रहा हूं ताकि आप लोग ऐसा ना हो कि sir यह boring subject है। Boring जो होता है,
+
+[02:28:53] ज्यादा वहीं पैसा होता है। इतना समझ लो। दुनिया में जो भी boring है, वहां business
+
+[02:28:58] है।
+
+[02:29:00] थोड़ा सा उल्टा सोचने पर मजबूर कर रहा हूं आपको मैं आपके फायदे के लिए।
+
+[02:29:04] दूसरा AEO,
+
+[02:29:07] Darsh is the investor side of the world.
+
+[02:29:10] He is called generally normally recognized as an AEO scientist.
+
+[02:29:14] Why I am calling as an AEO scientist in the western side of the world because Darsh
+
+[02:29:19] is the person जिन्होंने
+
+[02:29:21] सबसे पहले, दुनिया में one of the few people जिनको सबसे पहले यह समझ में आया कि AEO
+
+[02:29:26] exactly करना कैसे है। Western side of the world में हमने already 2024-25 के बाद यह
+
+[02:29:32] B2C में results निकाल के दिए हैं लोगों को in-service, not any kind of platforms we
+
+[02:29:38] have shown to them. B2C में बता रहा हूं।
+
+[02:29:42] Full clarity की किस तरह की processes होनी चाहिए, क्या things होनी चाहिए। वह पूरी
+
+[02:29:45] understanding Darsh is the right person for you.
+
+[02:29:48] In India, हमने last year की बात बता रहा हूं 2025 में,
+
+[02:29:53] हमने in the month of June, I remember the date, exact date याद नहीं, but in the
+
+[02:29:58] month of June, second or third week की बात है। हमने AI Engine Optimization के ऊपर
+
+[02:30:04] 1000 लोगों का live event किया था for the very first time in India। उससे पहले आज की
+
+[02:30:08] date में किसी ने भी उस topic पर इतना बड़ा event नहीं किया था।
+
+[02:30:12] Indian marketing agencies में ऐसे 1% लोग भी नहीं होते in the last year जिनको AEO
+
+[02:30:17] क्या होता है वह पता है और AEO कैसे करना है exactly वो पता है।
+
+[02:30:21] Right. Scheme में code generate करना, LLM prompt generate करना। यह सब basic चीजें
+
+[02:30:27] लोगों को पता थी but exactly करना कैसे वो नहीं जानते थे। हजारों से ज्यादा marketing
+
+[02:30:31] agencies हमारे से connect हुई थी in the last year जब हमने India में इसका event किया
+
+[02:30:35] था सबसे पहला। Right. After this,
+
+[02:30:40] Darsh is the person जिसने already इस चीज को लेकर specific
+
+[02:30:46] AI के apps बनाए हैं for this particular mastery to give service
+
+[02:30:52] to the people.
+
+[02:30:55] So he is already in tech part as well good. In AEO part as well he is very good.
+
+[02:31:01] So
+
+[02:31:03] my message to all before joining today, tomorrow's class, क्योंकि वह बहुत powerful
+
+[02:31:08] skill है। कोई shortcut नहीं होता कि आपने आज AEO कर दिया और तुरंत हो जाता है। SEO
+
+[02:31:13] में भी ऐसा नहीं होता। जिनको SEO knowledge है, वो समझ पा रहे होंगे। But वह impact
+
+[02:31:17] उसका जो कल आपको कुछ sample examples भी Darsh दे पाएंगे मुझे लगता है, जो उन्होंने
+
+[02:31:21] western side of the world में कुछ results निकाल के लिए, उसका outcome आपको देख के
+
+[02:31:23] समझ में आएगा कितनी powerful चीज है। और क्यों लोग इतना marketing AEO करवाने में इतना
+
+[02:31:29] खर्च क्यों करते हैं
+
+[02:31:31] लाखों। So you will understand tomorrow. Tomorrow is the first class of AEO.
+
+[02:31:36] Friday को second class AEO का। दो दिन का AEO का class रहेगा आप लोगों का guys। As I
+
+[02:31:41] said, it's a big topic.
+
+[02:31:43] Right.
+
+[02:31:45] So excited now.
+
+[02:31:49] मजा आने वाला है। But make sure कि time पर connect करें और time पर live connect
+
+[02:31:54] करें। क्योंकि live सीखने का focus अलग रहता है, recording का focus अलग रहता है।
+
+[02:32:00] So tomorrow
+
+[02:32:04] की Zoom link आपको community में आ जाएगी, WhatsApp पर आ जाएगी, email पर आ जाएगी। So
+
+[02:32:07] be alert on the community and the email। परसों की भी आ जाएगी and उसके बाद के जो भी
+
+[02:32:13] announcements होगी obviously orientation जिन्होंने देखी है, जिन्होंने नहीं देखी एक
+
+[02:32:16] message दे दूं। जिन्होंने recently दो-तीन दिन में हमारे enroll में लिया है तो आपको
+
+[02:32:21] LMS access check करना है। Learning Management System जहां पर orientation की
+
+[02:32:25] recording हमने already upload कर दी है। अगर आप में से कोई ऐसा है, ध्यान से सुनिए,
+
+[02:32:29] अगर आप में से कोई ऐसा है जिन्होंने LMS access आपको नहीं मिल पा रहा है।
+
+[02:32:35] Learning Management System जो है अपना, उस portal में जो हमारी recordings हैं,
+
+[02:32:39] orientation की recording आ गई है। अभी आज की class की आ जाएगी कल तक।
+
+[02:32:43] Access नहीं मिल पा रहा है तो मैं आपको email ID दे रहा हूं। Support मैं chat में डाल
+
+[02:32:48] रहा हूं। ध्यान से देखिएगा。
+
+[02:32:51] support@claim skills.here. इसमें आप पहले तो क्या करोगे, पहले तो आपका registered
+
+[02:32:56] email ID check करोगे। उसका inbox check करो। उसका spam folder भी check करो। उसका
+
+[02:33:02] junk folder भी check करो। All mail folder भी check करो। सारे folder check करो। नाम
+
+[02:33:07] search करो Claim Skills Learn.
+
+[02:33:11] 90% case में आपको email आया ही होगा। आपने शायद notice नहीं किया होगा। अगर फिर भी
+
+[02:33:15] नहीं मिल रहा है, दो गलतियां लोग करते हैं। तो गलत email ID check करते हैं जो हम देख
+
+[02:33:20] रहे हैं। Registration email ID अलग होता है। गलत email check करते हैं तो नहीं मिलने
+
+[02:33:23] वाला आपको simple सी बात है। Registered email check कर रहे हैं, बस inbox check कर
+
+[02:33:27] रहे हैं तो भी शायद नहीं मिल सकता है rare case में। तो आप वो check करो। फिर भी अगर
+
+[02:33:30] नहीं मिल रहा है तो फिर आप support पर simple एक mail डालो कि this is my registered
+
+[02:33:34] email ID, kindly provide access of LMS again.
+
+[02:33:38] Simple line लिख दो। Team आपको as soon as possible उस पर revert करके आपको access
+
+[02:33:42] provide कर देगी। Okay. Thank you. So I hope that
+
+[02:33:48] this is the final message. Thank you so much for joining today's class and see you
+
+[02:33:52] soon tomorrow. Darsh will connect you and मेरे class आगे और होंगे in the next week.
+
+[02:33:58] Thank you so much guys. Take care. Thank you for joining and give your precious
+
+[02:34:02] time. Have a good day. Thank you, bye.

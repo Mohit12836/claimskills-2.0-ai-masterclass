@@ -1,0 +1,7613 @@
+WEBVTT
+
+1
+00:00:39.780 --> 00:00:42.330
+Good evening, everyone. Let's open the camera.
+
+2
+00:00:47.790 --> 00:00:48.449
+Can you hear me?
+
+3
+00:01:01.710 --> 00:01:05.220
+All right, just open the cameras, and hello.
+
+4
+00:01:05.250 --> 00:01:08.580
+Welcome again to another class of AI on skills.ai.
+
+5
+00:01:10.440 --> 00:01:15.720
+AI Specialist 2.0. I hope you can see me
+
+6
+00:01:17.370 --> 00:01:19.590
+clearly. Thank you so much, guys, for showing up.
+
+7
+00:01:21.000 --> 00:01:22.321
+Okay, before starting today's call, let me ask you.
+
+8
+00:01:22.321 --> 00:01:24.120
+So before starting today's call, let me ask
+
+9
+00:01:34.590 --> 00:01:39.930
+you, how many of you tried practicing yesterday what you have learned?
+
+10
+00:01:41.551 --> 00:01:42.961
+If you have practiced, आप
+
+11
+00:01:44.670 --> 00:01:49.290
+मुझे response में thumbs up का symbol दे। Honest be honest with me.
+
+12
+00:01:54.271 --> 00:01:54.540
+Okay.
+
+13
+00:02:01.920 --> 00:02:07.830
+Any one of the student of today's class अगर कल की class आपने किसी वजह से
+
+14
+00:02:08.010 --> 00:02:08.760
+miss करी हो,
+
+15
+00:02:10.410 --> 00:02:11.460
+इस call के बाद
+
+16
+00:02:12.720 --> 00:02:17.610
+आज रात को ही मैं कहूंगा कि कल की जो class है वो LMS पर जाकर आप recording uploaded
+
+17
+00:02:17.671 --> 00:02:23.610
+जो है वो attend करके जरूर देखें because वो बहुत ही important
+
+18
+00:02:23.671 --> 00:02:27.120
+class है जो कल हमने ली है। One of the important class, not just that.
+
+19
+00:02:28.080 --> 00:02:33.210
+And also जैसे आप में से कई लोगों ने practice करी होगी तो कई लोगों को results मिले
+
+20
+00:02:33.240 --> 00:02:37.560
+होंगे। कुछ ना कुछ outcome मिले होंगे। How many of you got the outcome based on what
+
+21
+00:02:37.620 --> 00:02:40.500
+you have learned yesterday? Show me your thumbs up.
+
+22
+00:02:42.840 --> 00:02:44.340
+So that we can understand कि
+
+23
+00:02:46.800 --> 00:02:49.320
+you are understanding my teaching and the way I am teaching.
+
+24
+00:02:51.660 --> 00:02:51.930
+Okay.
+
+25
+00:02:59.400 --> 00:03:00.240
+Perfect। ठीक है।
+
+26
+00:03:02.040 --> 00:03:06.840
+तीन category के audience हैं मेरे लिए, as in चीजों को समझने के लिए। First category,
+
+27
+00:03:07.320 --> 00:03:12.570
+those who have tried जो सीखा कल, practice किया
+
+28
+00:03:13.590 --> 00:03:16.139
+और उनको result मिला कुछ ना कुछ। Second
+
+29
+00:03:16.201 --> 00:03:22.110
+category, आप देखो
+
+30
+00:03:22.230 --> 00:03:26.940
+जिन्होंने practice करी, पहला attempt किया but उनको result नहीं मिला तो वहीं से छोड़
+
+31
+00:03:27.000 --> 00:03:27.390
+दिया।
+
+32
+00:03:29.851 --> 00:03:33.900
+तीसरी category वो थी जिन्होंने सीखा तो बहुत कुछ, theory भी समझ ली, practical सब कुछ
+
+33
+00:03:33.960 --> 00:03:36.810
+देख लिया, मजा बहुत आ गया but implement कुछ भी नहीं किया।
+
+34
+00:03:40.470 --> 00:03:46.320
+आपको लेकर और सबको लेकर मैं एक बात कहूं। पहली चीज जो हमें समझनी है कि किसी
+
+35
+00:03:46.380 --> 00:03:51.510
+भी चीज को अगर सच में हमें सीखना है तो हमें concept,
+
+36
+00:03:51.750 --> 00:03:57.510
+processes and the foundation। यह जो चीज है ना, यह अगर एक बार हमें समझ में आ
+
+37
+00:03:57.601 --> 00:04:01.410
+जाए, उस चीज को real में master करने का
+
+38
+00:04:02.640 --> 00:04:08.400
+next phase होता है हमारी consistency। हम कितना depth में जा रहे हैं उस चीज को
+
+39
+00:04:08.460 --> 00:04:09.570
+लेकर, हम कितना
+
+40
+00:04:10.921 --> 00:04:13.620
+dedicatedly उसको सीखना चाहते हैं, master करना चाहते हैं।
+
+41
+00:04:15.180 --> 00:04:19.351
+It's not like that artificial intelligence है तो
+
+42
+00:04:21.000 --> 00:04:24.330
+सब intelligence उसी के पास हम दे दें, ऐसा नहीं है। हमारे पास भी कुछ intelligence
+
+43
+00:04:24.360 --> 00:04:30.091
+हमें रखना है। So that is the core message कि अगर किसी वजह से outcome नहीं मिला है।
+
+44
+00:04:31.531 --> 00:04:36.000
+So find out the way। मैंने वो process भी बताया कल आपको कि अगर मैं आपकी जगह होता तो
+
+45
+00:04:36.060 --> 00:04:38.100
+मैं उस challenge को कैसे solve करता।
+
+46
+00:04:39.510 --> 00:04:43.770
+मैं कोई course attend करने, उस topic पर तो नहीं जा सकता जब मैं कुछ चीजें कर रहा
+
+47
+00:04:43.800 --> 00:04:49.770
+हूँ। मैं उस चीज को लेकर कैसे खुद वो challenge solve कर सकता हूँ, वो भी ideological
+
+48
+00:04:49.800 --> 00:04:55.320
+मैंने आपको दी है। वो भी तरीका मैंने आपको दिया है जो आपको हमेशा काम आएगा
+
+49
+00:04:55.440 --> 00:05:00.540
+whenever you are starting your service agency or any kind of agencies in India है।
+
+50
+00:05:00.600 --> 00:05:01.350
+तो आप जब
+
+51
+00:05:02.730 --> 00:05:06.781
+day to day नए-नए clients से मिलते हो, नई-नई चीजें होती हैं। Real business में यह
+
+52
+00:05:06.810 --> 00:05:11.341
+चीज होती है, guys। जो real business करता है ना उनको यह चीजें face होती हैं कि जब
+
+53
+00:05:11.400 --> 00:05:14.850
+नए-नए client से मिलते हो, नए-नए challenges मिलते हैं, नए-नए challenges के साथ नई-नई
+
+54
+00:05:14.910 --> 00:05:18.570
+चीजें सीखने को मिलती हैं। Are you getting the point?
+
+55
+00:05:19.050 --> 00:05:24.690
+So it's not like that आपने कोई course attend किया और उससे आप पूरा expert बन गए। If
+
+56
+00:05:24.781 --> 00:05:29.701
+anybody is saying in this line, I can surely say this कि यह line
+
+57
+00:05:30.781 --> 00:05:33.451
+it's not a genuine line to say कि ऐसा हो सकता है।
+
+58
+00:05:35.370 --> 00:05:37.980
+यह वही कह सकते हैं जिन्होंने खुद कभी business किया हो।
+
+59
+00:05:39.210 --> 00:05:42.990
+उनको यह real experience होता है तब जाके होता है। So we are not teachers, we are
+
+60
+00:05:43.290 --> 00:05:47.370
+actual founders. All right, guys. So let's start today's session.
+
+61
+00:05:48.120 --> 00:05:54.091
+First topic मेरा, जैसा आपने कल के class में देखा, कल हमने जब class continue करा था
+
+62
+00:05:54.150 --> 00:05:59.701
+तो काफी topics हमने cover करने चाहे but फिर भी हमारा एक topic कल रह गया which is
+
+63
+00:05:59.760 --> 00:06:02.760
+one of the most important topic जो आप सब लोग आज देखना चाहते हैं। You will be
+
+64
+00:06:02.820 --> 00:06:08.760
+excited to see that। काफी मजा आएगा। So after my class, after my
+
+65
+00:06:08.850 --> 00:06:13.830
+part, I will be inviting Dar sir from Canada.
+
+66
+00:06:14.070 --> 00:06:17.701
+He will be joining us from Canada straight and he will conduct
+
+67
+00:06:19.110 --> 00:06:25.081
+AI Software Academy part one उनका रहेगा। After his part, I will be back
+
+68
+00:06:25.169 --> 00:06:26.430
+again for the
+
+69
+00:06:27.811 --> 00:06:31.770
+next time. All right, guys. So are you with me?
+
+70
+00:06:34.260 --> 00:06:36.930
+Hello. Just show me your thumbs up.
+
+71
+00:06:38.520 --> 00:06:39.091
+Are you with me?
+
+72
+00:06:41.250 --> 00:06:41.730
+Everyone.
+
+73
+00:06:42.990 --> 00:06:46.561
+Engagement जितनी अच्छी रहेगी ना उतना attentiveness आपका रहेगा। That's why I am
+
+74
+00:06:46.620 --> 00:06:48.690
+asking again और again. Thank you so much.
+
+75
+00:06:49.380 --> 00:06:55.260
+So first of all, let me थोड़ा सा idea बता दूं कि हम exactly क्या करने
+
+76
+00:06:55.290 --> 00:06:55.770
+वाले हैं अभी।
+
+77
+00:06:57.240 --> 00:06:59.610
+Just imagine a scenario कि किसी
+
+78
+00:07:01.831 --> 00:07:06.091
+जैसे मैंने कल भी एक example लिया था। हमने Loda जो developer है Mumbai के उनका
+
+79
+00:07:06.151 --> 00:07:11.130
+example लिया था कि Loda developer अगर है तो उनका calling agent जो website उनको
+
+80
+00:07:11.190 --> 00:07:14.820
+लगाना है वो कैसे लगा सकते हैं। उसको लेकर किस तरह से हम बना सकते हैं। One of the
+
+81
+00:07:14.880 --> 00:07:20.550
+example। तो real estate segment में हमने बोल दिया और dentist, doctors के segments
+
+82
+00:07:20.610 --> 00:07:21.600
+में ये काम की चीज है।
+
+83
+00:07:22.890 --> 00:07:28.440
+Coaches and consultants के industry में ये काम की चीज है। So these are
+
+84
+00:07:28.530 --> 00:07:34.201
+the industries जिनको beauty sectors में ये काम की चीज है। आप समझे मतलब?
+
+85
+00:07:34.350 --> 00:07:40.201
+ये सारी चीजें जो हम बना रहे हैं, ये उनको लेकर या किसी भी small and medium
+
+86
+00:07:40.260 --> 00:07:45.210
+business owners जो है जैसे कि कोई electronic shop owner है, उसको लेकर ये काम की चीज
+
+87
+00:07:45.240 --> 00:07:45.750
+है।
+
+88
+00:07:47.610 --> 00:07:52.201
+In general words जिनका भी business structured format में चल रहा है
+
+89
+00:07:53.520 --> 00:07:59.490
+उनको लेकर ये बहुत ही काम की चीज है और वो आपके ideal client भी बन सकते
+
+90
+00:07:59.520 --> 00:08:05.160
+हैं। आपके around भी बहुत सारे लोग मिल जाएंगे। एक sample आप बनाकर उनको दे दोगे तो
+
+91
+00:08:05.250 --> 00:08:10.140
+आपको बताने के लिए रहेगा कि "ये मैं बना सकता हूँ" that you can show them as a demo
+
+92
+00:08:10.890 --> 00:08:14.670
+and then you can create your plan कि हाँ, ये मेरी pricing रहेगी, इतना मेरा
+
+93
+00:08:17.430 --> 00:08:21.151
+time लगेगा और ये details आपकी तरफ से रहेगी। That is one video you have to make that
+
+94
+00:08:21.180 --> 00:08:27.000
+is called deliverables. ठीक है। So as we covered yesterday 11
+
+95
+00:08:27.061 --> 00:08:32.820
+labs. हमने cover किया 11 labs, हमने cover किया make.com, हम दोनों के
+
+96
+00:08:32.880 --> 00:08:37.711
+ऊपर AI agent and automations पर हमने focus रखा हुआ है। Obviously वो एक independent
+
+97
+00:08:37.740 --> 00:08:41.040
+platform है, उसके अंदर और भी चीजें हैं। But हमारा focus था AI agent, हमारा class कल
+
+98
+00:08:41.100 --> 00:08:46.890
+का वो था। तो हमने उस चीज पर focus करा। And today we will gonna cover
+
+99
+00:08:47.850 --> 00:08:53.610
+omnideim.io which is as per my observation one of the most easiest
+
+100
+00:08:54.270 --> 00:08:59.940
+and one of the most powerful platform जो AI calling agent के लिए use किया जा सकता
+
+101
+00:09:00.000 --> 00:09:05.436
+है। All right. So without wasting any more time, let me
+
+102
+00:09:06.396 --> 00:09:11.286
+share the screen. हम उसी के साथ सीखेंगे कि किस तरह से हम उस चीज में एक AI calling
+
+103
+00:09:11.346 --> 00:09:16.476
+agent बना सकते हैं in a matter of just 10 to 15 minutes, उससे भी कम।
+
+104
+00:09:17.106 --> 00:09:17.376
+Ready?
+
+105
+00:09:19.806 --> 00:09:25.056
+Perfect. So let me share my screen. Just a second.
+
+106
+00:09:32.826 --> 00:09:33.007
+Okay,
+
+107
+00:09:35.646 --> 00:09:37.056
+just focus on the screen now.
+
+108
+00:09:41.946 --> 00:09:45.246
+Simply, first of all, I am on the Google, I have to go to the Omnidim.
+
+109
+00:09:47.016 --> 00:09:54.366
+omnidim.io.
+
+110
+00:09:54.486 --> 00:09:55.446
+Omnidim.io.
+
+111
+00:09:58.686 --> 00:10:03.007
+You can create a free account on this. Okay, so this is a try for free.
+
+112
+00:10:03.246 --> 00:10:05.316
+I will first create the account. Try for free.
+
+113
+00:10:06.066 --> 00:10:09.936
+You can enter your name, phone number, email ID as well or you can sign up with
+
+114
+00:10:09.996 --> 00:10:14.706
+Google as well. I am just continuing with this Google. Just click on continue.
+
+115
+00:10:16.356 --> 00:10:17.046
+Continue.
+
+116
+00:10:20.556 --> 00:10:23.316
+Please open the camera, everyone. Right.
+
+117
+00:10:24.636 --> 00:10:29.257
+Perfect, guys. See the screen. When you enter the first time, there are some
+
+118
+00:10:29.496 --> 00:10:33.216
+information as well on the offer running on this particular platform.
+
+119
+00:10:33.606 --> 00:10:37.476
+This is not our platform, but this is the offer from their end. It's okay.
+
+120
+00:10:37.986 --> 00:10:42.876
+We are in the free account, so I am just clicking cancel and see.
+
+121
+00:10:43.326 --> 00:10:48.426
+जब ये पहली बार होगा, इस तरह का look आपको मिलेगा। अब इस look में हो सकता है कि आने
+
+122
+00:10:48.456 --> 00:10:52.206
+वाले time में थोड़ा update भी हो जाए। ये पहले थोड़ा अलग था। पहले ये सब नहीं था
+
+123
+00:10:52.236 --> 00:10:56.796
+starting में, सिर्फ ये वाला window था, ये side में नहीं दिखता था। So अब उन्होंने
+
+124
+00:10:56.856 --> 00:11:00.336
+थोड़ा change किया है। Right? तो now see, पहले हम थोड़ा सा idea ले लें कि क्या-क्या
+
+125
+00:11:00.396 --> 00:11:03.816
+चीजें हैं, कहाँ का क्या है, तो हम थोड़ा सा समझ लें चीजों को, तो हम उस चीज से
+
+126
+00:11:05.646 --> 00:11:09.576
+जब use करेंगे, तो हमें समझ में आएगा कि हाँ, ये चीज यहाँ है। First of all, यहाँ पर
+
+127
+00:11:09.636 --> 00:11:12.846
+आप देखोगे simple एक chat window, जिसे ChatGPT use करते हैं सब लोग। Right?
+
+128
+00:11:13.146 --> 00:11:15.036
+यहाँ पर chatbot, हमारे पास एक chat
+
+129
+00:11:16.446 --> 00:11:21.576
+text input का एक section है। नीचे कुछ आपको templates दी गई है। क्योंकि क्या होता है
+
+130
+00:11:21.606 --> 00:11:25.866
+कि जब आप पहली बार आते हो, तो creative brain तुममें activate नहीं होता है। So
+
+131
+00:11:25.896 --> 00:11:30.606
+platforms have some basic templates जो mostly industries में use होती हैं। जैसे कि
+
+132
+00:11:30.666 --> 00:11:33.096
+lead generation agent बनाना है, आपको calling agent,
+
+133
+00:11:34.326 --> 00:11:39.007
+appointment setter. जैसे हमने कल देखा, वो website पर था। ये call पर होगा। The
+
+134
+00:11:39.036 --> 00:11:43.656
+difference is वो website पर था, ये call करेगा। Support agent हो गया। कि मान लो किसी
+
+135
+00:11:43.716 --> 00:11:49.116
+company में support के regarding जितना knowledge है वो इस agent को हमने दे
+
+136
+00:11:49.176 --> 00:11:54.066
+दिया और वो support के related सारे question answers जो FAQ generally लोग पूछते हैं,
+
+137
+00:11:54.636 --> 00:12:00.277
+वो यहाँ से वो solve कर पाए। Negotiation agent हो गया, collection agent.
+
+138
+00:12:00.336 --> 00:12:05.527
+ऐसे और भी बहुत से agents के types हैं जो हम create कर सकते हैं। और आपको ideas
+
+139
+00:12:05.586 --> 00:12:08.527
+चाहिए, you can simply go to the ChatGPT, जैसे मैंने कल आपको brainstorming का idea
+
+140
+00:12:08.556 --> 00:12:12.966
+बताया कि कैसे हम देख सकते हैं। You can go to the Perplexity, जो कि research के लिए
+
+141
+00:12:12.996 --> 00:12:18.096
+मैंने आपको बहुत बताया कि which is one of the most important LLM for research.
+
+142
+00:12:19.386 --> 00:12:23.766
+Real-time research. तो वहाँ से भी आप ideas ले सकते हो। Omnidim.io के बारे में
+
+143
+00:12:23.826 --> 00:12:28.656
+बताओगे तो these all LLMs also know about this platform, so आप relate कर पाओगे कि
+
+144
+00:12:28.806 --> 00:12:31.986
+मैं इस platform पर agent बनाना चाह रहा हूँ ChatGPT से पूछो तो it will use.
+
+145
+00:12:32.076 --> 00:12:36.186
+ये इतनी सारी चीजें मैं आपको live करके ही बता रहा हूँ कि कुछ चीज ऐसी है ना that I
+
+146
+00:12:36.246 --> 00:12:42.096
+believe कि आप सब लोग उस stage तक तो matured हो चुके हो कि ChatGPT में कैसे
+
+147
+00:12:42.156 --> 00:12:46.027
+जाना है, search कैसे करना है क्योंकि हमने करके देखा है। Are you agree with me?
+
+148
+00:12:47.676 --> 00:12:50.376
+Right. Perfect. So now,
+
+149
+00:12:51.727 --> 00:12:54.996
+here is the chat window we have but on the left-hand side, you can see voice
+
+150
+00:12:55.116 --> 00:12:59.466
+assistant, यहाँ पर हम अभी हैं। Files, integrations, phone numbers, calls,
+
+151
+00:12:59.556 --> 00:13:05.376
+analytics, bulk call, billing, team management, API, resellers, referrals, docs,
+
+152
+00:13:05.436 --> 00:13:07.836
+contacts and reporting, access and settings.
+
+153
+00:13:08.526 --> 00:13:12.666
+So these are the most जो हम लोग use करेंगे, जो मैं अभी बताऊंगा agent बनने के बाद और
+
+154
+00:13:12.697 --> 00:13:14.977
+भी चीजें दिखेंगी आपको तब हम बनाते हैं। Right?
+
+155
+00:13:15.816 --> 00:13:19.236
+So without wasting any more time, let's quickly start.
+
+156
+00:13:19.596 --> 00:13:25.447
+अभी 5-10 minutes में हमारा agent live आप देखोगे बनता हुआ और test
+
+157
+00:13:25.507 --> 00:13:26.376
+करके ready.
+
+158
+00:13:28.116 --> 00:13:33.157
+Let's build an appointment setter calling agent.
+
+159
+00:13:33.996 --> 00:13:38.496
+So हम इस चीज को बनाते हैं तो मुझे अभी idea नहीं है तो मैं इस template को use कर रहा
+
+160
+00:13:38.526 --> 00:13:42.876
+हूँ। ठीक है। मैं इस तरह से सोचता हूँ कि मुझे idea नहीं है। अगर मुझे idea लेनी भी है
+
+161
+00:13:42.907 --> 00:13:47.796
+तो मैं ले सकता हूँ। ChatGPT से भी prompt ले सकता हूँ ये screenshot लेकर। That is
+
+162
+00:13:47.856 --> 00:13:49.746
+also the option. I have option number one.
+
+163
+00:13:49.806 --> 00:13:52.026
+Option number two, I can click on this template.
+
+164
+00:13:52.296 --> 00:13:56.046
+जब मैं इस template पर click करता हूँ, देखिए यहाँ पर नीचे options खुल गए हैं।
+
+165
+00:13:56.106 --> 00:13:59.586
+Appointment booking and reminders, site visit booking.
+
+166
+00:13:59.676 --> 00:14:02.076
+Site visit booking कहाँ used होती है? Real estate.
+
+167
+00:14:03.336 --> 00:14:04.176
+Interior designers.
+
+168
+00:14:05.616 --> 00:14:08.916
+तो ये सारी चीजें हो सकती हैं। Table reservations like restaurants.
+
+169
+00:14:11.496 --> 00:14:12.846
+Restaurants में हो सकती है। फिर
+
+170
+00:14:14.466 --> 00:14:19.356
+if you heard about the co-working space जो mostly metro cities या cities में होते
+
+171
+00:14:19.416 --> 00:14:24.426
+हैं, co-working space, तो उसके लिए भी ये चीजें use की जा सकती हैं। Consultation
+
+172
+00:14:24.456 --> 00:14:28.507
+scheduler. So consultants जितने भी है जो consultation देते हैं, real estate
+
+173
+00:14:28.536 --> 00:14:32.706
+consultation होते हैं, health consultant होते हैं, financial consultant होते हैं,
+
+174
+00:14:32.736 --> 00:14:37.477
+तो उनको लेकर भी agent बहुत काम की चीज है। तो ये हम use करेंगे appointment booking
+
+175
+00:14:37.536 --> 00:14:40.956
+and reminders. इस चीज को हम use करते हैं। जैसे ही मैं इस पर click किया, you can see
+
+176
+00:14:41.017 --> 00:14:44.526
+this is the standard prompt of 953 characters.
+
+177
+00:14:45.066 --> 00:14:48.036
+ये यहाँ पर लिख के आ चुका है। Can you see?
+
+178
+00:14:48.907 --> 00:14:52.296
+थोड़ा सा मैं आपको read करके दिखाता हूँ। Create a voice AI agent of healthcare
+
+179
+00:14:52.326 --> 00:14:57.036
+appointment booking and scheduling reminder. Sending reminders to reduce no-shows.
+
+180
+00:14:57.246 --> 00:15:03.126
+Personality क्या है इसकी? Professional रहेगा। And ये सारी चीजें आप देख ही सकते हैं।
+
+181
+00:15:03.157 --> 00:15:07.086
+Capabilities इसने लिखी हुई है, schedule a new patient appointment, send appointment
+
+182
+00:15:07.116 --> 00:15:11.346
+reminders to patients. अब ये basically इसका जो काम है, जिस तरह से, जिस-जिस
+
+183
+00:15:11.376 --> 00:15:14.826
+consultant को template को design किया गया है, ये health industry को लेकर किया गया
+
+184
+00:15:14.856 --> 00:15:18.636
+है, हम समझ गए। मैं इस चीज को खुद नहीं use करना चाहूँगा। चलो ये तो मैंने बता दिया
+
+185
+00:15:18.666 --> 00:15:20.977
+आपको you can use it the same way. But second option.
+
+186
+00:15:21.666 --> 00:15:22.686
+Now मैं इसको बोलूंगा,
+
+187
+00:15:24.306 --> 00:15:30.186
+हमने कल की website जो थी उसको open कर दिया है Loona। हमने कल ये वाली
+
+188
+00:15:30.215 --> 00:15:36.157
+website open करी थी। ये वाली website को मैं just copy कर रहा हूँ like I want to
+
+189
+00:15:36.666 --> 00:15:39.876
+build an appointment
+
+190
+00:15:42.757 --> 00:15:44.736
+booking agent
+
+191
+00:15:48.606 --> 00:15:51.996
+for my business, for
+
+192
+00:15:55.356 --> 00:15:56.556
+my real estate business.
+
+193
+00:15:58.236 --> 00:15:58.536
+ठीक है?
+
+194
+00:16:00.186 --> 00:16:06.096
+My brand name is-- right, मैं इस चीज को हटा दूँ। My
+
+195
+00:16:06.157 --> 00:16:07.206
+brand name is Loona
+
+196
+00:16:08.706 --> 00:16:10.536
+Developers and
+
+197
+00:16:12.157 --> 00:16:17.376
+my agent name-- चलो ठीक है, इतना ही लिखता हूँ अभी। इस चीज को मैंने इतना लिखा और
+
+198
+00:16:17.466 --> 00:16:20.916
+next चीज मैं करूंगा अगर मुझे आगे prompt नहीं था, this is the button called enhance.
+
+199
+00:16:21.096 --> 00:16:26.616
+अब मैं इस पर जब enhance पर click करूंगा, you can see ये जो line है, इस line को इसने
+
+200
+00:16:26.736 --> 00:16:29.197
+enhance करके बढ़ा ली है proper.
+
+201
+00:16:30.876 --> 00:16:33.966
+मैंने यहाँ तक लिखा था। Can you see everyone?
+
+202
+00:16:36.697 --> 00:16:41.496
+यहाँ तक लिखा था the agent should get the callers, understand their inquiries and
+
+203
+00:16:41.586 --> 00:16:44.436
+assist them in scheduling appointment for the property viewing consultation.
+
+204
+00:16:44.466 --> 00:16:47.286
+The agent must be answer the common questions about the properties, provide the
+
+205
+00:16:47.316 --> 00:16:51.876
+available slot. Obviously, ये सारी चीजें हम चाहेंगे उससे but brainstorming नहीं हो
+
+206
+00:16:51.936 --> 00:16:54.816
+रही है तो enhance से हमने इस चीज को और better किया।
+
+207
+00:16:56.017 --> 00:17:00.907
+एक चीज मैं जरूर कहना चाहूंगा, जितना better आपका intent होगा ना और जितनी ज़्यादा
+
+208
+00:17:00.966 --> 00:17:06.757
+आपकी clarity होगी agent की ये-ये चीज मुझे करवानी है उससे और ये चीजें वो
+
+209
+00:17:06.786 --> 00:17:12.096
+नहीं करना चाहिए। जितना clear आप दोगे ना यहाँ पर, उतना better आपका agent काम
+
+210
+00:17:12.156 --> 00:17:17.796
+करेगा। उतना intelligently वो answers करेगा जैसा आप चाहते हो। अब आप
+
+211
+00:17:17.826 --> 00:17:20.616
+बोलोगे, "Sir, इसमें हम" like how can I help you?
+
+212
+00:17:21.937 --> 00:17:27.757
+I can help my agent. मैं जैसे बनाता था, मुझे पता है। But आप जैसे बनाना चाहते हो, वो
+
+213
+00:17:27.876 --> 00:17:32.166
+सिर्फ आपको पता है कि कैसा वो बनना चाहिए। Are you getting my point?
+
+214
+00:17:33.996 --> 00:17:36.396
+But क्या उसकी standard process होगी?
+
+215
+00:17:36.876 --> 00:17:37.866
+जितनी clarity,
+
+216
+00:17:39.966 --> 00:17:40.476
+जितना
+
+217
+00:17:41.947 --> 00:17:47.586
+structure format, उतना better वो perform करेगा। तो अभी के लिए मैं क्या करूंगा कि
+
+218
+00:17:48.786 --> 00:17:52.986
+इसको मैं as it is रखता हूँ और यहाँ पर मैं create voice AI assistant पर मैं click कर
+
+219
+00:17:52.986 --> 00:17:55.146
+रहा हूँ, that's it for the first demo.
+
+220
+00:17:55.746 --> 00:17:57.546
+मैंने जैसे click किया, you can see
+
+221
+00:17:59.166 --> 00:18:04.386
+on the click of the button मेरा agent बनना start हो गया है। You can see this.
+
+222
+00:18:04.447 --> 00:18:05.947
+Your agent is being created
+
+223
+00:18:07.596 --> 00:18:13.386
+and within seconds you can try and test your agent on your
+
+224
+00:18:13.476 --> 00:18:14.076
+own number
+
+225
+00:18:18.021 --> 00:18:19.671
+Your agent is ready, guys.
+
+226
+00:18:21.081 --> 00:18:24.921
+And let's try it out. ठीक है? So
+
+227
+00:18:26.211 --> 00:18:30.861
+let's enter the number. Just a minute, guys.
+
+228
+00:18:34.161 --> 00:18:35.721
+I am just entering the number here.
+
+229
+00:18:43.341 --> 00:18:43.551
+Okay.
+
+230
+00:18:45.501 --> 00:18:50.841
+And I have a phone with me. Right. I can show you the phone.
+
+231
+00:18:53.091 --> 00:18:54.051
+This is my phone. Right.
+
+232
+00:18:58.521 --> 00:19:01.791
+Okay, I click on the start call button.
+
+233
+00:19:01.851 --> 00:19:02.841
+मैंने अभी click किया।
+
+234
+00:19:04.281 --> 00:19:05.871
+Let me share my screen first.
+
+235
+00:19:07.281 --> 00:19:11.181
+Screen आपके सामने है। मेरे पास call आ गया है यहाँ पर। You can see, guys.
+
+236
+00:19:11.961 --> 00:19:14.961
+Now I am speaker पर डाल दो।
+
+237
+00:19:16.431 --> 00:19:18.261
+Thank you for calling Yoha Developers.
+
+238
+00:19:18.591 --> 00:19:21.471
+How may I assist you with your property inquiry or appointment today?
+
+239
+00:19:21.681 --> 00:19:24.322
+Can you hear everyone? Call का speaker आवाज़ आ रहा है आप लोगों को?
+
+240
+00:19:26.541 --> 00:19:27.231
+Okay, one second.
+
+241
+00:19:29.091 --> 00:19:30.831
+Yeah. Hello, my name is Deepak.
+
+242
+00:19:33.021 --> 00:19:36.951
+Hi, Deepak. Nice to meet you. What can I help you with today regarding Yoha
+
+243
+00:19:37.011 --> 00:19:37.491
+property?
+
+244
+00:19:38.511 --> 00:19:43.761
+I want to buy a property in Mumbai at a budget under 2 Cr.
+
+245
+00:19:46.041 --> 00:19:51.201
+I understand, Deepak. We have one, two and three BHK apartments,
+
+246
+00:19:51.591 --> 00:19:54.080
+penthouses and commercial spaces in Mumbai.
+
+247
+00:19:54.381 --> 00:19:58.161
+I don't have exact prices, but I can help you book an appointment to discuss
+
+248
+00:19:58.251 --> 00:20:00.562
+options with a sales advisor. Would you like to-
+
+249
+00:20:00.681 --> 00:20:01.731
+All right. Thank you.
+
+250
+00:20:03.562 --> 00:20:08.511
+As you can see, guys, instantly within a minute. कितना time लगा हमें बनाने के लिए?
+
+251
+00:20:08.991 --> 00:20:13.791
+2 minutes या 1 minute समझाने में मुझे time गया होगा। And my agent is created and
+
+252
+00:20:13.851 --> 00:20:18.081
+tested successfully कि call आया, उसने बात करना start किया और कितना अच्छे से बात
+
+253
+00:20:18.141 --> 00:20:22.281
+किया। जबकि हमने इसको अभी तक कुछ भी training नहीं दी है, ना तो हमने इसको कोई
+
+254
+00:20:22.312 --> 00:20:27.831
+knowledge दी है। हमने सिर्फ इसको एक idea दी है कि आपका काम क्या है, आप किस के agent
+
+255
+00:20:27.861 --> 00:20:33.051
+हो। All right, guys. Now, here is the main interesting part start.
+
+256
+00:20:34.041 --> 00:20:39.562
+Now see, अब इस agent के साथ हम क्या-क्या कर सकते हैं। इसकी जो flexibility है,
+
+257
+00:20:40.161 --> 00:20:43.941
+यहाँ से आपका दिमाग चलना start होने वाला है। First,
+
+258
+00:20:45.891 --> 00:20:50.241
+you can change the language of the agent. First of all, language.
+
+259
+00:20:50.361 --> 00:20:53.931
+आप मान लो कि if you belongs to West Bengal. Right.
+
+260
+00:20:54.081 --> 00:20:57.921
+तो वहाँ की language अलग है। If you are belongs to Gujarat, तो यहाँ obviously we
+
+261
+00:20:57.951 --> 00:21:00.441
+will talk Gujarati। Right.
+
+262
+00:21:01.701 --> 00:21:06.351
+So here are all the languages you can see Tamil, Marathi, Spanish, Kannada, French,
+
+263
+00:21:06.411 --> 00:21:11.901
+Punjabi, Urdu. Chinese, Bengali. There are so many languages available here.
+
+264
+00:21:12.921 --> 00:21:17.271
+So as of now, क्योंकि हमने अभी Hindi में भी trying नहीं किया but Hindi यहाँ पर है,
+
+265
+00:21:17.331 --> 00:21:21.081
+but मैं अभी इसको नहीं कर रहा। Now I am just click on done now.
+
+266
+00:21:21.411 --> 00:21:26.572
+The second thing you can change the voice of the agent. Focus on the screen.
+
+267
+00:21:26.631 --> 00:21:31.100
+मैं कहाँ click कर रहा हूँ, क्या कर रहा हूँ, focus रखो तो समझ में आएगा। Voice of the
+
+268
+00:21:31.161 --> 00:21:34.131
+agent. When you click on this, you can see here.
+
+269
+00:21:35.572 --> 00:21:40.791
+यहाँ पर आपके पास multiple agents के अलग-अलग voices हैं, जो pre-recorded हैं। Let
+
+270
+00:21:40.851 --> 00:21:41.031
+me,
+
+271
+00:21:42.562 --> 00:21:48.231
+मैं play करता हूँ एक-दो। यहाँ पर देखोगे this is Riya जो हमारा actual में भी
+
+272
+00:21:48.261 --> 00:21:51.141
+selected था। आवाज़ वो इसका था। इसका मैं देखे।
+
+273
+00:21:52.341 --> 00:21:56.541
+नमस्ते, ज़रा सुनिए मेरी आवाज़ कैसी लगती है। उम्मीद है आपको पसंद-
+
+274
+00:21:56.781 --> 00:22:00.231
+तो यह हमने use किया था अभी। अगर मैं इसको use करके देखूं।
+
+275
+00:22:00.291 --> 00:22:03.501
+Hello, this is a sample of my voice. Thank you for listening.
+
+276
+00:22:03.562 --> 00:22:08.572
+यह depend करता है कि आपकी brand कैसी है, उसकी target audience कैसी है, उसके clients
+
+277
+00:22:08.601 --> 00:22:13.221
+कैसे हैं। उस quality की आवाज़ आप लेना पसंद करोगे। Yes or no? Right.
+
+278
+00:22:13.881 --> 00:22:16.131
+Hello, this is a sample of my voice.
+
+279
+00:22:16.491 --> 00:22:20.091
+Right. So these are different voices available here. You can search as well.
+
+280
+00:22:20.121 --> 00:22:24.651
+You can select on language. आप language में जा के भी अलग अपने like Hindi अगर लेना
+
+281
+00:22:24.681 --> 00:22:27.651
+है तो आपको Hindi की list मिल जाएगी यहाँ पर। आप English में जाओगे तो English की मिल
+
+282
+00:22:27.681 --> 00:22:31.161
+जाएगी। Gender आपको कैसा चाहिए, आपको accent कैसा चाहिए, आपको American, British,
+
+283
+00:22:31.221 --> 00:22:32.931
+Indian, Australian, Scottish, Asian.
+
+284
+00:22:32.961 --> 00:22:36.501
+There are so many things available that you can select based on the client's
+
+285
+00:22:36.531 --> 00:22:42.501
+requirement. Right. So this जो हमारा अभी recently selected था which
+
+286
+00:22:42.591 --> 00:22:42.891
+is
+
+287
+00:22:44.451 --> 00:22:46.941
+recommended, which is Riya maybe. Right.
+
+288
+00:22:50.271 --> 00:22:51.801
+Okay. Let's choose another one.
+
+289
+00:22:56.451 --> 00:22:57.111
+One second.
+
+290
+00:23:00.591 --> 00:23:00.951
+Play.
+
+291
+00:23:07.191 --> 00:23:09.231
+नमस्ते, ज़रा सुनिए मेरी आवाज़ कैसी-
+
+292
+00:23:09.562 --> 00:23:13.881
+That's it. यह हमारा selected था। इसको मैं वापस click करके done कर रहा हूँ। The next
+
+293
+00:23:14.001 --> 00:23:18.441
+is-- now see very carefully. यह जो चीजें हैं ना, सारी यह चीजें important है जो आपकी
+
+294
+00:23:18.591 --> 00:23:24.322
+professionalism को बताएगी। Next is कि इस agent का जो brain है,
+
+295
+00:23:24.891 --> 00:23:29.001
+जैसे मैंने कहा in entire AI, brain क्या है हम सबका?
+
+296
+00:23:29.751 --> 00:23:32.062
+Artificial intelligence का brain है LLMs.
+
+297
+00:23:33.351 --> 00:23:38.391
+So इसका brain आपको सही select करना आना चाहिए। This is one of the most important
+
+298
+00:23:38.421 --> 00:23:44.151
+thing. You can see here by default it selected GPT 4.1 mini which is ChatGPT
+
+299
+00:23:44.211 --> 00:23:48.831
+small. OpenAI का brand है। आप देखोगे यहाँ पर GPT है ऊपर brand है OpenAI.
+
+300
+00:23:49.312 --> 00:23:55.041
+You can select the Google. Google के अंदर आप Gemini 3.6 यह भी ले सकते हो। आप
+
+301
+00:23:55.312 --> 00:23:59.931
+OpenAI के अंदर ले सकते हो। आप Mistral यह भी एक one of the company है Azure जो
+
+302
+00:23:59.991 --> 00:24:02.211
+company है उसका भी ले सकते हो Microsoft.
+
+303
+00:24:02.781 --> 00:24:07.131
+So अभी as of now जो था मुझे लगता है कि जो हमारा by default selected which was good
+
+304
+00:24:07.161 --> 00:24:10.822
+क्योंकि उसकी जो understanding थी, बात करने का जो style था, वो सही लग रहा था मुझे,
+
+305
+00:24:11.241 --> 00:24:16.101
+natural था। तो यहाँ से मैं इसको GPT 4.1 mini ही रख रहा हूँ as of now. Right.
+
+306
+00:24:16.881 --> 00:24:20.361
+Second thing you can-- what is the temperature mean?
+
+307
+00:24:20.421 --> 00:24:21.741
+यहाँ पर temperature का मतलब क्या है?
+
+308
+00:24:21.981 --> 00:24:23.931
+Temperature का मतलब यह है कि मान लो
+
+309
+00:24:25.731 --> 00:24:26.031
+कि
+
+310
+00:24:27.501 --> 00:24:28.281
+अगर मुझे
+
+311
+00:24:30.171 --> 00:24:36.021
+कोई ऐसी business के लिए agent बनाना है जो एकदम ही strict behave करे।
+
+312
+00:24:36.081 --> 00:24:41.661
+Strict in the sense कि अगर उसको कुछ भी question पूछा जाए तो वो हर चीज को
+
+313
+00:24:41.720 --> 00:24:47.631
+लेकर जो उसको training मिली है उसी के ऊपर वो answer करे। Are you
+
+314
+00:24:47.661 --> 00:24:48.201
+getting the point?
+
+315
+00:24:49.791 --> 00:24:53.151
+Temperature को भी दूसरे terms में define कर सकता हूँ। Temperature को आप इस तरह से
+
+316
+00:24:53.181 --> 00:24:56.991
+भी दिखा सकते हो जितना आपका कम current temperature होगा, उतना आपका
+
+317
+00:24:58.251 --> 00:24:59.001
+creativity.
+
+318
+00:25:01.461 --> 00:25:05.572
+Creativity को हम इस से मापेंगे कि उतना वो समझ लो कि आप
+
+319
+00:25:10.761 --> 00:25:11.121
+कम
+
+320
+00:25:12.381 --> 00:25:16.971
+strict रहेगा। Right. जितना ज़्यादा होगा-- sorry, जितना ज़्यादा होगा, उतना ज़्यादा
+
+321
+00:25:17.031 --> 00:25:22.041
+creative होगा, जितना कम होगा, उतना वो to the point बात करेगा। Clear, guys? Right.
+
+322
+00:25:22.551 --> 00:25:27.231
+So temperature always आप इस चीज को balance रख सकते हो आपके हिसाब से। आप दो-तीन बार
+
+323
+00:25:27.291 --> 00:25:30.681
+test करोगे, आपको समझ में आ जाएगी क्या उसका behavior change हो रहा है, बात करने का
+
+324
+00:25:30.741 --> 00:25:34.221
+style ऐसे change हो रहा है। कुछ भी दो-चार अलग-अलग question पूछ ले, क्योंकि लोग कुछ
+
+325
+00:25:34.251 --> 00:25:37.281
+भी question पूछ सकते हैं ना लोगों को अगर ऐसा call आएगा। आप लोगों को भी कई बार ऐसे
+
+326
+00:25:37.312 --> 00:25:42.741
+calls आते होंगे कई companies से, agents से। तो आप as a human हमारे सबके साथ यह होता
+
+327
+00:25:42.802 --> 00:25:46.582
+है कि हम generally कुछ भी questions पूछते हैं, क्योंकि नई चीज है सबके लिए। Right.
+
+328
+00:25:46.641 --> 00:25:50.451
+So it happens with us. Right. तो temperature आप balance out भी कर सकते हो। तो मैं
+
+329
+00:25:50.481 --> 00:25:54.052
+अभी इस चीज को as it is रख रहा हूँ। Next is transcription.
+
+330
+00:25:54.802 --> 00:25:58.252
+Transcriptions obviously आपकी transcript कैसी होनी चाहिए?
+
+331
+00:25:58.281 --> 00:26:01.582
+Hindi, English दो language यहाँ पर selected है by default. Like silence timeout.
+
+332
+00:26:01.641 --> 00:26:02.661
+What is silence timeout?
+
+333
+00:26:04.341 --> 00:26:08.781
+अगर आपको agent ने कोई question पूछा तो as a human हम direct answer तो नहीं देते
+
+334
+00:26:08.812 --> 00:26:14.631
+Robert की तरह। हम कुछ सोचते हैं, कुछ space लेते हैं, फिर answer करते हैं। तो वो
+
+335
+00:26:14.721 --> 00:26:19.041
+space के लिए वो कितना wait करना चाहिए। यहाँ पर आप देख लो microseconds, milliseconds
+
+336
+00:26:19.071 --> 00:26:23.271
+में यहाँ पर 200 milliseconds तक है, 1500 milliseconds तक है। तो यहाँ पर आप select
+
+337
+00:26:23.332 --> 00:26:28.491
+कर सकते हो slide करके कि कितने milliseconds तक वो wait करे। As in general कितना
+
+338
+00:26:28.552 --> 00:26:33.381
+रखना चाहिए। Right. So you can select like 600 milliseconds, that is okay.
+
+339
+00:26:34.161 --> 00:26:34.252
+So
+
+340
+00:26:35.541 --> 00:26:40.641
+as of now मैं इसको save कर रहा हूँ। So these are the persistent details जो यहाँ पर
+
+341
+00:26:40.671 --> 00:26:45.351
+देख सकते हो। नीचे आप देखोगे और चीजें आपको clear होगी। क्योंकि हमने जो AI agent भी
+
+342
+00:26:45.411 --> 00:26:49.341
+बनाया है, calling agent, यह हमने AI से ही बनाया है, हमने manually नहीं बनाया है।
+
+343
+00:26:49.371 --> 00:26:54.141
+Right. But the point is कि यहाँ पर आप देख सकते हो welcome message.
+
+344
+00:26:54.711 --> 00:26:58.221
+जैसे हमने कल भी देखा था। यह relate कर पाओगे कल की class से आप।
+
+345
+00:26:59.871 --> 00:27:05.421
+Welcome message. Welcome message मतलब कि पहला call start होने पर वो क्या बोलेगा।
+
+346
+00:27:06.471 --> 00:27:09.741
+जैसे आपने सुना कि इसने क्या बोला था मेरे call पर। "Thank you for calling Yoha
+
+347
+00:27:09.771 --> 00:27:14.211
+Developer. How can I assist you with the property inquiry appointment today?" So
+
+348
+00:27:14.332 --> 00:27:16.851
+इसको हम इस तरह से भी लिख सकते हैं। Right. "Hi.
+
+349
+00:27:17.931 --> 00:27:20.931
+Hello, I am calling from"
+
+350
+00:27:25.018 --> 00:27:26.547
+You would have developers.
+
+351
+00:27:28.138 --> 00:27:29.938
+My name is, sorry.
+
+352
+00:27:35.757 --> 00:27:36.117
+I am
+
+353
+00:27:37.557 --> 00:27:37.888
+Rhea.
+
+354
+00:27:39.987 --> 00:27:42.927
+How can I assist you with the property buy and appointment today?
+
+355
+00:27:43.317 --> 00:27:47.757
+अब यहां पर ऊपर दो toggles भी देख सकते हो। Dynamic मतलब कि enable dynamic welcome
+
+356
+00:27:47.787 --> 00:27:51.777
+message will get changed based on context and dynamic variables।
+
+357
+00:27:53.277 --> 00:27:58.917
+अगर आपको यही same line से शुरू करना है तो आप उसे offer करोगे। अगर थोड़ा सा variable
+
+358
+00:27:58.977 --> 00:28:03.297
+आप add कर सकते हो तो आप इसको on रखोगे। Interpretable
+
+359
+00:28:04.527 --> 00:28:07.497
+मतलब कि आप समझो कि अगर agent यह line बोल रहा है
+
+360
+00:28:08.757 --> 00:28:11.966
+तो उसके बीच में ही अगर सामने वाला Hello बोल रहा है तो
+
+361
+00:28:12.057 --> 00:28:15.268
+उसकी line वो--
+
+362
+00:28:16.768 --> 00:28:22.737
+Hello सुनकर वो आधी line ही नहीं बोले। या अगर वो Hello बोल भी रहा है तब भी ये line
+
+363
+00:28:22.797 --> 00:28:27.717
+पूरी at least वो कर ले, तभी आगे का conversation start होगा। तो ये अगर आपका on होगा
+
+364
+00:28:27.807 --> 00:28:31.797
+तो बीच में वो रुक जाएगा। अगर सामने वाले ने कुछ भी interrupt किया बोलते-बोलते उसको,
+
+365
+00:28:32.638 --> 00:28:37.167
+या अगर आपका ये off है तो वो पूरी line complete करेगा और फिर आपका आगे का
+
+366
+00:28:37.227 --> 00:28:42.388
+conversation start होगा। फिर वो normal होगा। नीचे आप देखोगे these are the different
+
+367
+00:28:44.188 --> 00:28:49.677
+you can say skills या उसकी detail कि उसको करना क्या है, उसका identity क्या है,
+
+368
+00:28:50.188 --> 00:28:54.027
+उसको facts के बारे में पता होना चाहिए। Knowledge हमको दे। यहां पर देखोगे different
+
+369
+00:28:54.087 --> 00:28:56.578
+flows हैं। First of all, identity purpose.
+
+370
+00:28:56.697 --> 00:29:00.927
+ये सारी जो चीजें आप देख रहे हो ना लिखी हुई, ये सारी AI ने अपने intelligence को use
+
+371
+00:29:00.957 --> 00:29:06.537
+करके लिखी हुई है। But ये obviously accurate नहीं होगी क्योंकि हमने जो starting में
+
+372
+00:29:06.717 --> 00:29:10.497
+prompt दिया था, वो एक line का prompt था कि मुझे इस तरह का agent बनाना है। फिर हमने
+
+373
+00:29:10.557 --> 00:29:15.658
+उसको enhance किया। हमने कुछ भी detail नहीं दी है। तो उसके basis पर ये जो detail
+
+374
+00:29:15.688 --> 00:29:21.027
+यहां पर आई है, हमें इस चीज को accurate करना चाहिए based on the business
+
+375
+00:29:21.087 --> 00:29:25.888
+requirements. Business के पास क्या चीजें हैं। accurate कैसे करो?
+
+376
+00:29:27.567 --> 00:29:33.537
+If you can communicate with the agent in English, जैसे मैंने कल भी कहा, then
+
+377
+00:29:33.567 --> 00:29:33.627
+you
+
+378
+00:29:35.607 --> 00:29:38.247
+can increase the accuracy of the agent easily.
+
+379
+00:29:39.507 --> 00:29:44.817
+But इसका जो core process है वो यह है कि कुछ भी लिख लो, उसमें
+
+380
+00:29:44.877 --> 00:29:49.527
+clarity और intent clear होना बहुत जरूरी है।
+
+381
+00:29:51.627 --> 00:29:54.807
+Are you getting the point? जितना complex लिखोगे, उतना वो
+
+382
+00:29:56.638 --> 00:30:01.737
+unrealistic perform करेगा। जितना clear, easy लिखोगे, उतना better वो perform करेगा।
+
+383
+00:30:03.297 --> 00:30:08.607
+Clear? जैसे मुझे यहां पर अगर लिखना है कि एक चीज यहां पर लिखूं कि if user
+
+384
+00:30:10.497 --> 00:30:12.417
+talks in Hindi
+
+385
+00:30:14.337 --> 00:30:14.697
+then
+
+386
+00:30:16.438 --> 00:30:16.917
+start
+
+387
+00:30:19.617 --> 00:30:21.597
+talking in Hindi.
+
+388
+00:30:22.888 --> 00:30:28.617
+If user talks in English then start
+
+389
+00:30:29.877 --> 00:30:34.467
+talking in English. Similarly. So this is one of the example.
+
+390
+00:30:34.557 --> 00:30:36.597
+अब इस चीज के अंदर मुझे कोई सीखने की जरूरत है क्या?
+
+391
+00:30:37.466 --> 00:30:42.447
+This is a common sense, common knowledge। But मैंने जो एक example दिया, वो इसलिए
+
+392
+00:30:42.507 --> 00:30:46.557
+दिया कि मैंने इसको बड़े clear instructions दिए कि अगर यह हो रहा है तो यह करना है,
+
+393
+00:30:46.617 --> 00:30:51.927
+यह हो रहा है तो यह करना है। यह आपका काम है, यह आपकी identity है। तो वो मैंने पूरा
+
+394
+00:30:51.987 --> 00:30:56.908
+उसको detail में लिखकर दिया है। नीचे आप देखोगे facts.
+
+395
+00:30:57.268 --> 00:31:01.197
+ये सारी जो चीजें आप देख रहे हो facts हो गई, actions and limits हो गई। अब actions
+
+396
+00:31:01.227 --> 00:31:05.638
+and limits में आप देखोगे तो क्या लिखा हुआ है कि आप क्या कर सकते हो, can do, cannot
+
+397
+00:31:05.697 --> 00:31:11.457
+do. Getting the things? अब यहां पर पढ़िए। यहां पर कुछ चीज अगर गड़बड़ होगी तो वो चीज
+
+398
+00:31:11.518 --> 00:31:17.217
+की capability हमने उसको दे रखी है फिर भी वो, वो चीज नहीं करेगा। क्योंकि यहां आपने
+
+399
+00:31:17.247 --> 00:31:18.777
+instructions दे रखे हैं। You can see.
+
+400
+00:31:19.078 --> 00:31:23.097
+अब ये AI के by default इसको आप refine करोगे। जैसे can do मतलब क्या कि answer
+
+401
+00:31:23.158 --> 00:31:27.747
+general queries, general property questions, provide available appointment slots,
+
+402
+00:31:27.837 --> 00:31:30.297
+book appointments, confirm bookings, collect caller details.
+
+403
+00:31:30.357 --> 00:31:34.167
+तो ये सारी चीजें हम चाहते हैं उससे कराना। तो ये सही है। Cannot do में क्या लिखा हुआ
+
+404
+00:31:34.167 --> 00:31:37.977
+है, यहां देख सकते हैं - quote prices, confirm property availability or answer
+
+405
+00:31:38.007 --> 00:31:42.867
+project specific technical, legal questions, instead collect details and offer a
+
+406
+00:31:42.927 --> 00:31:46.377
+callback for a sales advisor. This is proper as per the business.
+
+407
+00:31:46.737 --> 00:31:50.007
+अगर real estate के बारे में सोचोगे तो ये सही है कि ये चीजें उसको नहीं करनी चाहिए कि
+
+408
+00:31:50.037 --> 00:31:53.817
+direct वो price बता दे या सारी चीजें करे। पहले appointment book करे तभी तो sales
+
+409
+00:31:53.847 --> 00:31:59.037
+close होगी। क्योंकि property पर फोटो चीज तो नहीं है। Never promise a slot outside
+
+410
+00:31:59.817 --> 00:32:02.367
+stated hours or confirm booking without caller details.
+
+411
+00:32:02.607 --> 00:32:05.787
+So this is also one of the note कि ये चीजें
+
+412
+00:32:07.227 --> 00:32:12.297
+कभी promise मत करो। जब slot outside working hours है, उसके बाहर के slot अगर book
+
+413
+00:32:12.328 --> 00:32:16.438
+करना चाह रहे हो तो मत करो। और अगर booking ले रहे हो तो caller details लेनी जरूरी है
+
+414
+00:32:16.497 --> 00:32:18.987
+तभी आपकी booking करनी है। तो इसने instructions सही दिए।
+
+415
+00:32:20.247 --> 00:32:22.828
+Flow appointment booking के अंदर देखिए कि flow appointment booking के लिए क्या है।
+
+416
+00:32:22.857 --> 00:32:26.908
+Flow क्या दिया इसने? When caller wants to book an appointment, book a property
+
+417
+00:32:26.967 --> 00:32:28.317
+viewing and consultation appointment.
+
+418
+00:32:28.408 --> 00:32:30.957
+So ask which property or project they are interested in.
+
+419
+00:32:31.107 --> 00:32:34.977
+Obviously, वो clear details हमारे पास होनी चाहिए। Offer available time slot.
+
+420
+00:32:35.067 --> 00:32:37.287
+उसको time slot दो। Confirm the details.
+
+421
+00:32:37.317 --> 00:32:42.328
+अब यहां पर देखो by default ये time slot है। But in your case, जब आप calendar
+
+422
+00:32:42.417 --> 00:32:44.727
+cal.com पर बनाओगे, जैसे कल भी हमने बनाया था
+
+423
+00:32:45.957 --> 00:32:50.067
+वो calendar में आप अपना time zone and date जो रखोगे वही यहां पर आप change कर लेना।
+
+424
+00:32:50.967 --> 00:32:55.467
+अब यहां पर 10:06 बजे तक लिखा हुआ है। 10:00 AM to 6:00 PM.
+
+425
+00:32:55.768 --> 00:32:59.217
+But in your case, client to client सबका time zone अलग होता है ना।
+
+426
+00:33:01.018 --> 00:33:05.247
+तो अगर banking sector के लिए agent बन रहा है तो banking sector का time zone अलग
+
+427
+00:33:05.277 --> 00:33:11.037
+होगा। तो ये जो लिखी हुई चीज है ना, इसी चीज को refine करना है in easy language in
+
+428
+00:33:11.127 --> 00:33:11.667
+English
+
+429
+00:33:13.047 --> 00:33:16.828
+based on the actual data. Is it clear, everyone?
+
+430
+00:33:17.127 --> 00:33:22.647
+I am not gonna do this step by step everything but क्योंकि ये चीजें ना तो इसको
+
+431
+00:33:22.707 --> 00:33:25.977
+coding के जरिए होगा, ना तो इसमें technical skills की जरूरत है। बस सिर्फ एक proper
+
+432
+00:33:26.067 --> 00:33:28.888
+sense of humor की। Are you getting my point?
+
+433
+00:33:30.867 --> 00:33:32.247
+Just show me a response in the
+
+434
+00:33:33.477 --> 00:33:35.127
+reactions. Is it clear till now?
+
+435
+00:33:36.627 --> 00:33:38.607
+It's super easy if you focus.
+
+436
+00:33:40.227 --> 00:33:40.497
+Now,
+
+437
+00:33:43.347 --> 00:33:48.627
+इस चीज के अंदर अगर कोई ऐसी चीज है जो आपको नहीं चाहिए जैसे scope and redirects.
+
+438
+00:33:48.717 --> 00:33:53.217
+अगर ये चीज में हम देखें तो अगर इस चीज को मैं नहीं भी रखूं जैसे इसमें क्या लिखा
+
+439
+00:33:53.397 --> 00:33:56.908
+outer scope like finance and-- ठीक है। तो obviously
+
+440
+00:33:58.707 --> 00:34:02.277
+ये रहने दे। अगर कोई चीज नहीं चाहिए you can simply delete it by here.
+
+441
+00:34:02.667 --> 00:34:06.957
+Click on the delete button, वो delete हो जाएगा तो वो knowledge से हट जाएगी। FAQs आप
+
+442
+00:34:07.018 --> 00:34:09.957
+यहां पर डाल सकते हो कि अगर ये question है तो इसका answer ये है, इस question का इसका
+
+443
+00:34:10.018 --> 00:34:14.998
+answer है। ऐसा 50, 60 या 100 FAQs डाल दो जो generally पूछे जाते हैं उस business को
+
+444
+00:34:15.057 --> 00:34:20.667
+लेकर। वो knowledge उसके पास आ गया। Okay, sorry.
+
+445
+00:34:22.828 --> 00:34:28.737
+So I hope यहां तक ये picture हमारा clear हो रहा है। The next is call configuration.
+
+446
+00:34:29.578 --> 00:34:33.658
+Call configuration में बहुत सी चीजें हैं but at present इसकी हमें ऊपर ही जरूरत नहीं
+
+447
+00:34:33.687 --> 00:34:38.457
+पड़ेगी। Call configuration मतलब call को लेकर और क्या-क्या उसमें changes कर सकते हो।
+
+448
+00:34:38.487 --> 00:34:43.377
+Like silence handling. The first is silence handling कि what happens when a caller
+
+449
+00:34:43.498 --> 00:34:49.317
+goes quiet or stops responding. Situation wise सोचो practically। कभी
+
+450
+00:34:49.377 --> 00:34:54.177
+किसी का call आता है। अब इंसान call करेगा तो obvious बात है वो तो समझ जाएगी कि सामने
+
+451
+00:34:54.207 --> 00:34:57.897
+वाला response नहीं कर रहा, वो call रख देगा। But AI agent को हमें बताना पड़ेगा कि जो
+
+452
+00:34:57.927 --> 00:35:03.447
+सामने वाला call पर कुछ भी नहीं बोल रहा है, just call उठा के रख दिया उसने। So what
+
+453
+00:35:03.537 --> 00:35:08.277
+you have to do? तो यहां पर by default है कि first idle message।
+
+454
+00:35:09.537 --> 00:35:11.577
+क्या होगा यहां पर? ये static है dynamic?
+
+455
+00:35:11.967 --> 00:35:16.557
+अगर आपका static रहेगा तो ये आपको लिखना है। यहां पर dynamic रहेगा तो obviously वो
+
+456
+00:35:16.587 --> 00:35:18.477
+agent उस तरह से दिमाग लगाएगा।
+
+457
+00:35:19.827 --> 00:35:22.437
+Second, end call rules. अब end calls क्या होना चाहिए?
+
+458
+00:35:22.498 --> 00:35:24.387
+like मान लो end call का rule क्या होना चाहिए?
+
+459
+00:35:26.007 --> 00:35:30.927
+End call condition होना चाहिए। When user says goodbye, thank you, indicates that
+
+460
+00:35:31.827 --> 00:35:33.177
+they are done with the conversation.
+
+461
+00:35:33.657 --> 00:35:36.837
+Obviously, अगर वो indicate कर रहा है कि मेरा conversation done हो गया है तो मेरा
+
+462
+00:35:36.897 --> 00:35:42.297
+end call हो गया है तो वो call end होना भी जरूरी है। इसका reason मैं देता हूं। ये
+
+463
+00:35:42.357 --> 00:35:48.057
+सारी चीजें क्यों हो रही है? क्योंकि जब भी आप AI voice agent या AI calling
+
+464
+00:35:48.117 --> 00:35:53.607
+agent बना रहे हो तो voice agent में तो चलो जो conversation हो रहा है उसके basis पर
+
+465
+00:35:53.667 --> 00:35:59.337
+charges हैं, लेकिन calling agent पर भी per minute का एक cost लगता है in AI
+
+466
+00:36:00.627 --> 00:36:06.087
+all over the world, कोई भी platform use करो। क्योंकि जब वो call कर रहा है, वो आपका
+
+467
+00:36:06.177 --> 00:36:10.797
+एक type का employee ही है। इस तरह से आप उसको सोचो। Are you getting my point?
+
+468
+00:36:11.937 --> 00:36:16.917
+So जितना better उसको आप बनाओगे, यहां से आप देखो काफी चीजें हैं जो आपको मैं अगर--
+
+469
+00:36:18.927 --> 00:36:24.777
+if I sit in your space तो यहां मुझे सिर्फ basic sense
+
+470
+00:36:24.837 --> 00:36:29.847
+of humor पता होना चाहिए कि हाँ, ये condition क्या है, ये condition क्या है, ये
+
+471
+00:36:29.877 --> 00:36:35.248
+condition क्या है। So I can change based on the client's requirement, based on
+
+472
+00:36:35.757 --> 00:36:36.837
+our business requirement
+
+473
+00:36:38.592 --> 00:36:39.312
+Is it clear now?
+
+474
+00:36:40.842 --> 00:36:46.752
+Right. Now, transfer and routing, इसका use तब किया जाता है जब,
+
+475
+00:36:46.842 --> 00:36:49.242
+for example, agent ने call किया।
+
+476
+00:36:50.832 --> 00:36:55.572
+अब कोई सामने वाला बोलता है कि I want to talk to your senior या I want to talk to
+
+477
+00:36:55.662 --> 00:36:56.052
+your
+
+478
+00:36:57.492 --> 00:36:58.812
+manager, for example.
+
+479
+00:37:00.132 --> 00:37:05.802
+उस particular scenario में वह automatically call transfer हो सकता है, उस particular
+
+480
+00:37:05.952 --> 00:37:11.442
+number पर जो number आप यहां पर देते हो। So you can see now,
+
+481
+00:37:13.032 --> 00:37:16.572
+the enable call transfer यहां पर disable है तो इसको जब मैं enable करूंगा, यहां पर
+
+482
+00:37:16.602 --> 00:37:21.972
+आप देखोगे static या dynamic-- static number रहता है, इसलिए यहां पर जो number पर
+
+483
+00:37:22.032 --> 00:37:26.232
+transfer करवाना है call, वह number आप यहां पर डालोगे। Transfer की condition क्या
+
+484
+00:37:26.261 --> 00:37:31.752
+होगी? कि transfer when user want to talk with human or manager, right?
+
+485
+00:37:32.322 --> 00:37:36.702
+Or senior, whatever. Right. तो यहां पर आप इस तरह से
+
+486
+00:37:37.992 --> 00:37:38.472
+transfer
+
+487
+00:37:40.092 --> 00:37:44.442
+की conditions डाल सकते हो। message क्या हो सकता है कि I am transferring your call
+
+488
+00:37:44.502 --> 00:37:47.292
+to our team. Please hold I connect you.
+
+489
+00:37:47.382 --> 00:37:52.362
+इस को आप अपने हिसाब से change कर सकते हो, I am transferring your call to our
+
+490
+00:37:52.452 --> 00:37:57.012
+manager or my senior whatever. So you can transfer-- you message अपने हिसाब से
+
+491
+00:37:57.192 --> 00:38:00.972
+change कर सकते हो। And you have to enter the number here, right.
+
+492
+00:38:01.242 --> 00:38:05.682
+So this is one, right. Second, आप इसको और add on कर सकते हैं। Add button पर click
+
+493
+00:38:05.742 --> 00:38:09.462
+करके और भी number add कर सकते हो। दूसरा number, तीसरा number, right.
+
+494
+00:38:09.552 --> 00:38:13.542
+ऐसे multiple numbers आप यहां पर add कर सकते हैं। कि अगर मान लो manager से बात करनी
+
+495
+00:38:13.572 --> 00:38:14.711
+है तो उसका number यह हो गया।
+
+496
+00:38:16.002 --> 00:38:18.852
+Support team से बात करनी है, यह number हो गया। Sales team से बात करनी है, उसका
+
+497
+00:38:18.912 --> 00:38:23.352
+number यह हो गया। Senior से बात करनी है तो उसका number यह हो गया। So similarly, you
+
+498
+00:38:23.412 --> 00:38:27.672
+can add the multiple numbers for the company। Yeah.
+
+499
+00:38:30.612 --> 00:38:35.412
+Now, नीचे आप देखोगे one of the most interesting thing जो सुनके आपको लगेगा कि भाई
+
+500
+00:38:35.472 --> 00:38:40.422
+किस level पर दुनिया पहुंच गई है। So you can understand now, ambient sound.
+
+501
+00:38:41.112 --> 00:38:43.002
+Ambient sound वह चीज है,
+
+502
+00:38:44.382 --> 00:38:45.882
+जब भी agent call करेगा,
+
+503
+00:38:48.072 --> 00:38:52.212
+आपको जब भी कभी real इंसान call करता है तो कैसा feel होता है, जब भी वह किसी office
+
+504
+00:38:52.242 --> 00:38:56.292
+space में होता है या कहीं वह बैठा हुआ होता है तो background voice भी आती है आपको,
+
+505
+00:38:56.352 --> 00:39:01.332
+right? Most of the cases में। You feel it like कि वह कहीं office space में या कहीं
+
+506
+00:39:01.393 --> 00:39:07.242
+बैठा हुआ है। तो यह background audience, background voice जो एक ambience
+
+507
+00:39:07.272 --> 00:39:11.472
+create करने के लिए, यह एक option है यहां पर। आप देखोगे by default off है, but जब भी
+
+508
+00:39:11.502 --> 00:39:15.252
+इसको मैं enable करूंगा, you can see now कौन सा background चाहिए आपको। मैं कुछ play
+
+509
+00:39:15.282 --> 00:39:18.192
+करके दिखाता हूं आपको। Call center background चाहिए, serious.
+
+510
+00:39:28.752 --> 00:39:34.542
+In here. I hope थोड़ी आवाज़ कम है but थोड़ी आवाज़ आ रही है आपको। ठीक है।
+
+511
+00:39:34.572 --> 00:39:35.772
+Traffic outdoor.
+
+512
+00:39:40.302 --> 00:39:41.682
+Right. Restaurant.
+
+513
+00:39:45.672 --> 00:39:46.182
+Getting the point?
+
+514
+00:39:48.162 --> 00:39:53.472
+तो you, your client, your leads will feel it कि it's super real, super naturally
+
+515
+00:39:53.592 --> 00:39:54.161
+agent.
+
+516
+00:39:56.232 --> 00:39:59.862
+कई बार उनको पता भी नहीं चल सकता है। Right. Office ambience.
+
+517
+00:40:02.832 --> 00:40:06.672
+So this is one of the examples जो आप ऐसे रख सकते हो। Volume आप increase कर सकते हो
+
+518
+00:40:06.702 --> 00:40:07.932
+यहां से, जैसे मैंने यहां पर देखा।
+
+519
+00:40:10.092 --> 00:40:11.442
+You can increase the volume
+
+520
+00:40:13.542 --> 00:40:17.772
+of the background. कितना कम होना चाहिए, कितना ज्यादा होना चाहिए, depend किया होता
+
+521
+00:40:17.832 --> 00:40:23.172
+है actual business कैसा है। अगर आपका actual business वैसा है कि जहां पर always आवाज़
+
+522
+00:40:23.232 --> 00:40:27.643
+आती है और आपके clients और आपके users को भी पता है कि आप
+
+523
+00:40:29.292 --> 00:40:33.912
+जहां काम करते हो, आपका office है, वहां पर आवाज़ बहुत है, तो उस तरह का background आप
+
+524
+00:40:33.912 --> 00:40:37.632
+choose कर सकते हो। अगर आपके users को पता है कि आपका एक proper office setup में आपका
+
+525
+00:40:37.692 --> 00:40:41.623
+work है तो office background आप डालोगे। It's based on the situation.
+
+526
+00:40:42.462 --> 00:40:44.262
+So this is the background audience.
+
+527
+00:40:44.952 --> 00:40:50.502
+Ambience, we also have the option under initial ringing sound.
+
+528
+00:40:50.893 --> 00:40:54.612
+This is also one of the most useful thing like phone's ringtone plays until the
+
+529
+00:40:54.672 --> 00:40:56.112
+agent says his first word.
+
+530
+00:40:57.492 --> 00:41:03.342
+So this is also useful mostly जब call inbound हो। inbound
+
+531
+00:41:03.402 --> 00:41:08.502
+मतलब कि company में call आ रहा है। outbound मतलब कि company call कर रही है।
+
+532
+00:41:08.532 --> 00:41:13.422
+Clear? All right, guys. So now the next is knowledge base.
+
+533
+00:41:13.482 --> 00:41:16.962
+Knowledge base is basically the thing जहां पर-- It's nothing like that.
+
+534
+00:41:17.052 --> 00:41:22.182
+Knowledge base is like कि यहां पर आप अपना any document डालोगे। उस company का जितना
+
+535
+00:41:22.272 --> 00:41:25.932
+data knowledge है, वह एक PDF में आप यहां डाल सकते हो, उसकी website URL डाल यहां पर
+
+536
+00:41:25.962 --> 00:41:31.662
+सकते हो और FAQ के sections भी आप यहां पर डाल सकते हो। मान लो कि एक पूरा 500
+
+537
+00:41:32.592 --> 00:41:37.362
+FAQs का section बना दिया, ChatGPT से पूरा knowledge दिया और उससे 500 FAQs के
+
+538
+00:41:37.393 --> 00:41:42.162
+sections लिए उस business को लेकर और वह आपने यहां पर add कर दिया। PDF बना के डाल दो
+
+539
+00:41:42.222 --> 00:41:47.742
+या आपने FAQs डाल दिए। So उस particular agent के पास end-to-end उस company का पूरा
+
+540
+00:41:47.802 --> 00:41:50.742
+knowledge आ गया। Clear, guys?
+
+541
+00:41:53.052 --> 00:41:57.732
+मैं अगर कुछ चीज यहां पर कर रहा हूं, आप देखोगे थोड़ा सा screen focus करके, अगर मैं
+
+542
+00:41:57.822 --> 00:42:02.292
+बोलूंगा भी नहीं तब भी आपको वो चीज समझ में आने वाली है। इतना easy है।
+
+543
+00:42:04.332 --> 00:42:10.302
+Right. But थोड़ा सा आपको brain storming तो करनी है। Strategically सोचना है,
+
+544
+00:42:10.332 --> 00:42:12.942
+that is the core point. Integration.
+
+545
+00:42:13.032 --> 00:42:18.162
+Now understand, integration मतलब कि बाहर के जो tools है, जैसे हमने कल cal.com
+
+546
+00:42:18.222 --> 00:42:22.422
+connect करके देखा। Same way we will connect the cal.com here as well.
+
+547
+00:42:23.022 --> 00:42:25.602
+Calendly, custom, Google Sheets, Salesforce.
+
+548
+00:42:25.632 --> 00:42:31.123
+Salesforce और CRM most of the companies use करती हैं। Slack, Hubspot, यह सारी जो
+
+549
+00:42:31.182 --> 00:42:33.672
+integrations यहां पर दे रखी है, you have to integrate.
+
+550
+00:42:33.912 --> 00:42:38.112
+जैसे मैंने कल बताया, same process होगा। Connect पर click करोगे। आपको अपना
+
+551
+00:42:38.172 --> 00:42:42.252
+integration नाम डालना है, API key डालनी है जो cal.com से निकल रही थी same.
+
+552
+00:42:43.002 --> 00:42:46.752
+Event type, event की ID हमने डालनी है। Event ID हमें कहाँ से मिलेगी?
+
+553
+00:42:47.742 --> 00:42:53.712
+जो मैंने कल डाली है, same process होगी और यहां पर time zone select करोगे, जो actual
+
+554
+00:42:53.742 --> 00:42:58.123
+time zone है आप लोगों का, जहां से आप यह agent बना रहे हो, जहां पर आपकी company है।
+
+555
+00:42:58.182 --> 00:43:02.082
+जहां पर आपका cal.com भी same time zone है। So that you have to enter, that's it.
+
+556
+00:43:02.143 --> 00:43:06.162
+You click on save, जैसे आप save पर click करोगे, एक option आ जाएगा ऊपर, वहां आपको
+
+557
+00:43:06.221 --> 00:43:08.712
+select करना होगा। The same process.
+
+558
+00:43:08.832 --> 00:43:12.252
+I'm not going to repeating the same process, but the process will be same. Right.
+
+559
+00:43:13.932 --> 00:43:19.272
+What is next is post call action. Post call action मतलब कि call खत्म होने के बाद
+
+560
+00:43:19.332 --> 00:43:23.982
+आपको क्या actions लेनी है। जैसे यहां पर by default selected है, which is good, कि
+
+561
+00:43:24.042 --> 00:43:28.572
+call summary मुझे मिलनी चाहिए, sentiment analysis मुझे मिलना चाहिए, full
+
+562
+00:43:28.602 --> 00:43:32.292
+conversation के transcript मेरे पास होने चाहिए कि पूरी क्या बात हुई। अगर हजार लोगों
+
+563
+00:43:32.352 --> 00:43:37.092
+से बात हुई तो क्या-क्या बात हुई, मुझे कभी देखना हो तो मैं देख सकूं। Like extracted
+
+564
+00:43:37.152 --> 00:43:40.123
+information भी मुझे चाहिए, कि मान लो key data points extracted from the
+
+565
+00:43:40.152 --> 00:43:43.572
+conversation. कि पूरे conversation को सुनना नहीं है मुझे। मान लो पाँच-दस मिनट का
+
+566
+00:43:43.602 --> 00:43:47.532
+conversation है, तो पूरा नहीं सुनना है मुझे। उसके highlight point मुझे समझ लेना है
+
+567
+00:43:47.592 --> 00:43:52.602
+ताकि मेरा time बचे। तो यह सारे topics selected are by default, which is good to go।
+
+568
+00:43:52.662 --> 00:43:56.382
+And यहां पर आप detail में और चीजें change कर सकते हो और variables आप add भी कर सकते
+
+569
+00:43:56.412 --> 00:44:02.232
+हो कि कुछ और post call की चीज आपको record करनी है, तो you get to record
+
+570
+00:44:02.292 --> 00:44:02.472
+it.
+
+571
+00:44:03.912 --> 00:44:08.052
+The next is recent calls. जो भी call हमने ली है,
+
+572
+00:44:09.643 --> 00:44:14.712
+जब भी agent call करता है, उसकी data आपको recent calls में मिलती है। When you click
+
+573
+00:44:14.742 --> 00:44:20.082
+on this, अभी यह recent वाला है। अभी इस चीज के अंदर जब भी आप देखोगे, अभी मैं इसको--
+
+574
+00:44:20.832 --> 00:44:25.842
+You can hear now. जो मेरे को अभी just call आया था, उसी का data है यह। Right.
+
+575
+00:44:26.352 --> 00:44:27.792
+So I'm just playing it for you.
+
+576
+00:44:31.902 --> 00:44:33.672
+Thank you for calling Lodha Developers.
+
+577
+00:44:33.942 --> 00:44:36.822
+How can I assist you with your property inquiry or appointment today?
+
+578
+00:44:45.162 --> 00:44:46.873
+Yeah, hello, my name is Deepak.
+
+579
+00:44:48.492 --> 00:44:52.362
+Hi, Deepak. Nice to meet you. What can I help you with today regarding Lodha
+
+580
+00:44:52.422 --> 00:44:52.992
+properties?
+
+581
+00:44:54.522 --> 00:44:57.312
+I want to buy a property in Mumbai at-
+
+582
+00:44:58.812 --> 00:45:03.522
+Perfect. I hope कि आपने सुनी। यह same मैंने अभी जो बोला, वही पूरा call की recording
+
+583
+00:45:03.552 --> 00:45:08.112
+यहां पर भी आई है। Same imagine करो आपके सारे clients का data यहां पर आ रहा है। जो
+
+584
+00:45:08.143 --> 00:45:12.162
+यह बात कर रहा है, क्या बात कर रहा है, क्या response कर रहा है, end-to-end. Right.
+
+585
+00:45:13.393 --> 00:45:15.222
+Now you can see the transcript as well.
+
+586
+00:45:16.123 --> 00:45:20.652
+जो मैं बोल रहा था, वह भी यहां पर आ रहा है और वह जो बोल रहे हैं सामने से, वह भी यहां
+
+587
+00:45:20.712 --> 00:45:23.382
+पर आ रहा है। The caller is me. Right.
+
+588
+00:45:23.712 --> 00:45:27.012
+Hello, my name is Deepak, जो मैंने बोला, assistant को क्या बोल रहा है, फिर caller
+
+589
+00:45:27.072 --> 00:45:30.012
+क्या बोल रहा है, फिर assistant क्या बोल रहा है। यह पूरा जो मैंने बोला, उसने जो
+
+590
+00:45:30.042 --> 00:45:34.032
+बोला, वह पूरा recording यहां पर transcript बन के भी आ चुकी है। Is this powerful,
+
+591
+00:45:34.092 --> 00:45:36.672
+guys? Tell me a big thumbs up. Is this powerful?
+
+592
+00:45:37.212 --> 00:45:39.373
+और इस चीज को जब आपने देखा,
+
+593
+00:45:40.692 --> 00:45:44.532
+how many of you are saying in the confidence कि यह चीज आप बना सकते हो?
+
+594
+00:45:47.694 --> 00:45:47.964
+Right?
+
+595
+00:45:50.154 --> 00:45:54.684
+One most important point left for this जो मैं आपको अभी बता दूं, जो आपको समझना
+
+596
+00:45:54.744 --> 00:46:00.264
+पड़ेगा, क्योंकि यह चीज में आपको जो process बताई which is it's not that much hard
+
+597
+00:46:01.344 --> 00:46:06.804
+कि आप जब भी agent real में use करना चाहोगे तो आपको एक real number buy करना पड़ता
+
+598
+00:46:06.834 --> 00:46:11.004
+है। You can see the phone number section में आ गया। Real number buy करना पड़ता है।
+
+599
+00:46:11.364 --> 00:46:12.054
+यह Indian
+
+600
+00:46:13.944 --> 00:46:18.954
+TRAI regulations के according हमें करना ही पड़ता है। safety को लेकर कुछ गलत चीजें न
+
+601
+00:46:18.984 --> 00:46:22.584
+हो इसके लेकर। तो यहां पर आप देखोगे buy a phone number, यहां पर buy number पर जैसे
+
+602
+00:46:22.644 --> 00:46:26.364
+आप click करते हो, यहां पर आपके पास browse number का option आ गया। यहां पर आपके पास
+
+603
+00:46:26.454 --> 00:46:30.684
+India selected by default, आपके पास carrier है और यहां पर आपके पास number है। जो
+
+604
+00:46:30.744 --> 00:46:35.874
+आपको पसंद है उसके हिसाब से आप select जब करते हो पर select करने से पहले यह आपकी क्या
+
+605
+00:46:35.934 --> 00:46:40.794
+details मांगेगा? यह KYC आपसे करवाएगा। KYC में आपका PAN card, आपका Aadhar card और
+
+606
+00:46:40.855 --> 00:46:45.775
+कुछ details ही आपसे मांगेगा। आपकी KYC होने के बाद ही आप number purchase कर सकते हो।
+
+607
+00:46:45.804 --> 00:46:48.294
+It's just five minute process, it's not that much technical.
+
+608
+00:46:48.444 --> 00:46:51.025
+Just click on the number, reserve and start KYC.
+
+609
+00:46:51.414 --> 00:46:54.834
+देखो आप यहां पर आ गए। Individuals या आपका business है, आपका details आप यहां पर
+
+610
+00:46:54.834 --> 00:46:58.254
+डालिए। जैसे आप डालोगे आगे PAN number मांगेगा, जैसे आप डालोगे आगे Aadhar card number
+
+611
+00:46:58.314 --> 00:46:59.184
+मांगेगा that's it.
+
+612
+00:47:00.564 --> 00:47:05.784
+आप submit करो, आपकी KYC complete हो जाएगी and you can have your own AI agent
+
+613
+00:47:05.814 --> 00:47:06.264
+number.
+
+614
+00:47:08.364 --> 00:47:10.194
+I hope this makes sense.
+
+615
+00:47:12.025 --> 00:47:17.664
+So alright guys, it's 8:08 p.m. now and
+
+616
+00:47:19.164 --> 00:47:22.554
+how many of you are confident कि यह चीज आप करके दिखाओगे?
+
+617
+00:47:27.144 --> 00:47:27.564
+Thank you.
+
+618
+00:47:28.794 --> 00:47:30.624
+Great energy. Thank you so much guys.
+
+619
+00:47:31.284 --> 00:47:32.754
+So now it's a high time
+
+620
+00:47:33.984 --> 00:47:38.754
+for the first part of AI Software Academy. How many of you are excited?
+
+621
+00:47:38.844 --> 00:47:42.804
+And I would like to invite with high enthusiasm
+
+622
+00:47:44.154 --> 00:47:49.105
+Mr. Dush Singh from Canada to conduct the AI Software Academy part one.
+
+623
+00:47:49.674 --> 00:47:51.294
+And hello Dush, are you there?
+
+624
+00:47:51.864 --> 00:47:52.404
+Hi, Deepak.
+
+625
+00:47:53.934 --> 00:47:54.594
+Can you hear me?
+
+626
+00:47:55.494 --> 00:47:56.844
+Yes, I can hear you.
+
+627
+00:47:57.474 --> 00:47:58.224
+Okay, perfect.
+
+628
+00:47:59.544 --> 00:48:00.204
+Right. Thank you.
+
+629
+00:48:02.094 --> 00:48:04.614
+Thank you, Deepak. Thanks for that awesome session.
+
+630
+00:48:06.324 --> 00:48:10.344
+We wanted to cover this yesterday but कल time नहीं मिला तो Deepak is covering that
+
+631
+00:48:10.374 --> 00:48:13.944
+today. So good to see you guys once again.
+
+632
+00:48:15.564 --> 00:48:18.534
+मैं आज जो cover करने वाला हूँ उसका topic
+
+633
+00:48:19.914 --> 00:48:25.884
+इतना important topic है when it comes to building solutions कि
+
+634
+00:48:25.944 --> 00:48:26.214
+मैं
+
+635
+00:48:27.894 --> 00:48:32.424
+words में, उसके emphasis में बता नहीं सकता कि कितना important topic है जो मैं आज
+
+636
+00:48:32.484 --> 00:48:38.304
+cover करने वाला हूँ। Fundamental foundational topic है। So just
+
+637
+00:48:38.394 --> 00:48:42.775
+दो मिनट मैं पहले summarize कर लूं कि क्यों मैं यह बात कर रहा हूँ। So Gautam is
+
+638
+00:48:42.834 --> 00:48:45.414
+great when it comes to masses and
+
+639
+00:48:47.064 --> 00:48:51.714
+when it comes to B2C market. मेरा main experience है B2B market में। B2B market
+
+640
+00:48:51.775 --> 00:48:55.944
+means your business to business के जो मैंने solutions बनाए वो सारे business to
+
+641
+00:48:56.004 --> 00:48:59.364
+business solutions बनाए हैं। तो उसमें होता क्या है कि
+
+642
+00:49:01.044 --> 00:49:04.434
+when you are building a solution, कोई भी आप solution जो बना रहे हो ना तो उसमें बहुत
+
+643
+00:49:04.464 --> 00:49:09.534
+सारी चीजें ध्यान रखनी पड़ती हैं। और एक ऐसी चीज जो आज मैं cover करने वाला हूँ,
+
+644
+00:49:10.674 --> 00:49:16.584
+वो एक ऐसी चीज है कि कोई भी जब आप solution design करते हो, कि आपको
+
+645
+00:49:18.025 --> 00:49:23.964
+let's say कोई भी platform बनाना है। हमारा जो LMS आप use कर रहे हो ना, वो भी हमने
+
+646
+00:49:24.025 --> 00:49:29.334
+खुद ही बनाया था। तो कहीं बाहर से नहीं वो खरीदा। तो उसका जैसे for example भी उसमें
+
+647
+00:49:29.394 --> 00:49:35.124
+क्या है कि उसमें बहुत सारे features हैं। हम उसमें live lessons की link
+
+648
+00:49:35.184 --> 00:49:39.924
+डालते हैं। आपको its email आती है, live lesson है, उसका link आता है। Then हम जब live
+
+649
+00:49:39.954 --> 00:49:43.824
+lesson हो जाता है, उसका recording हम डालते हैं वहां पर। ये सारे अलग-अलग features
+
+650
+00:49:43.855 --> 00:49:48.355
+हैं उसके। जब आप recording देख लेते हो then you can go on to the next recording and
+
+651
+00:49:48.384 --> 00:49:52.674
+next recording. आप course complete कर सकते हो, program complete कर सकते हो। तो ऐसे
+
+652
+00:49:53.154 --> 00:49:56.275
+जितने ये सारे features हैं ना इनको बनाने के लिए
+
+653
+00:49:57.594 --> 00:50:01.704
+सिर्फ जो एक thought process लगता है कि क्या thought होना चाहिए, क्या दिमाग में चीज
+
+654
+00:50:01.734 --> 00:50:06.894
+होनी चाहिए कि make sure करो आपके चीजें खराब न हो जाए जब आप बना रहे हो, जब आप उसको
+
+655
+00:50:06.954 --> 00:50:10.884
+grow कर रहे हो, जब और features उसमें add कर रहे हो तो चीजें खराब ना हो। एक तो चीज
+
+656
+00:50:10.914 --> 00:50:13.554
+होती है वो, एक तो चीज होगी features बनाने वाली।
+
+657
+00:50:14.964 --> 00:50:16.134
+दूसरी चीज यह होती है
+
+658
+00:50:17.484 --> 00:50:21.384
+जब आप कोई solution बनाते हो तो वो solution
+
+659
+00:50:22.764 --> 00:50:25.614
+10 लोगों के लिए जब आप solution बनाते हो तो
+
+660
+00:50:26.994 --> 00:50:32.034
+solution बनाने का जो उसका background होता है, वो different होता है अगर वो same
+
+661
+00:50:32.094 --> 00:50:37.014
+solution आप 10 लाख लोग चाहते हो use करें। 10 लोग use करेंगे उस solution को, वो चल
+
+662
+00:50:37.074 --> 00:50:41.364
+जाएगा। 1000 लोग भी use करना चाहेंगे ना, तो solution breakdown होना शुरू हो जाएगा
+
+663
+00:50:41.394 --> 00:50:46.374
+because आपने उसको उतना powerful नहीं बनाया था कि 1000 users एक time पर आके उसको use
+
+664
+00:50:46.404 --> 00:50:46.855
+कर सकें।
+
+665
+00:50:48.234 --> 00:50:52.584
+दूसरी चीज हो गई थी। तीसरी चीज होगी risk which is कि आपने solution तो बना लिया,
+
+666
+00:50:52.734 --> 00:50:57.054
+लेकिन अगर मैं आपके solution में बहुत easily hack करके देख सकता हूँ अंदर आप ने क्या
+
+667
+00:50:57.114 --> 00:51:01.164
+किया, क्या नहीं किया, तो मैं आपका solution destroy भी कर सकता हूँ। तो solution
+
+668
+00:51:01.224 --> 00:51:06.864
+बनाना is not the only thing. Solution बनाकर उसको scale कैसे कर सकते हो,
+
+669
+00:51:07.554 --> 00:51:13.344
+आप उसको protect कैसे कर सकते हो hacker से कि आपका solution
+
+670
+00:51:13.405 --> 00:51:18.924
+hack न कर पाए। ये सारी चीजें जब आप बनाना शुरू करते हो ना तब
+
+671
+00:51:19.944 --> 00:51:24.714
+जो एक foundational, एक fundamental thing जो आपको ध्यान में रखनी होती है कुछ भी करने
+
+672
+00:51:24.775 --> 00:51:30.684
+से पहले, मैं वो cover करने वाला हूँ आज। और यही चीज हम use करते हैं जब भी
+
+673
+00:51:30.714 --> 00:51:34.734
+हमने कोई भी platform बनाया जिसमें millions of dollars की revenues आई हैं। This is
+
+674
+00:51:34.764 --> 00:51:40.674
+the fundamental thing that we always use basically। इसको
+
+675
+00:51:40.854 --> 00:51:45.924
+बोलते हैं decision trees। Now, what is decision-- मैं आपको screenshot करके
+
+676
+00:51:47.304 --> 00:51:51.594
+पूरा वो दिखाऊंगा कि decision trees क्या होते हैं। पहले मैं एक story के format में
+
+677
+00:51:52.734 --> 00:51:57.025
+आपको समझा देता हूँ कि क्या है, क्या नहीं। Let's say आप दिल्ली में हैं। Let's say
+
+678
+00:51:57.054 --> 00:51:58.044
+you are in Delhi right now
+
+679
+00:51:59.574 --> 00:52:00.894
+और आपको Russia जाना है।
+
+680
+00:52:03.535 --> 00:52:09.414
+अब Russia जाने के बहुत सारे ways हैं। आप trains ले ले के change करके जा सकते हो,
+
+681
+00:52:09.684 --> 00:52:15.354
+जहां भी आप पहुंचना चाहते हो train लेकर जा सकते हो।
+
+682
+00:52:15.444 --> 00:52:18.864
+Second is you can take a plane. Third is you can take car.
+
+683
+00:52:19.643 --> 00:52:24.684
+So it depends on you कि आप कौन सा method use करना चाहते हो। Let's say you decided
+
+684
+00:52:24.744 --> 00:52:30.474
+कि आपको car से जाना है Delhi से Russia।
+
+685
+00:52:30.594 --> 00:52:35.785
+अब target is fixed कि Russia जाना है लेकिन
+
+686
+00:52:37.944 --> 00:52:43.824
+आप जब चलना start करोगे अपनी car लेकर, there is a possibility कि
+
+687
+00:52:43.944 --> 00:52:44.244
+आप
+
+688
+00:52:46.224 --> 00:52:51.054
+जब travel करना start करो, खासकर के अगर आपने पहले कभी travel नहीं किया इतना ज्यादा
+
+689
+00:52:51.655 --> 00:52:55.405
+तो आपको रास्ते में पहाड़ी इलाका भी मिलेगा and you will be like अच्छा यह तो सामने
+
+690
+00:52:55.464 --> 00:53:01.375
+पहाड़ आ गया। So there is Himalaya between India and China and then Russia जाने से
+
+691
+00:53:01.405 --> 00:53:06.744
+पहले। Now उसमें एक तरीका यह हो सकता है कि आप या तो tunnel खुद बनाओ
+
+692
+00:53:08.394 --> 00:53:13.584
+या आप उस tunnel से जाओ जो tunnel already बनी हुई है या आप उस चीज को पूरा के पूरा,
+
+693
+00:53:13.674 --> 00:53:16.344
+पूरे Himalaya को avoid करके घूम के जाओ।
+
+694
+00:53:17.724 --> 00:53:22.974
+So ये जो decisions लेने होते हैं जब आप travel कर रहे हो, इतना पता है कि Russia जाना
+
+695
+00:53:23.004 --> 00:53:23.184
+है।
+
+696
+00:53:24.655 --> 00:53:30.084
+लेकिन जब आप travel कर रहे होते हो ना तो रास्ते में आपको decisions लेने पड़ते हैं और
+
+697
+00:53:30.144 --> 00:53:35.815
+वो decisions कैसे लेते हैं is what I am basically gonna teach you today when it
+
+698
+00:53:35.844 --> 00:53:40.614
+comes to building a software, a platform, a solution. ठीक है?
+
+699
+00:53:41.334 --> 00:53:46.704
+मेरे part के बाद Deepak will come back again and he will show you कि आप एक simple
+
+700
+00:53:46.794 --> 00:53:51.025
+apps कैसे बना सकते हो। हमने जितना automate कर सकते हैं ना चीजों को, उनको हमने
+
+701
+00:53:51.054 --> 00:53:54.324
+automate किया हुआ है। तो मेरे session के बाद Deepak will come back again.
+
+702
+00:53:54.354 --> 00:53:58.914
+He will show you a couple of solutions जैसे आप उसको easy से easy तरीके से बना सकते
+
+703
+00:53:58.944 --> 00:54:00.294
+हो। कल
+
+704
+00:54:01.974 --> 00:54:07.375
+Gautam will come and Gautam दिखाएगा आपको कि कैसे आप complex solutions भी बहुत easy
+
+705
+00:54:07.434 --> 00:54:11.394
+तरीके से बना सकते हो। लेकिन उसका जो fundamental, जो foundation है, वो मैं आज cover
+
+706
+00:54:11.454 --> 00:54:12.354
+करने वाला हूँ। ठीक है?
+
+707
+00:54:13.824 --> 00:54:15.084
+मैं screen share करता हूँ अपनी
+
+708
+00:54:19.164 --> 00:54:19.644
+और
+
+709
+00:54:21.025 --> 00:54:26.275
+मैं दो-तीन platforms भी खोल लेता हूँ साथ में ताकि आप देख पाओ कि मैं
+
+710
+00:54:26.785 --> 00:54:28.704
+किसके बारे में बात कर रहा हूँ। Okay.
+
+711
+00:54:29.815 --> 00:54:30.025
+So
+
+712
+00:54:33.414 --> 00:54:38.815
+कोई भी platform है उसका कम से कम एक login screen होती है पहले। Complex platform की
+
+713
+00:54:38.905 --> 00:54:42.924
+login screen होती है। आप हमारे LMS पर भी जाते हो तो वहां पर एक login screen है। आप
+
+714
+00:54:42.954 --> 00:54:48.144
+अपना email address और password वहां डालते हो। So हम एक login screen design करते
+
+715
+00:54:48.174 --> 00:54:48.714
+हैं। ठीक है?
+
+716
+00:54:51.894 --> 00:54:53.364
+Login screen में
+
+717
+00:54:55.044 --> 00:54:57.204
+let's say this is your login screen
+
+718
+00:55:00.468 --> 00:55:04.699
+तो login screen में एक तो आ जाएगा आपका user ID
+
+719
+00:55:11.239 --> 00:55:11.838
+या email
+
+720
+00:55:13.368 --> 00:55:14.959
+और second आपका आ जाएगा
+
+721
+00:55:19.398 --> 00:55:19.968
+password।
+
+722
+00:55:23.538 --> 00:55:27.079
+Okay? And then नीचे एक button होगा यहाँ पर which is
+
+723
+00:55:29.148 --> 00:55:29.598
+Sign In।
+
+724
+00:55:31.608 --> 00:55:31.818
+Okay?
+
+725
+00:55:36.858 --> 00:55:40.699
+इस में कोई doubt अभी तक जो मैं बोल रहा हूँ? Any doubt in this?
+
+726
+00:55:43.518 --> 00:55:47.898
+यह clear है? You know login screen में ये ही चीजें होती हैं। इतना clear है? Okay.
+
+727
+00:55:54.768 --> 00:55:55.548
+Let me go back.
+
+728
+00:55:58.098 --> 00:55:58.368
+So
+
+729
+00:56:00.318 --> 00:56:05.838
+अभी जब मैं Sign In पर click करूंगा तो there are two possibilities। Right?
+
+730
+00:56:08.209 --> 00:56:09.288
+एक possibility है
+
+731
+00:56:13.459 --> 00:56:14.538
+successful Sign In
+
+732
+00:56:19.398 --> 00:56:19.638
+और
+
+733
+00:56:21.228 --> 00:56:21.739
+Sign In
+
+734
+00:56:23.028 --> 00:56:23.929
+unsuccessful.
+
+735
+00:56:27.199 --> 00:56:31.008
+ठीक है? दो possibilities हैं। या तो Sign In मैं कर पाऊंगा या नहीं कर पाऊंगा जब अपना
+
+736
+00:56:31.068 --> 00:56:32.268
+user ID password डालूंगा।
+
+737
+00:56:33.949 --> 00:56:39.858
+अभी Let's say Russia वाला जो मैंने example दिया। Let's say Russia
+
+738
+00:56:43.848 --> 00:56:48.498
+का मतलब है successful login. यह आप करवाना चाहते हो।
+
+739
+00:56:49.758 --> 00:56:55.548
+This is the ideal outcome. This is what you want should happen आपकी app पर। Right?
+
+740
+00:56:55.638 --> 00:57:00.648
+कि जो भी user आए वो successfully login कर पाए। This is your ideal outcome.
+
+741
+00:57:01.128 --> 00:57:05.628
+तो एक तो scene यह है कि उसने user ID password डाला, Sign In पर click किया,
+
+742
+00:57:05.868 --> 00:57:08.298
+successfully sign up हो गया। Sign in हो गया which is great.
+
+743
+00:57:08.388 --> 00:57:11.418
+तो यह आपका-- आप Russia पहुँच गए basically। ठीक है?
+
+744
+00:57:13.248 --> 00:57:18.318
+अब अगर Sign In unsuccessful है, अगर इसको tackle करना है
+
+745
+00:57:19.758 --> 00:57:24.258
+तो क्या-क्या reasons हो सकते हैं? Let me ask you guys.
+
+746
+00:57:24.739 --> 00:57:28.788
+क्या-क्या reasons हो सकते हैं कि आप successfully Sign In नहीं कर पा रहे हो?
+
+747
+00:57:35.568 --> 00:57:36.288
+Tell me the reasons.
+
+748
+00:57:48.438 --> 00:57:49.608
+Let me read the reasons.
+
+749
+00:57:51.168 --> 00:57:53.478
+Forgot password, wrong password. Right?
+
+750
+00:57:53.748 --> 00:57:54.679
+Password भूल गए।
+
+751
+00:57:55.998 --> 00:57:57.858
+Then when it comes to
+
+752
+00:58:00.588 --> 00:58:05.778
+user ID is incorrect. Great! Okay. Wrong password. Okay. Not registered.
+
+753
+00:58:06.138 --> 00:58:09.438
+Okay, perfect. So you've covered three things that I wanted to talk about.
+
+754
+00:58:10.398 --> 00:58:12.888
+User does not exist, password is incorrect,
+
+755
+00:58:14.478 --> 00:58:14.747
+and
+
+756
+00:58:16.998 --> 00:58:19.068
+user ID
+
+757
+00:58:21.199 --> 00:58:26.598
+wrong. User ID गलत है। या तो user ID exist ही नहीं करता या गलत है या password गलत
+
+758
+00:58:26.658 --> 00:58:27.108
+है। Right?
+
+759
+00:58:29.209 --> 00:58:30.679
+So let me share my screen again.
+
+760
+00:58:34.278 --> 00:58:35.179
+Which is this
+
+761
+00:58:36.528 --> 00:58:36.858
+here.
+
+762
+00:58:38.598 --> 00:58:44.209
+For the sake of हमारी आज की class के लिए मैं दो situations cover
+
+763
+00:58:44.268 --> 00:58:44.718
+करूंगा।
+
+764
+00:58:46.008 --> 00:58:49.548
+हमने तीन discuss करीं, मैं दो cover करूंगा ताकि concept समझ आए।
+
+765
+00:58:50.808 --> 00:58:56.118
+पहला is user ID incorrect या user ID does not exist, for example,
+
+766
+00:58:58.008 --> 00:59:00.558
+और दूसरा is incorrect password.
+
+767
+00:59:03.709 --> 00:59:04.998
+ठीक है? अभी
+
+768
+00:59:06.228 --> 00:59:09.199
+ये दो outcomes हमारे-- ये दो reasons हो गए हमारे। ठीक है?
+
+769
+00:59:10.008 --> 00:59:15.679
+अब Russia जाना था, रास्ते में पहाड़ मिल गए। अब या तो tunnel बनाएंगे या हम घूम के
+
+770
+00:59:15.709 --> 00:59:19.548
+जाएंगे। उसका क्या situation है, उसको कैसे solve करना है is what we gonna talk about
+
+771
+00:59:19.608 --> 00:59:23.268
+right now. So अगर यहाँ पर stuck हो गए हो आप।
+
+772
+00:59:26.989 --> 00:59:31.158
+user अगर आपका stuck हो गया और आपका ideal outcome यह है कि आपको उसको successfully
+
+773
+00:59:31.218 --> 00:59:37.128
+login करवाना है और अगर user ID exist नहीं करता तो what are
+
+774
+00:59:37.188 --> 00:59:37.398
+the
+
+775
+00:59:39.709 --> 00:59:43.548
+things that you can do for somebody जो आपके platform पर आएगा?
+
+776
+00:59:44.298 --> 00:59:49.818
+अगर user ID exist नहीं करता तो आप क्या कर सकते हो उस user के लिए कि वह login कर
+
+777
+00:59:49.848 --> 00:59:52.968
+पाए? अगर वह user ID exist ही नहीं करता तो आप क्या कर सकते हो?
+
+778
+00:59:53.658 --> 00:59:56.718
+अभी login screen पर। Remember आप login screen पर हो।
+
+779
+00:59:58.699 --> 00:59:59.598
+Awesome, निशंत।
+
+780
+01:00:01.608 --> 01:00:02.778
+Exactly, विनय।
+
+781
+01:00:05.628 --> 01:00:10.668
+Generate new user ID, login screen, register new user. Perfect. You guys got it.
+
+782
+01:00:11.209 --> 01:00:13.848
+So I am basically teaching you how to think about this entire thing। Right?
+
+783
+01:00:14.358 --> 01:00:20.209
+So अगर user ID exist नहीं करता you can send this person to
+
+784
+01:00:20.329 --> 01:00:24.228
+signup page। Right? यहाँ पर आप उसको signup page पर लेकर जा सकते
+
+785
+01:00:24.258 --> 01:00:29.628
+हो। Send user to signup
+
+786
+01:00:29.688 --> 01:00:35.628
+page। लेकिन send करने से पहले आप directly send नहीं कर दोगे। आप
+
+787
+01:00:35.718 --> 01:00:41.598
+user को यह बताओगे-- आप basically उसको एक message दोगे यहाँ पर। Show a message
+
+788
+01:00:42.768 --> 01:00:44.568
+that tells the user
+
+789
+01:00:45.858 --> 01:00:48.438
+that user ID does not exist.
+
+790
+01:00:50.929 --> 01:00:51.318
+ठीक है?
+
+791
+01:00:54.318 --> 01:00:57.709
+And give an option to sign up
+
+792
+01:00:59.148 --> 01:01:00.978
+और जब Sign Up पर कोई click करेगा
+
+793
+01:01:03.829 --> 01:01:05.808
+then आप उसको signup page पर भेजो।
+
+794
+01:01:07.638 --> 01:01:09.498
+Before I move forward, कितना clear हो गया?
+
+795
+01:01:12.528 --> 01:01:13.338
+Is this part clear?
+
+796
+01:01:15.798 --> 01:01:19.459
+मैं इसको थोड़ा complex लेकर जाऊंगा। अभी हम सिर्फ login page ही बात कर रहे हैं।
+
+797
+01:01:19.518 --> 01:01:22.908
+Right? I will take it to the next level as well. Okay, perfect.
+
+798
+01:01:24.438 --> 01:01:29.808
+So यह एक हमारा cover हो गया कि signup page पर जाएगा। अब signup page पर जाएगा तो
+
+799
+01:01:29.867 --> 01:01:32.628
+signup page की अपनी fields होंगी वहाँ पर। Right?
+
+800
+01:01:32.898 --> 01:01:38.058
+आप उसमें शायद उसका नाम पूछोगे। Name, email address,
+
+801
+01:01:39.258 --> 01:01:43.878
+phone number अगर चाहिए तो। नहीं चाहिए तो उसको mandatory मत करो।
+
+802
+01:01:45.288 --> 01:01:50.568
+What else do you need here? Address, depending upon आप कौन से services offer कर रहे
+
+803
+01:01:50.568 --> 01:01:55.638
+हो। Signup page पर आपको उसका शायद user ID भी चाहिए हो कि आप user ID भी बनाओ अपना।
+
+804
+01:01:56.989 --> 01:02:00.858
+Then आप password उससे पूछोगे कि what is the password that you wanna keep? Right?
+
+805
+01:02:02.088 --> 01:02:03.228
+So ये
+
+806
+01:02:04.548 --> 01:02:10.008
+दो-तीन चीजें जो mandatory हैं वो तो हैं आपका email address और password। ये दो चीजें
+
+807
+01:02:10.038 --> 01:02:13.459
+तो mandatory ही हैं। और नाम। ये तीन चीजें mandatory हैं। Right?
+
+808
+01:02:14.118 --> 01:02:18.378
+This is mandatory, this is mandatory and this is mandatory.
+
+809
+01:02:19.848 --> 01:02:25.758
+So if you see हम login screen से बात करते-करते हम signup screen पर पहुँच गए
+
+810
+01:02:25.788 --> 01:02:28.938
+हैं। What we are basically doing right now--
+
+811
+01:02:30.858 --> 01:02:36.438
+अगर मैं आपको बोलूं कि आप जाकर एक software बनाओ, platform बनाओ। Let's say आपको
+
+812
+01:02:36.468 --> 01:02:41.239
+platform बनाना सिखा दिया। लेकिन अगर आप इस thought process के साथ नहीं चल रहे कि
+
+813
+01:02:41.268 --> 01:02:46.908
+आपका user कहाँ-कहाँ stuck हो सकता है और आपने उन possibilities को
+
+814
+01:02:46.968 --> 01:02:51.918
+पहले सोच के tackle नहीं किया then कहीं ना कहीं कोई ना कोई user stuck होगा
+
+815
+01:02:52.908 --> 01:02:55.638
+और आपको तब पता चलेगा जब complaints आनी शुरू होंगी।
+
+816
+01:02:57.618 --> 01:03:03.468
+तो decision trees basically आपको help करता है to find out कि
+
+817
+01:03:03.528 --> 01:03:08.898
+आपका user कहाँ-कहाँ stuck हो सकता है और उसको आपको कैसे-कैसे tackle करना है। This is
+
+818
+01:03:08.959 --> 01:03:11.898
+the first reason why decision trees are important.
+
+819
+01:03:13.608 --> 01:03:15.438
+दूसरा चीज-- and I will go back to the
+
+820
+01:03:16.908 --> 01:03:22.489
+screen again. But दूसरा reason decision trees इसलिए use होते हैं कि let's say
+
+821
+01:03:23.058 --> 01:03:27.528
+आपकी app में आपको calendar का कोई feature देना है। ठीक है?
+
+822
+01:03:27.558 --> 01:03:31.068
+You wanna give a feature for calendar on your app.
+
+823
+01:03:31.489 --> 01:03:35.298
+अब उसमें क्या है कि आप लोग आएंगे and then they can book a meeting and all of that
+
+824
+01:03:35.358 --> 01:03:35.598
+stuff.
+
+825
+01:03:37.188 --> 01:03:42.709
+You have two options. एक you can develop your own
+
+826
+01:03:42.768 --> 01:03:46.788
+calendar。 Let's say if I ask you to build an app जिसमें calendar का feature हो तो
+
+827
+01:03:47.418 --> 01:03:53.179
+एक तो option आपके पास यह है कि you can build the calendar by yourself or you
+
+828
+01:03:53.239 --> 01:03:57.258
+can use an existing calendar from outside और उसको integrate कर सकते हो अपनी app के
+
+829
+01:03:57.288 --> 01:04:03.012
+साथ। Right? अब उसमें भी decision tree काम आएगा। उसमें
+
+830
+01:04:03.042 --> 01:04:08.172
+decision tree कैसे काम आएगा? You have to understand कि आपके पास time कितना है,
+
+831
+01:04:09.253 --> 01:04:15.042
+आपके पास पैसे कितने हैं और आपको इन दो चीजों को ध्यान में रखकर यह देखना है
+
+832
+01:04:15.072 --> 01:04:19.603
+कि आपको नया calendar बनाने में पैसे ज्यादा लग रहे हैं और time ज्यादा लग रहा है या
+
+833
+01:04:19.663 --> 01:04:23.562
+एक existing calendar लेकर आकर integrate करने में time ज्यादा लग रहा है, पैसे ज्यादा
+
+834
+01:04:23.592 --> 01:04:26.772
+लग रहे हैं। और आपको product कब deliver करना है?
+
+835
+01:04:27.702 --> 01:04:32.413
+अगर आपको वह product deliver करना है एक हफ्ते में और आपको calendar बनाने में छह दिन
+
+836
+01:04:32.472 --> 01:04:34.302
+लग जाएंगे, तो आप test कब करोगे?
+
+837
+01:04:35.772 --> 01:04:39.913
+आपने जो कुछ चीज बनाई है, उसे test भी करोगे ना आप, कि वह ठीक चल रही है कि नहीं। तो
+
+838
+01:04:40.512 --> 01:04:46.362
+अगर आपको पता है कि एक हफ्ते का time period है, पैसे कम हैं, budget कम है और मेरे
+
+839
+01:04:46.392 --> 01:04:51.942
+पास time भी उतना नहीं है बनाने के लिए। You will go out and आप external calendar use
+
+840
+01:04:51.972 --> 01:04:55.272
+करना start कर दोगे for the time being. Making sense?
+
+841
+01:04:58.722 --> 01:05:01.782
+So उस case में आप decision tree कैसे use करोगे?
+
+842
+01:05:01.932 --> 01:05:05.442
+मैं जो example show कर रहा हूँ, उसके पास आऊँगा अभी। I will come back to this.
+
+843
+01:05:05.472 --> 01:05:05.832
+Let me
+
+844
+01:05:08.082 --> 01:05:12.133
+go to this example that I just talked about कि इसमें let's say calendar हमें use
+
+845
+01:05:12.192 --> 01:05:12.702
+करना है।
+
+846
+01:05:13.962 --> 01:05:18.913
+तो there are two options. Option one जो अभी हमने बात करी is
+
+847
+01:05:20.292 --> 01:05:20.592
+build
+
+848
+01:05:22.452 --> 01:05:24.582
+a calendar. Second is
+
+849
+01:05:27.282 --> 01:05:31.663
+use an existing calendar and integrate it.
+
+850
+01:05:32.292 --> 01:05:36.972
+ठीक है। अभी इसमें आप factor करोगे नीचे चीजें,
+
+851
+01:05:39.972 --> 01:05:40.482
+let's say
+
+852
+01:05:41.712 --> 01:05:42.582
+time taken.
+
+853
+01:05:45.042 --> 01:05:48.732
+इसमें आप डालोगे जैसे यहाँ for example time investment,
+
+854
+01:05:51.042 --> 01:05:52.062
+money investment,
+
+855
+01:05:53.623 --> 01:05:58.482
+delivery timelines. ये तो delivery timelines दोनों cases में same होगी। Calendar
+
+856
+01:05:58.572 --> 01:05:59.292
+let's say in
+
+857
+01:06:02.592 --> 01:06:07.332
+one week. यह आपको deliver करना है। So you look at these two things। आप देखोगे कि
+
+858
+01:06:07.422 --> 01:06:09.042
+time investment कितनी है उसमें
+
+859
+01:06:11.832 --> 01:06:14.892
+and money investment कितनी है उसमें। Right?
+
+860
+01:06:15.042 --> 01:06:18.642
+These are the two things that you see। And here आप लिखोगे
+
+861
+01:06:21.133 --> 01:06:25.873
+again time investment, money investment same चीज यहाँ पर। And जब आप इन दोनों चीजों
+
+862
+01:06:25.902 --> 01:06:26.982
+को compare करोगे,
+
+863
+01:06:28.212 --> 01:06:32.322
+you will understand कि एक हफ्ते में मुझे कौन सा feature use करना है। तो most
+
+864
+01:06:32.353 --> 01:06:36.253
+probably you will be like कि मुझे इसके साथ जाना है and then you will be able to
+
+865
+01:06:36.282 --> 01:06:39.342
+implement that। और ये सारी चीजें जब आप ऐसे
+
+866
+01:06:40.663 --> 01:06:46.062
+decision tree बनाकर करते हो-- I cannot tell you मैं
+
+867
+01:06:47.082 --> 01:06:51.972
+कैसे words में इसको emphasize करके बताऊँ कि जब आप एक complex
+
+868
+01:06:55.212 --> 01:06:56.142
+बनाने की कोशिश
+
+869
+01:07:05.442 --> 01:07:07.482
+कर रहे हो पूरा का पूरा काम किया था।
+
+870
+01:07:16.152 --> 01:07:18.492
+After some time कि आपने वो decision क्यों लिया?
+
+871
+01:07:22.062 --> 01:07:22.272
+So
+
+872
+01:07:25.182 --> 01:07:28.422
+decision क्यों लिया था और आपको वैसे क्यों continue करना है?
+
+873
+01:07:28.542 --> 01:07:32.772
+उसका एक और reason मैं बताता हूँ कि क्या है। What are the other things?
+
+874
+01:07:32.862 --> 01:07:35.383
+Why आपको decision trees use करने चाहिए?
+
+875
+01:07:36.792 --> 01:07:39.732
+तो अभी let me go back to the-- Let me share my screen again.
+
+876
+01:07:45.883 --> 01:07:46.603
+एक second.
+
+877
+01:07:54.282 --> 01:07:54.522
+So
+
+878
+01:07:56.112 --> 01:07:58.212
+एक हो गया ये। You know, it helps you to take the--
+
+879
+01:07:59.982 --> 01:08:04.272
+Then when it comes to deciding कि let's say
+
+880
+01:08:05.623 --> 01:08:07.242
+third thing I'll cover after covering this.
+
+881
+01:08:07.362 --> 01:08:11.922
+ठीक है। वो तब ज्यादा समझ आएगा। तो अभी हम sign up screen पर पहुँच गए थे। Basically,
+
+882
+01:08:12.163 --> 01:08:17.833
+after login screen से हम sign up screen पर पहुँच गए। दूसरा हमारा scene था
+
+883
+01:08:18.402 --> 01:08:22.572
+incorrect password. अब incorrect password में you will give a message to the user,
+
+884
+01:08:22.572 --> 01:08:28.422
+"Your password is incorrect।" ठीक है। अब
+
+885
+01:08:28.542 --> 01:08:31.932
+incorrect password दो reasons की वजह से हो सकता है।
+
+886
+01:08:36.522 --> 01:08:37.873
+तीन reasons हैं actually इसके।
+
+887
+01:08:39.192 --> 01:08:42.282
+या तो user mistyped the password,
+
+888
+01:08:49.452 --> 01:08:52.572
+user forgot the password
+
+889
+01:08:55.272 --> 01:08:55.542
+or
+
+890
+01:08:57.432 --> 01:08:59.083
+it is somebody else
+
+891
+01:09:01.422 --> 01:09:03.942
+trying to log in as a user.
+
+892
+01:09:06.402 --> 01:09:11.292
+ठीक है। समझ आ रही है मेरी बात? तीन reasons हो सकते हैं कि password क्यों गलत है। या
+
+893
+01:09:11.353 --> 01:09:16.843
+तो user password भूल गया है या वह type ही गलत कर रहा है या वह user ही नहीं
+
+894
+01:09:16.902 --> 01:09:20.172
+है। So इन तीन situations को tackle करने के लिए
+
+895
+01:09:23.383 --> 01:09:29.353
+आप पहले तो एक message दोगे। But you don't know इनमें से क्या situation है। तो आप इन
+
+896
+01:09:29.413 --> 01:09:33.492
+तीनों की situation में एक ही message दोगे। That message will be,
+
+897
+01:09:33.492 --> 01:09:39.373
+"Please check your password again।"
+
+898
+01:09:40.003 --> 01:09:40.302
+तो
+
+899
+01:09:43.182 --> 01:09:43.962
+इसके again
+
+900
+01:09:45.192 --> 01:09:46.182
+तीन outcomes हैं।
+
+901
+01:09:49.452 --> 01:09:52.843
+Actually, दो outcomes हैं इसके। Which first is successful login
+
+902
+01:09:55.272 --> 01:09:55.512
+or
+
+903
+01:09:56.892 --> 01:09:58.002
+unsuccessful login.
+
+904
+01:10:03.522 --> 01:10:08.262
+ठीक है। अब successful अगर हो गया then you reach your goal which is this one.
+
+905
+01:10:08.562 --> 01:10:11.383
+आप इस goal को achieve कर चुके हो which is fine, which is great.
+
+906
+01:10:11.442 --> 01:10:12.883
+You don't have to think about anything else.
+
+907
+01:10:12.972 --> 01:10:18.552
+ये आपका goal achieve हो गया। अगर unsuccessful login है then ये तीन
+
+908
+01:10:18.612 --> 01:10:23.383
+situations फिर से applicable हो गई ना। या तो user password भूल गया है या गलत डाल
+
+909
+01:10:23.442 --> 01:10:28.422
+रहा है या कोई और login कर रहा है। तो इसको tackle करने के लिए अगर तीन times से
+
+910
+01:10:28.481 --> 01:10:32.172
+ज्यादा password गलत डाला है या पांच times से password ज्यादा गलत डाला है, you can
+
+911
+01:10:32.262 --> 01:10:33.672
+block the account temporarily.
+
+912
+01:10:35.022 --> 01:10:35.982
+Right? That's what happens.
+
+913
+01:10:37.182 --> 01:10:38.502
+अब अगर आप ध्यान दो
+
+914
+01:10:40.302 --> 01:10:45.103
+पिछले 20 minutes से हम लोग सिर्फ login screen की बात कर रहे हैं।
+
+915
+01:10:46.482 --> 01:10:52.242
+हमने अभी किसी भी app का example लेकर features develop करने की बात
+
+916
+01:10:52.332 --> 01:10:53.142
+करी ही नहीं है।
+
+917
+01:10:55.812 --> 01:11:01.362
+So the reason why मैं इस पर इतना emphasize इसलिए कर रहा हूँ कि जब भी आप कोई
+
+918
+01:11:01.482 --> 01:11:06.402
+feature list पर काम करना start करते हो, उस feature list पर भी कैसे काम करना चाहिए
+
+919
+01:11:07.482 --> 01:11:13.002
+I'll cover that as well कि उस पर भी कैसे काम करना चाहिए। तो आपको इतना
+
+920
+01:11:13.182 --> 01:11:17.502
+depth में जाकर plan करना चाहिए कुछ भी start करने से पहले।
+
+921
+01:11:19.002 --> 01:11:24.072
+आप जितना time इस activity में डालोगे उतने ही challenges आपको कम पाएंगे
+
+922
+01:11:24.942 --> 01:11:28.752
+आगे आने वाले time पर। So let's go back यहाँ पर।
+
+923
+01:11:30.312 --> 01:11:36.103
+तो अगर तीन times से पांच times अगर उसने password गलत डाला तो आप
+
+924
+01:11:36.133 --> 01:11:41.353
+temporarily account उसका block कर दो। और अगर user click करता है forgot password पर।
+
+925
+01:11:42.222 --> 01:11:47.862
+Right? अगर user इस पर click करता है forgot password पर then एक और screen आ जाएगी
+
+926
+01:11:47.892 --> 01:11:50.772
+यहाँ पर। Right? जहाँ पर आप user को बोलोगे
+
+927
+01:11:54.192 --> 01:11:55.272
+your email address.
+
+928
+01:11:57.012 --> 01:11:58.843
+आप सिर्फ email address मांगोगे user से
+
+929
+01:12:00.372 --> 01:12:04.542
+और जब user पर click करेगा submit button पर यहाँ पर,
+
+930
+01:12:07.572 --> 01:12:07.902
+तो
+
+931
+01:12:10.392 --> 01:12:11.472
+एक email जाएगी।
+
+932
+01:12:13.332 --> 01:12:18.372
+Email sent to the user on their email address to reset the password.
+
+933
+01:12:25.062 --> 01:12:27.343
+अभी तक जो cover किया कोई doubt, कोई question?
+
+934
+01:12:37.122 --> 01:12:41.322
+ठीक है। So if I go back to the screen now.
+
+935
+01:12:42.402 --> 01:12:47.652
+जब मैंने बात करनी start करी थी और अगर आपके दिमाग में आया था हम login screen की तो
+
+936
+01:12:47.682 --> 01:12:53.202
+बात कर रहे हैं, क्या problem है login screen में। तो यह इतना बड़ा workflow सिर्फ
+
+937
+01:12:53.232 --> 01:12:54.522
+login screen का ही है।
+
+938
+01:12:55.962 --> 01:13:01.093
+Right? And that is the reason why you will see-- अब ultimately आप चाहते हो कि
+
+939
+01:13:01.122 --> 01:13:02.742
+successfully login हो जाए। Right?
+
+940
+01:13:03.192 --> 01:13:08.202
+अब इस case में जब उसको forgot password की email गई और उसने अपना password reset किया
+
+941
+01:13:08.832 --> 01:13:14.383
+then ultimately वह successfully login कर पाएगा user। Right? Then successful login.
+
+942
+01:13:15.012 --> 01:13:17.052
+तो इतना basically if you see
+
+943
+01:13:22.932 --> 01:13:28.603
+कि इन सब चीजों का ध्यान रखना पड़ा हमें successful login करवाने के लिए। तो इसकी वजह
+
+944
+01:13:28.633 --> 01:13:34.603
+से ही you will see कि login screen पर generally आपको दो चीजें और दिखती हैं। एक
+
+945
+01:13:34.633 --> 01:13:36.582
+तो दिखता है forget password का button
+
+946
+01:13:38.982 --> 01:13:41.862
+और एक आपको दिखता है sign up का button.
+
+947
+01:13:49.752 --> 01:13:55.633
+Okay. तो ये दो चीजें आपको दिखती हैं। ताकि जब आपकी login screen पर कोई user आए और
+
+948
+01:13:55.692 --> 01:14:01.603
+उसका user ID और password उसको नहीं पता तो वो forget password पर click
+
+949
+01:14:01.603 --> 01:14:04.902
+करके अपना password reset कर ले यहीं से directly ताकि वो sign up successfully कर
+
+950
+01:14:06.012 --> 01:14:11.172
+सके। और अगर sign up ही नहीं कर रखा है उसने then sign up पर click करें ताकि इस
+
+951
+01:14:11.202 --> 01:14:15.672
+screen पर जाए जहाँ पर sign up होता है और उसके बाद sign in कर सके। If you see
+
+952
+01:14:15.972 --> 01:14:17.802
+Facebook और Instagram की अगर मैं बात करूं।
+
+953
+01:14:19.242 --> 01:14:21.762
+Login screen ये है Facebook की - user ID, password,
+
+954
+01:14:23.232 --> 01:14:27.942
+login. यहां पर आप click करोगे तो login कर पाओगे। Forget password पर click करोगे तो
+
+955
+01:14:28.362 --> 01:14:31.633
+password आप reset कर पाओगे। Create new account is your sign up. Right.
+
+956
+01:14:31.752 --> 01:14:36.432
+Instagram की बात करें same user ID, password, login, forget password
+
+957
+01:14:38.593 --> 01:14:40.332
+and create new account.
+
+958
+01:14:42.492 --> 01:14:42.702
+तो
+
+959
+01:14:45.012 --> 01:14:49.571
+जब आप इन सब चीजों को tackle कर लिया then आपको पता है कि आपका user कहीं stuck नहीं
+
+960
+01:14:53.952 --> 01:14:59.472
+होगा। इन चीजों को समझना इसलिए जरूरी था क्योंकि
+
+961
+01:15:00.883 --> 01:15:06.282
+mostly जब हम कोई भी app बनाने की बात करते हैं, हम कोई भी solution बनाने की बात करते
+
+962
+01:15:06.312 --> 01:15:11.832
+हैं तो problem यहां आ जाती है कि हम complexity नहीं समझ पाते, उन चीजों की
+
+963
+01:15:11.892 --> 01:15:13.122
+complexity कितनी है।
+
+964
+01:15:14.353 --> 01:15:19.962
+तो इसी वजह से एक term होती है, उसको बोलते हैं MVP,
+
+965
+01:15:21.942 --> 01:15:24.282
+which is called Minimum Viable Product.
+
+966
+01:15:24.672 --> 01:15:25.182
+Minimum
+
+967
+01:15:26.442 --> 01:15:27.822
+Viable Product.
+
+968
+01:15:29.202 --> 01:15:35.112
+तो जब भी आप कोई solution बनाने की कोशिश कर रहे हो या बनाना चाहते हो या जब भी
+
+969
+01:15:35.172 --> 01:15:41.142
+हम बनाते हैं कोई solution, हम पहले focus करते हैं MVP पर। हमने जो अपना
+
+970
+01:15:41.172 --> 01:15:42.372
+पूरा का पूरा platform बनाया है,
+
+971
+01:15:43.782 --> 01:15:45.702
+you don't know how it looks like in detail.
+
+972
+01:15:46.093 --> 01:15:51.822
+We will cover that in the next one or two days क्योंकि शायद आपको पता है कि नहीं कि
+
+973
+01:15:51.883 --> 01:15:56.412
+Saturday को in-depth bootcamp है। तो उसमें बहुत सारी चीजें हम reveal करने वाले हैं
+
+974
+01:15:56.472 --> 01:16:02.202
+और बहुत सारी चीजें। तो जब हमने वो platform बनाना start किया था तो ऐसा नहीं था
+
+975
+01:16:02.262 --> 01:16:06.162
+जैसा आप देखने वाले हो। वो platform ऐसा नहीं था।
+
+976
+01:16:07.662 --> 01:16:13.032
+और LMS भी जो आप देखते हो वैसा नहीं था, जैसा हमने start किया था बनाने। तो
+
+977
+01:16:13.242 --> 01:16:15.612
+MVP का मतलब Minimum Viable Product मतलब क्या होता है?
+
+978
+01:16:15.732 --> 01:16:21.222
+आप सबके phone में bank की कोई न कोई app होगी। कोई न कोई bank की app होगी या कोई न
+
+979
+01:16:21.282 --> 01:16:26.922
+कोई UPI की app होगी। Right. मैं bank की app की अगर मैं बात करूं। चाहे आपका bank
+
+980
+01:16:27.162 --> 01:16:28.752
+HDFC है, ICICI है,
+
+981
+01:16:30.792 --> 01:16:34.422
+IDBI bank है, कोई भी bank है, आपका SBI bank है, कोई भी bank है।
+
+982
+01:16:36.103 --> 01:16:38.232
+अगर मैं आपसे पूछूं कि आप
+
+983
+01:16:39.732 --> 01:16:42.942
+banking वाली app में कौन-कौन से features use करते हो?
+
+984
+01:16:43.302 --> 01:16:49.032
+तो 90% of the people बोलोगे कि आप या तो balance check
+
+985
+01:16:49.302 --> 01:16:49.752
+करते हो
+
+986
+01:16:51.552 --> 01:16:56.622
+या balance transfer करते हो या balance transfer request करते हो
+
+987
+01:16:57.822 --> 01:17:03.192
+या statement अपनी download करते हो। ये तीन-चार features हैं जो 90% of the people
+
+988
+01:17:03.252 --> 01:17:07.482
+use करते हैं और 90% of the time यही features use करते हैं। या credit card block
+
+989
+01:17:07.512 --> 01:17:10.302
+करना हो गया, ये चार-पांच features हैं।
+
+990
+01:17:11.622 --> 01:17:14.532
+Let me know if I am correct or not. यही features use करते हो आप लोग
+
+991
+01:17:16.932 --> 01:17:19.002
+most of the time जब आप banking app में जाते हो।
+
+992
+01:17:21.282 --> 01:17:21.702
+लेकिन
+
+993
+01:17:23.172 --> 01:17:29.022
+उस banking app में कितने सारे features और हैं। आप loan apply
+
+994
+01:17:29.142 --> 01:17:33.162
+कर सकते हो, आप customer service से connect कर सकते हो, आप नई checkbook order कर
+
+995
+01:17:33.192 --> 01:17:38.742
+सकते हो। कितनी सारी चीजें और हैं। वहां पर आपको offers भी आते रहते हैं - नया credit
+
+996
+01:17:38.772 --> 01:17:44.652
+card ले लो, नया loan ले लो and all that stuff. But you don't use those options.
+
+997
+01:17:44.742 --> 01:17:50.652
+आप उन options को नहीं use करते हो। तो अगर मैं कहूं कि आपको एक successful banking
+
+998
+01:17:50.772 --> 01:17:55.032
+app बनानी है और आप मेरे पास आओ कि okay, ये चार features, पांच features तो मुझे
+
+999
+01:17:55.093 --> 01:17:59.112
+चाहिए और मुझे बाकी सारे features भी चाहिए कि लोग checkbook order कर सकें, लोग loan
+
+1000
+01:17:59.172 --> 01:18:04.062
+भी apply कर सकें, लोग बाकी customer service से भी contact कर सकें। तो ये सारे अगर
+
+1001
+01:18:04.093 --> 01:18:08.802
+मैं features की बात करूं, they are not as important as checking the balance,
+
+1002
+01:18:08.922 --> 01:18:11.832
+downloading statement, sending the money and receiving the money.
+
+1003
+01:18:12.822 --> 01:18:18.642
+ये चार चीजों के अलावा बाकी के features उतने important नहीं हैं।
+
+1004
+01:18:18.762 --> 01:18:24.402
+आप पहले इन चार features पर काम करो। इनको ढंग से test करो। That is your
+
+1005
+01:18:24.612 --> 01:18:29.472
+MVP, Minimum Viable Product. इन चार features के basis पर आप बोल सकते हो कि आपके पास
+
+1006
+01:18:29.532 --> 01:18:35.082
+एक working banking app है। उसके बाद आप features continuously add कर सकते हो।
+
+1007
+01:18:35.112 --> 01:18:39.432
+क्योंकि इन चार features को ही जब आप develop करने की बात करोगे, decision trees बनाना
+
+1008
+01:18:39.492 --> 01:18:44.742
+start करोगे। अगर आपने देखा कि हमने login screen पर की बात करनी start करी और दो
+
+1009
+01:18:44.802 --> 01:18:48.343
+screens और उसमें से निकल के आ गई sign up की और forward password की और ऐसा हमें पूरा
+
+1010
+01:18:48.372 --> 01:18:54.312
+का पूरा बनाना पड़ा एक workflow. Imagine, ये चार features को बनाने के लिए आपको
+
+1011
+01:18:54.372 --> 01:18:58.182
+कितना workflow depth में जाकर बनाना पड़ेगा। देखना पड़ेगा कि कहाँ-कहाँ लोग stuck हो
+
+1012
+01:18:58.242 --> 01:19:03.462
+सकते हैं और उनकी कैसी-कैसी problems आप resolve कर सकते हो। It is going to be very
+
+1013
+01:19:03.522 --> 01:19:04.722
+complicated. But
+
+1014
+01:19:07.992 --> 01:19:13.692
+इन सभी complications को दूर करके हमने solutions develop किए वो हैं
+
+1015
+01:19:13.752 --> 01:19:19.692
+कि आपको इन सब चीजों से tackle न करना पड़े is the reason why we built a
+
+1016
+01:19:19.722 --> 01:19:20.532
+few solutions.
+
+1017
+01:19:21.853 --> 01:19:26.682
+उनमें काफी सारी चीजों का हमने take care already करके रखा हुआ है। आपको जानना इसलिए
+
+1018
+01:19:26.742 --> 01:19:31.422
+जरूरी होता है ये सारा कुछ ताकि जब आप देख रहे हो, बना रहे हो कुछ
+
+1019
+01:19:33.282 --> 01:19:38.742
+तो आपको समझ आना चाहिए कि हो क्या रहा है। ताकि कल को अगर कोई challenge आए तो आप deep
+
+1020
+01:19:38.802 --> 01:19:41.261
+dive करके solve कर सको उस चीज को।
+
+1021
+01:19:43.633 --> 01:19:49.152
+और decision trees की अगर मैं बात करूं risk को लेकर तो आपको ये ध्यान में रखना
+
+1022
+01:19:49.212 --> 01:19:53.142
+पड़ेगा। Like for example, हमने थोड़ा सा अभी touch किया उस चीज पर risk को लेकर कि
+
+1023
+01:19:54.252 --> 01:19:58.182
+user नहीं है, लेकिन वो user के account में login करने की कोशिश कर रहा है। वो risk
+
+1024
+01:19:58.212 --> 01:20:01.392
+है ना कि account hack करने की कोशिश कर रहा है बार-बार password डालकर। तो उसमें आपने
+
+1025
+01:20:01.452 --> 01:20:06.133
+उसको tackle कर लिया कि तीन बार या पांच बार अगर गलत password डाला तो account
+
+1026
+01:20:06.162 --> 01:20:12.012
+temporarily block हो जाए। वैसे ही आपको बाकी की सारी चीजें हैं कि और किस-किस तरीके
+
+1027
+01:20:12.072 --> 01:20:16.603
+से आपका जो app है वो access किया जा सकता है, आप कैसे-कैसे उसको tackle कर सकते हो।
+
+1028
+01:20:16.722 --> 01:20:20.682
+Right. So you have to come up with all of that list और आपको उसको tackle करना
+
+1029
+01:20:20.742 --> 01:20:25.512
+पड़ेगा। देखना पड़ेगा कि कैसे आप उसको protect करो। उस case में भी decision trees
+
+1030
+01:20:26.022 --> 01:20:27.402
+will help you.
+
+1031
+01:20:29.232 --> 01:20:30.792
+So the point is
+
+1032
+01:20:32.472 --> 01:20:32.652
+कि
+
+1033
+01:20:34.962 --> 01:20:35.652
+जब भी आप
+
+1034
+01:20:37.032 --> 01:20:43.002
+किसी भी app और project आप लेना चाहते हो, आप कभी भी starting में price
+
+1035
+01:20:43.062 --> 01:20:48.372
+quote मत करो। आप पहले depth में जाकर discussion करके, understand करके कि क्या-क्या
+
+1036
+01:20:48.432 --> 01:20:53.502
+उसमें features हैं और in fact अपने client को भी समझाओ कि भाई go with MVP.
+
+1037
+01:20:53.832 --> 01:20:58.872
+MVP से एक तो time कम लगता है, एक पैसे कम लगेंगे। आप अपनी market ज्यादा जल्दी study
+
+1038
+01:20:58.902 --> 01:21:04.212
+कर पाओगे। आपको क्या पता-- अगर ये चार features की अगर मैं बात ना करूं,
+
+1039
+01:21:04.633 --> 01:21:07.332
+banking app की जो चार features हैं कि balance check कर पाओ,
+
+1040
+01:21:08.532 --> 01:21:13.692
+पैसे transfer कर पाओ, पैसे ले पाओ और statement download कर पाओ। इन चार features को
+
+1041
+01:21:13.782 --> 01:21:19.542
+छोड़ के आपको नहीं पता कि लोग loan ज्यादा लेंगे या credit card
+
+1042
+01:21:19.572 --> 01:21:23.383
+block ज्यादा करेंगे या customer service के साथ ज्यादा contact करेंगे। You don't
+
+1043
+01:21:23.442 --> 01:21:29.022
+know कि कौन से features लोग ज्यादा use करेंगे। आपको वो तभी पता चल सकता है जब आप
+
+1044
+01:21:29.052 --> 01:21:34.062
+अपने product को market में लेकर जाओगे और आप market से survey करोगे कि आपको कौन-कौन
+
+1045
+01:21:34.093 --> 01:21:39.972
+से features चाहिए। और अगर आपको लगता है कि कोई specific feature आपको launch
+
+1046
+01:21:40.002 --> 01:21:45.462
+करना चाहिए और आप कर देते हो और वो उतना use नहीं हो रहा then you can also change.
+
+1047
+01:21:45.582 --> 01:21:49.512
+उस feature की location भी आप change कर सकते हो क्योंकि आपके phone की screen तो
+
+1048
+01:21:49.572 --> 01:21:50.532
+सिर्फ इतनी ही है ना।
+
+1049
+01:21:51.792 --> 01:21:55.812
+This is the screen. यही इतना size है आपकी screen का phone का। तो इसमें कितने
+
+1050
+01:21:55.872 --> 01:21:59.562
+options आप डाल सकते हो। तो अगर कोई feature अगर use नहीं हो रहा उतना, उसको remove कर
+
+1051
+01:21:59.593 --> 01:22:00.192
+दो वहां से।
+
+1052
+01:22:03.282 --> 01:22:09.133
+Another very important thing, decision trees जिसमें आपको help करते हैं वो ये
+
+1053
+01:22:09.192 --> 01:22:11.802
+है कि अगर आपको
+
+1054
+01:22:13.032 --> 01:22:16.422
+additional features add करने हैं अपनी app बनाने के बाद
+
+1055
+01:22:18.186 --> 01:22:24.156
+तो उन features का पहले वाले बने हुए features में कहाँ-कहाँ impact आ रहा है और उसको
+
+1056
+01:22:24.216 --> 01:22:27.006
+कैसे tackle करना है, उसमें काफी help हो जाती है।
+
+1057
+01:22:29.557 --> 01:22:30.307
+For example,
+
+1058
+01:22:32.526 --> 01:22:37.536
+मैं अगर अपने example पर वापस जाऊँ जो मैं example दे रहा था। Banking app की ही बात
+
+1059
+01:22:37.566 --> 01:22:42.397
+कर लेते हैं और calendar की ही बात कर लेते हैं, जो हमने पहले बात की थी। Let's say यह
+
+1060
+01:22:42.456 --> 01:22:45.066
+banking app का login screen है। ठीक है?
+
+1061
+01:22:45.786 --> 01:22:50.736
+यह banking app का login screen successful sign in पर आपके user को दिख रहा है
+
+1062
+01:22:51.486 --> 01:22:54.756
+balance और वहाँ उनको option दिख रहा है Download statement,
+
+1063
+01:22:57.936 --> 01:22:59.856
+Transfer funds,
+
+1064
+01:23:01.176 --> 01:23:02.196
+Request funds।
+
+1065
+01:23:04.116 --> 01:23:06.095
+Let's say आपकी banking app पर ये चार चीजें उनको दिख रही हैं।
+
+1066
+01:23:08.796 --> 01:23:14.376
+ठीक है? अब calendar वाला अगर हम option लें यहाँ पर। आप कहते हो कि मुझे
+
+1067
+01:23:14.676 --> 01:23:19.926
+calendar का option यहाँ add करना है कि जो मेरे bank के customer हैं ना, वो
+
+1068
+01:23:22.956 --> 01:23:25.326
+मेरे
+
+1069
+01:23:26.647 --> 01:23:31.746
+bank के official के साथ meeting book कर पाएं। Calendar booking for
+
+1070
+01:23:33.006 --> 01:23:33.906
+customers with
+
+1071
+01:23:35.736 --> 01:23:39.906
+bank employees. This is a new feature that you have to build.
+
+1072
+01:23:40.596 --> 01:23:41.376
+अब यह feature
+
+1073
+01:23:43.296 --> 01:23:48.456
+आ रहा है आपकी इस screen पर। Right? जो screen already बन चुकी है, जिस पर already
+
+1074
+01:23:48.516 --> 01:23:54.036
+चीजें दिख रही हैं। अब आप नया feature बना रहे हो, उसको add करना चाहते हो उस screen
+
+1075
+01:23:54.096 --> 01:23:57.456
+पर। अगर आपके पास हर option का decision tree बना होगा ना, then you will be able to
+
+1076
+01:23:57.516 --> 01:24:02.376
+understand कि इस option का कहाँ-कहाँ impact आ रहा है और मुझे यह नया feature कहाँ
+
+1077
+01:24:02.406 --> 01:24:08.286
+दिखाना चाहिए, कहाँ नहीं दिखाना चाहिए। So जब आप app को expand कर रहे हो नए feature
+
+1078
+01:24:08.346 --> 01:24:14.316
+के साथ, तब भी आपको यह चीज help करेगी समझने के लिए कि कहाँ
+
+1079
+01:24:14.376 --> 01:24:18.936
+वह नया feature add करना चाहिए और नए feature का पुराने वाले features पर कहाँ-कहाँ
+
+1080
+01:24:18.996 --> 01:24:19.836
+impact आ रहा है।
+
+1081
+01:24:22.057 --> 01:24:22.836
+समझ आ रही है मेरी बात?
+
+1082
+01:24:33.846 --> 01:24:37.656
+So this is basically why you need decision trees.
+
+1083
+01:24:37.836 --> 01:24:38.856
+लेकिन एक चीज मैंने बोली
+
+1084
+01:24:40.506 --> 01:24:40.686
+कि
+
+1085
+01:24:43.057 --> 01:24:46.866
+हम इस technology को, इस पूरे के पूरे thought process को,
+
+1086
+01:24:48.186 --> 01:24:53.976
+इस पूरे के पूरे process को इतना simplify कर चुके
+
+1087
+01:24:54.036 --> 01:24:59.226
+हैं कि आपको बहुत सारी चीजों का ध्यान रखने की जरूरत नहीं है।
+
+1088
+01:25:01.716 --> 01:25:04.176
+Deepak will show you app बनाकर
+
+1089
+01:25:05.586 --> 01:25:09.756
+कि simple apps आप कैसे बना सकते हो basic prompt के साथ।
+
+1090
+01:25:10.986 --> 01:25:15.696
+आप अपना custom ChatGPT कैसे बना सकते हो simple prompt के साथ।
+
+1091
+01:25:17.106 --> 01:25:22.596
+And कल Gautam will show you कि आप complex app कैसे बना सकते हो
+
+1092
+01:25:23.046 --> 01:25:28.506
+एक simple prompt के साथ। वह पूरा आपको एक demo दिया जाएगा। Right?
+
+1093
+01:25:29.557 --> 01:25:34.686
+But I want to ask you अभी for the next five minutes कि
+
+1094
+01:25:35.526 --> 01:25:41.226
+कोई question या doubt कि why decision trees are important या decision tree क्या
+
+1095
+01:25:41.286 --> 01:25:44.676
+होते हैं? concept ना समझ आया हो तो मुझे बताओ।
+
+1096
+01:25:49.897 --> 01:25:51.126
+Okay, I am just checking.
+
+1097
+01:25:53.046 --> 01:25:57.397
+Okay, Preeti's question कि rules for creating user ID and password.
+
+1098
+01:25:57.816 --> 01:26:03.696
+Syntax depend करता है। आप अपना password कम से कम eight characters का रखो। कम
+
+1099
+01:26:03.726 --> 01:26:09.276
+से कम eight characters का password रखो and have at least alphabets and numbers and
+
+1100
+01:26:09.336 --> 01:26:13.596
+special characters in it. यह तीन चीजें होनी चाहिए आपके password को थोड़ा strong
+
+1101
+01:26:13.626 --> 01:26:14.136
+करने के लिए
+
+1102
+01:26:15.486 --> 01:26:21.006
+alphabets, numbers and special characters और कम से कम आठ characters का password
+
+1103
+01:26:21.036 --> 01:26:21.426
+रखो।
+
+1104
+01:26:25.057 --> 01:26:29.557
+I am just messages check कर रहा हूँ because Deepak will come in a few minutes
+
+1105
+01:26:32.526 --> 01:26:36.486
+and cover the rest of the part. App बनाकर दिखाएगा आपको and then he'll show you कि
+
+1106
+01:26:36.546 --> 01:26:41.526
+आप अपना custom ChatGPT कैसे बना सकते हो। We'll cover that as well.
+
+1107
+01:26:44.856 --> 01:26:49.956
+Okay, I don't see any questions with regards to कि क्यों। Okay,
+
+1108
+01:26:50.826 --> 01:26:55.566
+कुछ लोग जो हैं वो advanced questions पूछ रहे हैं कि आप Google के साथ login कर सकते
+
+1109
+01:26:55.596 --> 01:26:57.876
+हो। तो let me tell you this a little bit.
+
+1110
+01:26:58.266 --> 01:27:01.206
+इसमें एक two factor authorization होता है, जिसमें
+
+1111
+01:27:02.826 --> 01:27:07.506
+या तो आपको SMS आएगा। जब आप login कर रहे हो तो आप उसमें SMS डालोगे, तब आप login कर
+
+1112
+01:27:07.566 --> 01:27:11.676
+पाओगे। उसको two factor authorization बोलते हैं। या आपके phone में ही एक app होती
+
+1113
+01:27:11.676 --> 01:27:15.636
+है, जिसमें code आता है। हर 30 seconds, 1 minute में वो code generate होता रहता है
+
+1114
+01:27:15.726 --> 01:27:18.846
+और code डालोगे तब आप login कर पाओगे, password डालने के बाद।
+
+1115
+01:27:20.466 --> 01:27:26.256
+या आपको वो captchas दिखेंगे कि photo दिखेगी और आपको पूछा जाएगा कि किस-किस
+
+1116
+01:27:26.286 --> 01:27:31.057
+photos में, किस-किस part में आपको truck दिख रहा है या bus दिख रही है या stairs दिख
+
+1117
+01:27:31.116 --> 01:27:32.406
+रही हैं। या
+
+1118
+01:27:33.666 --> 01:27:37.356
+आप Google के साथ login कर सकते हो directly। आपको user ID, password याद रखने की
+
+1119
+01:27:37.386 --> 01:27:42.126
+जरूरत नहीं है। Login with Google पर click करो और आपका Google के through account बन
+
+1120
+01:27:42.156 --> 01:27:42.606
+जाएगा।
+
+1121
+01:27:43.807 --> 01:27:49.386
+इसके बारे में आपको ध्यान रखना यह जरूरी है कि जब आप Google के through account
+
+1122
+01:27:49.446 --> 01:27:55.296
+बनाना allow कर रहे हो, अगर उस user का Google
+
+1123
+01:27:55.416 --> 01:27:58.506
+account block हो गया किसी वजह से,
+
+1124
+01:28:00.606 --> 01:28:02.676
+that user will not be able to use your app.
+
+1125
+01:28:03.726 --> 01:28:08.826
+So you have to think about that कि अगर आपको option देना है कि नहीं। कि आप कितना
+
+1126
+01:28:08.946 --> 01:28:14.436
+sensitive काम कर रहे हो, कितना sensitive काम नहीं कर रहे और आपको Google account कौन
+
+1127
+01:28:14.526 --> 01:28:20.016
+से allow करने हैं, कौन से allow नहीं करने। मेरे कहने का मतलब कि you can make your
+
+1128
+01:28:20.076 --> 01:28:21.966
+professional email addresses on Google as well.
+
+1129
+01:28:22.656 --> 01:28:27.246
+So let's say appdaddy.ai for example मैं यह Google पर भी बना सकता हूँ। Right?
+
+1130
+01:28:27.486 --> 01:28:31.236
+और मैं personal अपना email address भी बना सकता हूँ। So आपको personal email address
+
+1131
+01:28:31.536 --> 01:28:35.196
+allow करने हैं या आपको सारे के सारे allow करने हैं। कि अगर वो किसी company में काम
+
+1132
+01:28:35.256 --> 01:28:40.566
+कर रहा है बंदा और उसकी company में वो काम बंद कर दिया उसने करना,
+
+1133
+01:28:41.586 --> 01:28:44.826
+how will that person log into your app?
+
+1134
+01:28:44.886 --> 01:28:46.445
+So you have to think about all of those things.
+
+1135
+01:28:54.906 --> 01:28:57.397
+So another question, Saksham का, MVP.
+
+1136
+01:28:57.906 --> 01:29:00.456
+Regarding how to get to know about MVP of different fields.
+
+1137
+01:29:01.807 --> 01:29:04.296
+Okay, so how to get to know about the MVP of different fields?
+
+1138
+01:29:04.956 --> 01:29:08.916
+This is for मैंने banking के बारे में बात करी कि banking में what do you generally
+
+1139
+01:29:08.976 --> 01:29:14.796
+do? तो it is your own exercise. आपको खुद देखना पड़ेगा कि कौन
+
+1140
+01:29:14.856 --> 01:29:18.996
+सी field में कौन सी चीजें use होती हैं ज़्यादा। I can't give you कि
+
+1141
+01:29:22.266 --> 01:29:26.226
+एक thought process का सिर्फ यही है। You have to understand कि उस particular
+
+1142
+01:29:26.286 --> 01:29:28.147
+industry की जिसके आप app बना रहे हो,
+
+1143
+01:29:29.466 --> 01:29:34.296
+उस industry में कौन-कौन से features ज़्यादा से ज़्यादा use होते हैं। So that is
+
+1144
+01:29:34.386 --> 01:29:36.576
+something that you have to understand in depth.
+
+1145
+01:29:36.636 --> 01:29:41.466
+Let's say अगर आप एक app बना रहे हो book के related या book writing की app बना रहे
+
+1146
+01:29:41.466 --> 01:29:47.436
+हो for example. उसमें आपके कौन-कौन से features लोग use करेंगे उस book writing
+
+1147
+01:29:47.496 --> 01:29:51.576
+app में that is something that you have to understand in the beginning MVP में। For
+
+1148
+01:29:51.636 --> 01:29:56.946
+example, आप चाहते हो कि लोग decide कर पाएं कितने chapters हों उस book में, कितने
+
+1149
+01:29:57.006 --> 01:30:01.566
+नहीं, then आप वो feature डालो। एक feature आपको डालना जरूर चाहिए अगर book writing की
+
+1150
+01:30:01.596 --> 01:30:04.536
+अगर आप app बना रहे हो कि कितने words की book हो। Right?
+
+1151
+01:30:04.626 --> 01:30:10.026
+वह तो चाहिए। The user would want to decide कि कितने words की book हो। उसका एक
+
+1152
+01:30:10.086 --> 01:30:15.636
+option आपको देना चाहिए। लेकिन उसका front cover, back cover वह उतना
+
+1153
+01:30:15.696 --> 01:30:19.026
+important नहीं है क्योंकि जब तक book ही नहीं है, तब तक front cover, back cover का
+
+1154
+01:30:19.057 --> 01:30:19.596
+क्या करोगे?
+
+1155
+01:30:21.846 --> 01:30:27.576
+Right? So you have to understand the process, पूरा step by step process कि अगर
+
+1156
+01:30:27.636 --> 01:30:32.916
+आपने पूरा का पूरा focus book cover ही बनाने में डाल दिया, पूरा का पूरा अपना time कि
+
+1157
+01:30:32.946 --> 01:30:36.576
+book cover अच्छा बनना चाहिए। लेकिन अगर book ही नहीं generate हो रही, what's the
+
+1158
+01:30:36.636 --> 01:30:36.966
+point?
+
+1159
+01:30:40.176 --> 01:30:43.236
+ठीक है? So I'm gonna hand-- Deepak, are you there?
+
+1160
+01:30:47.286 --> 01:30:49.086
+Yeah, hello, I am here.
+
+1161
+01:30:49.176 --> 01:30:53.736
+Okay. So I'm gonna hand it over to Deepak for the rest of the part so that Deepak
+
+1162
+01:30:54.216 --> 01:31:00.186
+आपको दिखा देगा कि how to build an app and how to build a custom ChatGPT so that you
+
+1163
+01:31:00.216 --> 01:31:03.397
+can understand कि हमने जितना simplify कर सकते थे, हमने उतना simplify कर दिया है
+
+1164
+01:31:03.426 --> 01:31:09.397
+process को। कल miss मत करना, last day of the training bootcamp Saturday को है।
+
+1165
+01:31:09.426 --> 01:31:14.526
+Gautam दिखाएगा आपको कि आप complex app भी कैसे बना सकते हो। जितना simplify कर सकते
+
+1166
+01:31:14.526 --> 01:31:15.966
+थे, उतना हमने simplify कर दिया। ठीक है?
+
+1167
+01:31:16.746 --> 01:31:20.826
+I hope you enjoyed and you learned something कि आपको कैसे decisions लेने चाहिए। और
+
+1168
+01:31:20.886 --> 01:31:25.986
+यह decision tree सिर्फ आप app और products बनाने में नहीं, जब आप कोई important
+
+1169
+01:31:26.046 --> 01:31:30.397
+business decision भी ले रहे हो ना, आप तब भी यह decision tree use कर सकते हो।
+
+1170
+01:31:31.710 --> 01:31:34.441
+ठीक है। चलो, it was great seeing you guys.
+
+1171
+01:31:34.560 --> 01:31:36.120
+I will see you again on Saturday,
+
+1172
+01:31:37.410 --> 01:31:41.490
+bootcamp में। Till then thank you so much. Thank you for joining once again.
+
+1173
+01:31:41.550 --> 01:31:42.390
+Take care. Thanks. Bye, bye.
+
+1174
+01:31:42.420 --> 01:31:47.580
+Thank you Darsh for the tremendous knowledge and thank you so much for the
+
+1175
+01:31:47.640 --> 01:31:49.560
+insightful topic because
+
+1176
+01:31:52.740 --> 01:31:55.470
+app बनाना सिर्फ नहीं होता है guys obviously.
+
+1177
+01:31:55.770 --> 01:31:58.350
+जब भी कोई structured app बनता है, जब भी कोई
+
+1178
+01:32:00.120 --> 01:32:04.530
+professional system बनता है तो उसके behind the scenes जो thought process होती है
+
+1179
+01:32:04.560 --> 01:32:07.830
+ना, वो बहुत important है। That we have covered this one.
+
+1180
+01:32:07.860 --> 01:32:10.890
+Thank you so much Darsh again. All right, guys.
+
+1181
+01:32:10.920 --> 01:32:12.390
+So now first
+
+1182
+01:32:14.790 --> 01:32:19.620
+we are gonna see how we can build an app.
+
+1183
+01:32:20.580 --> 01:32:26.520
+पर उससे पहले मैं तीन-चार topic cover कर दूँ ताकि concept clear हो
+
+1184
+01:32:26.580 --> 01:32:32.430
+जाए। एक thought है जो पूरे दुनिया में आज के date में चल रहा है कि
+
+1185
+01:32:32.550 --> 01:32:37.290
+app बनाना आज के date में prompting अंदर आती है, आप app बन सकता है। This is a common
+
+1186
+01:32:37.350 --> 01:32:41.790
+general term जो industries में हर जगह चल रहा है। Social media पर आपको viral reach
+
+1187
+01:32:41.820 --> 01:32:44.160
+मिल जाएगी। This is a common thing available.
+
+1188
+01:32:44.220 --> 01:32:44.400
+But
+
+1189
+01:32:45.960 --> 01:32:51.810
+जब आप उस चीज को genuinely build करते हो, उस perspective से कि कल जाके उस
+
+1190
+01:32:51.930 --> 01:32:57.780
+app के ऊपर 10,000 या 50,000 active users आएंगे। Are you getting my
+
+1191
+01:32:57.810 --> 01:32:58.050
+point?
+
+1192
+01:32:59.340 --> 01:33:01.620
+वो एक अलग तरीका हो जाता है।
+
+1193
+01:33:03.210 --> 01:33:09.030
+कुछ चीजें same होगी but कुछ चीजें जो होती हैं ना, वो एक experience, एक process उसी
+
+1194
+01:33:09.090 --> 01:33:12.120
+way में की जाती है। Just a second.
+
+1195
+01:33:24.810 --> 01:33:26.820
+All right. Thank you so much. So
+
+1196
+01:33:28.320 --> 01:33:31.620
+what is the one point? That is कि
+
+1197
+01:33:33.481 --> 01:33:37.650
+जो हवा चल रही है market में, which is not that much straightforward अगर आप उस चीज
+
+1198
+01:33:37.710 --> 01:33:41.820
+से business देख रहे हो आने वाले time में in long scale,
+
+1199
+01:33:43.140 --> 01:33:46.080
+not just छोटा-मोटा। दूसरा,
+
+1200
+01:33:47.880 --> 01:33:53.701
+जब हम देखते हैं कि app बनाना है तो पहले ये भी हमें समझना होगा कि कितने
+
+1201
+01:33:53.760 --> 01:33:59.310
+types के apps होते हैं। इसकी clarity होगी तो आपकी confusion, clarity में convert हो
+
+1202
+01:33:59.370 --> 01:33:59.820
+जाएगी। So
+
+1203
+01:34:01.231 --> 01:34:06.780
+अगर मैं इसको clear करूं, number one जो आज के date में सबसे
+
+1204
+01:34:06.930 --> 01:34:09.900
+ज्यादा use किया जाता है, which is a web application.
+
+1205
+01:34:10.680 --> 01:34:15.481
+Web applications वो apps होती हैं जो आपके browsers में चलती है। वो कहीं पर भी आप
+
+1206
+01:34:15.540 --> 01:34:18.750
+download नहीं कर सकते या उसका कोई mobile application आप download नहीं कर सकते,
+
+1207
+01:34:19.231 --> 01:34:24.990
+which is a web application. For example, अगर मैं बात करूं Chat GPT की। Chat
+
+1208
+01:34:25.020 --> 01:34:30.960
+GPT अपने आप में एक software है। But software वो आप chatgpt.com पर जाकर ऊपर भी login
+
+1209
+01:34:30.990 --> 01:34:34.530
+कर सकते हो। वो अलग बात है कि उन्होंने अपना एक application भी बनाया, वो अलग बात है
+
+1210
+01:34:34.530 --> 01:34:38.191
+कि उन्होंने एक desktop application भी बनाया। तो वो एक अलग category का system है, जो
+
+1211
+01:34:38.250 --> 01:34:43.620
+कि high-end zone में चला गया सीधा। दूसरा मैं अगर example लूं Netflix आप लोग use
+
+1212
+01:34:43.650 --> 01:34:45.960
+करते होंगे most of you. तो Netflix क्या है?
+
+1213
+01:34:46.019 --> 01:34:50.460
+Netflix mobile applications भी उन्होंने develop करवायी है और उन्होंने एक website भी
+
+1214
+01:34:50.941 --> 01:34:54.840
+डाली हुई है, जहाँ जाकर वो सारी चीजें देख सकते हो जो आप mobile से करते हो।
+
+1215
+01:34:56.970 --> 01:35:02.731
+Right? So there are so many apps जो कुछ ऐसी apps होंगी जो सिर्फ website से ही आप
+
+1216
+01:35:02.790 --> 01:35:06.840
+access कर सकते हो, which is called a web application. Is it clear?
+
+1217
+01:35:07.620 --> 01:35:12.000
+Second, mobile applications which is iOS and Android.
+
+1218
+01:35:12.481 --> 01:35:16.080
+इस point पर एक बहुत बड़ा important point बताना चाहूँगा because कई लोगों के दिमाग
+
+1219
+01:35:16.110 --> 01:35:20.430
+में ये रहता है कि एक mobile app बनाके हम देखें कि वो कैसा होगा। But इस चीज की
+
+1220
+01:35:20.460 --> 01:35:25.920
+knowledge बहुत लोगों को नहीं होती। इस वजह से obvious बात है कि वो शायद शुरू कर लेते
+
+1221
+01:35:25.920 --> 01:35:29.370
+हैं but वो end नहीं कर पाते क्योंकि सही तरीका पता नहीं होता। और obvious बात है कि
+
+1222
+01:35:29.400 --> 01:35:34.650
+वो चीज का knowledge नहीं है। Mobile applications का एक सबसे बड़ा,
+
+1223
+01:35:36.451 --> 01:35:37.410
+आप कह सकते हो,
+
+1224
+01:35:38.731 --> 01:35:44.460
+not easy to do thing है कि आपको development को लेकर तो चलो
+
+1225
+01:35:44.550 --> 01:35:47.191
+AI help करता है। There are so many platforms.
+
+1226
+01:35:47.250 --> 01:35:47.460
+But
+
+1227
+01:35:48.810 --> 01:35:54.000
+उसको जब आपको deploy करना होता है। Deploy in the sense या उसको Play Store, या तो
+
+1228
+01:35:54.090 --> 01:35:58.951
+Android user है तो Play Store पर जाएगा, या तो iPhone user है तो iOS पर जाएगा। अपना
+
+1229
+01:35:59.010 --> 01:35:59.701
+App Store. Right?
+
+1230
+01:36:01.380 --> 01:36:06.630
+तो App Store या Play Store के ऊपर जब भी वो publish किया जाता है, उससे पहले आपको
+
+1231
+01:36:06.750 --> 01:36:12.720
+उनका एक developer account लेना पड़ता है। उसका कुछ cost वो लोग आपसे लेते
+
+1232
+01:36:12.780 --> 01:36:12.960
+हैं।
+
+1233
+01:36:14.250 --> 01:36:20.191
+Who will? Google, otherwise Apple। ये उनके marketplace है। Google का marketplace है
+
+1234
+01:36:20.280 --> 01:36:22.830
+Android का अपना Play Store और
+
+1235
+01:36:24.720 --> 01:36:28.590
+Apple का marketplace है Apple का अपना App Store जो iPhone में हम लोग use करते हैं।
+
+1236
+01:36:29.520 --> 01:36:33.810
+वहाँ पर developer license लिए बिना आप वो चीज directly publish नहीं कर सकते। उसके
+
+1237
+01:36:33.870 --> 01:36:39.780
+बाद भी आपकी quality checking होती है। Unqualified apps। मान लो कि आपने
+
+1238
+01:36:39.810 --> 01:36:44.640
+वो चीज पर मेहनत करके, अपना दिमाग लगाकर, idea लगाकर आपने बना लिया, सब कुछ हो गया।
+
+1239
+01:36:44.670 --> 01:36:50.310
+But किसी वजह से App Store या Play Store ने आपका app reject किया ये बोलकर कि वो
+
+1240
+01:36:50.340 --> 01:36:52.380
+हमारे quality standard से match नहीं करता है।
+
+1241
+01:36:53.910 --> 01:36:57.990
+That's where आज के time पर तो एक तो ये reason है कि लोग ज़्यादा उस तरफ दिमाग नहीं
+
+1242
+01:36:58.020 --> 01:37:03.750
+लगाते, जो particular कोई business देख रहे हैं इस चीज का। दूसरे reason ये
+
+1243
+01:37:03.810 --> 01:37:04.290
+है कि
+
+1244
+01:37:05.880 --> 01:37:11.520
+अगर मान लो वो हो भी गया। पर आज की जो market है, पूरे दुनिया की ही मैं बात करूं अगर,
+
+1245
+01:37:11.941 --> 01:37:17.220
+entire world, आज की जो market है ना, सभी के पास आज के date में सबसे ज़्यादा
+
+1246
+01:37:17.280 --> 01:37:21.060
+important चीज जो हो रही है, which is a lot of data, lot of content.
+
+1247
+01:37:22.710 --> 01:37:27.481
+सबके mobile में आज for example, space की issues होती है। Are you getting my point?
+
+1248
+01:37:28.110 --> 01:37:32.490
+Practically सोचिए। देखो, on a personal level you will understand कि लोगों के
+
+1249
+01:37:32.550 --> 01:37:36.780
+actions क्या हैं, लोगों के decisions छोटे-छोटे क्या हैं। उससे पूरी industry run
+
+1250
+01:37:36.810 --> 01:37:37.350
+करती है।
+
+1251
+01:37:39.600 --> 01:37:44.160
+Personal level पर आप देखोगे, आज के date में हम अपने खुद का भी example लें, तो हम
+
+1252
+01:37:44.280 --> 01:37:50.250
+हमारे app में, हमारे mobile में unwanted apps खुद ही delete करते हैं
+
+1253
+01:37:50.310 --> 01:37:54.930
+to save our data, to save our space, कि extra space मिले
+
+1254
+01:37:54.990 --> 01:38:00.839
+हमें। Right? तो space की problem का reason तो शुरुआत हुई कि content ही
+
+1255
+01:38:00.900 --> 01:38:06.000
+इतना बढ़ रहा है market में कि उसकी वजह से वो space तो occupant होना ही है। आज से 15
+
+1256
+01:38:06.030 --> 01:38:09.540
+साल पहले अगर आ जाओगे तो इतना content नहीं था जितना आज develop हो रहा है। Are you
+
+1257
+01:38:09.600 --> 01:38:10.140
+agreeing with this?
+
+1258
+01:38:11.490 --> 01:38:17.310
+So इसी वजह से mobile में downloadable apps लोग वही download करना पसंद करते हैं जो
+
+1259
+01:38:17.430 --> 01:38:23.370
+actual में बहुत ही ज़्यादा problem-solving होने के लिए। Else they will install
+
+1260
+01:38:23.400 --> 01:38:25.050
+it, use it and delete it.
+
+1261
+01:38:27.660 --> 01:38:30.870
+So this is one of the second reason जिसकी वजह से लोग mobile app development में
+
+1262
+01:38:30.900 --> 01:38:35.160
+ज़्यादा नहीं जाते। Directly नहीं जाते या फिर मान लो जाते नहीं हैं। तो एक तो हो गया
+
+1263
+01:38:35.220 --> 01:38:37.590
+web applications, एक हो गया mobile based applications.
+
+1264
+01:38:38.490 --> 01:38:43.110
+अब web applications में भी अगर मैं जाऊं तो उस category में भी
+
+1265
+01:38:44.400 --> 01:38:47.160
+आप देखोगे तो एक हो गया full stack application.
+
+1266
+01:38:47.250 --> 01:38:49.050
+Full stack applications का मतलब क्या?
+
+1267
+01:38:49.590 --> 01:38:54.510
+कि जो application में सारी चीजें, जैसे Darshan ने पूरा समझाया कि sign in कर रहा है
+
+1268
+01:38:54.570 --> 01:38:59.400
+user, sign out कर रहा है, forget password, whatever the conditions हैं, whatever
+
+1269
+01:38:59.460 --> 01:39:03.570
+the user authentication system हो गया, पूरा उसके अंदर पूरी चीजें हैं। This is all
+
+1270
+01:39:03.990 --> 01:39:07.920
+in the full stack application जिसमें अपना खुद का payment gateway है payment collect
+
+1271
+01:39:07.951 --> 01:39:12.600
+करने के लिए। Payment आया तो verified करके उसको access देने के लिए। So this is
+
+1272
+01:39:12.660 --> 01:39:16.470
+called a full stack application जिसके लिए backend, frontend दोनों का knowledge होना
+
+1273
+01:39:16.500 --> 01:39:21.360
+की जरूरत है। It's not like that कि सिर्फ आप frontend develop कर लो, आपका app बन
+
+1274
+01:39:21.420 --> 01:39:22.500
+गया। It's not like that.
+
+1275
+01:39:23.910 --> 01:39:29.220
+एक बहुत basic चीज है जो वैसे आप लोगों को पता होगी most of you, but फिर भी ये point
+
+1276
+01:39:29.880 --> 01:39:35.070
+कई बार मैंने notice किया है कि बहुत लोगों को confuse करता है। So that I am focusing
+
+1277
+01:39:35.130 --> 01:39:35.731
+on this कि
+
+1278
+01:39:38.250 --> 01:39:43.350
+एक confusion मैंने देखा जो मैंने repeatedly बहुत लोगों में देखा है in the last
+
+1279
+01:39:43.380 --> 01:39:43.981
+three years कि
+
+1280
+01:39:45.360 --> 01:39:49.710
+जो non-tech background से हैं, उनकी बात कर रहा हूँ, कि website और app में
+
+1281
+01:39:49.740 --> 01:39:50.400
+difference क्या है?
+
+1282
+01:39:51.600 --> 01:39:57.300
+मैं आपको एक बड़ा simple difference सिखाता हूँ। एक website और एक app
+
+1283
+01:39:58.290 --> 01:40:04.170
+का difference ये हो सकता है कि अगर आपकी website है और website के ऊपर information
+
+1284
+01:40:04.231 --> 01:40:09.030
+है और information के साथ सिर्फ data collect किया जा रहा है, मतलब lead collect की जा
+
+1285
+01:40:09.090 --> 01:40:11.731
+रही है, नाम, number, email ID और कुछ questions collect किए जा रहे हैं,
+
+1286
+01:40:13.231 --> 01:40:18.780
+तो वो आपकी website है। Informative websites जिसमें lead आपका
+
+1287
+01:40:19.470 --> 01:40:20.280
+capture हो रहा है।
+
+1288
+01:40:22.201 --> 01:40:27.960
+अगर उसी website पर कुछ ऐसा section भी है जहाँ पर मैं login करके और
+
+1289
+01:40:28.020 --> 01:40:32.160
+अंदर जा सकता हूँ, sign in करके या account बनाकर sign up करके,
+
+1290
+01:40:33.451 --> 01:40:38.220
+तो वो website का front page हो गया पर backend में पूरा application हो गया। Now it's
+
+1291
+01:40:38.250 --> 01:40:38.640
+an app.
+
+1292
+01:40:40.320 --> 01:40:40.860
+Is it clear?
+
+1293
+01:40:44.748 --> 01:40:49.848
+Is it clear now? So website और app के अंदर बड़ा difference है, guys। Website is not
+
+1294
+01:40:49.908 --> 01:40:53.238
+an app until उसके पीछे वो app log-in करके।
+
+1295
+01:40:55.788 --> 01:40:56.658
+तो website
+
+1296
+01:40:58.068 --> 01:41:03.528
+में user authentication नहीं होता है। वो एक website होती है। तो ये confusion clear
+
+1297
+01:41:03.558 --> 01:41:06.978
+करना था। एक web applications के अंदर हमने एक चीज देखी कि web applications के अंदर
+
+1298
+01:41:07.038 --> 01:41:11.598
+कौन से types के apps होते हैं। Web applications के अंदर सबसे important जो आज के
+
+1299
+01:41:11.628 --> 01:41:13.818
+date में use किए जाते हैं और जो
+
+1300
+01:41:15.108 --> 01:41:20.838
+straight forward to build है until कि आपका idea validate होना चाहिए। कि आपका
+
+1301
+01:41:20.959 --> 01:41:26.628
+idea कितना problem-solving है किस target market के लिए। That is ज्यादा
+
+1302
+01:41:26.688 --> 01:41:32.268
+दिमाग लगता है। बाकी चीजें बड़ी easy कर दी गई हैं जो मैं अभी आपको एक बनाकर दिखाऊंगा।
+
+1303
+01:41:32.268 --> 01:41:34.728
+You will understand how to do this, right?
+
+1304
+01:41:36.978 --> 01:41:40.878
+तो custom GPT applications is the foundation of this.
+
+1305
+01:41:41.928 --> 01:41:46.698
+उस stage से आप देखोगे custom GPT applications हो गया। फिर आपका input-output वाला
+
+1306
+01:41:46.728 --> 01:41:50.959
+applications हो गया। फिर आपका full stack applications हो गया जो कल वाला part होगा।
+
+1307
+01:41:50.988 --> 01:41:56.898
+कल के class का part हो गया। Right? So focusing on today, we have 15-20 minutes
+
+1308
+01:41:56.959 --> 01:42:02.209
+now. So we are first building custom GPT applications।
+
+1309
+01:42:04.968 --> 01:42:06.438
+Let's say an idea of...
+
+1310
+01:42:11.448 --> 01:42:11.778
+I have
+
+1311
+01:42:13.968 --> 01:42:14.118
+a
+
+1312
+01:42:16.549 --> 01:42:17.418
+idea। Right?
+
+1313
+01:42:19.128 --> 01:42:25.098
+कई लोग हैं जो reels बनाना चाहते हैं। एक problem है जो दिमाग में आ गया मेरे भी। कई
+
+1314
+01:42:25.158 --> 01:42:26.569
+लोग हैं जो reels बनाना चाहते हैं। Right?
+
+1315
+01:42:26.898 --> 01:42:28.218
+अब reel बनाने के लिए
+
+1316
+01:42:30.288 --> 01:42:30.888
+they don't
+
+1317
+01:42:32.418 --> 01:42:35.148
+exactly know कि क्या बोलना है।
+
+1318
+01:42:37.038 --> 01:42:37.848
+This is the problem.
+
+1319
+01:42:39.168 --> 01:42:40.249
+Exact क्या बोलना है?
+
+1320
+01:42:41.688 --> 01:42:45.108
+Quality content नहीं मिल रहा है। This is the problem। Right?
+
+1321
+01:42:46.578 --> 01:42:51.708
+कि कैसे मैं एक ऐसा app बनाऊं जहाँ पर मैं अगर मेरी information दे दूं business की,
+
+1322
+01:42:52.129 --> 01:42:55.608
+तो उसके basis पर मुझे एक viral reel content मिल जाए।
+
+1323
+01:42:58.398 --> 01:43:04.008
+Script। So we can call it as an reel script generator और
+
+1324
+01:43:04.069 --> 01:43:09.618
+इसका higher level का अगर additional use case देखें Meta Ads Video Script
+
+1325
+01:43:09.858 --> 01:43:14.059
+Writer। उसकी psychology अलग होती है जो कि high level की psychology है।
+
+1326
+01:43:15.468 --> 01:43:20.958
+Meta Ads के अंदर कौन सी चीजें होती हैं जो हमें उस तरह से अगर बोले तो लोग रुकते
+
+1327
+01:43:20.988 --> 01:43:25.879
+हैं। वो marketing psychology क्या है? उसका क्या बन सकता है? So let's do it.
+
+1328
+01:43:26.448 --> 01:43:31.518
+Start with this now and secondly इसके बाद हम देखेंगे कि कैसे हम एक इसी चीज को लेकर
+
+1329
+01:43:31.549 --> 01:43:36.348
+हम देखेंगे कि social media में चीजों को लेकर लोगों का problem है कि क्या डालना है,
+
+1330
+01:43:36.408 --> 01:43:40.879
+कहाँ से बनाऊं। Confusion बहुत सारी चीजें हैं। तो पूरे सात दिन का अगर हमें एक plan
+
+1331
+01:43:40.938 --> 01:43:44.688
+मिल जाए कि पहले दिन ये डालो, दूसरे दिन ये डालो, तीसरे दिन ये डालो, चौथे दिन ये
+
+1332
+01:43:44.718 --> 01:43:48.319
+डालो, पांचवे दिन ये डालो, छठे दिन ये डालो, सातवे दिन ये डालो। So you are good to go
+
+1333
+01:43:49.428 --> 01:43:55.218
+with proper strategy, not just कि random कुछ भी। Right? Excited guys?
+
+1334
+01:43:56.809 --> 01:43:57.768
+Show me the reaction.
+
+1335
+01:44:00.738 --> 01:44:01.218
+All right。
+
+1336
+01:44:02.508 --> 01:44:04.249
+So now I am into the system of
+
+1337
+01:44:04.309 --> 01:44:10.069
+AppDaddy। You can see now。 So
+
+1338
+01:44:10.129 --> 01:44:12.858
+first we will build an AI
+
+1339
+01:44:14.059 --> 01:44:19.848
+script writer for Meta Ads। Not just reel, Meta Ads के लिए which is more
+
+1340
+01:44:19.908 --> 01:44:22.309
+strategically to create।
+
+1341
+01:44:23.718 --> 01:44:27.918
+Two thing you need for this, you just click on this Create AI Personality button।
+
+1342
+01:44:29.059 --> 01:44:33.319
+Most importantly, you need this app title, app का नाम क्या रखना है। Second app का
+
+1343
+01:44:33.348 --> 01:44:38.208
+description क्या रखना है। And now personality types की एक list है जो मैं अभी
+
+1344
+01:44:38.268 --> 01:44:42.738
+खोलूंगा। Instructions आपको क्या देने हैं and knowledge base आपको अगर कुछ देना हो so
+
+1345
+01:44:42.888 --> 01:44:47.418
+you can add by adding the knowledge base। जैसे हमने home the name में देखा, जैसे
+
+1346
+01:44:47.448 --> 01:44:53.148
+हमने कल की 11 apps पर देखा। Knowledge base के बारे में। Same here is the
+
+1347
+01:44:53.208 --> 01:44:56.268
+knowledge base। Like knowledge base में हमने अपनी PDF add कर दी और knowledge यहाँ
+
+1348
+01:44:56.299 --> 01:45:01.129
+पर collect कर दिया। तो उसके पास पूरा knowledge है उस चीज को लेकर। उस चीज के बारे
+
+1349
+01:45:01.158 --> 01:45:04.908
+में आप कुछ भी पूछोगे, उसके पास वो answers होगा और बहुत ही accurate answer होगा। Not
+
+1350
+01:45:04.968 --> 01:45:10.278
+just generalized ChatGPT। So now understand कि यहाँ पर मैं इसका नाम अगर सोचूं तो
+
+1351
+01:45:10.338 --> 01:45:11.598
+नाम इसका रख सकते हैं
+
+1352
+01:45:13.338 --> 01:45:19.129
+Pro Meta Ads Script Writer। Right?
+
+1353
+01:45:20.028 --> 01:45:23.388
+Pro Meta Ads Script Writer। एक simple नाम मेरे दिमाग में आया।
+
+1354
+01:45:24.588 --> 01:45:28.728
+App का description मैं simple language में लिख सकता हूँ कि you are a
+
+1355
+01:45:30.258 --> 01:45:31.098
+professional
+
+1356
+01:45:32.358 --> 01:45:36.228
+Meta Ads Video Script
+
+1357
+01:45:38.028 --> 01:45:42.288
+Writer for Indian market
+
+1358
+01:45:43.608 --> 01:45:44.749
+who understand
+
+1359
+01:45:47.598 --> 01:45:47.868
+the
+
+1360
+01:45:50.208 --> 01:45:52.218
+Meta marketing
+
+1361
+01:45:54.258 --> 01:45:55.518
+and human--
+
+1362
+01:45:56.778 --> 01:45:58.668
+obviously it's a human psychology। Right?
+
+1363
+01:45:58.938 --> 01:46:03.168
+कि लोग अगर रुकेंगे आपके ad देखकर, it's a human psychology।
+
+1364
+01:46:05.538 --> 01:46:10.668
+Human के साथ आप कर रहे हो ना, it's a human psychology। So it's just one line or two
+
+1365
+01:46:10.698 --> 01:46:14.569
+line you can say you are a professional Meta Ads Video Script Writer for Indian
+
+1366
+01:46:14.629 --> 01:46:20.598
+market who understand the Meta marketing and Meta marketing strategy। You
+
+1367
+01:46:20.629 --> 01:46:22.428
+can say algorithm।
+
+1368
+01:46:24.918 --> 01:46:30.618
+Even I guess keep it simple, it's more shorter है for Indian market
+
+1369
+01:46:33.258 --> 01:46:35.478
+you and you understand
+
+1370
+01:46:37.309 --> 01:46:40.398
+human psychology very well। Right?
+
+1371
+01:46:42.648 --> 01:46:47.658
+This is the first line I have added। Now personality types के अंदर आप देखोगे तो
+
+1372
+01:46:47.688 --> 01:46:51.678
+यहाँ पर कई सारे types हैं। यहाँ पर आप देख सकते हो कि we have custom personality,
+
+1373
+01:46:51.768 --> 01:46:55.428
+coach, marketing research and competitive analysis। By default भी कुछ नाम हैं। But
+
+1374
+01:46:55.488 --> 01:47:00.049
+यहाँ पर अगर आपको कुछ नहीं मिल रहा है कि यहाँ पर हमारे related कुछ नहीं है तो you
+
+1375
+01:47:00.078 --> 01:47:03.948
+will select the custom personality because उसके बारे में हमने यहाँ पर लिखा हुआ है।
+
+1376
+01:47:04.908 --> 01:47:08.598
+Next you have to add the instruction which is optional। Right?
+
+1377
+01:47:08.718 --> 01:47:14.088
+तो यहाँ पर आप डाल सकते हो। Instructions में आप ये डाल सकते हो कि before giving the
+
+1378
+01:47:15.528 --> 01:47:16.067
+script
+
+1379
+01:47:18.078 --> 01:47:18.438
+ask
+
+1380
+01:47:22.188 --> 01:47:22.608
+this
+
+1381
+01:47:24.678 --> 01:47:29.268
+important questions for personalize
+
+1382
+01:47:30.888 --> 01:47:36.379
+script to the user। Right? So क्या question हो सकते हैं?
+
+1383
+01:47:36.799 --> 01:47:37.458
+Brand name।
+
+1384
+01:47:39.078 --> 01:47:42.708
+Right? What is your brand name? Second हो सकता है आपका कि
+
+1385
+01:47:43.968 --> 01:47:45.799
+what is your name?
+
+1386
+01:47:47.238 --> 01:47:52.938
+Second हो सकता है how long या इसका हम दूसरा भी ले सकते हैं
+
+1387
+01:47:53.388 --> 01:47:56.868
+language। कौन से language में आपकी ये चाहिए।
+
+1388
+01:48:00.018 --> 01:48:04.188
+Even we can see it simple। हम इस चीज को अभी के लिए रखते हैं। बाद में इस चीज को हम
+
+1389
+01:48:04.249 --> 01:48:10.158
+देखेंगे। तीसरा हम लेते हैं target market। किसके लिए आप बना रहे
+
+1390
+01:48:10.188 --> 01:48:15.858
+हो that is clear। उसको clear करना बड़ा जरूरी है target market। Right?
+
+1391
+01:48:16.458 --> 01:48:22.098
+And what problem you are solving। That's
+
+1392
+01:48:22.158 --> 01:48:26.749
+it। ये चीजें होनी चाहिए तभी तो एक script बन पाएगी। थोड़ा knowledge हमें लेना चाहिए।
+
+1393
+01:48:26.778 --> 01:48:31.158
+तो ये उसने question पूछा। Knowledge base यहाँ पर अभी कुछ हमने नहीं रखा है। We have
+
+1394
+01:48:31.188 --> 01:48:36.918
+kept it here simple। तो नीचे तीन option हैं। Strict remain on the topic मतलब
+
+1395
+01:48:37.008 --> 01:48:42.678
+कि अगर ये toggle on है तो ये इस topic के बाहर के किसी भी conversation को
+
+1396
+01:48:42.738 --> 01:48:47.388
+entertain नहीं करेगा। It should be strict on the topic। अगर ये toggle off है तो कुछ
+
+1397
+01:48:47.448 --> 01:48:52.129
+general questions भी बीच में आ सकते हैं, उसके भी answers देगा। Second है AI start
+
+1398
+01:48:52.158 --> 01:48:57.799
+the conversation मतलब कि अगर आपका chat bot जब open किया जाता है तो पहला
+
+1399
+01:48:57.828 --> 01:49:02.028
+conversation AI start करेगा या पहला conversation human start करेगा। अगर ये off है
+
+1400
+01:49:02.088 --> 01:49:06.468
+तो human start कर रहा है, on है तो AI start कर रहा है। तीसरा हो गया publish
+
+1401
+01:49:06.528 --> 01:49:12.288
+obviously। Second आपको पहले इसको directly ये नहीं करना है तो आपको इसको off रखना है।
+
+1402
+01:49:12.348 --> 01:49:16.638
+अगर toggle on रखो के तो ये directly system में publish हो जाएगी। That's it, guys।
+
+1403
+01:49:16.668 --> 01:49:20.809
+So now I am just clicking on Create button and
+
+1404
+01:49:22.129 --> 01:49:27.918
+here you can see-- oh sorry, one second। Okay, it's being created। You can see
+
+1405
+01:49:28.008 --> 01:49:28.249
+now
+
+1406
+01:49:30.228 --> 01:49:34.578
+in just two-three minutes we have built an AI
+
+1407
+01:49:36.018 --> 01:49:41.418
+Pro Meta Ads Script Writer। Is it powerful?
+
+1408
+01:49:44.088 --> 01:49:44.898
+Show me the reaction
+
+1409
+01:49:47.310 --> 01:49:51.480
+In just two, three minutes. We have not given the huge information.
+
+1410
+01:49:52.680 --> 01:49:57.240
+Perfect. So देखो, यहां पर इसको testing कर लेते हैं पहले। इसके testing करके हम check
+
+1411
+01:49:57.300 --> 01:50:00.840
+करेंगे कि outcome भी दे रहा है कि नहीं दे रहा। Outcome देगा तो हमें समझ में आएगा।
+
+1412
+01:50:00.870 --> 01:50:04.500
+Now you can see now इसने बोला है कि, "Hey, I am a Meta Ads script writer.
+
+1413
+01:50:04.620 --> 01:50:09.060
+I help create scholarship video ad script that actually converts for the Indian
+
+1414
+01:50:09.120 --> 01:50:13.201
+market. Before we dive in, what's your brand name?" इसने पूछा। तो मैंने इसे बोला,
+
+1415
+01:50:14.070 --> 01:50:14.910
+"Hey there,
+
+1416
+01:50:16.740 --> 01:50:19.170
+my brand name is"
+
+1417
+01:50:20.610 --> 01:50:21.600
+let's say for example,
+
+1418
+01:50:23.730 --> 01:50:25.380
+Lodha Developers.
+
+1419
+01:50:31.230 --> 01:50:35.010
+So now it's asking me again. Let's wait for a moment. Okay, perfect.
+
+1420
+01:50:35.070 --> 01:50:39.720
+Now you can see guys. Now जैसे मैंने इसको बताया था, "Hey, nice Lodha Developers,
+
+1421
+01:50:39.990 --> 01:50:44.640
+great brand to work with. Before I write you killer script, I need a few quick
+
+1422
+01:50:44.701 --> 01:50:49.140
+details. What's your name?" Okay। तो मैं इसको बोलूंगा number wise बोल दूंगा मैं
+
+1423
+01:50:49.140 --> 01:50:54.781
+इसको my name is Deepak। Second-- sorry मैंने enter दबा दिया। But let's wait
+
+1424
+01:50:55.260 --> 01:50:56.820
+कि हम इस चीज को आगे लें।
+
+1425
+01:50:58.290 --> 01:51:02.670
+Okay चलो। इसने दूसरा-- देख लिया कि दूसरी चीज नहीं आई। तो इसको target market देना है
+
+1426
+01:51:02.701 --> 01:51:08.520
+मुझे। Target market are
+
+1427
+01:51:09.570 --> 01:51:11.880
+luxury या you can say--
+
+1428
+01:51:14.580 --> 01:51:18.270
+what I can say, अगर कोई premium property buy कर रहा है तो I have to think about it
+
+1429
+01:51:18.300 --> 01:51:22.531
+कि मेरा target market कौन है इस category में। Premium property
+
+1430
+01:51:23.850 --> 01:51:26.910
+buyers in Mumbai.
+
+1431
+01:51:28.441 --> 01:51:31.651
+That's it. यह हो गया। Second मुझे क्या देना है?
+
+1432
+01:51:32.610 --> 01:51:34.110
+What problem we are solving for them?
+
+1433
+01:51:34.201 --> 01:51:36.840
+Dream home, higher ROI, lesser lifestyle, prime locations.
+
+1434
+01:51:37.800 --> 01:51:39.330
+So we are offering
+
+1435
+01:51:40.951 --> 01:51:45.270
+मान लो कि we are offering premium properties
+
+1436
+01:51:48.691 --> 01:51:49.050
+for
+
+1437
+01:51:50.310 --> 01:51:50.970
+very good
+
+1438
+01:51:52.290 --> 01:51:54.480
+ROI on renting.
+
+1439
+01:51:57.510 --> 01:51:58.620
+So that is a good idea.
+
+1440
+01:52:00.270 --> 01:52:00.570
+And
+
+1441
+01:52:01.830 --> 01:52:04.890
+इस चीज को अगर मैं दे रहा हूं तो यहां पर मैं थोड़ा change कर सकता हूँ मेरी strategy,
+
+1442
+01:52:04.951 --> 01:52:07.500
+क्योंकि मेरे premium property buyers-- premium property
+
+1443
+01:52:09.961 --> 01:52:10.890
+investors
+
+1444
+01:52:12.120 --> 01:52:18.090
+for income। Now you say that. Premium property investors
+
+1445
+01:52:18.660 --> 01:52:21.630
+for income in Mumbai. We are offering premium property
+
+1446
+01:52:22.350 --> 01:52:25.890
+with very good
+
+1447
+01:52:27.990 --> 01:52:31.560
+ROI on renting the property.
+
+1448
+01:52:33.781 --> 01:52:34.560
+So we are
+
+1449
+01:52:37.201 --> 01:52:38.550
+also helping
+
+1450
+01:52:40.320 --> 01:52:40.651
+them
+
+1451
+01:52:42.870 --> 01:52:43.531
+to rent
+
+1452
+01:52:45.090 --> 01:52:46.080
+their property
+
+1453
+01:52:47.850 --> 01:52:52.170
+for first time to start. That is okay?
+
+1454
+01:52:52.740 --> 01:52:55.770
+Offer भी सही है मेरे business की और मैं problem भी सही solve कर रहा हूँ। Now let's
+
+1455
+01:52:55.800 --> 01:53:00.750
+say click on enter. Now waits for the outcome कि यह क्या intelligence use कर रहा है
+
+1456
+01:53:00.840 --> 01:53:05.730
+और कितनी इसके अंदर और improvement की जरूरत है। Because we have not given the enough
+
+1457
+01:53:05.790 --> 01:53:07.441
+data. Still, let's see.
+
+1458
+01:53:13.290 --> 01:53:13.590
+Okay,
+
+1459
+01:53:14.941 --> 01:53:20.191
+alright guys. तो इसने हमें script दी है। So let's read it out first in the
+
+1460
+01:53:20.880 --> 01:53:25.260
+first outcome, क्या इसने हमें दिया है। चलिए साथ में पढ़ते हैं। Perfect Deepak
+
+1461
+01:53:25.380 --> 01:53:30.000
+excuse me, I need a negative-- ठीक है। So let's start, script यहां से start हो रही
+
+1462
+01:53:30.031 --> 01:53:34.290
+है। Okay, script यह इसने बोला है कि script में हो गया smart Mumbai investors.
+
+1463
+01:53:34.410 --> 01:53:38.490
+Just visualize, आप visualize करोगे तो समझ में आएगा because अगर ये script की बात
+
+1464
+01:53:38.550 --> 01:53:42.120
+आपको नहीं समझ में आ रही तो you can visualize. Scene 1: hook, zero to three second.
+
+1465
+01:53:43.350 --> 01:53:47.580
+That is the first important point जो इसने समझ लिया है। Meta Ads के marketing में
+
+1466
+01:53:47.760 --> 01:53:52.320
+कोई भी ad जब बनी जाती है, तो पहले तीन second decide किए जाते हैं जिसको हम बोलते हैं
+
+1467
+01:53:52.350 --> 01:53:53.070
+hook line.
+
+1468
+01:53:54.781 --> 01:54:00.270
+जो visual hook हो सकता है, kinesthetic hook हो सकता है, auditory hook हो सकता है।
+
+1469
+01:54:00.570 --> 01:54:05.250
+जो मैं आपको यह part content creation में लिया था। Visual इसने लिखा है कि sleek
+
+1470
+01:54:05.281 --> 01:54:10.441
+Mumbai skyline shot cut to well-dressed investors checking his phone, looking
+
+1471
+01:54:10.920 --> 01:54:13.800
+mildly stressed. Imagination आ रहा है, guys?
+
+1472
+01:54:14.401 --> 01:54:19.050
+इसने scene भी बताया कि कैसे करना है आपको shoot इसको। Confidently बच्ची you are
+
+1473
+01:54:19.140 --> 01:54:21.360
+money is sitting in the bank earning 4%.
+
+1474
+01:54:21.390 --> 01:54:25.201
+Meanwhile, smart Mumbai investors are earning double that every single month.
+
+1475
+01:54:26.760 --> 01:54:31.860
+Connect हो गया real problems। कि अगर आपका पैसा bank में पड़ा हुआ है, investors का
+
+1476
+01:54:31.920 --> 01:54:35.520
+पैसा bank में पड़ा होगा mostly। तो उसको कितना return आ रहा है। अगर यही पैसा आप
+
+1477
+01:54:35.550 --> 01:54:39.270
+Mumbai में डाल रहे हो तो smart investors इतना अच्छा कमा रहे हैं। Next में इसने क्या
+
+1478
+01:54:39.300 --> 01:54:42.901
+लिखा देखो। Scene two: aggravate the problem.
+
+1479
+01:54:43.080 --> 01:54:46.500
+Obviously इस problem को बड़ा बनाओगे। Visual में split screen.
+
+1480
+01:54:46.890 --> 01:54:51.240
+One side shows a bank passbook with a low interest and other side shows a Lodha
+
+1481
+01:54:51.300 --> 01:54:53.070
+property with a rented tag.
+
+1482
+01:54:54.781 --> 01:54:59.310
+Is this powerful, guys? पहले outcome में बहुत अच्छा दिया इसने। Real estate Mumbai
+
+1483
+01:54:59.401 --> 01:55:02.130
+is just about owning a home anymore.
+
+1484
+01:55:02.220 --> 01:55:05.640
+It's about owning an asset that pays you back.
+
+1485
+01:55:05.670 --> 01:55:09.810
+But most investors don't know how to find the right property or how to rent it out
+
+1486
+01:55:09.870 --> 01:55:14.730
+fast. This is the problem. Scene three को आप complete सुनोगे तो आपको I think we
+
+1487
+01:55:14.760 --> 01:55:18.390
+will understand कि यह क्या कह रहा है and I hope this is still powerful.
+
+1488
+01:55:19.380 --> 01:55:22.651
+Scene three: introduce solution. Now we are offering solutions.
+
+1489
+01:55:22.711 --> 01:55:27.510
+पहले हो गया hook, फिर हो गया problem, problem को फिर बड़ा बनाया, फिर बता रहा हूँ
+
+1490
+01:55:27.570 --> 01:55:32.310
+solution. Visual drone shot of premium Lodha property, the interior shots focusing
+
+1491
+01:55:32.340 --> 01:55:35.730
+quality, amenities, clubhouse, pools. That's where Lodha comes in.
+
+1492
+01:55:35.790 --> 01:55:39.660
+And we don't just sell premium properties in Mumbai's best location.
+
+1493
+01:55:39.720 --> 01:55:44.070
+We help you rent them out even if you are doing it for the first time.
+
+1494
+01:55:45.360 --> 01:55:50.520
+यह एक decision वाला moment बन गया है। यह बड़ा problem solve कर रहा है बड़ी अच्छी
+
+1495
+01:55:50.580 --> 01:55:54.060
+script दी इसने। चौथे scene में क्या बताया है credibility and proof.
+
+1496
+01:55:54.151 --> 01:55:57.270
+Obviously, trust लाना भी जरूरी है how smart the app is.
+
+1497
+01:55:57.901 --> 01:56:02.220
+Visual: quick testimonials, style clips, happy investors talking to camera or
+
+1498
+01:56:02.281 --> 01:56:04.260
+non-screen text with ROI numbers.
+
+1499
+01:56:05.401 --> 01:56:10.620
+With my experience अगर मैं आपको बताऊं, with my experience over Meta Ads, running
+
+1500
+01:56:10.711 --> 01:56:13.920
+with over on spend over almost multiple crores.
+
+1501
+01:56:14.730 --> 01:56:18.179
+One of the finest script for real estate जो मुझे समझ में आ रही है यहां पर। क्योंकि
+
+1502
+01:56:18.240 --> 01:56:23.220
+real estate एक ऐसी चीज है जो buy करने से पहले लोग पहले तो hook lines से attract
+
+1503
+01:56:23.310 --> 01:56:29.010
+हैं। दूसरा, उनके problem से connected है। तीसरा, solution के साथ उनका core problem
+
+1504
+01:56:29.040 --> 01:56:30.151
+solve किया जा रहा है कि property
+
+1505
+01:56:31.680 --> 01:56:36.451
+sell भी कर रहे हो और sell के साथ आपको पहला rent भी आप offer कर रहे हो कि वो भी आपको
+
+1506
+01:56:36.480 --> 01:56:37.320
+help की जाएगी।
+
+1507
+01:56:38.580 --> 01:56:42.781
+उसके बाद जब decision रुकता है वो वहीं रुकता है कि trust कैसे करूंगा।
+
+1508
+01:56:44.220 --> 01:56:48.330
+So credibility वाला point भी इसने डाला हुआ है which is that my opinion is good.
+
+1509
+01:56:49.320 --> 01:56:52.080
+And the scene five is visual bold text overlay.
+
+1510
+01:56:52.651 --> 01:56:57.691
+Visual bold text overlay with property images, contact button animation
+
+1511
+01:56:58.441 --> 01:57:01.320
+and नीचे लिखा है ready to make your money work harder?
+
+1512
+01:57:01.651 --> 01:57:04.770
+Book a free consultation with our investment expert today and discover properties
+
+1513
+01:57:05.010 --> 01:57:09.000
+built for returns, not just for living. Is this wow, guys?
+
+1514
+01:57:09.090 --> 01:57:11.370
+Show me the reaction पहले outcome में।
+
+1515
+01:57:14.701 --> 01:57:15.330
+Right so
+
+1516
+01:57:16.620 --> 01:57:22.170
+अब इस चीज के साथ क्या-क्या हो सकता है ना वो मैं बताऊंगा। But मैं करूंगा अभी इतना
+
+1517
+01:57:22.230 --> 01:57:24.570
+नहीं क्योंकि we have to move on the second app also.
+
+1518
+01:57:25.080 --> 01:57:29.550
+But possibilities are like very simple कि इस चीज के साथ आप simply chat शुरू कर सकते
+
+1519
+01:57:29.580 --> 01:57:32.850
+हो। How it different from ChatGPT?
+
+1520
+01:57:34.260 --> 01:57:39.600
+How it is different from Claude? Because ChatGPT, Claude, Gemini,
+
+1521
+01:57:39.660 --> 01:57:45.510
+Perplexity, these are all the generalized AI applications which is not
+
+1522
+01:57:45.750 --> 01:57:50.430
+specifically trained for an high ticket, high skills.
+
+1523
+01:57:52.290 --> 01:57:53.070
+Are you getting a point?
+
+1524
+01:57:54.840 --> 01:57:59.730
+So this kind of personal GPT applications को बोलते हैं जो
+
+1525
+01:57:59.820 --> 01:58:05.550
+dedicatedly एक particular skills के लिए mastery करके उसको train किया जाता है।
+
+1526
+01:58:06.840 --> 01:58:12.451
+जो आपने अभी देखा ना कि आपने input दिया कुछ minutes में app बन गया। दिखने में जितना
+
+1527
+01:58:12.480 --> 01:58:18.360
+easy है, पर उसके behind the scenes जो structure बड़ा prompt इस
+
+1528
+01:58:18.390 --> 01:58:23.880
+system में लिखा है ना which is not easy to think, which is not easy to write.
+
+1529
+01:58:24.420 --> 01:58:27.691
+तब जाके इतना precise outcome आ रहा है। Are you getting my point?
+
+1530
+01:58:29.490 --> 01:58:33.870
+So this is the difference. Alright guys, so obviously you have the settings options
+
+1531
+01:58:33.901 --> 01:58:37.890
+here. You can change your logo of the applications, you can change the identity and
+
+1532
+01:58:37.951 --> 01:58:42.240
+all this stuff later on also जब भी आपको करना हो, जब भी करना हो। Alright, guys?
+
+1533
+01:58:43.740 --> 01:58:48.990
+Okay, so now we will see how we can build
+
+1534
+01:58:50.250 --> 01:58:54.031
+an seven days social media post. Same चीज।
+
+1535
+01:58:55.260 --> 01:58:57.451
+दो चीजें आपको लगती है। Click on new app.
+
+1536
+01:59:00.031 --> 01:59:05.580
+आपके पास एक app का नाम है, आप दोगे उसको और exactly आप बताओगे कि वह app कर रहेगा
+
+1537
+01:59:05.640 --> 01:59:11.610
+क्या? Exactly यह बताओ। For this you can use ideas
+
+1538
+01:59:11.910 --> 01:59:14.040
+from the ChatGPT and all this stuff.
+
+1539
+01:59:14.130 --> 01:59:17.790
+जैसे मैंने बताया screenshot लेकर ideas भी ले सकते हैं and you can use your own
+
+1540
+01:59:17.820 --> 01:59:22.920
+brain उसको और accurate करने के लिए। Ideas तो मिल जाएगी but accuracy as a human हमें
+
+1541
+01:59:22.951 --> 01:59:28.920
+करना होता है ताकि वह real problem solve करे। So I have built an app। मैंने
+
+1542
+01:59:28.980 --> 01:59:33.570
+इसके लिए एक छोटा prompt बनाया है जो मैंने ChatGPT से लिया है। Let me show you। मैं
+
+1543
+01:59:33.600 --> 01:59:38.040
+इसे यहाँ paste कर रहा हूँ और यहाँ मैंने लिखा है। यह ChatGPT से लिया है। यह कोई खुद
+
+1544
+01:59:38.040 --> 01:59:41.670
+की दिमाग नहीं है। Right? Build a complete AI-powered social media content
+
+1545
+01:59:41.701 --> 01:59:47.130
+generation app and that creates a seven-day social media content pack for a brand,
+
+1546
+01:59:47.701 --> 01:59:50.790
+creator, business, coach, agency and all। Core purpose क्या होगा अपना?
+
+1547
+01:59:50.850 --> 01:59:52.980
+यहाँ पर पूरा लिखा हुआ है। यह पढ़ना क्यों जरूरी है?
+
+1548
+01:59:53.040 --> 01:59:56.910
+क्योंकि यह पढ़ोगे तभी उस चीज का outcome तुम्हें समझ में आएगा। The app should
+
+1549
+01:59:56.970 --> 02:00:01.800
+generate seven completely ready-to-post social media posts, one for each day.
+
+1550
+02:00:02.640 --> 02:00:04.770
+That is okay. यही हमें चाहिए। Important क्या है?
+
+1551
+02:00:05.130 --> 02:00:10.770
+Do not create only hero images or generic AI-generated pictures.
+
+1552
+02:00:11.401 --> 02:00:16.770
+That we don't want. जो भी generalized AI में चीजें problem है। Generalized AI में
+
+1553
+02:00:16.830 --> 02:00:20.191
+आप कुछ भी बोलोगे तो generalized image देता है वह। So we don't want that.
+
+1554
+02:00:21.480 --> 02:00:27.420
+Every poster must be a proper graphic social media post where the
+
+1555
+02:00:27.480 --> 02:00:31.799
+visual designs, typography, headlines, supporting text, layouts, icons,
+
+1556
+02:00:31.890 --> 02:00:37.170
+illustrations, GIFs, charts, screenshots or other visual elements are intentionally
+
+1557
+02:00:37.230 --> 02:00:37.980
+composed together.
+
+1558
+02:00:39.570 --> 02:00:45.480
+Right? अब यह जो इतना लिखा है, यह पूरी line, यह पूरा content भी हमने ideas ChatGPT
+
+1559
+02:00:45.480 --> 02:00:51.270
+या other AI elements से लिया है। We have refined it थोड़ा हमारा दिमाग लगा के और यह
+
+1560
+02:00:51.750 --> 02:00:54.390
+input हमारा बन गया for this particular app.
+
+1561
+02:00:55.290 --> 02:00:58.531
+Obviously, इसको हम एक नाम देंगे। इसको हम नाम देंगे मान लो कि
+
+1562
+02:00:59.941 --> 02:01:00.180
+AI
+
+1563
+02:01:02.250 --> 02:01:02.820
+Social
+
+1564
+02:01:04.860 --> 02:01:05.370
+Media
+
+1565
+02:01:15.510 --> 02:01:20.070
+Pro। Right? इसको हम कुछ भी नाम दे सकते हैं। We have to relate कर सकते हैं उस चीज के
+
+1566
+02:01:20.130 --> 02:01:26.100
+लिए। Okay, after this only we just have to click on the generate app button। That's
+
+1567
+02:01:26.160 --> 02:01:26.580
+it, guys.
+
+1568
+02:01:28.020 --> 02:01:31.860
+जो भी दिमाग लगाना है, यहाँ लगाना है हमें कि exact क्या करेगा? क्या नहीं करेगा?
+
+1569
+02:01:32.490 --> 02:01:36.360
+किस-किस चीज को लेकर करेगा? And obviously these are all the generative AI
+
+1570
+02:01:36.420 --> 02:01:37.020
+applications
+
+1571
+02:01:38.310 --> 02:01:42.270
+which is not full stack application। At present हम इस पर focus कर रहे हैं। Tomorrow
+
+1572
+02:01:43.651 --> 02:01:48.691
+we will gonna see full stack applications की process और उसके बारे में भी हम कल
+
+1573
+02:01:48.750 --> 02:01:50.040
+समझेंगे। All right, guys.
+
+1574
+02:01:51.630 --> 02:01:55.951
+तो मैंने just generate app पर click किया। Now it's generating for me and let's wait
+
+1575
+02:01:55.980 --> 02:01:56.701
+for the output.
+
+1576
+02:02:00.270 --> 02:02:02.370
+It may take one or two minute max.
+
+1577
+02:02:04.560 --> 02:02:08.941
+Behind the scenes बहुत चीजें चल रही हैं। पूरा idea को समझा जा रहा है, उसको
+
+1578
+02:02:08.970 --> 02:02:13.441
+structure format में लिखा जा रहा है, उसकी master prompting निकाली जा रही है। Master
+
+1579
+02:02:13.470 --> 02:02:17.730
+prompting के साथ ही आपका code generate किया जा रहा है। Right?
+
+1580
+02:02:17.820 --> 02:02:20.670
+Coding भी इसके backend में चल रही है जो शायद ये सारी चीजें front-end में दिखती नहीं
+
+1581
+02:02:20.701 --> 02:02:21.870
+है। It's like an all stuff.
+
+1582
+02:02:27.180 --> 02:02:27.570
+All right.
+
+1583
+02:02:29.250 --> 02:02:34.470
+It's great. Okay, you can see guys, our app is created.
+
+1584
+02:02:35.850 --> 02:02:41.670
+Social Media Pro। Let's test it out for the first phase में यह कैसा
+
+1585
+02:02:41.730 --> 02:02:47.520
+बना है। इसको हम preview पर click करेंगे। You can see now। Okay, you
+
+1586
+02:02:47.610 --> 02:02:48.420
+can see।
+
+1587
+02:02:50.191 --> 02:02:52.170
+हमने क्या दिया था उसको? हमने कुछ नहीं दिया था। Right?
+
+1588
+02:02:52.260 --> 02:02:54.390
+हमने एक simple idea दिया कि आपको करना क्या है?
+
+1589
+02:02:54.480 --> 02:02:59.880
+Outcome क्या हुआ, мы किया था। Intent мы किया था। Intelligence level लेकर उसने खुद
+
+1590
+02:02:59.970 --> 02:03:04.680
+inputs ले लिए। Brand name उसको मांगना था, उसने मांगने के लिए आप input डालिए। Brand
+
+1591
+02:03:04.711 --> 02:03:09.750
+and business types में आपकी पूरी list आ गई है कि कौन से type का business है। Right?
+
+1592
+02:03:10.380 --> 02:03:15.300
+आपका offer क्या है? यह आपका यहाँ पर पूरा लिखा गया है। आपका target audience क्या है?
+
+1593
+02:03:16.020 --> 02:03:19.951
+आपका primary platform क्या है? Instagram feed है, Instagram story है, Reel है,
+
+1594
+02:03:19.980 --> 02:03:24.750
+TikTok है। किसके लिए आप बनाना चाहते हो? Right? How details. Content goal क्या है?
+
+1595
+02:03:24.810 --> 02:03:28.110
+Brand awareness है, आपका engagement करना चाहते हो, lead generate करना चाहते हो,
+
+1596
+02:03:28.170 --> 02:03:31.201
+sales, education, community building, thought leadership etc.
+
+1597
+02:03:31.890 --> 02:03:37.020
+Brand voice क्या हो सकती है आपकी? Friendly, bold, professional, playful,
+
+1598
+02:03:37.080 --> 02:03:38.281
+minimalistic, luxury etc.
+
+1599
+02:03:39.750 --> 02:03:43.441
+Visual style क्या होना चाहिए? जो image बनेगी, उसका visual style क्या होना चाहिए?
+
+1600
+02:03:43.770 --> 02:03:48.360
+Minimalistic होनी चाहिए, modern gradient होनी चाहिए, corporate clean होनी चाहिए, 3D
+
+1601
+02:03:48.420 --> 02:03:50.970
+render style होनी चाहिए या illustrated होनी चाहिए etc.
+
+1602
+02:03:52.201 --> 02:03:56.130
+Brand color आपका specific है, वह आप डाल सकते हो। Typography font feel आपको कुछ
+
+1603
+02:03:56.191 --> 02:03:57.961
+चाहिए तो आप यहाँ पर डाल सकते हो। Right?
+
+1604
+02:03:58.740 --> 02:04:03.240
+Topic or theme of this post। यह आप यहाँ पर डाल सकते हो for example कि Monday
+
+1605
+02:04:03.270 --> 02:04:05.640
+motivation quote, Wednesday tip of the protein intake। Right?
+
+1606
+02:04:05.701 --> 02:04:10.620
+For example like this. Things to avoid कि ऐसी कोई चीज है जो avoid करनी है कि जो
+
+1607
+02:04:10.680 --> 02:04:14.730
+उसमें वह ना करें। यह experience के बाद आपको समझ में आएगा। जब आप करते जाते हो तो
+
+1608
+02:04:14.790 --> 02:04:18.600
+आपको समझ में आता है कि यह चीज AI कर रहा है तो आप avoid करने लगोगे उसको। Existing
+
+1609
+02:04:18.630 --> 02:04:22.350
+brand assets for guidelines and inspiration। It is not like just कि यह input आया,
+
+1610
+02:04:22.441 --> 02:04:28.260
+इस input के basis पर ही अब चलेगा यह। You have the capacity to change the inputs and
+
+1611
+02:04:28.320 --> 02:04:33.180
+customize the app based on your requirement by customize button। Right?
+
+1612
+02:04:33.781 --> 02:04:37.830
+So this is the first thing। तो उसके पहले हम इसको test करके देखेंगे ताकि इस चीज को
+
+1613
+02:04:37.860 --> 02:04:43.500
+हमें समझ में आए कि कैसे करेगा। So इस चीज को मैं अभी सबसे पहले नाम दे दूँ। नाम
+
+1614
+02:04:43.560 --> 02:04:46.680
+मैं दे रहा हूँ Looha Developer। Right?
+
+1615
+02:04:48.870 --> 02:04:54.300
+Brand and business type क्या अपना हुआ यहाँ पे? Let's say कि real estate। Right?
+
+1616
+02:04:54.990 --> 02:04:59.130
+What do you offer? जो मैंने यहाँ लिखा था। So we offer
+
+1617
+02:05:00.360 --> 02:05:02.970
+premium properties
+
+1618
+02:05:05.130 --> 02:05:05.970
+in Mumbai
+
+1619
+02:05:08.191 --> 02:05:08.610
+for--
+
+1620
+02:05:10.140 --> 02:05:10.380
+right?
+
+1621
+02:05:15.031 --> 02:05:15.750
+With best
+
+1622
+02:05:18.090 --> 02:05:18.929
+investment
+
+1623
+02:05:20.461 --> 02:05:21.240
+opportunity
+
+1624
+02:05:24.151 --> 02:05:26.701
+for high ROI। Right?
+
+1625
+02:05:27.990 --> 02:05:32.040
+So this is the one thing। Second, target market कौन है हमारे? Right?
+
+1626
+02:05:32.281 --> 02:05:32.820
+Premium
+
+1627
+02:05:34.320 --> 02:05:38.310
+investors। These are our target market in Mumbai।
+
+1628
+02:05:40.201 --> 02:05:42.330
+Primary platform पर मुझे कौन से platform के लिए चाहिए?
+
+1629
+02:05:42.451 --> 02:05:46.110
+Let's say for example मेरे को चाहिए अभी के लिए-- इस चीज को change नहीं किया जा सकता
+
+1630
+02:05:46.350 --> 02:05:49.800
+कि मुझे dropdown देनी चाहिए, मुझे select वाला चाहिए क्योंकि मेरे पास यह भी हो सकता
+
+1631
+02:05:49.830 --> 02:05:52.531
+है कि मेरे को अलग-अलग platform के लिए चाहिए। तो अभी के लिए मैं इसको रखूंगा
+
+1632
+02:05:54.781 --> 02:05:58.410
+Instagram feed। ठीक है? Content का goal क्या होना चाहिए?
+
+1633
+02:05:58.770 --> 02:06:02.160
+Brand awareness, engagement, comments, lead generation, sales promotion, education,
+
+1634
+02:06:02.490 --> 02:06:07.590
+community building, thought leadership। अब इस चीज को अगर मैं offer दे रहा हूँ कि यह
+
+1635
+02:06:07.651 --> 02:06:13.531
+है तो मेरा होना चाहिए lead generation, brand awareness and education
+
+1636
+02:06:13.590 --> 02:06:17.941
+as well engagement। यह सारी चीजें मुझे चाहिए तो मैंने select कर ली। Brand की voice
+
+1637
+02:06:18.000 --> 02:06:21.840
+क्या होगी मेरी? Brand की voice होगी मेरी let's say कि real estate है तो
+
+1638
+02:06:21.870 --> 02:06:26.520
+professional authority भी काम आती है, luxury premium भी काम आती है। तो यह भी हम ले
+
+1639
+02:06:26.550 --> 02:06:30.031
+सकते हैं। Bold and luxury या फिर हम ले सकते हैं
+
+1640
+02:06:31.500 --> 02:06:35.310
+let's say for example luxury and premium। Right? Visual style हमारा कैसा होगा?
+
+1641
+02:06:35.370 --> 02:06:39.600
+Visual style हमारा corporate clean, modern gradient shapes, retro, photography
+
+1642
+02:06:39.660 --> 02:06:41.820
+based। Let's say for example मैं इसको देता हूँ
+
+1643
+02:06:46.651 --> 02:06:51.420
+photography based या फिर it's okay flat design या ठीक है photography based रख देते
+
+1644
+02:06:51.451 --> 02:06:54.151
+हैं इसको। Brand के colors क्या हो सकते हैं?
+
+1645
+02:06:54.180 --> 02:06:57.660
+Like आपका कुछ specific color था, डालिए। पर यह star mark नहीं है कोई यहाँ पे तो अभी
+
+1646
+02:06:57.720 --> 02:07:01.860
+optional है तो इसको आप कभी भी जोड़ सकते हो। Font type आप ले सकते हो। Font type मैं
+
+1647
+02:07:01.890 --> 02:07:07.560
+ले सकता हूँ यहाँ पे bold and bold sensory। Topic our theme of the
+
+1648
+02:07:07.620 --> 02:07:11.461
+post। Right? तो topic and theme of the post यह हो गया कि let's say कि
+
+1649
+02:07:17.941 --> 02:07:18.990
+investors
+
+1650
+02:07:20.760 --> 02:07:21.781
+opportunity।
+
+1651
+02:07:23.730 --> 02:07:26.040
+Right? This could be my topic for
+
+1652
+02:07:27.600 --> 02:07:28.770
+best ROI
+
+1653
+02:07:31.620 --> 02:07:32.670
+in real estate
+
+1654
+02:07:35.580 --> 02:07:36.870
+in Mumbai। Right?
+
+1655
+02:07:39.961 --> 02:07:43.140
+Things to avoid obviously यह सब चीजें भी optional है तो इसको नहीं fill up कर रहा
+
+1656
+02:07:43.140 --> 02:07:47.191
+हूँ। It's like an empty space तो इसको मैं as it है रख रहा हूँ। Just take कि first
+
+1657
+02:07:47.281 --> 02:07:50.401
+outcome यह क्या देता है। Let's click on generate button। That's it। मैंने कुछ
+
+1658
+02:07:50.461 --> 02:07:54.840
+information दी उसको जो मेरा brand के related थी। उसके बाद I just click on the
+
+1659
+02:07:54.990 --> 02:07:58.410
+generate button। That's it। Now wait for the output.
+
+1660
+02:08:03.240 --> 02:08:03.600
+All right
+
+1661
+02:08:08.832 --> 02:08:09.072
+Okay.
+
+1662
+02:08:10.303 --> 02:08:13.992
+It's working behind the scenes. Let's wait for the outcome because it's the first
+
+1663
+02:08:14.232 --> 02:08:14.652
+phase.
+
+1664
+02:08:16.242 --> 02:08:16.452
+Okay?
+
+1665
+02:08:32.053 --> 02:08:37.152
+Sorry. It may take some time because
+
+1666
+02:08:38.502 --> 02:08:39.132
+behind the scenes.
+
+1667
+02:08:41.322 --> 02:08:43.122
+It's not generalized app.
+
+1668
+02:09:02.113 --> 02:09:03.132
+Okay. In the meantime,
+
+1669
+02:09:05.353 --> 02:09:09.432
+observe. Just give me two minutes. Let me share my screen again.
+
+1670
+02:09:10.182 --> 02:09:12.312
+And just a second.
+
+1671
+02:09:24.312 --> 02:09:26.952
+Okay. In the meantime, let me show you
+
+1672
+02:09:33.912 --> 02:09:35.053
+one of the second app,
+
+1673
+02:09:38.382 --> 02:09:38.682
+but
+
+1674
+02:09:46.303 --> 02:09:48.792
+because it's still generating, it may take some time.
+
+1675
+02:09:48.822 --> 02:09:50.412
+So in the meantime, I will show you.
+
+1676
+02:10:04.962 --> 02:10:07.662
+So I can customize it on my basis.
+
+1677
+02:10:10.932 --> 02:10:11.832
+for example,
+
+1678
+02:10:13.692 --> 02:10:14.292
+things to avoid
+
+1679
+02:10:24.912 --> 02:10:29.353
+And additional instructions . So I will go to the customize section.
+
+1680
+02:10:29.472 --> 02:10:33.912
+I have this here also. Do not worry about the prompting, do not worry about the
+
+1681
+02:10:33.942 --> 02:10:37.572
+coding. Just click on this and customize it.
+
+1682
+02:10:39.012 --> 02:10:39.673
+remove
+
+1683
+02:10:39.792 --> 02:10:45.072
+this
+
+1684
+02:10:45.192 --> 02:10:45.912
+inputs
+
+1685
+02:10:49.332 --> 02:10:55.212
+from my app. First is this and second is generate the
+
+1686
+02:10:55.272 --> 02:10:58.122
+other things for it. That's it. Just click on Enter.
+
+1687
+02:10:59.022 --> 02:11:03.042
+When I enter the data-- And you can see, guys, it started thinking.
+
+1688
+02:11:04.002 --> 02:11:04.932
+In matter of minutes,
+
+1689
+02:11:06.222 --> 02:11:07.062
+exactly inputs
+
+1690
+02:11:08.412 --> 02:11:08.923
+from the app.
+
+1691
+02:11:18.912 --> 02:11:19.812
+So, okay, now see,
+
+1692
+02:11:22.032 --> 02:11:26.682
+just to confirm. Want me to remove both of the optional field from the input?
+
+1693
+02:11:33.162 --> 02:11:36.613
+Yes, implement this. That's it.
+
+1694
+02:11:39.432 --> 02:11:40.182
+You can see now,
+
+1695
+02:11:41.622 --> 02:11:46.962
+it started thinking, and it will ask for the permission, for the final permission
+
+1696
+02:11:47.022 --> 02:11:48.222
+before the implementation.
+
+1697
+02:11:50.053 --> 02:11:50.712
+So let's wait.
+
+1698
+02:12:06.613 --> 02:12:07.722
+So you can read it out also
+
+1699
+02:12:16.992 --> 02:12:19.722
+All right, guys, see this. Final changes
+
+1700
+02:12:22.962 --> 02:12:26.412
+accept and apply. So I just click on this button, Accept and Apply.
+
+1701
+02:12:30.673 --> 02:12:36.192
+Let's check it out on the Run button. Now let's go to the bottom.
+
+1702
+02:12:36.282 --> 02:12:37.363
+Okay, see now.
+
+1703
+02:12:38.803 --> 02:12:40.512
+Now, before it was having
+
+1704
+02:12:42.553 --> 02:12:45.343
+two options about the additional instructions,
+
+1705
+02:12:47.142 --> 02:12:50.652
+we have just additional instructions now and the rest of the information
+
+1706
+02:12:52.722 --> 02:12:56.082
+I hope this is clear. It's super easy to do now.
+
+1707
+02:12:57.553 --> 02:13:00.432
+All right, so let's check it out. Okay, see,
+
+1708
+02:13:02.652 --> 02:13:05.593
+outcome, guys. See the screen now.
+
+1709
+02:13:07.363 --> 02:13:11.923
+And tell me the difference between a generalized app and specialized app.
+
+1710
+02:13:11.952 --> 02:13:13.992
+You will see the quality of the outcome.
+
+1711
+02:13:14.053 --> 02:13:15.222
+The first image
+
+1712
+02:13:17.142 --> 02:13:19.992
+is this powerful? It's not just general image.
+
+1713
+02:13:22.332 --> 02:13:23.682
+Okay? So this
+
+1714
+02:13:25.572 --> 02:13:27.072
+let's check it out here.
+
+1715
+02:13:29.652 --> 02:13:31.752
+But
+
+1716
+02:13:40.303 --> 02:13:43.512
+so we can do it easily by customize.
+
+1717
+02:13:46.212 --> 02:13:46.722
+Okay.
+
+1718
+02:13:48.613 --> 02:13:49.332
+I want
+
+1719
+02:13:51.462 --> 02:13:52.363
+complete
+
+1720
+02:13:54.252 --> 02:13:59.593
+seven days social media post with
+
+1721
+02:13:59.682 --> 02:14:00.673
+captions
+
+1722
+02:14:01.902 --> 02:14:03.613
+and images.
+
+1723
+02:14:06.613 --> 02:14:10.303
+In single output. I hope
+
+1724
+02:14:24.613 --> 02:14:25.722
+You can see this thing
+
+1725
+02:14:27.402 --> 02:14:28.002
+You can see now
+
+1726
+02:14:29.442 --> 02:14:33.912
+that's great goal, but it runs into hard platform limitations, obviously.
+
+1727
+02:14:35.202 --> 02:14:35.621
+AI
+
+1728
+02:14:49.182 --> 02:14:49.752
+before the call,
+
+1729
+02:14:54.432 --> 02:14:54.553
+AI
+
+1730
+02:14:56.292 --> 02:14:58.782
+All over the AI, not just any platform, all over the AI.
+
+1731
+02:14:59.472 --> 02:15:00.012
+ChatGPT
+
+1732
+02:15:06.162 --> 02:15:07.093
+Any AI platform
+
+1733
+02:15:17.173 --> 02:15:21.912
+That is the reason the app is smart enough to understand AI working
+
+1734
+02:15:28.722 --> 02:15:29.682
+All right, so now
+
+1735
+02:15:31.423 --> 02:15:33.072
+let's implement this.
+
+1736
+02:15:36.343 --> 02:15:37.692
+And it implement obviously
+
+1737
+02:15:39.762 --> 02:15:40.423
+In the meantime,
+
+1738
+02:15:42.343 --> 02:15:46.392
+this is also an app for the weekly social media post.
+
+1739
+02:15:46.812 --> 02:15:49.812
+I will show you this demo as well. So let's say the--
+
+1740
+02:15:51.912 --> 02:15:56.202
+I enter here the input, Loader Developers.
+
+1741
+02:15:56.622 --> 02:15:57.042
+Let's say
+
+1742
+02:16:00.343 --> 02:16:00.853
+Let's say
+
+1743
+02:16:02.892 --> 02:16:06.972
+Indian yoga or Indian
+
+1744
+02:16:08.892 --> 02:16:10.632
+healthy meal.
+
+1745
+02:16:14.142 --> 02:16:17.292
+Healthy Meal.com.
+
+1746
+02:16:18.702 --> 02:16:20.652
+So what they do, we provide
+
+1747
+02:16:21.942 --> 02:16:26.832
+healthy meals for young Indian
+
+1748
+02:16:28.662 --> 02:16:29.322
+society
+
+1749
+02:16:31.722 --> 02:16:35.773
+to stay healthy and fit.
+
+1750
+02:16:37.632 --> 02:16:41.892
+So brand awareness target audience students.
+
+1751
+02:16:43.992 --> 02:16:44.923
+Students.
+
+1752
+02:16:46.152 --> 02:16:46.423
+Brand
+
+1753
+02:16:47.712 --> 02:16:50.682
+let's say for example, play and-- playful and fun because it's student.
+
+1754
+02:16:51.432 --> 02:16:52.782
+Visual let's
+
+1755
+02:16:52.812 --> 02:16:58.722
+say,
+
+1756
+02:16:59.262 --> 02:17:03.402
+editorial photography. Brand colors optional and we are keeping it optional.
+
+1757
+02:17:03.582 --> 02:17:04.992
+E-theme for campaign of this week.
+
+1758
+02:17:07.002 --> 02:17:09.432
+Launching six new
+
+1759
+02:17:12.582 --> 02:17:14.742
+dishes for the
+
+1760
+02:17:16.093 --> 02:17:16.843
+students
+
+1761
+02:17:18.685 --> 02:17:24.654
+With taste and health. This is the theme, for example, कुछ नया
+
+1762
+02:17:24.714 --> 02:17:28.344
+launch करें। Post की types क्या हो सकती है?
+
+1763
+02:17:28.404 --> 02:17:32.784
+आपकी let's say for example behind the scenes, engagement questions, before and
+
+1764
+02:17:32.814 --> 02:17:36.894
+after comparisons, यह आप select कर सकते हो। Call to action क्या हो सकता है?
+
+1765
+02:17:38.334 --> 02:17:44.274
+Contact for order ले सकते हैं। क्योंकि
+
+1766
+02:17:44.334 --> 02:17:48.054
+अगर मान लो कोई restaurant है, उस तरह की category है तो it's like a contact for
+
+1767
+02:17:48.084 --> 02:17:53.544
+order. Size क्या हो सकता है? Size आप ले सकते हो कि portrait आपका 1/1 है。
+
+1768
+02:17:54.564 --> 02:17:58.854
+Portrait let's say for example मैं इसको 1/1 या portrait में रखा अभी, जो Instagram
+
+1769
+02:17:58.915 --> 02:18:02.154
+की feed size है। Additional let's keep it empty and click on generate button.
+
+1770
+02:18:02.214 --> 02:18:08.094
+Let's wait for the outcome now for this particular differently build app with
+
+1771
+02:18:08.154 --> 02:18:13.554
+the same process. Now see guys, it's working,
+
+1772
+02:18:14.214 --> 02:18:14.935
+started working
+
+1773
+02:18:17.304 --> 02:18:18.354
+and generating something.
+
+1774
+02:18:22.044 --> 02:18:26.245
+In the meantime, let's go to the first app जो हमने changes बोले थे। यहाँ पर apply
+
+1775
+02:18:26.274 --> 02:18:28.194
+का button दबाना है मुझे। मैंने implement कर दिया।
+
+1776
+02:18:30.234 --> 02:18:34.104
+Done. My implementation is done. Let's go to the run button.
+
+1777
+02:18:34.165 --> 02:18:37.705
+अब यहाँ पर inputs में आपको changes नहीं दिख रहे हैं क्योंकि inputs में हमने कोई
+
+1778
+02:18:37.734 --> 02:18:41.874
+changes करने को बोला नहीं था। हमने बोला था outcome में change करने के लिए। So this
+
+1779
+02:18:41.904 --> 02:18:47.694
+is the way. And see, on the first app, it started generating the entire content in
+
+1780
+02:18:47.724 --> 02:18:53.334
+front of you with a very structured format with a day-wise headlines, supporting
+
+1781
+02:18:53.394 --> 02:18:55.913
+text, visual layout, captions.
+
+1782
+02:18:57.114 --> 02:19:02.935
+Also with images, it's generating. It's in process. See on the screen.
+
+1783
+02:19:05.214 --> 02:19:08.064
+और यह पूरी process अगर बताओ हमने कितने time में करी?
+
+1784
+02:19:09.654 --> 02:19:10.825
+Hardly 15 minutes.
+
+1785
+02:19:12.594 --> 02:19:12.894
+Hello.
+
+1786
+02:19:14.755 --> 02:19:16.284
+It's a 15-20 minutes work.
+
+1787
+02:19:17.515 --> 02:19:21.714
+Breakdown करके अच्छे से करेंगे तो और better हम इसका outcome निकाल सकते हैं।
+
+1788
+02:19:25.705 --> 02:19:26.034
+Okay.
+
+1789
+02:19:27.624 --> 02:19:29.364
+So day six तक यह पहुंच चुका है, guys.
+
+1790
+02:19:35.394 --> 02:19:36.714
+Day seven तक आ चुका है।
+
+1791
+02:19:40.644 --> 02:19:41.304
+Its weekly
+
+1792
+02:19:42.714 --> 02:19:47.185
+social media posts obviously day seven तक ही रहेगा। That's it. Done.
+
+1793
+02:19:47.755 --> 02:19:51.955
+So पूरी content यहाँ पर आ गई है। अब थोड़ा सा ध्यान से पढ़ोगे ना, you will feel the
+
+1794
+02:19:52.015 --> 02:19:56.154
+difference. Day one - launch announcement.
+
+1795
+02:19:56.935 --> 02:20:02.304
+Day two - behind the scenes. Day three - before and after comparison.
+
+1796
+02:20:03.294 --> 02:20:06.504
+उसके अंदर भी चीजें हैं, I am gonna reading it out but आपको समझ में आएगा outlines
+
+1797
+02:20:06.534 --> 02:20:08.455
+से। Day four - engagement questions.
+
+1798
+02:20:09.474 --> 02:20:10.134
+Day five
+
+1799
+02:20:11.604 --> 02:20:15.955
+- आपका campaign features या whatever आपका start होगा, उसके according.
+
+1800
+02:20:16.494 --> 02:20:19.374
+Day six - behind the scenes and lifestyle.
+
+1801
+02:20:20.455 --> 02:20:21.174
+And day seven -
+
+1802
+02:20:22.404 --> 02:20:24.024
+code graphic brand statement.
+
+1803
+02:20:25.254 --> 02:20:30.294
+So it's a seven-day strategically build entire content की headline यह रहेगी,
+
+1804
+02:20:30.354 --> 02:20:34.823
+supporting headline यह रहेगी। आपका visual layout, directions क्या होगा, वो यहाँ पर
+
+1805
+02:20:34.854 --> 02:20:38.604
+लिखा हुआ है। और इसके नीचे यह images भी generate कर रहा है। Let's wait for the
+
+1806
+02:20:38.664 --> 02:20:42.114
+outcome कि यह क्या-क्या दे रहा है हमें। यह अभी भी generate किया जा रहा है।
+
+1807
+02:20:42.144 --> 02:20:44.394
+Additional outputs भी इसने नीचे दिए हैं। Let's
+
+1808
+02:20:45.864 --> 02:20:50.304
+check this out, guys. Additional outputs में इसने day one से लेकर day seven तक सारी
+
+1809
+02:20:50.364 --> 02:20:55.404
+चीजें हमें दी हैं। Okay. अभी images की हमारे पास आ चुकी है for our seven days
+
+1810
+02:20:55.435 --> 02:20:58.584
+social media posts along with the content captions and all. See this guys.
+
+1811
+02:21:00.594 --> 02:21:01.524
+पहली image.
+
+1812
+02:21:02.994 --> 02:21:04.194
+Is this powerful?
+
+1813
+02:21:05.754 --> 02:21:10.224
+Second वाली भी देखते हैं। This is the second image for the day two.
+
+1814
+02:21:10.494 --> 02:21:13.794
+Obviously, it's day two. Right?
+
+1815
+02:21:15.414 --> 02:21:18.024
+This is the third image before and after.
+
+1816
+02:21:19.705 --> 02:21:20.694
+Is this powerful?
+
+1817
+02:21:21.924 --> 02:21:25.824
+See the Pepsi can, it's super real. See the Lays wafer.
+
+1818
+02:21:29.034 --> 02:21:34.614
+This is the day four में engagement questions. What's your go-to comfort food?
+
+1819
+02:21:36.024 --> 02:21:40.914
+Students can relate easily ये क्या बोल रहे हैं। Savory or sweet.
+
+1820
+02:21:42.744 --> 02:21:47.304
+Day five में क्या है? देखिये यहाँ, six new dishes to love.
+
+1821
+02:21:48.924 --> 02:21:50.034
+So this is the thing.
+
+1822
+02:21:51.474 --> 02:21:56.064
+Day six and in day six, we have the behind the scenes and lifestyles.
+
+1823
+02:21:56.154 --> 02:21:58.944
+Eat well, study well, healthy meals for a busy college days.
+
+1824
+02:22:00.294 --> 02:22:03.864
+Meals starting at just ₹18 a meal. Obviously, यह सारी चीजें easily change हो जाती
+
+1825
+02:22:03.894 --> 02:22:08.124
+है। आपने content creation वाला academy तो देखा ही होगा, first academy.
+
+1826
+02:22:08.574 --> 02:22:13.074
+उसमें मैंने यह process बताया है कि edit कैसे करना है। किसी भी element से चीज edit
+
+1827
+02:22:13.104 --> 02:22:17.574
+हो जाएगी। Foundation अच्छा होना चाहिए आपका। You can see the quality of the images
+
+1828
+02:22:17.634 --> 02:22:21.265
+you can never find on generalized AI application because it's personalized thing.
+
+1829
+02:22:21.894 --> 02:22:27.624
+And day seven, this is our final day जहाँ पर हम Saturday and Sunday डाल रहे
+
+1830
+02:22:27.624 --> 02:22:32.874
+हैं। Imagine a scenario कि यह सातों sequence जो आपके social media जा रहे हैं
+
+1831
+02:22:33.564 --> 02:22:37.884
+is-- tell me in the reaction in a honest way, is this powerful, not just
+
+1832
+02:22:37.944 --> 02:22:38.844
+generalized outcome?
+
+1833
+02:22:41.994 --> 02:22:42.474
+Everyone.
+
+1834
+02:22:46.015 --> 02:22:46.224
+So
+
+1835
+02:22:49.765 --> 02:22:54.084
+15, 20 minutes में क्या-क्या हो सकता है that is the one possibilities that you can
+
+1836
+02:22:54.144 --> 02:23:00.054
+think in AI. All right, guys. So now I hope that there are
+
+1837
+02:23:00.114 --> 02:23:02.544
+so many things to do, but obviously it's time up.
+
+1838
+02:23:03.834 --> 02:23:09.414
+So now I hope that concept आपका clear करना बड़ा
+
+1839
+02:23:09.714 --> 02:23:14.994
+important होता है जब भी कुछ चीज आपको structure format में बनाते हो और जब आप उसको
+
+1840
+02:23:15.144 --> 02:23:20.544
+long term vision के साथ बनाते हो तो वो एक important हमेशा रहता है चीज। दूसरा
+
+1841
+02:23:21.654 --> 02:23:24.744
+application development एक ऐसी चीज है जो
+
+1842
+02:23:27.174 --> 02:23:30.174
+fact check में करने बोलूंगा आप लोगों को। Fact check यह है
+
+1843
+02:23:32.394 --> 02:23:34.524
+as if I talk about myself,
+
+1844
+02:23:36.054 --> 02:23:39.714
+मैं आपको एक eye-opener moment देना चाहूंगा आज। Eye-opener moment क्या है?
+
+1845
+02:23:40.524 --> 02:23:42.414
+Eye-opener moment यह है
+
+1846
+02:23:44.214 --> 02:23:47.784
+कि I am not focusing on कि कोई चीज अगर आप
+
+1847
+02:23:48.984 --> 02:23:49.734
+build कर रहे हो
+
+1848
+02:23:51.534 --> 02:23:53.994
+और उसका behind the scene mind में
+
+1849
+02:23:55.614 --> 02:24:01.314
+जो आप thought रख रहे हो just to achieve your own dopamine.
+
+1850
+02:24:03.054 --> 02:24:07.254
+बड़ी deep line है, guys सुनिएगा। यह चीजें हो रही है सबके साथ तो उस trap में आपको
+
+1851
+02:24:07.284 --> 02:24:08.004
+नहीं फंसना है।
+
+1852
+02:24:11.364 --> 02:24:16.254
+चीजें करने की बहुत सी चीजें हैं but skills जो आप सीखते हो रही है हमें।
+
+1853
+02:24:17.935 --> 02:24:20.064
+Ask yourself a question first
+
+1854
+02:24:21.864 --> 02:24:22.074
+कि
+
+1855
+02:24:23.754 --> 02:24:26.844
+am I just building a dopamine in my brain?
+
+1856
+02:24:27.354 --> 02:24:33.205
+यह मेरे दिमाग में है or I am clear with my outcome in terms of
+
+1857
+02:24:33.265 --> 02:24:38.304
+business, in terms of monetization, in terms of solving the problem in real world.
+
+1858
+02:24:40.314 --> 02:24:41.634
+These are two different thing.
+
+1859
+02:24:44.814 --> 02:24:49.194
+जो सच में business कर रहे हैं AI का, मैं आपको इसकी सच्चाई बताना चाहूंगा, वो
+
+1860
+02:24:49.284 --> 02:24:53.964
+Instagram के reels में time waste नहीं करते। They know कि उसकी reality क्या
+
+1861
+02:24:53.994 --> 02:24:58.284
+है। जो सच में business कर रहे हैं they know that
+
+1862
+02:24:59.424 --> 02:25:03.984
+strategically किस तरह से चीजों को build किया जाता है, जिसमें हमने कई topics इस पूरे
+
+1863
+02:25:04.044 --> 02:25:08.455
+academy में cover करे हैं। हमारे पूरे program में कई बार हमने इन चीजों के ऊपर focus
+
+1864
+02:25:08.484 --> 02:25:09.414
+करवाया होगा आपसे।
+
+1865
+02:25:11.424 --> 02:25:15.384
+Are you agree with us? Hello, everyone. Be honest to us.
+
+1866
+02:25:18.294 --> 02:25:23.214
+So do not fall into the trap just to build a dopamine in your brain.
+
+1867
+02:25:23.455 --> 02:25:28.824
+That will not generate income for you. Obviously, that will make you happy.
+
+1868
+02:25:29.304 --> 02:25:33.294
+But happy से वो income आज आपको कोई guarantee नहीं है until and unless you are
+
+1869
+02:25:33.354 --> 02:25:34.614
+solving a real problem.
+
+1870
+02:25:35.964 --> 02:25:41.874
+So your focus should be on solving the problem for others to have a dopamine, not
+
+1871
+02:25:41.964 --> 02:25:42.265
+you.
+
+1872
+02:25:44.274 --> 02:25:49.104
+If you are able to build a dopamine into others brain, then you can make a
+
+1873
+02:25:49.134 --> 02:25:49.554
+business.
+
+1874
+02:25:52.194 --> 02:25:56.935
+It's very important line for you guys for this entire journey of AI till now.
+
+1875
+02:25:57.324 --> 02:25:58.854
+It's not finished yet. It's till now.
+
+1876
+02:25:59.515 --> 02:26:01.705
+So I hope that you got the value of today's class.
+
+1877
+02:26:01.794 --> 02:26:06.714
+You have understood the concepts, understanding and reality of the market as well
+
+1878
+02:26:07.374 --> 02:26:11.814
+जो है present in experience with us.
+
+1879
+02:26:12.474 --> 02:26:14.154
+So thank you so much guys for joining us.
+
+1880
+02:26:14.185 --> 02:26:20.064
+But before that, let me tell you, tomorrow class is very important because
+
+1881
+02:26:20.124 --> 02:26:24.144
+tomorrow हम full stack applications के बारे में भी समझेंगे। गौतम sir will be live
+
+1882
+02:26:24.205 --> 02:26:25.884
+with us and
+
+1883
+02:26:27.594 --> 02:26:30.955
+obviously there will be some important things to go ahead.
+
+1884
+02:26:31.224 --> 02:26:36.474
+So thank you so much for joining today's class and इस class के according कल
+
+1885
+02:26:37.284 --> 02:26:41.964
+afternoon 12 बजे से पहले LMS पर upload की जाएगी। एक चीज मैं जाते-जाते यह बोलना
+
+1886
+02:26:41.994 --> 02:26:45.054
+चाहूंगा जो most of the questions हमारे पास repeatedly आ रहे हैं, जो common
+
+1887
+02:26:45.084 --> 02:26:50.455
+questions हैं। LMS पर जब भी आप recording देख रहे हो तो कई students में देख रहा हूँ
+
+1888
+02:26:50.544 --> 02:26:56.124
+कि lesson one complete नहीं कर रहे या उसका एक reason हो सकता है कि उन्होंने live
+
+1889
+02:26:56.185 --> 02:27:01.494
+attend किया हो सकता है। तो आपको lesson two open नहीं दिखता है। चले जा रहा है यह
+
+1890
+02:27:04.134 --> 02:27:09.564
+LMS पर। Lesson one आपका दिख रहा है but lesson two open नहीं दिखता है।
+
+1891
+02:27:11.034 --> 02:27:15.084
+Meta ads को लेकर लोगों के questions बहुत से थे। इसका reason बड़ा simple है। आपको
+
+1892
+02:27:15.504 --> 02:27:21.324
+LMS में lesson one में जाना है। उस video के नीचे mark complete का आपको एक button
+
+1893
+02:27:21.354 --> 02:27:26.814
+मिलता है। उस button को आपको click करना है। अगर आपने वो video पूरा देखा है, वो class
+
+1894
+02:27:26.844 --> 02:27:28.194
+पूरी attend करी है तो।
+
+1895
+02:27:30.054 --> 02:27:34.674
+Until and unless आप पूरी class attend करें recording और फिर mark complete का button
+
+1896
+02:27:34.734 --> 02:27:38.394
+दबाएं and automatically आपका lesson two open हो जाएगा।
+
+1897
+02:27:40.015 --> 02:27:40.614
+Is it clear now?
+
+1898
+02:27:43.794 --> 02:27:48.444
+Show me। अगर आप जो भी लोग इस चीज से जूझ रहे थे, आप लोग respond करें ताकि मैं समझ
+
+1899
+02:27:48.474 --> 02:27:52.914
+पाऊं कि आपको clear हुआ है। अगर नहीं हुआ है तो आप मुझे thumbs down भी कर सकते हो, I
+
+1900
+02:27:52.944 --> 02:27:53.604
+can understand.
+
+1901
+02:27:57.624 --> 02:28:01.164
+Okay. So I hope that's clear. So thank you so much, guys.
+
+1902
+02:28:01.914 --> 02:28:07.194
+See you tomorrow at 8:00 p.m. Be on the sharp time and thank you so much.
+
+1903
+02:28:07.254 --> 02:28:08.814
+Bye.

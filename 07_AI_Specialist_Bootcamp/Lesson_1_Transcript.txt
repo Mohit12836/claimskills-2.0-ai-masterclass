@@ -1,0 +1,3768 @@
+# AI Specialist Capstone Bootcamp
+Course: 07_AI_Specialist_Bootcamp
+Vimeo ID: 1230654060
+Track: English (auto-generated)
+Total Words: 25228
+================================================================================
+
+[00:01] Recording in progress.
+
+[00:13] Hello.
+
+[02:43] Good morning.
+
+[02:46] क्या हाल-चाल?
+
+[02:50] Happy Saturday.
+
+[02:59] अगर मेरी lighting ठीक नहीं है तो इस वजह से है क्योंकि I don't have a lot of
+
+[03:05] lights on अभी because यहाँ पर रात के 8:00 बज रहे हैं।
+
+[03:10] So video अगर मेरी थोड़ी blur है bear with that.
+
+[03:15] और आवाज आ रही है मेरी ठीक?
+
+[03:20] Okay.
+
+[03:23] Good.
+
+[03:26] First of all, congratulations. आप सबने
+
+[03:32] तीन हफ्ते की journey complete कर ली।
+
+[03:36] अगर आप याद करो starting में
+
+[03:40] 1000 के करीब लोग थे। आज 300 के करीब लोग हैं which is still more than I was
+
+[03:45] expecting, to be honest. Generally होता क्या है around 10%, 20% लोग रह जाते हैं
+
+[03:51] towards the end because उतने ही लोग होते हैं जो actually persistence के through काम
+
+[03:56] करवाते हैं अपना। हमने बात करी थी starting में orientation में full circle.
+
+[04:01] Successful होने के लिए एक जो basic foundational चीज है, वह है persistence.
+
+[04:07] और अगर हम तीन हफ्ते तक course ही नहीं पूरा कर सकते business तो बड़ी दूर की बात
+
+[04:13] है। business में बहुत सारी चीजें होती हैं।
+
+[04:17] कभी यह वाला platform नहीं चल रहा, कभी team member छुट्टी पर चला गया।
+
+[04:23] 100 चीजें होती हैं। कभी family में कोई बीमार हो गया, अपनी तबीयत खराब हो गई। तीन
+
+[04:27] हफ्ते अगर हम course नहीं पूरा कर सकते तो business तो बड़ी दूर की बात है। But I am
+
+[04:32] very glad कि 33% लोग हैं इस call पर अभी भी which is
+
+[04:38] more than my expectation. So congratulations to all of you guys.
+
+[04:42] I hope कल का session बहुत amazing रहा होगा। हमें तो results मिल गए हैं। So we know
+
+[04:48] that yesterday's session was awesome.
+
+[04:51] आज का जो session है और आज का जो पूरा दिन है basically वह
+
+[04:58] इन चीजों के ऊपर है जिन चीजों को हमने course में cover नहीं किया। वह
+
+[05:04] इसलिए cover नहीं कर पाए क्योंकि ये topics individual topics हैं और इनके ऊपर एक-एक
+
+[05:10] हफ्ता या तीन-तीन दिन मतलब छह-छह घंटे, सात-सात घंटे लगाने की जरूरत नहीं थी। तो हमने
+
+[05:15] इन सभी topics को club करके आज का पूरा का पूरा दिन रखा है। और यह
+
+[05:20] topics इतने important हैं
+
+[05:24] business set up करने के लिए और business manage और grow करने के लिए जितना बाकी
+
+[05:29] course important था। इसी वजह से लिखा था कि
+
+[05:32] certification के लिए specifically bootcamp is
+
+[05:38] non-negotiable. तो आज हम cover क्या करने वाले हैं?
+
+[05:43] मैं screen share करता हूँ
+
+[05:46] because I want to cover a lot of things today।
+
+[05:51] So
+
+[05:53] हम बात करने वाले हैं find your niche.
+
+[05:55] Niche का मतलब आपको किस चीज पर focus करना चाहिए, किस category पर focus करना
+
+[06:01] चाहिए
+
+[06:04] जब आप अपना business set up कर रहे हो। तो
+
+[06:08] आपको training नहीं है तो सिखा दिया कि चीजें करते कैसे हैं। AI क्या है?
+
+[06:13] AI को use कैसे कर सकते हो? Funnels कैसे बनानी है? Websites, ads.
+
+[06:18] आज हम सिर्फ यह focus करेंगे कि यह सारी चीजें जो आपने सीखी हैं, यह करनी किसके
+
+[06:24] लिए है।
+
+[06:27] skill जो आप सीख रहे हो बिना customer के
+
+[06:31] वैसी दुकान है जो बड़ी अच्छी सी लग तो रही होगी लेकिन उस दुकान में कोई जा नहीं रहा
+
+[06:34] होगा। तो आपने skill तो सीख ली। अब उस दुकान में customers कैसे लेकर आने हैं और कौन
+
+[06:40] से लेकर आने हैं और दुकान किस चीज की खोलनी है आज उसके बारे में बात करेंगे। So by the
+
+[06:46] end of this hour, every one of you, I can promise you this, every one of you
+
+[06:52] एक line लिख पाओगे कि आप किस तरीके के person की help करना चाहते हो।
+
+[06:58] अगर यह नहीं detail में लिख पा रहे हो then at least इतनी clarity आ जाएगी कि सोचना
+
+[07:02] कैसे है कि यह line complete कर पाओ।
+
+[07:05] और यह एक line ऐसी है जो अगले पांच साल change कर देगी आपके कम से कम।
+
+[07:10] चलो let's begin. हम already 8 minute in हैं। We have about 400 people.
+
+[07:16] The number is growing which is awesome.
+
+[07:18] I was not expecting this number but which is great.
+
+[07:20] चलो
+
+[07:22] let's move forward. So
+
+[07:26] course तीन हफ्ते का complete हो गया। अब करना क्या है?
+
+[07:32] Honestly बताना मुझे।
+
+[07:34] मैं screen share बंद कर रहा हूँ because I want to see the reactions.
+
+[07:38] Honestly मुझे बताना कि आप लोगों में से कितने लोगों ने यह question या तो अपनी family
+
+[07:43] से सुना है या अपने दिमाग में खुद से सुना है कि अच्छा यह course तो कर लिया, अब करना
+
+[07:48] क्या है? How many of you? Raise hand.
+
+[07:54] क्योंकि हम आपके public school नहीं हैं। हम आपके senior secondary school वाले तो
+
+[08:00] हैं नहीं, हम आपके college वाले तो हैं नहीं कि आपको पढ़ाने तक की responsibility थी।
+
+[08:06] आगे क्या करना है वह आप खुद जानो। We are not that. Right?
+
+[08:09] तो आगे करना क्या है उसकी भी clarity देनी हमारी responsibility बनती है। So अगर यह
+
+[08:15] question या तो घरवालों ने पूछा है
+
+[08:17] कि क्या कर रहे हो पिछले तीन हफ्तों से Wednesday, Thursday, Friday या अपने दिमाग में
+
+[08:22] यह question आ रहा है
+
+[08:24] then this is next one hour that is going to give you clarity कि करना क्या
+
+[08:30] है। आप करोगे क्या? और इस सवाल का जवाब या जो आपसे पूछ रहा था
+
+[08:36] या अपने अंदर ही आ रहा था, आप proudly answer दे पाओगे, sharply answer दे पाओगे कि
+
+[08:41] मुझे यह करना है। और आप यह नहीं बोलोगे कि मैं digital marketing करना
+
+[08:47] चाहता हूँ या नहीं करना चाहती हूँ या मैंने यह सीखा है। आप बहुत sharply, बहुत precise
+
+[08:52] answer दे पाओ। चलो। So मैं दोबारा screen share कर रहा हूँ और
+
+[08:58] मैं एक example लेकर explain करूँगा आपको। मैं कोशिश करूँगा जितनी चीजें आपसे बात करूँ
+
+[09:03] उन सभी का example देकर बात करूँ।
+
+[09:07] Let's assume कि जिसके बारे में हम बात कर रहे हैं वह स्नेहा है। उसका नाम स्नेहा है।
+
+[09:13] इंदौर में रहती है। लड़की middle class family से belong करती है। Dad उसके एक छोटी
+
+[09:18] medical store चलाते हैं और Mom उसकी school teacher हैं। ठीक है। तो स्नेहा इंदौर से
+
+[09:23] middle class family की लड़की। Father उसके medical store का काम और Mother उनकी
+
+[09:28] school teacher है। स्नेहा ने एक training खत्म करी, जैसे आपने training खत्म करी और
+
+[09:33] वो बहुत खुश थी कि भाई मैंने training खत्म कर ली, अपना नया Instagram page बना लिया,
+
+[09:37] अपना नई-नई bio अपनी setup कर ली और उस पर उसने लिख दिया digital marketer। I do
+
+[09:43] everything for everyone. मैं सबके लिए
+
+[09:47] digital marketing से related सारे काम कर सकती हूं। मुझे आप message करो काम के लिए।
+
+[09:53] उसको लगा कि जब ज्यादा लोग इन चीजों को देखेंगे, क्योंकि वह सबकी help कर रही है
+
+[10:00] और हर चीज में help कर रही है, तो उसको लगा कि मैं ज्यादा से ज्यादा लोगों की help
+
+[10:03] करूं और ज्यादा से ज्यादा चीजों में help करूं, तो ज्यादा लोग मेरे पास आएंगे। sense
+
+[10:08] बनती है इस बात की? यह समझ आती है बात की कि ज्यादा से ज्यादा लोगों की help करो
+
+[10:14] और ज्यादा से ज्यादा चीजों में help करो ताकि ज्यादा लोग आएं।
+
+[10:20] Right?
+
+[10:21] Makes sense, right?
+
+[10:23] तो उसने क्या किया? उसने
+
+[10:27] 200 businesses को messages किए। उसने
+
+[10:31] अपने घर के पास जो bakery थी, उसको message किया। जो gyms थे उसके घर के पास, तीन-चार
+
+[10:35] gym थे, उनको message किया। जो salons थे, उनको message किया। CA firm को message
+
+[10:39] किया, boutiques को message किया, सबको message किया।
+
+[10:44] वापस क्या आया? सबने question पूछा, "Okay, services तो हम आपकी ले लेंगे, लेकिन यह
+
+[10:49] बताओ कितने पैसे लगेंगे? या details भेजो या we will think about it।
+
+[10:56] Mostly लोगों ने messages check करके seen करके reply नहीं दिया। जिन्होंने reply
+
+[11:01] किया, उन्होंने सिर्फ यह पूछा, "कितने पैसे लगेंगे?
+
+[11:03] Details और भेजो। क्या program है आपका और क्या आप बेच रहे हो?
+
+[11:07] और सोच के बताते हैं। एक महीना निकला, दो महीने निकले, तीन महीने निकले। कोई भी
+
+[11:13] client नहीं आया।
+
+[11:16] एक रात को उसके dad घर पर आते हैं और पूछते हैं बहुत प्यार से कि "बेटा laptop पर दिन
+
+[11:21] भर क्या करती रहती हो?"
+
+[11:24] तो वह angry नहीं थे। गुस्सा नहीं थे उसके dad.
+
+[11:28] The worst part was कि वह परेशान थे, worried थे स्नेहा के लिए।
+
+[11:34] और उस रात स्नेहा रो दी और उसने यह सोचा कि शायद इस पूरी दुनिया में
+
+[11:39] मेरे लिए या तो कोई client नहीं है, मैं good enough नहीं हूं
+
+[11:46] या यह पूरा का पूरा course जो मैंने किया, सब कुछ जो मैंने किया, वह बेकार था।
+
+[11:52] लेकिन सच यह था कि स्नेहा के पास skill तो थी, लेकिन उसकी problem skill नहीं थी।
+
+[11:57] क्योंकि skill तो थी, उसने program पूरा complete किया। उसकी problem थी वह word जो
+
+[12:03] उसने अपनी bio में लिखा था, "Everyone"。
+
+[12:07] जब आप सब से बात करते हो ना, तब आप किसी से बात नहीं करते।
+
+[12:14] जब आप सब से बात कर रहे होते हो,
+
+[12:17] तब आप किसी से बात नहीं कर रहे होते।
+
+[12:22] स्नेहा की कहानी हम आगे दोबारा continue करेंगे। मैं आपको एक next slide पर लेकर जाके
+
+[12:27] let me show you एक example देता हूं मैं दो doctors का।
+
+[12:32] एक है आपका doctor जो आपकी colony में है। अच्छा इंसान, good doctor.
+
+[12:37] आप उसको बचपन से जानते हो शायद। सर्दी-जुकाम ठीक कर देते हैं, वो BP का check कर लेते
+
+[12:43] हैं, पेट खराब होता है, उसकी दवाई दे देते हैं।
+
+[12:46] घुटने पर चोट लगी, उसकी दवाई मिल जाती है। लेकिन वो charge क्या करते हैं?
+
+[12:50] कितने पैसे लेते हैं वो? जितने colony वाले पैसे दे दे, उतने ₹50, ₹100, ₹200, ₹300.
+
+[12:59] और
+
+[13:01] अब आप सोचो उस heart specialist के बारे में
+
+[13:05] कि जब किसी की family में heart की problem आती है, तो हम क्या करते हैं?
+
+[13:11] हम हर उस relative को phone करके पूछते हैं या Google करते हैं, ChatGPT करते हैं,
+
+[13:16] पूछते हैं कि best heart doctor कौन सा है। हमें चाहे train लेनी पड़े, हमें flight
+
+[13:22] लेनी पड़े, हमें कुछ भी करना पड़े, हमें हफ्तों wait करने पड़ें date के लिए,
+
+[13:28] हम उसी doctor के पास जाते हैं, जिसकी recommendations हमारे पास आई होती है और हम
+
+[13:33] simple एक चीज search करते हैं कि best heart specialist कौन सा है।
+
+[13:39] हम उस doctor के पास नहीं जाते जो जुकाम भी ठीक कर रहा है, बुखार भी ठीक कर रहा
+
+[13:45] है, BP भी ठीक कर रहा है, पेट भी ठीक कर रहा है और घुटने पर लगी चोट भी ठीक कर रहा है।
+
+[13:49] हम उसके पास नहीं जाते।
+
+[13:52] उसका simple सा reason यह है।
+
+[13:55] जब आप एक चीज पर focus करते हो,
+
+[13:59] तब आपका जो expertise level होता है, वो इतना strong हो जाता है
+
+[14:04] कि आप उसके लिए कुछ भी charge कर सकते हो और लोग दूर-दूर से आएंगे आपके पास।
+
+[14:11] एक चीज याद रखना कि एक specific चीज choose करना scary तो लगता है,
+
+[14:17] लेकिन जब आप एक चीज choose कर लेते हो ना,
+
+[14:21] आपको लग रहा होता है कि मैं बाकी सारी चीजों को ना बोल रहा हूं। मैं बाकी सारी चीजों
+
+[14:26] से भी पैसे जो मैं कमा सकता हूं, वो नहीं कमा रहा। मैं उन सब चीजों को ना बोल रहा हूं।
+
+[14:29] लेकिन यह example मेरा ध्यान में रखना।
+
+[14:33] Saying no to everything else is exactly what makes the specialist
+
+[14:39] phone ring. एक यह याद रखना। जो specialist होता है ना, उसकी wait जो करनी पड़ती
+
+[14:45] है, वो इसी वजह से करनी पड़ती है क्योंकि उसने बाकी हर चीज के लिए ना बोल दी थी।
+
+[14:54] Let me come back to it. मैं foundation set करने की कोशिश कर रहा हूं। मेरी बात समझ आ
+
+[14:59] रही है अब तक
+
+[15:01] कि मैं क्या बोल रहा हूं?
+
+[15:05] Right? Because I don't want you to get confused.
+
+[15:09] मैं कोशिश कर रहा हूं। I am sharing stories and sharing examples ताकि आप समझ पाओ।
+
+[15:13] ठीक है। Alright.
+
+[15:16] चलो, let's moving on to the niche factor.
+
+[15:21] तो
+
+[15:23] niche कैसे आप find out करोगे? कैसे find out करोगे?
+
+[15:26] find out करके मैं आपको बताता हूं। एक काम करते हैं हम
+
+[15:30] कि
+
+[15:32] यह इस चीज को याद रखना जैसे मैंने बोला कि when you talk to everyone, nobody listens.
+
+[15:36] आप किसी से बात नहीं कर सकते और जो पैसे हैं, वो niche में हैं।
+
+[15:41] पैसे हैं, वो niche में हैं। इसको screenshot लेना है। Screenshot ले लो। यह
+
+[15:47] marketing का basic foundational चीज है। आपको niche down करके ही
+
+[15:53] पैसे कमाने पड़ेंगे और वैसे ही पैसे आप कमा सकते हो। चलो, एक काम करते हैं।
+
+[16:00] आप imagine करो, आप एक busy railway station पर खड़े हो। ठीक है। और आप shout करते हो,
+
+[16:06] "Hello, listen to me" और कोई नहीं सुनेगा आपकी बात।
+
+[16:11] अगर आप shout करोगे, "जो पुणे जा रहा है ना, जो पुणे जा रहा है, उसकी train
+
+[16:17] platform number चार पर है, वो मेरी बात सुने एक बार" और सारे आपकी बात सुनेंगे। जो
+
+[16:22] railway station पर announcement भी होती है, अगर वो सबके लिए announcement हो रही है
+
+[16:24] तो सब लोग नहीं सुनते। इसीलिए जब announcement हो रही है तो वो पहले बता देते हैं कि
+
+[16:28] किस train के बारे में बात हो रही है ताकि आप selectively उस पर attention दे पाओ। एक
+
+[16:33] game खेलते हैं और मैं उसके बाद आपको niche का सारा का सारा काम समझाऊंगा। The point
+
+[16:38] is मैं technically रखना चाहता हूं चीजें starting में। उसका simple सा reason यह है
+
+[16:44] कि confusing हो जाती है कभी-कभी technical चीजें। मैं सिखाकर भेजूंगा। Don't worry
+
+[16:47] about it। Okay। इसका एक example लेते हैं। I
+
+[16:54] will show that slide in some time. पहले मुझे आप यह बताओ। मैं brands का नाम लेता
+
+[16:59] हूं। फटाफट एक game खेलते हैं। मैं screen share बंद कर देता हूं। फटाफट एक game खेलते
+
+[17:03] हैं। मैं brands का नाम लूंगा। आपको मुझे यह बताना है कि वो brand
+
+[17:08] क्या बेचता है। हल्दीराम बताओ क्या बेचता है?
+
+[17:13] फटाफट। Give me quick answers. हल्दीराम क्या बेचता है?
+
+[17:21] Snacks, fast foods, sweets,
+
+[17:27] भुजिया।
+
+[17:32] Snacks, भुजिया,
+
+[17:35] भुजिया। Mostly response मुझे आ रहा है भुजिया के। ठीक है।
+
+[17:40] Okay। एक brand का और नाम लेता हूं मैं।
+
+[17:44] Lenskart। Lenskart क्या बेचता है? फटाफट। Quick, जल्दी answer. One word answer.
+
+[17:49] Lenskart क्या sell करता है? Glasses,
+
+[17:55] goggles, glasses, spectacles, specs। Okay। एक और फटाफट। Boat.
+
+[18:01] Boat जो brand है, Boat क्या sell करता है?
+
+[18:04] Boat क्या sell करता है? Quick, फटाफट।
+
+[18:10] Earphones,
+
+[18:11] speakers, earpods। Okay। एक और example लेते हैं फटाफट। Waow Momos का
+
+[18:17] brand का नाम सुना है? Waow Momos क्या sell करते हैं?
+
+[18:24] Momos, okay, very good. Licious एक brand है। मैं दो का example खुद ले लेता हूँ,
+
+[18:29] क्योंकि आप समझ चुके हो, मैं जो पूछ रहा हूँ। Licious एक brand है, वह सिर्फ और सिर्फ
+
+[18:34] meat में deal करते हैं। Wakefit brand है, वह सिर्फ mattresses online बेचते हैं।
+
+[18:39] That's it. अगर आप notice करो तो आप सबके answer जो थे, एक-एक word के answer थे, हर
+
+[18:45] बार। That is the power of niche.
+
+[18:49] आपको लोग एक word से याद रखते हैं। मेरा बहुत
+
+[18:54] important message यह है, इसलिए पहली छह-सात slides में देना जरूरी था कि आपको
+
+[19:00] डरने की जरूरत नहीं है कि अगर मैं एक चीज pick करूं तो नुकसान हो जाएगा।
+
+[19:08] लोग एक niche से ही start करते हैं, एक small, specific चीज पर focus करके and then
+
+[19:14] you grow big from that.
+
+[19:18] तो question यह नहीं रह जाता कि मुझे एक चीज pick करनी चाहिए कि नहीं। यह तो answer
+
+[19:22] मिल गया हम सबको कि हमें एक ही चीज pick करनी चाहिए। अब question यह रह जाता है कि मैं
+
+[19:26] कैसे वह चीज pick करूं, जिस पर मुझे confidence हो कि यह right niche है मेरे लिए।
+
+[19:33] ठीक है। उसके बारे में बात करते हैं। Let me share my screen now.
+
+[19:38] Foundation समझ आ गई। Clear. इसमें कोई doubt है कि हमें एक चीज पर focus करना है कि
+
+[19:43] सभी चीजों पर focus करना है?
+
+[19:46] Perfect. यह main जरूरी था foundation, क्योंकि अगर इस चीज से आप convince
+
+[19:52] नहीं थे या नहीं होते तो बाकी की चीजें समझ नहीं आनी थी।
+
+[19:57] ठीक है। Okay. चलो। Let me share my screen. Let's move on to the next slide.
+
+[20:04] ठीक है। अब अगर आप चेक करो हल्दीराम का भुजिया, Lenskart के glasses, Boat के
+
+[20:09] earphones, Wow Momos के momos, Licious का जो मैंने आपको बताया। ये सारे इन चारों के
+
+[20:14] आप ने ही जवाब दिए हैं। और मैंने यह लिख के रखे हुए थे कि एक ही चीज में deal करते
+
+[20:19] हैं।
+
+[20:20] तो हमारे पास जो
+
+[20:24] बाकी का time बचा है, उसमें मुझे छह चीजों के बारे में जो बात करनी है, वह इन चीजों के
+
+[20:30] बारे में करनी है। हम एक
+
+[20:33] छह stations की train चलाते हैं। सबसे पहले तो market कितनी बड़ी है, जिस चीज में
+
+[20:39] आप जाना चाहते हो। ठीक है। और यह good niche है कि नहीं। पैसे वहां पर हैं
+
+[20:45] कि नहीं। आपके लिए वह चीज fit है कि नहीं। और लोग क्यों उसको yes
+
+[20:51] बोलेंगे।
+
+[20:53] ये सारी की सारी चीजें हम cover करने वाले हैं अगले आने वाले 40-45 मिनट में। ठीक
+
+[20:58] है। पहला question, पहला station - How big is the market?
+
+[21:03] यह जो तीन word आप देख रहे हो, फनी से word लग रहे हैं आपको कि TAM, SAM, SOM। इनका
+
+[21:09] मतलब यह है Total Addressable Market, Serviceable Addressable Market और
+
+[21:14] Serviceable Obtainable Market.
+
+[21:18] यह होते क्या हैं, मैं आपको बताता हूँ।
+
+[21:24] इनका मतलब यह होता है कि, for example,
+
+[21:31] इन circles को आप याद रखना। Total Addressable Market, Serviceable Addressable Market
+
+[21:35] and Serviceable Obtainable Market.
+
+[21:38] आप imagine करो कि आपने एक चाय का stall खोला Dadar station के बाहर, मुंबई के
+
+[21:44] बाहर। वह है आपका TAM, Total Addressable Market.
+
+[21:49] India में mostly लोग चाय पीते हैं। करोड़ों लोग हैं जो चाय
+
+[21:55] पीते हैं। तो huge number है और आपको लगेगा कि मैं अगर चाय बेच रहा हूँ Dadar station
+
+[22:00] के बाहर,
+
+[22:02] तो Dadar station पर जितने भी लोग आ रहे हैं, mostly 90% लोग चाय पीते होंगे, तो वे
+
+[22:06] सारी की सारी मेरी Total Addressable Market है, जिनको मैं चाय बेच सकता हूँ।
+
+[22:13] लेकिन क्या आप Guwahati में जो family बैठी है Dadar station पर रहकर
+
+[22:19] उनको चाय बेच सकते हो? Simple सा answer है, आप उनको चाय नहीं बेच सकते।
+
+[22:25] क्योंकि आप Dadar station पर हो। Middle circle है आपका Serviceable Addressable
+
+[22:30] Market.
+
+[22:32] यह वह circle है जिसको आप actually serve कर सकते हो। जितने लोग
+
+[22:38] Dadar station में सुबह आ रहे हैं, शाम को आ रहे हैं, पूरे दिन में आ रहे हैं, उनको आप
+
+[22:42] चाय पिला सकते हो। आप सबको चाय नहीं पिला सकते India में। तो Total Addressable
+
+[22:48] Market का मतलब यह है जितने लोग चाय पीते हैं। अगर आप चाय के business में हो, चाय
+
+[22:52] पिलाने वाले business में हो, तो जितने लोग India में चाय पीते हैं, वो सारे के सारे
+
+[22:56] आपकी market है।
+
+[22:58] लेकिन that is your Total Addressable Market.
+
+[23:02] Serviceable Addressable Market वह है जिसको आप actually serve कर सकते हो।
+
+[23:08] अगर आप Dadar station के बाहर बैठे तो Dadar station पर जितनी जनता आ रही है, आप उसी
+
+[23:12] को ही serve कर पाओगे। Serviceable Obtainable Market का मतलब यह है जिनको आप actually
+
+[23:18] चाय बेच रहे हो,
+
+[23:20] जिनको actually बेच पाओगे।
+
+[23:24] That is your Serviceable Obtainable Market.
+
+[23:29] So जो small circle है, वह है आपका Serviceable Obtainable Market.
+
+[23:35] यहीं पर mostly सभी beginners गलत हो जाते हैं कि उनको
+
+[23:41] जो यह बड़ा circle है, Total Addressable Market से प्यार हो जाता है।
+
+[23:45] वह बोलते हैं कि "Sir, जो market है, यह इतनी बड़ी है। I really want to get into this
+
+[23:51] market" लेकिन बड़ा circle आपको सिर्फ यह बताता है कि इसको आप
+
+[23:56] serve तो कर पाओगे, लेकिन मेरा question यह है कि इसमें serve करने के लिए
+
+[24:02] पैसे हैं? क्या इससे मैं इस साल पैसे कमा पाऊंगा कि नहीं कमा पाऊँगी?
+
+[24:07] That is more important question than the size of the circle.
+
+[24:12] मैं सारी चीजें cover करूँगा। But मैं questions डाल रहा हूँ आपके mind पर हर point
+
+[24:17] पर। उसको मैं हर चीज को clarify करता जाऊंगा। The point is, अगर आप चाय के business
+
+[24:23] में हो और आपको लगता है कि India में बहुत सारे लोग चाय पीते हैं। Good, that's your
+
+[24:27] Total Addressable Market. लेकिन आप अगर चाय Dadar station के बाहर बेच रहे हो तो आपको
+
+[24:31] यह समझ आना चाहिए कि आप Dadar station पर जितने लोग आ रहे हैं, उन्हीं को चाय बेच
+
+[24:34] पाओगे।
+
+[24:36] और बेच आप उन्हीं को रहे हो जो आपके stall पर रुक रहे हैं और आपको ₹10 दे
+
+[24:42] रहे हैं चाय के लिए और चाय पी रहे हैं। वही आपके actual customers हैं। वह सारे
+
+[24:47] customers नहीं है जो Dadar station पर आ रहे हैं। तो Serviceable Obtainable Market
+
+[24:52] है, आपको उस पर focus करना है। Total Addressable Market पर आपको focus नहीं करना।
+
+[24:59] मैं इसकी example देता हूँ। ठीक है। क्या मैं क्या कह रहा हूँ basically। अब फिर से
+
+[25:03] स्नेहा के पास जाते हैं। स्नेहा की story मैंने बोला हम cover करेंगे, दोबारा continue
+
+[25:07] करेंगे। आप याद रखो कि वह सबको सब कुछ बेच रही थी digital marketing से related.
+
+[25:13] That was her big circle.
+
+[25:17] यह वाला। ठीक है। She was like, "मैं सबको सब कुछ बेचना चाहती हूँ।" अब आपसे मैंने
+
+[25:22] पूछा था, बहुत सारे लोगों ने hand raise किया। हाँ, this makes sense कि सबको digital
+
+[25:26] marketing से related सारी services बेचनी चाहिए। But that was not right.
+
+[25:30] So that was her big circle, Total Addressable Market.
+
+[25:37] और Total Addressable Market ऐसा है कि
+
+[25:40] India में जितनी small businesses हैं, वह सारे के सारे स्नेहा के लिए Total
+
+[25:44] Addressable Market में आते हैं। अगर उसको लगता है कि मैं अपनी digital marketing
+
+[25:50] services सबके लिए बेचना चाहती हूँ। हर किराना store, हर clinic, हर coaching center,
+
+[25:53] हर boutique, सारे के सारे उसके customers Total Addressable Market में आ जाते हैं।
+
+[25:57] क्योंकि वह कह रही है, "मैं सबको सब कुछ बेचना चाहती हूँ" लेकिन वह सबको नहीं बेच
+
+[26:02] पाएगी, क्योंकि अगर India में 6 करोड़ small businesses हैं, तो वह सबको तो नहीं बेच
+
+[26:07] पाएगी। तो उसका Serviceable Addressable Market जो middle circle है,
+
+[26:13] वह एक तरीके का ही business बन के रह जाना चाहिए। For example, dentists.
+
+[26:18] अगर वह बोले कि मुझे dentists को बेचना है तो उसका सबको बेचने से जो focus था, वह
+
+[26:24] सिर्फ dentists पर आ जाएगा। तो that will be her Serviceable Addressable Market.
+
+[26:30] इसको ध्यान में रखना। उसको भी हम ढंग से test करेंगे।
+
+[26:33] अब Serviceable Obtainable Market हो
+
+[26:37] जाएंगे dental clinics उसके शहर में। स्नेहा इंदौर से थी, तो इंदौर में जितने dental
+
+[26:43] clinics हैं, वह Serviceable Obtainable Market हो जाएंगे उसके लिए। जिनके पास वह जा
+
+[26:49] सकती है, मिल सकती है, हाथ मिला सकती है। इस साल के अंदर-अंदर services दे सकती है।
+
+[26:55] तो आप picture देखो कैसे change हुई। स्नेहा कह रही थी, "मुझे सबको सब कुछ बेचना है"।
+
+[27:00] वहां से उसने अगर decide किया, "मुझे dentist को बेचना है। मुझे dentist जो इंदौर
+
+[27:06] में हैं, उनको बेचना है।"
+
+[27:10] This is the part that made स्नेहा smile for the first time in three months, जब उसको
+
+[27:15] clarity मिली कि मुझे क्या करना चाहिए।
+
+[27:20] Next thing.
+
+[27:22] एक simple सा maths करके देखते हैं। अब suppose करो, स्नेहा काम करती है 20 clinics के
+
+[27:28] लिए इंदौर में। 2000 clinics नहीं, 200 clinics नहीं, सिर्फ 20 clinics।
+
+[27:33] और suppose करोगे कि each हर clinic उसको Rs 25,000 pay करता है per month। और मैं
+
+[27:38] आपको सब कुछ बताऊँगा, ये कोई hypothetical figures नहीं हैं। मैं आपको सब कुछ
+
+[27:42] calculator के द्वारा
+
+[27:46] अभी दिखाऊँगा। 20 clinics, Rs 25,000 per month is Rs 5 lakhs per month.
+
+[27:53] आपके prices different होंगे, आपकी industry different होगी और मैंने dentist इसलिए
+
+[27:58] pick किया।
+
+[28:01] मैंने आपको छह चीजें बताई थीं जो हमने cover करनी हैं। ये तो हम total addressable
+
+[28:04] market, serviceable addressable market, serviceable obtainable market एक concept के
+
+[28:08] बारे में बात कर रहे हैं। niche कैसे pick करनी है, वो सारी चीजें अभी cover करनी हैं।
+
+[28:12] तो dentist क्यों मैंने pick किया? I will cover that in the future, आने वाली slides
+
+[28:16] में। तो आपके number different होंगे, आपकी services different होंगी। हो सकता है आपकी
+
+[28:21] services Rs 25,000 की जगह आप Rs 15,000 में बेच रहे हो, लेकिन आप 20 की जगह 30-40
+
+[28:26] लोगों को service दे रहे हो। Ultimately, वहीं पर आपका maths match हो जाता है।
+
+[28:32] मैं आपको जो cover करने वाला हूँ कि is this a good niche?
+
+[28:35] The next point is कि is this a good niche?
+
+[28:39] एक five simple
+
+[28:41] test करके हम देखते हैं five steps का। ठीक है। आपके दिमाग में जितने niche के ideas
+
+[28:47] आ रहे हैं, let's say weight loss for new mothers, marketing for gyms, Instagram for
+
+[28:53] bakeries. जितने भी ideas आपके दिमाग में जो भी आएंगे, उनको एक five simple tests
+
+[28:59] के through आपको निकालना है। अगर उनके five tests pass हो जाते हैं that is a good
+
+[29:04] idea। ठीक है। अगर दो tests pass होते हैं,
+
+[29:11] don't go with that idea. कम से कम तीन से चार tests pass होने चाहिए,
+
+[29:17] तब आप उस idea के साथ जाओ otherwise आप उस idea के साथ मत जाओ। तो
+
+[29:23] वो पांच tests कौन से हैं? पहला है high pain.
+
+[29:28] क्या यह problem लोगों को बहुत परेशान कर रही है कि नहीं?
+
+[29:35] Dentist मैंने इसलिए pick किया, जब दांत का दर्द होता है ना
+
+[29:40] तब I don't know आप लोगों में से कितने लोगों को हुआ है, अगर नहीं हुआ है, भगवान करे
+
+[29:44] नहीं दर्द हो। दांत के दर्द के लिए लोग बड़े से बड़े पहलवान रो देते
+
+[29:50] हैं। तो इसलिए मैंने dentist को pick किया और dentist के पास आपको Rs 50-100 वाली
+
+[29:55] services नहीं लेने जाते। dentist के पास अगर आप root canal कराने जाओ, अपना दर्द
+
+[30:00] वगैरह खत्म करने जाओ, dentist आराम से आपको Rs 5,000-10,000 charge कर लेता है। और अगर
+
+[30:05] एक patient से Rs 5,000-10,000 dentist charge कर रहा हो, अगर आप उसको बोल रहे हो कि
+
+[30:09] आप उनके पास पांच customers extra लेकर आओगे per month और पांच
+
+[30:14] customers से वो Rs 10,000 भी extra charge कर रहे हैं, तो आपने तो उनकी Rs 50,000
+
+[30:18] income increase कर दी।
+
+[30:21] और आप charge कर रहे हो Rs 25,000 तो dentist will not mind that। और आप customers
+
+[30:26] लेकर आ जाओगे कि नहीं आ पाओगे यह हम already prove कर चुके हैं AU Academy में,
+
+[30:31] Marketing Academy में हमारी कि कितनी हमारी impressions हमने increase किए थे। 27,000
+
+[30:37] impression से 1.16 million impressions ले गए थे। तो यह तो बात रहती नहीं है कि हम
+
+[30:42] customer ज्यादा लेकर आ पाएंगे कि नहीं आ पाएंगे। Right.
+
+[30:45] So first thing is आप वह industry pick करो जिसमें लोगों को बहुत problem face
+
+[30:51] करनी पड़ रही है।
+
+[30:54] Second, लोगों के पास पैसे होने चाहिए देने के लिए उस industry को
+
+[31:00] जो भी आप industry pick कर रहे हो। मैं इसका भी example देता हूँ आपको। ठीक है। आपके
+
+[31:05] जो customers होने चाहिए आप उनको easily find कर सको। ऐसा ना हो कि लोग जंगल में रह
+
+[31:11] रहे हैं, आपने
+
+[31:13] चप्पल का brand सोचा, मुझे चप्पल बेचनी है और चप्पल उनको बेचनी है जो लोग जंगलों में
+
+[31:19] रह रहे हैं। अब उनको target कैसे करोगे?
+
+[31:21] वो Facebook तो देखते नहीं। Problem है, उनको face problem हो रही है। बहुत बड़ी pain
+
+[31:26] point है उनका कि कांटे चुभ जाते हैं, सांप काट सकता है। बहुत सारे problems
+
+[31:32] और। High pain point, लेकिन target कैसे करोगे?
+
+[31:36] दूसरा factor जो मैंने बताया, पैसे नहीं होंगे उनके पास देने के लिए। चौथा factor है
+
+[31:41] market growing होनी चाहिए, at least stable होनी चाहिए। अगर मैं आपको आज बोलूं कि
+
+[31:46] मेरे पास solution है कि newspapers की जो ink लगती है, उसकी मैं 25% cost कम कर
+
+[31:52] सकता हूँ। लेकिन newspaper की industry खत्म हो रही है। कितने लोग आज newspaper पढ़
+
+[31:57] रहे हैं? हमारे दादा, हमारे dad, हमारे parents newspaper पढ़ते थे। हम लोग तो उतना
+
+[32:02] newspaper नहीं पढ़ते। आगे आने वाली generations are not gonna read newspapers at
+
+[32:05] all. तो market declining market है। तो अगर आप उस market पर focus कर रहे हो जो
+
+[32:11] declining है, तो आपको आगे आने वाले time पर market change करनी पड़ेगी क्योंकि market
+
+[32:14] ही नहीं बचेगी जिसको आप serve कर रहे हो।
+
+[32:18] पांचवा, अगर आपको उस industry के related कोई experience है तो उस पर आपको
+
+[32:24] focus करना चाहिए। अगर आप notice करो fifth वाला मैंने color थोड़ा different किया है।
+
+[32:29] उसका simple सा reason यह है कि बहुत सारे लोग हमारे course में आज ऐसे हैं जिनके पास
+
+[32:34] कोई पुराना experience नहीं था। तो उनके लिए first four things, जिनके पास experience
+
+[32:38] है आप उस पर जरूर focus करो अपना।
+
+[32:42] So basically high pain point होना चाहिए। मैं एक example end to end आपको दिखाता हूँ
+
+[32:47] कि आप अगर example यह लेकर चलो कि मैं
+
+[32:51] उनको services बेचना चाहता हूँ for example जिनकी jobs नहीं है। I want to help people
+
+[32:56] that don't have jobs. मैं उनका resume ऐसा बना के देना चाहता हूँ,
+
+[33:02] जिससे उनको job मिल जाएगी। High pain point, job नहीं है। Survival वाली बात है ना।
+
+[33:07] Survival पर बात आ गई। बहुत high pain point है। लेकिन एक simple सी बात है अगर आप
+
+[33:13] resume बना के दे रहे हो और आप उसके लिए Rs 2,000 charge कर रहे हो, जिसके पास job
+
+[33:19] नहीं है उसके पास पैसे नहीं होंगे pay करने के लिए।
+
+[33:24] तो आपको जो भी idea आप pick करो, आप यह सोचो कि pain point high होना चाहिए लेकिन
+
+[33:30] पैसे भी होने चाहिए लोगों के पास देने के लिए।
+
+[33:34] और आप उनको target easily कर सको। आप Facebook अगर ad run करो या अपना AU optimization
+
+[33:39] करो तो लोग होने चाहिए उन
+
+[33:45] ads को देखने के लिए।
+
+[33:48] या अगर आप किसी और तरीके से marketing कर रहे हो, मैं example दूंगा आपको उनके भी। अगर
+
+[33:53] आप सूरत में जाओ तो you know कि वहां diamond merchants बहुत हैं। तो अगर आप diamond
+
+[33:57] से related कुछ कर रहे हो तो आपको सूरत में होना चाहिए। अगर आप diamond merchants के
+
+[34:01] related कोई services बेच रहे हो। So I will give you two examples.
+
+[34:05] तो first is high pain point, उसका एक simple सा reason है। आज के
+
+[34:10] time पर pain killer ज्यादा बिकती है, vitamins कम बिकते हैं। पता है
+
+[34:16] कि pain killer से सेहत खराब होगी। पता है कि liver खराब होगा। लेकिन फिर भी pain
+
+[34:22] killers ज्यादा बिकती हैं vitamin से। हर Indian को पता है यह scene कि
+
+[34:28] जब आप सब्जी मंडी में जाते हैं, अगर टमाटर Rs 40 के हुए हैं तो हम बोलते हैं, "भैया Rs
+
+[34:33] 35 के लगा लो।" Rs 5 के लिए लड़ लेते हैं हम। हम धनिया भी free मांग लेते हैं, मिर्ची
+
+[34:38] भी free मांग लेते हैं।
+
+[34:40] अब यही इंसान अगर आप सोचो hospital में जाए जो Rs 40 की जगह Rs 35 के लिए
+
+[34:46] लड़ाई कर रहा है वहां पर। और surgeon बोले वहां पर जिसने surgery करनी है hospital में
+
+[34:51] कि Rs 2 लाख लगेंगे। कोई बोलता है कि doctor साहब Rs 1,80,000 में कर दो।
+
+[34:58] लोग FD तुड़वाते हैं, relative से मांगते हैं, दोस्तों से मांगते हैं कि भाई दर्द खत्म
+
+[35:03] हो और अच्छी quality का जो surgery हो वो करके दे, हम पैसे की वहां
+
+[35:09] पर फिक्र नहीं करते। यह difference है vitamin और pain killer में।
+
+[35:16] Vitamin is nice to have. अगर आप यह बोलो कि
+
+[35:22] मैं लोगों को calligraphy सिखाना चाहता हूँ या सिखाना चाहती हूँ। Calligraphy होता है
+
+[35:27] एक अच्छे stylish तरीके में लिखना
+
+[35:31] या
+
+[35:32] जिनकी handwriting improve करने के लिए। It's a nice thing to have.
+
+[35:36] लेकिन आजकल लोग type कर रहे हैं, लिख कौन रहा है?
+
+[35:42] Pain killer का example यह हुआ कि अगर आप उन parents को focus करते हो जिनका बच्चा
+
+[35:47] 10th class में fail हो गया। कितनी बड़ी problem है!
+
+[35:52] और तीन महीने बचे हैं board के exam के लिए।
+
+[35:57] वो parent आज pay करेगा आपको।
+
+[36:02] वो dentist जिसको पता है कि मैं हर patient से Rs 5,000-10,000 charge कर सकता हूँ
+
+[36:06] लेकिन उसके पास उतने patients नहीं हैं। That is the pain point of the dentist.
+
+[36:11] वो आपको आज pay करेगा। बोलेगा, "भई मुझसे ले लो Rs 20,000-25,000, लेकिन यह मेरी जो
+
+[36:16] अंदर patient के लिए कुर्सी खाली पड़ी रहती है ना इसको भरो।"
+
+[36:21] वो patient जिसका sugar की report में, diabetes की report में 250 आया है
+
+[36:27] उसकी pain solve करो।
+
+[36:31] जब भी आप niche pick कर रहे हैं,
+
+[36:34] आप यह question पूछो कि क्या यह problem किसी को रात में जगा के रख रही है कि नहीं।
+
+[36:40] अगर वह लोग problem अपने छह महीने तक ignore कर सकते हैं,
+
+[36:46] then वह इतनी बड़ी problem नहीं है जिसको आपको solve करना चाहिए।
+
+[36:52] मेरी बात समझ आ रही है?
+
+[36:54] Is it making sense?
+
+[37:08] मैं एक-दो topics और cover करके I'll open the chat to basically get your feedback
+
+[37:13] क्योंकि एक-एक करके messages पढ़ने में मुश्किल हो जाते हैं। Okay, I am glad you are
+
+[37:19] giving thumbs up and heart and all that stuff.
+
+[37:23] मुझे समझ आ रहा है कि आपको समझ आ रहा है। Right. Okay, let's continue.
+
+[37:29] So next is पैसे होने चाहिए देने के लिए।
+
+[37:36] यह हमारा second test था। Right. मैंने बहुत सारे students देखे हैं।
+
+[37:42] They build beautiful services and they try to sell दूसरे college students को बेचने
+
+[37:47] की कोशिश करते हैं।
+
+[37:51] For example, जब मैं college में था, मुझे याद है कि एक लड़की थी, वह बहुत
+
+[37:56] अच्छे-अच्छे सुंदर-सुंदर bracelets बनाती थी and she was trying to sell those
+
+[38:00] bracelets to other college students.
+
+[38:03] 200 में, 300 में bracelets को बनाकर वह sell करने की कोशिश करती थी और उससे कम में
+
+[38:08] बेचने की sense नहीं बनती थी क्योंकि वो handmade bracelets होते थे, तो उन्हें बनाने
+
+[38:11] में time लगता था and it doesn't make sense to sell it for less than 200, 300.
+
+[38:18] उस time इतने students के पास पैसे नहीं होते थे कि वे उसे पैसे दे पाएं। तो generally
+
+[38:22] लोग उसके साथ friendship करने की कोशिश करते थे कि friendship के बहाने free में
+
+[38:27] bracelet मिल जाए। वो बहुत सुंदर bracelets होते थे।
+
+[38:31] तो
+
+[38:32] अगर आप students को बेच रहे हो for example,
+
+[38:37] then आप यह ध्यान में रखो कि उनके पास पैसे नहीं होंगे देने के लिए।
+
+[38:43] अगर आप उनको बेच रहे हो जो सिर्फ free stuff ढूंढना चाह रहे हैं, उनके पास
+
+[38:49] पैसे नहीं होंगे आपको देने के लिए।
+
+[38:52] अगर आप उनकी problem solve करने चले हो जो अपनी दुकान का rent नहीं pay कर पा रहे,
+
+[38:58] उनकी pain real है
+
+[39:00] लेकिन उनके wallet में पैसे नहीं है, कैसे charge करोगे?
+
+[39:06] दूसरी तरफ अगर आप देखो dentist देखो, doctors देखो, coaching institute देखो, builders
+
+[39:11] देखो, property agents देखो, jewellers देखो, chartered accountants या law firms, gym
+
+[39:16] या salon owners हो, इन सब में जो common चीज है कि एक नया customer उनके लिए
+
+[39:22] बहुत पैसे लेकर आता है।
+
+[39:26] एक builder के लिए अगर आपने एक flat भी sell करवा दिया extra, तो एक flat से उसने
+
+[39:31] लाखों कमा लेने हैं। और एक coaching institute के लिए एक admission अगर आप ले आए तो
+
+[39:36] पूरे साल की fees
+
+[39:40] के आधे पैसों में आप उसको services दे रहे हो।
+
+[39:44] तो इस industry में जब आप focus करते हो जिनके पास पैसे हैं तब आप पैसे ले भी सकते हो
+
+[39:50] उनसे। सीधी सी बात है। Sell to rich people, they pay more.
+
+[39:55] Simple सा formula है। Sell to rich people and they pay more.
+
+[40:04] इस पर जो check करने वाली बात है वह यह है कि अगर लोग already पैसे pay कर रहे हैं
+
+[40:09] अपनी problem fix करने के लिए,
+
+[40:11] एक jeweller है जो already newspaper में अपनी ad चला रहा है धनतेरस पर, वह समझता है
+
+[40:17] कि paying customer की जो customer pay करने वाला होता है उसकी क्या value होती है। तो
+
+[40:23] आप एक वह jeweller जो already newspaper में ad चला रहा है, आपको उसको convince करने
+
+[40:27] की जरूरत नहीं पड़ेगी कि भाई आपको और customers के लिए पैसे spend करने चाहिए। वह
+
+[40:31] already कर रहा है।
+
+[40:34] आप उसको सिर्फ यह बोल रहे हो कि भाई smartly पैसे spend करो। सिर्फ newspaper में मत
+
+[40:39] करो। newspaper तो लोग कम से कम पढ़ रहे हैं अब।
+
+[40:43] हम आपके लिए AU optimize करके देंगे आपको। हम आपके लिए Facebook और Meta के ads run
+
+[40:48] करके देंगे आपको।
+
+[40:52] यह एक example और है। Easy to find. Third हमारा था easy to find.
+
+[40:58] First था pain point high होना चाहिए। Second था हमारा
+
+[41:03] जो भी हमने discuss किया। पैसे होने चाहिए उनके पास। Third था हमारा easy to find.
+
+[41:09] So
+
+[41:11] एक India की बहुत खूबसूरत habit वह यह है कि एक तरीके के businesses एक जगह भी
+
+[41:17] मिल जाएंगे आपको।
+
+[41:19] Textile और diamond सूरत में मिल जाएंगे।
+
+[41:23] Textile पंजाब, लुधियाना में भी मिल जाएगा। T-shirts और knitwear
+
+[41:29] त्रिपुरा में मिल जाएगा। Ceramic tiles आपको गुजरात में मिल जाएंगी, मोरबी
+
+[41:34] में। Brass आपको मुरादाबाद में मिल जाएगा।
+
+[41:38] मुरादाबाद को पीतल नगरी भी बोलते हैं। The brass city.
+
+[41:42] Coaching institutes आपको कोटा में बहुत मिल जाएंगे। Computers और laptops आपको नेहरू
+
+[41:47] place में मिल जाएंगे। Now imagine आप textile traders को online sell करने में
+
+[41:53] help कर देते हो। आप
+
+[41:57] सूरत के लिए या लुधियाना के लिए एक train लो। आप सैकड़ों customers को मिल लोगे एक दिन
+
+[42:02] में,
+
+[42:03] एक market में।
+
+[42:06] That is what easy to find means. सैकड़ों customers को आप कैसे मिल सकते हो?
+
+[42:09] आप यह बोल सकते हो कि एक मैं free seminar रख रहा हूं। जो textile traders हैं, जो
+
+[42:14] online sell करना चाहते हैं, उनके लिए free seminar है। आओ यहां पर, I want to tell
+
+[42:17] you what we can do for you. एक दिन में मिल सकते हो उनको।
+
+[42:26] समझ आ रही है मेरी बात?
+
+[42:30] If you can find them easily, you can sell it to them.
+
+[42:34] If you cannot find them easily, आप उनको नहीं बेच सकते।
+
+[42:39] ठीक है।
+
+[42:41] Next हमारा था growing market। growing market होनी चाहिए,
+
+[42:47] declining market नहीं होनी चाहिए। इसका example मैंने आपको newspapers का already दे
+
+[42:52] दिया था।
+
+[42:54] मैं एक example और देता हूं कि 1990 में STD, PCO booth होते थे। Right.
+
+[42:59] वहां जाकर लोग call करते थे। हर गली में PCO, STD होता था।
+
+[43:04] 2000 में mobile phone आ गए हर जेब में और एक-एक करके वो booth बंद होना शुरू हो गए।
+
+[43:09] और अगर उस time पर आप STD, PCO वालों के लिए कोई service लेकर आते तो कितनी देर तक
+
+[43:15] आपका business बचता?
+
+[43:19] तो आपको यह देखना है कि कौन सी wave India में rise कर रही है इस time पर।
+
+[43:28] Parents हमारे बूढ़े हो रहे हैं। Care for aging parents
+
+[43:35] is one of the market. और हममें से बहुत सारे लोग ऐसे हैं जो घर से दूर रहते हैं। जैसे
+
+[43:39] मैं हो गया for example, मैं तो country में नहीं हूं।
+
+[43:43] Diabetes and PCOS की problem almost हर घर में है।
+
+[43:47] लोग आज अपने pets को लेकर बहुत ज्यादा conscious हैं, इतने पहले नहीं थे।
+
+[43:54] जो pet parents हैं जिनके पास dogs हैं, cats हैं बड़े शहरों में, वो अपने dogs, cats
+
+[43:59] को लेकर बहुत spend करते हैं। अपने बच्चों पर जितना spend करते हैं, उतना उन पर spend
+
+[44:04] करते हैं। Online coaching और online courses,
+
+[44:07] यह industry बहुत grow कर रही है अभी भी। Electric scooters, इनकी service करने वाले
+
+[44:12] लोग कम हैं।
+
+[44:14] Small businesses के लिए AI, the skill that you have just learned in these last
+
+[44:18] three weeks.
+
+[44:20] यह बहुत important skill है आज के time पर। तो PCO मत खोलो 2024 में।
+
+[44:27] यह देखो कि कौन सी wave rising है और उस पर focus करो।
+
+[44:33] पांचवा आ जाता है your expertise, कि आपका expertise किस चीज में है।
+
+[44:38] आपमें से बहुत सारे लोगों को लगता है कि past मेरा waste है कि you know, मैं क्यों यह
+
+[44:42] सब चीजें करूं। मैं जो slide पर है ना, मैं इसका example नहीं देता। मैं आपको example
+
+[44:46] देता हूं। हमारे one of the last batches में हमारी मेरी बात हुई थी। वो teacher
+
+[44:52] हैं।
+
+[44:53] वो कह रहे थे कि मैं आपका system white label अगर लेता हूं तो मैं उसको
+
+[44:59] कैसे use करूं। उन्होंने मुझे बताया कि वो कैसे use करेंगे हमारा system। तो he was
+
+[45:04] like कि मैं आपके system से custom apps जो बन रही हैं, जो परसों दीपक ने दिखाया था
+
+[45:09] आपको, Thursday को जो दीपक ने मेरे session के बाद दिखाया था। He was like कि मैं अपने
+
+[45:15] subjects को लेकर जो हमारे system का knowledge base है, knowledge base में अपनी सारी
+
+[45:21] information डालना चाहता हूं मैं। अपने Maths को लेकर या जो भी वो subjects पढ़ाते हैं
+
+[45:25] और उस knowledge base को connect करना चाहता हूं मैं आपके app builder के साथ और वहां
+
+[45:28] से मैं apps generate करना चाहता हूं जिसमें से मैं tests generate कर पाऊं और मेरे
+
+[45:34] जितने students हैं, मैं उनको अपने platform की subscription देना चाहता हूं कि वह घर
+
+[45:38] बैठे-बैठे उन tests को कर पाएं और अपने results देख पाएं। Brilliant idea!
+
+[45:43] हमारे platform के लिए मैंने नहीं सोचा था कि कोई teacher ऐसा काम कर लेगा।
+
+[45:49] तो उन्होंने यह नहीं देखा कि
+
+[45:53] ChatGPT से भी तो लोग सीख सकते हैं। लेकिन ChatGPT में उनकी knowledge तो नहीं है ना,
+
+[45:59] जो उन्होंने
+
+[46:01] पिछले 10, 15, 20 सालों में gather की है, उनका सिखाने और पढ़ाने का जो तरीका था।
+
+[46:07] और education एक ऐसी चीज है आज के time पर भी एक one to one, आप जब human being से
+
+[46:12] सीखते हो, उसका impact कुछ different होता है।
+
+[46:16] वह नहीं खत्म होने वाला। So that's how he is using our system. Which is amazing.
+
+[46:21] I was not thinking कि लोग ऐसा use कर पाएंगे। तो आपकी जो expertise है ना, अगर आपके
+
+[46:26] पास किसी चीज का है, तो try figuring it out कि आप अपनी expertise को कैसे use कर सकते
+
+[46:31] हो इस system के साथ।
+
+[46:35] इससे हमारा second station हुआ। second station में हम पहुंच गए। Team, एक बार आप chat
+
+[46:41] unblock करोगे because एक-एक message पढ़ना मुश्किल हो जाता है। I want to understand
+
+[46:45] if people are able to
+
+[46:48] get what I am basically sharing.
+
+[46:53] मुझे chat में बताओ एक बार guys कि समझ आ रहा है कि नहीं आ रहा।
+
+[47:00] Okay.
+
+[47:04] Okay, perfect.
+
+[47:08] ठीक है।
+
+[47:10] Let me continue.
+
+[47:15] Chat बंद कर दो। Let me continue because I want to cover a few more things.
+
+[47:21] यह था हमारा second station. Third station,
+
+[47:26] हम स्नेहा पर वापस आते हैं।
+
+[47:28] ठीक है।
+
+[47:31] स्नेहा
+
+[47:34] ने dentist की एक niche pick की थी। वह सारे businesses को सब कुछ sell नहीं कर रही
+
+[47:38] है। वह dentist को sell कर रही है। लेकिन dentist कौन से है?
+
+[47:42] जो इंदौर में है।
+
+[47:44] So अभी
+
+[47:47] उसने जो नई अपनी niche pick की, dentist की problem है बहुत बड़ी कि अगर उसके पास उतने
+
+[47:52] patient नहीं आ रहे जितने आने चाहिए। Dentist ने लाखों खर्च करके रखे हैं अपनी chairs
+
+[47:57] पर, machines पर। मैं एक अपना practical example देता हूं आपको। मेरे पास एक client
+
+[48:03] आया।
+
+[48:05] उसने क्या किया?
+
+[48:08] स्नेहा पर आते हैं वापस। उसने क्या किया?
+
+[48:11] उसने देखा कि लोग Amazon पर जाते हैं सामान खरीदने के लिए, Facebook पर जाते हैं लोगों
+
+[48:16] से connect होने के लिए। उसने Facebook और Amazon को
+
+[48:22] एक platform पर ले आया। यह मैं कम से कम तीन
+
+[48:28] साल पहले की बात कर रहा हूं। उसका idea बहुत brilliant था। वह कह रहा था, "यार, मैं
+
+[48:32] चाहता हूं कि लोग एक दूसरे के साथ friends तो बने, लेकिन इसी platform पर चीजें भी वह
+
+[48:37] खरीद पाएं।
+
+[48:39] अब चीजें अगर खरीदनी हैं, तो चीजें डालनी भी तो पड़ेगी ना वहां पर। तो उसको vendors भी
+
+[48:43] चाहिए थे जो वहां पर आकर चीजें डालें। तो
+
+[48:47] उसने
+
+[48:50] तीन complicated platforms को एक साथ करने की कोशिश करी। एक vendor management, ताकि
+
+[48:54] लोग अपने products sell कर पाएं। दूसरा, friends बना पाएं, जैसे Facebook में feed
+
+[48:58] चलता है और friends हैं, अपना post कर सकें। तीसरा, लोग सामान खरीद सकें,
+
+[49:04] E-commerce की तरह। तीन साल पहले he came to me.
+
+[49:08] उसके platform पर उस time कुछ 300-350 members थे। मैं platform का नाम नहीं बताऊंगा
+
+[49:14] आपको।
+
+[49:17] He was like, "दर्श, I want to collaborate with you.
+
+[49:20] बहुत सारी चीजें हम यह करेंगे, साथ में वह करेंगे।"
+
+[49:24] मैंने उसको एक बात बोली। He was a very nice person, very well spoken, highly
+
+[49:30] intelligent, पैसे वैसे भी सब कुछ थे। मैंने उससे बोला, "एक साल बाद बात करते हैं।
+
+[49:35] Let's see आपके पास कितने subscribers आप
+
+[49:38] organically लेकर आ पाते हो। Then we will talk कि साथ में काम कर सकते हैं या नहीं कर
+
+[49:43] सकते।
+
+[49:45] एक साल बाद I asked him, he could only add 25
+
+[49:50] subscribers और वह free service थी।
+
+[49:55] पूरे साल में। उसने मुझे एक चीज बोली थी। He was like, "दर्श, I really need your
+
+[49:59] help. मेरे पास दो ही options हैं। या तो मैं इस platform को किसी तरीके से चला लूं या
+
+[50:05] मैं मर जाऊं।" क्योंकि वह उस चीज में इतने पैसे invest कर चुका था। कहता है, "मेरे पास
+
+[50:09] तीसरा option ही नहीं है।" उसको लगा वह सारी चीजें साथ में करेगा तो अच्छा result
+
+[50:15] आएगा। नहीं, Facebook इतना confusing है कि हम Facebook के सारे features use नहीं
+
+[50:19] करते। Amazon is also very confusing.
+
+[50:21] हम सिर्फ चीजें खरीदते हैं, बाकी सारे options use नहीं करते उसमें। सब कुछ देखते नहीं
+
+[50:25] है। दो confusing platforms को आपने साथ में कर दिया, वह कितनी confusion create
+
+[50:29] करेगा।
+
+[50:32] Right? So going back to that, अगर dental clinics की अगर हम बात करें तो simple सी
+
+[50:38] point है कि उसने इतने पैसे खर्च करके रखे हुए हैं, उसने कुर्सियां लगा के रखी हैं,
+
+[50:42] अपना सारी machinery लगा के रखी है। अगर उसकी कुर्सी खाली है, patient नहीं आ रहा, वह
+
+[50:47] rent भी दे रहा है, salaries भी दे रहा है, कितना बड़ा pain point है। Right?
+
+[50:52] तो हमारा पहला pain point वाला check pass हो जाता है। पैसे हैं? Yes.
+
+[50:56] Dentist अगर उसने इतने खर्चे किए तो वह इतने थोड़े पैसे देने के लिए भी तैयार हो
+
+[51:00] जाएगा। Easy to find? Yes. क्योंकि इंदौर की बात हो रही है। इंदौर में अगर आप जाओ और
+
+[51:05] बोलो dentist near me करके search करो, dentist in Indore search करो, आपको मिल
+
+[51:08] जाएंगे। Growing market है। New clinics हमेशा खुलते रहते हैं और वह हमेशा एक दूसरे के
+
+[51:13] patients के लिए लड़ते रहते हैं। उसका expertise खुद का नहीं था। लेकिन
+
+[51:19] उसके अगर uncle, चाचा, ताया, मामा जो भी हैं, दाद के दोस्त, कोई dentist अगर
+
+[51:25] निकला, उनसे वह जाकर पूछ सकती है कि dentist की क्या problem है। देख सकती है और अपनी
+
+[51:31] language वैसे develop कर सकती है जो dentist को समझ आए।
+
+[51:35] एक और मेरा contact है, वह UK में है। वह सिर्फ dentists की ही help करता है। He is
+
+[51:40] from Pakistan actually. वह सिर्फ dentist की help करता है और dentist की help
+
+[51:44] करते-करते उसकी language जो है, वह dentist जैसी हो गई। तो अब जब dentist उसके पास आते
+
+[51:49] हैं, तो उनको लगता है कि "भैया, आप dentist हो?" Literally वो लोग उनको बोलते हैं।
+
+[51:53] लेकिन वह digital marketing करता है। That's all he does.
+
+[51:57] तो वह बोलता है, "नहीं, मैं digital marketer हूं।" लेकिन उसकी language ऐसी हो गई है
+
+[52:01] कि वह सारे dentist को लगता है कि वह dentist है।
+
+[52:06] Right? So third हमारा था,
+
+[52:10] where the money is. आपको वहां focus करना चाहिए where the money is.
+
+[52:14] So अगर आपको अभी भी confusion है कि कहाँ से start करना है, तो यह shortcut है।
+
+[52:20] हजारों सालों से लोग तीन चीजों पर focus करते आए हैं। हमारे
+
+[52:27] दादा दादी ने भी वहां पर focus किया। आप, मैं, हम सभी उन चीजों पर focus करते हैं।
+
+[52:33] राजा महाराजाओं ने उन पर focus किया। यह तीन चीजें ऐसी हैं जो कभी भी market
+
+[52:39] से नहीं जाएंगी। वह तीन चीजें हैं Money,
+
+[52:44] Health, Marriage.
+
+[52:47] Money, Health, Marriage का क्या मतलब है? Let's cover that.
+
+[52:53] Wealth जो है,
+
+[52:55] अगर आप किसी को पैसे ज्यादा बनाने में help कर रहे हो, जैसे हमने dentist की बात करी।
+
+[53:03] कभी market से नहीं खत्म होगा यह वाला concept where you are helping people make more
+
+[53:07] money.
+
+[53:11] ऐसी कोई family नहीं है जहाँ पर कोई न कोई family member mutual fund के बारे में
+
+[53:16] discuss न कर रहा हो।
+
+[53:19] ऐसी कोई family नहीं है जहाँ पर यह बात नहीं हो रही होती कि शर्मा जी के बेटे का तो 30
+
+[53:23] लाख का package लग गया। ऐसी कोई family नहीं है जहाँ पर discussion न चल रहा हो कि
+
+[53:27] petrol के prices बढ़ गए। तो पैसा एक ऐसी industry है, अगर आप लोगों की
+
+[53:33] पैसे बचाने में help कर देते हो या पैसे बनाने में help कर देते हो लोगों की, यह
+
+[53:39] industry कभी market से खत्म होने वाली नहीं।
+
+[53:43] Health.
+
+[53:45] गर्म पानी पियो हल्दी के साथ सुबह उठकर, सारी बीमारी दूर जाएगी।
+
+[53:52] चाचा जी की sugar थी high, उन्होंने 10,000 steps चले, वह ठीक हो गए।
+
+[53:59] Health दूसरी industry ऐसी है। तीसरी industry आपकी marriage. बेटा कब शादी कर रहे हो?
+
+[54:04] आपकी cousin का रिश्ता fix हो गया। हमने आपके लिए एक नया लड़का, नई लड़की ढूंढी है। एक
+
+[54:09] बार मिल के देख लो।
+
+[54:12] यह तीन चीजें ऐसी हैं जिन पर Indian families खास करके कभी भी खर्च करना बंद नहीं
+
+[54:17] करेंगी। इन industries के जितना करीब रह सको उतना करीब रहो।
+
+[54:24] जितना करीब रह सको।
+
+[54:27] और ऐसी कोई industry नहीं है दुनिया में जो ultimately wealth, health, relationships
+
+[54:33] के साथ related न हो। लेकिन जितना करीब रहोगे उतना better रहेगा।
+
+[54:38] मैं example देता हूं इसका भी
+
+[54:41] कि
+
+[54:44] खाता बुक किसने सुना है? बहुत सारे लोगों ने सुना होगा। Right?
+
+[54:48] तो wealth जो है ना वह mostly B2B में अगर हम बात करें Business to Business, जब आप
+
+[54:54] companies को help करते हो पैसा बनाने में। More patients in the clinic या more
+
+[54:59] admissions in the coaching center या more orders in a restaurant.
+
+[55:04] Restaurant की मैं आपको example दूँ। For example, you have to learn about the
+
+[55:08] industries. Restaurant का एक example है।
+
+[55:11] I know यह presentation नहीं है लेकिन मैं आपको personal example भी दे सकता हूँ।
+
+[55:15] Restaurant का example यह है
+
+[55:18] कि एक survey हुआ था। अगर पहली बार आपके restaurant में कोई
+
+[55:24] customer आ रहा है। अगर आप पहली बार उसको बहुत अच्छी service दे देते हो ना तो सिर्फ
+
+[55:28] 40 to 45% chance होते हैं कि वह next time भी आपके restaurant में आएगा। अगर आप
+
+[55:34] दूसरी बार भी उसको बहुत अच्छी service दे देते हो ना तो chances 57% तक हो जाते
+
+[55:39] हैं। अगर आप तीसरी बार भी बहुत अच्छी service दे दो ना तब chances हो जाते हैं 72 to
+
+[55:45] 75% के अब वह आपके पास fourth time भी आएगा। तो basically three
+
+[55:51] times अगर आप अच्छी service देते हो तब आप समझ सकते हो कि यह आपका regular customer हो
+
+[55:55] गया है। और restaurant owners बहुत पैसे खर्च करते हैं इस चीज को capture करने के
+
+[56:01] लिए। Restaurant owner Swiggy को भी पैसे देते हैं, Zomato को भी पैसे देते हैं, ads
+
+[56:06] भी run करते हैं, बहुत कुछ करते हैं। लेकिन एक simple सा तरीका मैं बताता हूँ।
+
+[56:12] एक restaurant owner है, उसकी chain of restaurants है। वह क्या करता है basically, जब
+
+[56:17] भी उसके restaurant में एक नया customer आता है ना, सबसे पहले आके उसको जो manager है,
+
+[56:21] जो waiter है वह greet करता है। वह पूछता है कि आप पहली बार आए हो या पहले भी आए हुए
+
+[56:25] हैं यहाँ पे? वह बोलता है, "पहली बार आया हूँ।" तो उनका जो napkin का color होता है ना
+
+[56:29] वह red color का napkin रख देते हैं। बाकी सबका अगर white है ना तो उसका red color का
+
+[56:34] napkin है। उससे manager को पता चल जाता है कि यह नया customer है।
+
+[56:38] अब खाना तो obviously basic सी बात है ना। Restaurant में अच्छा, tasty और
+
+[56:45] clean होना चाहिए और tasty होना चाहिए। तो basic सी बात अगर यही नहीं तो restaurant
+
+[56:48] में क्या चलेगा? वो तो basic सी चीज है। तो एक तो वह, खाना तो अच्छा है। Service
+
+[56:54] अब अच्छी ऐसी थी कि manager आएगा पूछेगा, "भई खाना कैसा लगा आपको?" Client बोलेगा,
+
+[56:59] customer बोलेगा, "बहुत अच्छा था। खाना बहुत अच्छा था।" तो manager बोलेगा, "आप पहली
+
+[57:04] बार हमारे restaurant में आए हो। मैं आपको एक favor करना चाहता हूँ। यह मेरा
+
+[57:10] card है।" Card के पीछे लिख दिया। Next time जब आप आओगे ना तो यह मेरा card दे देना।
+
+[57:15] पीछे मेरे sign किए हुए हैं 20% discount मिल जाएगा आपको।
+
+[57:19] Second time वह आया 20% discount में। अब 20% discount और अच्छा खाना मिल रहा है तो
+
+[57:23] क्यों नहीं जाएगा वहां पे?
+
+[57:26] Second time आया manager आया दोबारा पूछा, "ओह!" जब उसने card दिया उसके
+
+[57:32] पीछे उस बंदे का भी नाम लिखा हुआ है, customer का भी नाम लिखा हुआ है। अब waiter को
+
+[57:35] पता लग गया कि यह customer का नाम क्या है और manager ने इसको second time बुलाया था।
+
+[57:39] Manager को उसने जा के बता दिया waiter ने। "यह बंदा आया है दोबारा तो आप जाओ।" अब
+
+[57:44] manager को उसका नाम भी पता लग गया। Manager जाएगा वापस उसके पास, "Hello John, कैसे
+
+[57:48] हो आप?" अब उसको लगेगा manager को उसका नाम याद है और 20% discount मिल रहा है। "खाना
+
+[57:54] कैसा लगा आपको?" "बहुत बढ़िया लगा।" "Thank you so much आपका positive feedback के
+
+[57:58] लिए। यह मेरा card रखो। Next time आओगे ना यह dessert खाना, इस पे 10% extra discount
+
+[58:03] दे रहा हूँ आपको।"
+
+[58:06] तीन बार हो गया। अच्छी service मिल गई। अब वो पक्का customer बन गया उस restaurant का।
+
+[58:15] तो कहने का मेरा मतलब यह है आप जिस industry को belong करते हो ना या जिस
+
+[58:20] industry में जाना चाहते हो उसके बारे में और सीखो, थोड़े statistics देखो और उनको ऐसी
+
+[58:25] services दो जिनसे वह पैसे ज्यादा कमा पाएँ। तो मेरा point यह था कहने का। ऐसी आप
+
+[58:30] strategies बहुत सारे device कर सकते हो। आप app बना सकते हो। जैसे जब मैंने example
+
+[58:36] दिया। ऐसे बहुत सारे और examples हैं restaurant industry को लेकर। अगर आप उसका
+
+[58:40] knowledge base बनाओ, उस knowledge base को आप add करो और apps के साथ connect करो या
+
+[58:45] custom ChatGPT, custom Chat GPT जो दीपक ने बताया था Thursday को मेरे training के
+
+[58:49] बाद। वह बना के दो तो restaurant owners को subscription बेच सकते हो अपने platform
+
+[58:53] की। उनको बोलो कि यहाँ से you can take the ideas। I can guarantee you कि अगर आप Chat
+
+[58:58] GPT से जा के ऐसे पूछो ना कि I want to grow my customer base as a restaurant owner.
+
+[59:02] यह example नहीं मिलने वाला वहां पे।
+
+[59:07] यह example आपके platform से मिल जाएगा क्योंकि आपने study करी होगी उस platform, उस
+
+[59:11] particular industry के बारे में। और आप उस knowledge को
+
+[59:17] इस platform में जा के use करके app बना सकते हो, subscription बेच सकते हो।
+
+[59:23] That is what I am talking about.
+
+[59:29] तो मैं वापस जाता हूँ और मैं इसका example देता हूँ फटाफट and we move forward.
+
+[59:34] Main बात यह है कि आपको point समझ आना चाहिए।
+
+[59:37] तो हर किराने store पे, hardware की shop पे एक magic word होता है "उधार", "भैया लिख
+
+[59:43] लो next week दे दूंगा।" तो एक खाता book का जो founder Vaibhav Kalpe करके उसने देखा
+
+[59:49] अपने father की struggle को कि exactly यही struggle हो रही है। तो उसने एक simple सी
+
+[59:52] चीज करी। उसने एक वही खाता related app बना दी
+
+[59:58] and now उसके dad पैसे नहीं lose करते क्योंकि उसमें हर चीज का record आ रहा
+
+[01:00:03] है। Simple सी चीज।
+
+[01:00:08] कोई ज्यादा subscription पैसे रखने की, ज्यादा subscription नहीं रखने की जरूरत थी।
+
+[01:00:11] ₹50 per month subscription रखो उसकी for example. Right?
+
+[01:00:18] अगर हम उसके बारे में बात करें Mamaearth के बारे में।
+
+[01:00:22] 2016 में, और मैं real example दे रहा हूँ। मेरे को ये बने बनाए examples नहीं देना,
+
+[01:00:26] मैं real examples । गज़ल अलग करके है जिनके घर में first अपना baby हुआ, जो basically
+
+[01:00:32] Mamaearth की founder हैं। तो she realized कि as a parent
+
+[01:00:39] आपको एक feeling different होती है अपने बच्चों के लिए। कि room ज्यादा ठंडा है, कि
+
+[01:00:44] room ज्यादा गर्म है। बच्चे ने ज्यादा खाया कि नहीं खाया। यह सारी feelings जो
+
+[01:00:50] थीं, यह सारी feelings को समझ के उन्होंने यह देखा कि कोई ऐसा product नहीं है market
+
+[01:00:55] में जो creams वगैरह जो बच्चे को लगानी होती हैं। जो इन सब चीजों के इस thought
+
+[01:01:00] process को लेकर कि creams भी ऐसी नहीं है जो एक माँ अपने बच्चे को comfortably लगा
+
+[01:01:05] सके। अगर वो इतनी worry कर रही है कि कैसा-कैसा उसका environment होना चाहिए। तो जो
+
+[01:01:10] ingredients use हो रहे हैं products में उसके लिए भी तो माँ worry करेगी ना। तो उसने
+
+[01:01:14] उन ingredients को ध्यान में रख के ऐसे ingredients डाले जो parents use करते हैं।
+
+[01:01:21] BharatMatrimony
+
+[01:01:23] same thing.
+
+[01:01:26] मैं example में definitely नहीं जाना चाहता because you get the point.
+
+[01:01:30] So where do you fit in? Basically आप कहाँ fit होते हो। So far हमने बात कर ली market
+
+[01:01:36] के बारे में
+
+[01:01:38] और business सिर्फ numbers की बात नहीं होती। इसमें और बहुत सारे factors होते हैं कि
+
+[01:01:42] अगर आपको वो चीज बिल्कुल पसंद नहीं है तो आप शायद वो चीज नहीं करोगे, तीन महीने बाद
+
+[01:01:48] छोड़ दोगे। तो इसका जो एक funda है कि आप कैसे अपनी
+
+[01:01:54] एक niche pick करो in addition to the things जो मैंने बताई। वो यह है, उसको बोलते हैं
+
+[01:01:59] Ikigai.
+
+[01:02:01] यह एक Japanese concept है। तो आपको क्या करना है basically आपको चार lists बनानी
+
+[01:02:06] हैं। एक list बनानी है और जब list बना रहे हो ना तो बाकी की चीजों के बारे में नहीं
+
+[01:02:12] सोचना। आपको जो पहली list बनानी है उसमें सिर्फ यही लिखना है कि आपको क्या-क्या चीजें
+
+[01:02:16] करने में बहुत मजा आता है। The things that you love doing.
+
+[01:02:20] उसकी list बनाओ पहले बिना सोचे समझे। दूसरी list बनाओ कि आप किन चीजों में अच्छे हो।
+
+[01:02:30] जरूरी नहीं है कि जिन चीजों में आप अच्छे हो आपको वो करने में भी मजा आ रहा हो। मैं
+
+[01:02:34] example देता हूँ। For example, मुझे चाय बनानी बहुत अच्छी आती है लेकिन मुझे चाय
+
+[01:02:39] बनाने में कोई मजा नहीं आता।
+
+[01:02:41] बना में लेता हूँ लेकिन मुझे मजा नहीं आता। ठीक है। So that's different.
+
+[01:02:45] The things that you love doing and things that you are good at, हमेशा वो चीजें same
+
+[01:02:49] नहीं होती।
+
+[01:02:51] तीसरी list बनाओ कि लोगों को किन-किन चीजों की जरूरत है आज के time पे। उन सब चीजों का
+
+[01:02:57] ध्यान रखना जो अब से पहले मैंने explain कर दी हैं। कैसे find out करोगे किस-किस चीजों
+
+[01:03:02] की जरूरत है लोगों को? उनको ध्यान में रख के एक list बनाओ कि लोगों को किस-किस चीज की
+
+[01:03:06] जरूरत है। चौथी list बनाओ कि किस चीज के लिए लोग पैसे दे सकते हैं। Again, we have
+
+[01:03:11] covered that part. अब आपके पास चार lists हो गई। अब इन चार lists में से the things
+
+[01:03:16] that you love doing, things that you are good at, things that what people need and
+
+[01:03:20] what people will pay for. इन चारों lists में जो आपको common चीजें दिख रही है ना
+
+[01:03:25] that is the sweet spot. Focus on that.
+
+[01:03:35] समझ आई मेरी बात?
+
+[01:03:50] बहुत तेज मैं बोल रहा हूं। I'm just giving you guys a little bit of break as well।
+
+[01:03:54] थोड़ा grasp कर ले mind।
+
+[01:04:02] एक funda और बताऊं?
+
+[01:04:08] बहुत सारी चीजें cover कर ली। एक funda और बताऊं? Let's cover that as well quickly.
+
+[01:04:17] Examples छोड़ देते हैं। ठीक है। आपको समझ आ रहे हैं examples, I'm just gonna leave
+
+[01:04:20] that. लोग आपके offer को लेकर हाँ क्यों बोलेंगे?
+
+[01:04:31] इसका answer है इस equation में।
+
+[01:04:36] How people decide if something is worth it?
+
+[01:04:40] Dream outcome, the result that people badly want.
+
+[01:04:44] इसका example देता हूँ अभी। पहले यह equation देख लो क्या है। Maths के equations समझो
+
+[01:04:48] इसको। क्या chances हैं कि यह काम करेगा?
+
+[01:04:53] यहां पर आते हैं आपके testimonials.
+
+[01:04:57] Time delay. कितना time लगेगा उस चीज को achieve करने में। Effort and
+
+[01:05:02] sacrifice. आपके client को कितना effort करना पड़ेगा और कितना sacrifice करना पड़ेगा
+
+[01:05:08] उस चीज को achieve करने के लिए। यहां पर आता है cost.
+
+[01:05:11] पैसे, time, investment, हर तरीके के investment.
+
+[01:05:15] तो ये जो ऊपर वाली चीजें हैं, इनको आपको maximize करना है। इन दोनों चीजों को आपको कम
+
+[01:05:21] से कम करना है अपने offer में।
+
+[01:05:24] कहने का मतलब यह है कि आपको यह confirm करवाना है लोगों को उनका जो dream outcome है,
+
+[01:05:29] वह achieve
+
+[01:05:33] कर पाएंगे लोग बहुत easily,
+
+[01:05:37] जो भी उनको results चाहिए। For example, मैं example देता हूं। आप अगर
+
+[01:05:44] एक weight loss का package बेच रहे हो, fat loss का package बेच रहे हो,
+
+[01:05:49] उस time के दौरान जब शादियां हो रही हैं।
+
+[01:05:54] वहां पर आप यह बोलोगे guaranteed will make you lose
+
+[01:06:00] three to four inches in one month.
+
+[01:06:04] यह आपकी एक statement हो गई। और आप यह बोल रहे हो कि guaranteed three to
+
+[01:06:10] four inches-- okay, let me rephrase.
+
+[01:06:13] एक आपकी statement हो गई,
+
+[01:06:15] you will lose fat before your marriage.
+
+[01:06:19] एक यह statement हो गई।
+
+[01:06:21] तो यह outcome आ गया you will lose fat, ऊपर वाला।
+
+[01:06:26] लेकिन आपके पास कोई testimonials नहीं
+
+[01:06:28] है। तो लोगों को
+
+[01:06:33] विश्वास नहीं होगा।
+
+[01:06:36] Testimonials थोड़ा जरूरी है। Time delay और आप बोल रहे हो एक महीना लगेगा। Effort और
+
+[01:06:41] sacrifice, आपको यह बोल रहे हो कि you will have to stop eating
+
+[01:06:46] your favorite foods और आपका जो package है वह ₹25,000, ₹50,000 का package है,
+
+[01:06:50] whatever it is.
+
+[01:06:52] तो आप बोल रहे हो कि आपको sacrifice बहुत ज्यादा करना पड़ेगा।
+
+[01:06:56] Time आपको लगेगा let's say दो से तीन महीने।
+
+[01:07:00] आपका हम fat loss करवा देंगे। लेकिन कोई testimonials नहीं है हमारे पास।
+
+[01:07:05] दूसरा, इसी scenario को लेकर अगर मैं इसी industry को, fat loss की industry को लेकर
+
+[01:07:10] अगर मैं दूसरा solution लेकर आऊं। मैं बोलूं, आपको मैं fat loss की बात नहीं कर रहा। I
+
+[01:07:15] am saying you will be able to fit in the dress that you want for your marriage.
+
+[01:07:22] We have helped hundreds of people, और testimonials दिखाओ, that have
+
+[01:07:28] enjoyed their weddings a lot more because they were in their favorite dress.
+
+[01:07:33] We will make you achieve this in next one month and the only amount you have to pay
+
+[01:07:38] is let's say ₹5000-10,000, whatever it is.
+
+[01:07:41] तो आपने effort, without stopping your favorite foods.
+
+[01:07:46] तो आपने sacrifice कम कर दिया, investment कम कर दी, time delay कम कर
+
+[01:07:52] दिया। तीन महीने के जगह आप एक महीने में कर रहे हो। Dream outcome, आपने उनको यह बताया
+
+[01:07:56] कि favorite dress आप पहनकर आ सकते हो और आपने testimonials दिखा दिए। इन चीजों पर
+
+[01:08:02] जब आप ध्यान रखोगे, you will be able to create a winning formula in
+
+[01:08:08] your offer कि लोग आपको ना नहीं बोल पाएंगे because आपने वह सारी चीजें cover कर
+
+[01:08:14] लीं जो
+
+[01:08:17] लोग चाहते हैं।
+
+[01:08:21] समझ आ रही है? Open the chat again. I just want to have a feel of how is it going.
+
+[01:08:29] Open the chat again, please.
+
+[01:08:35] समझा? जो भी चीजें cover करी।
+
+[01:08:40] समझा कि आज का bootcamp क्यों जरूरी था?
+
+[01:08:44] समझा कि मैं रात के 2:00 बजे भी क्यों इतना enthusiastic हूं?
+
+[01:08:47] Because I know this is a very important topic for you to understand.
+
+[01:08:52] एक और चीज दिखाऊं?
+
+[01:08:58] एक और चीज दिखाऊं?
+
+[01:09:06] Let me share my screen again.
+
+[01:09:12] हमने
+
+[01:09:17] एक चीज करी।
+
+[01:09:20] हमने चीज क्या करी?
+
+[01:09:23] जो platform है ना हमारा AppDaddy,
+
+[01:09:28] उसमें हमने app बना दी niche finder की।
+
+[01:09:33] तो आपको कुछ नहीं करना। आपको यह answers देने हैं यहां पर कि आपका skill क्या है और
+
+[01:09:39] आपकी expertise क्या है, आपको क्या करना अच्छा लगता है।
+
+[01:09:43] Tell us about your professional experience. What is your current occupation?
+
+[01:09:47] What type of business do you want to build? Where do you want to sell?
+
+[01:09:51] यह चार-पांच questions के जब answer दे दोगे आप,
+
+[01:09:56] तो एक ऐसा plan बनकर आ जाएगा
+
+[01:10:03] with proper research,
+
+[01:10:06] with proper guidance, with your customer profile.
+
+[01:10:13] जो-जो चीजें मैंने अभी बात करी
+
+[01:10:19] है, वह सारी की सारी चीजें हमने
+
+[01:10:25] automate कर दी हैं
+
+[01:10:28] और वह पूरी research करके आपको end में niche पता लग जाएगी, offer बनकर आ जाएगा
+
+[01:10:34] and you don't have to remember all of this stuff.
+
+[01:10:42] मजा आया?
+
+[01:10:46] मजा आया?
+
+[01:10:52] So
+
+[01:10:54] this is why it was very important आज का जो bootcamp था। अभी तो शुरुआत
+
+[01:11:00] हुई है। Right? अभी the entire day is pending.
+
+[01:11:06] गौतम आएगा अभी। He is gonna cover a few things as well.
+
+[01:11:10] तो आज का दिन बहुत interesting रहने वाला है। And the reason why-- एक चीज शायद आप
+
+[01:11:16] लोगों को नहीं पता थी, वह यह थी-- मुगंबा खुश हुआ। आनंद आईयर जी thank you.
+
+[01:11:21] आप वह red button नहीं दबा रहे, missile वगैरह launch नहीं कर रहे। Mr. India मैं Mr.
+
+[01:11:27] Canada हूं, तो मेरे को फर्क पड़ने वाला था नहीं। यहां पर missile पहुंचने नहीं थी
+
+[01:11:31] आपकी। So the point was कि we
+
+[01:11:37] wanted कि जो लोग regular join कर रहे हैं, यह जो बातें हम कर रहे हैं आज,
+
+[01:11:43] यह सारी की सारी बातें ऐसी बातें हैं, हम यह continuously करने वाले हैं और हम
+
+[01:11:49] उन calls की invitation सिर्फ उन्हीं को भेजेंगे जिन्होंने live calls attend करी हैं।
+
+[01:11:56] Right? Because हम अगर इतनी मेहनत कर रहे हैं, we also want वह लोग जो मेहनत करें
+
+[01:12:02] हमारे साथ बैठकर। Right? We are building a community.
+
+[01:12:05] We are not just building, we are not just selling our products, we are building a
+
+[01:12:08] community. simple सी बात एक और गौतम ने बोली थी कि एक ethical AI community जो हम बना
+
+[01:12:14] रहे हैं, एक लाख entrepreneurs की, वह ऐसे ही नहीं बनने वाली। मेहनत हमें भी करनी
+
+[01:12:18] पड़ेगी, आपको भी करनी पड़ेगी, साथ में मिलकर चलना पड़ेगा। Right?
+
+[01:12:21] So with that
+
+[01:12:24] I am going to hand it over to Gautam.
+
+[01:12:26] But before that अपने लिए because I want a testimonial for myself as well.
+
+[01:12:33] So मैं I am not very active on social media because मैं behind the scenes ज्यादा
+
+[01:12:38] रहता हूं। You know, I focus on the technology and other parts and all that stuff.
+
+[01:12:42] I am going to start coming up on social media more and more.
+
+[01:12:45] अपनी social media पर post करना start करने वाला हूं। So I am gonna do two things.
+
+[01:12:49] एक तो मैं अपना Instagram handle यहां add कर रहा हूं। In case you
+
+[01:12:55] want to follow me on Instagram, you can go there and follow me there.
+
+[01:12:58] I'm going to start posting more and more.
+
+[01:13:00] Second, I'm going to record a short video of your testimonial.
+
+[01:13:04] Aarav, just let me know how was the session so that I can just record that for
+
+[01:13:10] myself. How was the session? Can I have that in the chat?
+
+[01:13:15] Is chat open?
+
+[01:13:20] Thank you.
+
+[01:13:26] All right. Thank you so much, guys.
+
+[01:13:29] And with that, I am going to leave you for now and
+
+[01:13:35] I hope to see you in the community in other lessons.
+
+[01:13:41] It was awesome. Thank you so much for joining and you have been a great audience,
+
+[01:13:46] guys. Thank you so much for your feedback. Thank you for joining on regular basis.
+
+[01:13:50] I am telling you, guys, I am telling you, there's nothing that can stop us,
+
+[01:13:55] stop India actually to become the first pioneers, in terms of AI
+
+[01:14:01] entrepreneurs.
+
+[01:14:03] enthusiasm. I think
+
+[01:14:07] we just need the zeal. We need to be just a little more focused on what we want to
+
+[01:14:12] do. Right? चलो ठीक है। Thank you so much. Gautam, I am handing it over to you.
+
+[01:14:17] I know मैं थोड़ा time और खा लिया आपका, but it was worth it. Thank you, guys.
+
+[01:14:22] Gautam, are you there?
+
+[01:14:24] Yeah, I am here.
+
+[01:14:26] All right.
+
+[01:14:26] Amazing session. So
+
+[01:14:33] all right. I hope कि आपको बहुत important session
+
+[01:14:39] insightful लगा होगा। और Darsh हमेशा बहुत detail में बात करता है। Examples उसके बहुत
+
+[01:14:44] fantastic होते हैं। जैसे कि आपने सुने होंगे। जो easily आपको समझ में आ जाए। तो
+
+[01:14:50] he is a great entrepreneur कह सकते हैं। So now,
+
+[01:14:59] थक गए क्या?
+
+[01:15:01] कि शुरू हुआ है। Exercise करोगे yoga का?
+
+[01:15:08] थोड़ा सा smiling face के बगैर मैं charge नहीं होता। मैं charge नहीं होगा तो मैं कुछ
+
+[01:15:12] कर ही नहीं पाऊंगा आपके साथ। तो
+
+[01:15:16] good. और camera बंद वापस कर दिया आपने कुछ लोग। उनको भी नाम नहीं लेता, उनको शांति
+
+[01:15:21] रखा। Camera बंद नहीं चाहिए मुझे।
+
+[01:15:27] Good morning, everyone. Good morning.
+
+[01:15:31] कुछ लोग सुधरेंगे नहीं, होता कुछ भी कर लो आप। Sir, मैं थोड़ी
+
+[01:15:37] सुधरूंगा। मैं तो
+
+[01:15:41] महापुरुष हूँ। महापुरुष थोड़ी सुधरते हैं।
+
+[01:15:45] चलिए ठीक है।
+
+[01:15:48] So उम्मीद करता हूँ कि
+
+[01:15:52] आप चीजों को gain कर रहे हैं और implement करने की दिशा में आगे
+
+[01:15:58] बढ़ रहे हैं। क्योंकि चीजें पता बहुत चल जाती है। जब हम session करते हैं, motivation
+
+[01:16:02] आता है, पर चीजें जब implement करने की बारी आती है तो उस time पर
+
+[01:16:08] कहीं न कहीं challenge face होते हैं। और कल बात जो एक करी थी मैंने कि action ही आपको
+
+[01:16:14] clarity दे सकता है और कोई भी तरीका नहीं है उसका। और action लेने के लिए
+
+[01:16:20] procrastination यह आपका सबसे बड़ा दुश्मन है। इसको हमें खत्म करना बहुत जरूरी है।
+
+[01:16:27] तो Darsh ने niche के ऊपर बहुत अच्छा topic लिया। वैसे niche के ऊपर एक app already
+
+[01:16:33] आपके पास available है, जो कल भी मैंने बताया था आपको demo के दौरान। उसको detail में
+
+[01:16:38] तो नहीं बताया मैंने। पर हाँ, वह app इतना आसान है कि आप अपने niche को clear करके,
+
+[01:16:43] अपने mind को clear करके अपने business को launch कर पाएंगे। मैंने आपको कल कहा था कि
+
+[01:16:48] जब तक आपका mind clear नहीं है, तब तक आपका business में profit आना और आपके सामने
+
+[01:16:52] वाले customer के mind को clear करना यह possible नहीं है। Right?
+
+[01:16:56] तो अभी तक का session आपको समझ में आया तो thumbs up करिए और हम आगे बढ़ जाएं फिर।
+
+[01:17:07] तो अभी मेरा जो session है
+
+[01:17:11] वह human intelligence के ऊपर है।
+
+[01:17:15] जो कि founder के mindset के ऊपर topic है अभी का। उसके बाद हम 45 minute का
+
+[01:17:21] lunch break रखेंगे आपके लिए।
+
+[01:17:23] Lunch आपको खुद के घर पर ही करना पड़ेगा। यहां से service नहीं हो पाएगी।
+
+[01:17:30] और उसके बाद Deepak का class है
+
+[01:17:36] जो Claude को लेकर है।
+
+[01:17:39] Without touching the laptop how you can create the AI agent?
+
+[01:17:42] वह lunch के बाद रखा है। क्योंकि कुछ लोग हैं ना lunch तक और उसके बाद गायब हो जाते
+
+[01:17:47] हैं। तो चीजें हम ऐसे ही रखते हैं कि
+
+[01:17:52] लोग रहे। ठीक है। और उसके बाद फिर मैं दोबारा आऊंगा 3:00 बजे। और
+
+[01:17:58] communication के ऊपर एक मेरा part है बहुत important.
+
+[01:18:03] और फिर मैं आपको एक link दूंगा जिससे आप अपने आप को AI
+
+[01:18:08] certified और AI specialist market में घोषित कर पाएंगे,
+
+[01:18:14] launch कर पाएंगे, दिखा पाएंगे। वह सब कुछ automatic होगा।
+
+[01:18:21] आपको आज एक virtual teacher भी मिलने वाली है gift में। ठीक है?
+
+[01:18:27] तो सब कुछ virtual होगा। AI virtual है ना, illusion है सारा। तो thank
+
+[01:18:33] you so much। कितने heart symbol दोगे?
+
+[01:18:35] इतना तो प्यार मुझे शादी के time पर। हाँ जी, इतना प्यार कर रहे हो आप।
+
+[01:18:42] Thank you so much.
+
+[01:18:44] Let's start with the session now. Hope you are ready.
+
+[01:18:53] थोड़ा सा insightful session होगा अभी का।
+
+[01:18:58] Camera बंद कोई करेगा नहीं।
+
+[01:19:07] अच्छा, कल का class मजा आया था?
+
+[01:19:11] कल के class में मजा आया था? रास्ता दिख रहा था? अच्छा, नींद किस-किस को आई?
+
+[01:19:18] जिसको नींद नहीं आई, वह heart
+
+[01:19:21] symbol करे। मैंने बोला था ना कल, नींद नहीं
+
+[01:19:27] आएगी, थोड़ा गड़बड़ रहेगा।
+
+[01:19:29] अच्छा, इतने लोग हैं। Oh my God! Sorry.
+
+[01:19:34] चलिए। Welcome to claimskills.ai.
+
+[01:19:37] Again, AI specialist bootcamp and
+
+[01:19:43] this is artificial and human intelligence.
+
+[01:19:48] तो यह जो statement है, शुरू कर रहा हूँ मैं।
+
+[01:19:51] यह
+
+[01:19:53] Christopher Parker का बहुत important statement है,
+
+[01:19:57] जो कि famous भी है।
+
+[01:20:00] सब कुछ होने के बाद भी क्यों लोग achieve नहीं कर पाते?
+
+[01:20:05] क्योंकि वह एक credit card की तरह अपने आप को एक ऐसी आदत में डालते हैं। और जब उनको
+
+[01:20:11] पता चलता है कि bill इतना बड़ा आ चुका है life का कि यार मेरे को 30 साल हो गए पैदा हो
+
+[01:20:16] गए, 50 साल हो गए पैदा हो गए पर अभी तक मैंने किया क्या?
+
+[01:20:20] Self-realization बहुत important है, दोस्त। बाकी सब चीजें तो हो रही है आपके पास।
+
+[01:20:26] पर यह जो अंदर का perception है आपका, उसको change कैसे करें?
+
+[01:20:33] मैं आपको एक और question पूछना चाहता हूँ कि आप ऐसे लोगों को जानते हो
+
+[01:20:39] जो आपसे कम talent रखते हैं और आपसे कम capability रखते हैं पर वह आपसे ज्यादा पैसे
+
+[01:20:44] कमा रहे हैं। ऐसा observe किया है आपने कभी?
+
+[01:20:50] अगर हाँ तो बस मुंडी हिलाइए, क्योंकि camera on है ना।
+
+[01:20:55] ऐसा क्यों होता है कि talent हमारे पास है, capability हमारे पास है, मेहनत करना हम
+
+[01:21:01] चाहते हैं, फिर भी हम ज्यादा पैसे क्यों नहीं कमा पा रहे? कहाँ दिक्कत हो रही है?
+
+[01:21:06] क्या यह psychological दिक्कत है? या यह luck का problem है?
+
+[01:21:10] या यह
+
+[01:21:12] कुछ ऐसा है जो हम miss कर रहे हैं? कोई तो secret है जो successful लोगों को पता चल
+
+[01:21:17] चुका है और हमें पता नहीं चल पा रहा है।
+
+[01:21:20] तो आज एक money map framework भी मैं आपको बताने वाला हूँ। Actually में problem कहाँ
+
+[01:21:24] होती है? यह बहुत बड़ा research का topic है। आप जानते हो कि by passion मैं life
+
+[01:21:28] coach भी हूँ। By profession obviously मेरी AI startup की कंपनियां हैं। पर हाँ,
+
+[01:21:38] आज जितने भी कामियाब लोगों को आप देखते हो, वह लोग
+
+[01:21:43] अपने ऊपर ज्यादा काम करते हैं। उसके बाद अपने business में ज्यादा काम करते हैं। सही
+
+[01:21:48] बोल रहा हूँ मैं?
+
+[01:21:50] शुरू करना बहुत आसान होता है। शुरू करना problem नहीं है। Problem कहाँ है?
+
+[01:21:55] Challenge कहाँ है? उसको finish करना। Start is not difficult
+
+[01:22:02] Finish is the real game. तो initiative and finitiative इस चीज को हमें समझना
+
+[01:22:08] होगा। जैसे कई लोगों ने शुरू किया था इस course को भी, पर finitiative के time पर
+
+[01:22:13] कितने लोग यहां पर हैं? यह देखिए आप। इसी वजह से winner बहुत कम होते हैं।
+
+[01:22:19] तो एक मैं secret formula आपको देना चाहूंगा, जो कि एक C.A.R formula है, जिसको मैंने
+
+[01:22:24] हमेशा use किया। आप में से कितने लोगों को यह पता है। What is C.A.R formula?
+
+[01:22:29] जब आप अपना AI का business शुरू करोगे
+
+[01:22:33] या कोई भी AI की help से business शुरू करेंगे, तो यह C.A.R formula मेरे को हमेशा
+
+[01:22:39] life में काम आया है। जिसकी वजह से मैं कभी demotivate नहीं हुआ और हुआ तो मैं
+
+[01:22:44] तुरंत motivate हुआ। तुरंत मैं active हो गया।
+
+[01:22:49] और यह चीजें इतनी आसानी से नहीं हुई। अगर थोड़ा सा मैं insight दूं मेरे बारे में।
+
+[01:22:55] मैंने अपने career की शुरुआत करी थी 16 साल की age में। At the age of 16 I started my
+
+[01:22:59] career from Mumbai. मैं born and brought up Mumbai का हूँ। और
+
+[01:23:06] Mumbai में
+
+[01:23:08] इतना आसान नहीं था। मेरे mom-dad ने 18 times मकान change करे हैं और उस time पर
+
+[01:23:15] बहुत challenges थे।
+
+[01:23:18] मेरे पापा का accident हुआ और वह hospitalized हुए और मैं 16 साल का था। पता नहीं चल
+
+[01:23:23] रहा था कि कैसे वहां से बाहर निकले, तो challenge face हुआ।
+
+[01:23:27] पर उस चीज को as a business family or as a Jain family, कभी भी दिमाग
+
+[01:23:33] में job का mind नहीं आया था। हाँ, risk तो था। Job के लिए मैंने search जरूर किया
+
+[01:23:38] था। पर मुझे opportunity मिली। मैंने marketing का business शुरू किया और
+
+[01:23:44] marketing के business में
+
+[01:23:46] काम करते हुए,
+
+[01:23:50] आप समझिए कि 16 साल में शुरू किया और 23 की मेरी age थी and 23rd
+
+[01:23:56] की age में मैं वह सारी चीजें achieve कर चुका था, जो चीजें achieve करने के
+
+[01:24:01] लिए हम सोचते हैं, हम dream देखते हैं। भले वो घर लेना, गाड़ी लेना, out of India जाना
+
+[01:24:06] और foreign trips करना, multiple properties लेना etc. पर यह क्यों हुआ?
+
+[01:24:11] यह इस C.A.R formula की वजह से हुआ। आप जब भी आगे बढ़ेंगे अपने program में, आप launch
+
+[01:24:16] करेंगे अपना business को, तो आपको कई सारे challenge आने वाले हैं। तो इसको लेकर मैं
+
+[01:24:21] थोड़ा सा आपको strong बनाना चाहता हूं। आपके mindset को strong बनाना चाहता हूं। तो
+
+[01:24:24] इसी वजह से यह topic बहुत important है। क्योंकि income सिर्फ technology से नहीं आती।
+
+[01:24:31] एक question मैं पूछता हूं आपको। आज Prime Minister को आप जानते हैं। अभी उनका
+
+[01:24:35] birthday गया। Prime Minister और President level पर जो लोग हैं, उनको रोज गालियां
+
+[01:24:39] मिलती हैं। Yes or no. तो वो अपने mindset को कैसे ठीक रखते हैं?
+
+[01:24:44] आपको अगर एक बंदा गाली दे तो आप अपना गुस्सा, आप अपना control छोड़ देते हो। ऐसा होता
+
+[01:24:48] नहीं होता अपने साथ। हम तो सहन भी नहीं कर पाते। तो हम कैसे बड़ा business खड़ा कर
+
+[01:24:54] पाएंगे? या फिर हम कैसे उस income को achieve कर पाएंगे, जो income के लिए हम सोच रहे
+
+[01:24:58] हैं। आज Elon Musk या बाकी जो level पर लोग हैं या Ambani है, Adani है
+
+[01:25:04] या कोई भी बड़ा entrepreneur है।
+
+[01:25:07] उनके haters और followers दोनों होते हैं। कोई भी बड़ा celebrity है, haters और
+
+[01:25:11] followers दोनों होते हैं। तो हम सीखते क्या हैं उनसे?
+
+[01:25:14] आप कभी भी ऐसा नहीं कर सकते कि आपके सभी follower ही हो जाए, आपका hater कोई रहे ही
+
+[01:25:19] ना। ऐसे बहुत गिने-चुने लोग हैं दुनिया में जिनके कोई hater नहीं है। जैसे Dr.
+
+[01:25:24] APJ Abdul Kalam जी और भी ऐसे कुछ लोग। ये legendary लोग
+
+[01:25:30] हैं। पर आप अगर उस category पर अपने आप को देखोगे नहीं। आप बोलोगे कि sir मैं उतना कुछ
+
+[01:25:36] करना ही नहीं चाहता बड़ा। मैं उतना बड़ा करने की बात नहीं कर रहा हूं। मैं उस mindset
+
+[01:25:40] की बात कर रहा हूं जो मैं आपके अंदर लाना चाहता हूं। हो सकता है आप में से कई लोगों का
+
+[01:25:44] mindset strong हो। पर AI एक नया business है। उसमें challenges अलग तरह की आएगी आपके
+
+[01:25:50] पास। Competition अलग तरह की आएगी आपके पास। पैसा तो बिल्कुल आएगा। पैसे की problem
+
+[01:25:55] नहीं है। पर उस पैसे को maintain करना वह सीखने वाली चीज है। Success को maintain
+
+[01:26:01] करना वह सबसे बड़ा success होता है। Success को achieve करना success नहीं होता।
+
+[01:26:07] मैं कई लोगों को जानता हूं जो रातों-रात successful बन जाता है और रातों-रात फिर वापस
+
+[01:26:12] road पर भी आ जाता है।
+
+[01:26:15] Yes or no. तो पैसा कमाने का कोई shortcut मैं नहीं समझता, ना तो कोई lottery का
+
+[01:26:19] ticket समझता हूं। एक proper genuine business model एक system और process से चलता है।
+
+[01:26:24] अगर वह चीज आपको समझ में आ जाती है, तो आप आपके अंदर leadership ला सकते हो और वहां से
+
+[01:26:30] आप अपनी team को develop कर सकते हो। C.A.R formula क्या कहता है ध्यान से समझ जाइए।
+
+[01:26:36] C.A.R formula का जो पहला C है, वह कहता है Change what you can change.
+
+[01:26:40] सबसे बड़ा challenge तो यह है कि हम खुद को बदलना नहीं चाहते। यह program सीखने के लिए
+
+[01:26:45] भी आपने बहुत बार सोचा और फिर जाकर apply किया। कितने लोग agree करते हैं इस बात को
+
+[01:26:50] लेकर thumbs up करेंगे। यह सबसे बड़ा problem है हमारा। पर जब हमें कोई समझाता
+
+[01:26:56] है तो उस time पर तो हमारी बात समझ में आ जाती है। पर हम जब एक-दो दिन चले जाते हैं,
+
+[01:27:01] तो हम दोबारा वैसे ही हो जाते हैं जैसे हम होते हैं। तो कैसे कोई कामयाब बना पाएगा
+
+[01:27:05] आपको? Hand holding करके भी। एक question मैं आपको पूछना चाहूंगा। Mount Everest पर
+
+[01:27:11] अगर चढ़ाई करनी है, आपका कितना भी जिगरी दोस्त हो या आपकी खुद की wife हो, आपका
+
+[01:27:15] husband हो,
+
+[01:27:18] वह आपको खींच-खींच के क्या Mount Everest पर चढ़ाई करवा पाएगा क्या?
+
+[01:27:22] नहीं हो पाएगा। आपको
+
+[01:27:25] उठा के भी वो नहीं ले पाएगा। तो यह एक तरीका नहीं है। तो बात यह है कि change what you
+
+[01:27:30] can change. जो change कर सकते हो उसको change कर लो। कब करोगे change?
+
+[01:27:36] कब करोगे change?
+
+[01:27:39] कल करेंगे। कल करेंगे। कल सुबह से शुरू करेंगे।
+
+[01:27:44] आया क्या कभी कल सुबह? आई क्या आपकी आज तक?
+
+[01:27:49] नहीं हो पाएगा वैसे। आज से शुरू करना होगा आपको। पर सब चीजें change भी तो नहीं कर
+
+[01:27:54] सकते ना। जैसे अगर hospital में बोल दिया कि तीन महीना इनकी सेवा करो, घर ले
+
+[01:28:00] जाओ। तो वो चीजें हम change नहीं कर सकते। तो कुछ चीजें हमारे control में नहीं होंगी।
+
+[01:28:06] तो अगर जो change कर सकते हैं, उसको change कर लो। पर जो change नहीं कर सकते उसका
+
+[01:28:10] क्या करें? Follow करो दूसरा A, C.A.R का A. A क्या कहता है?
+
+[01:28:15] Accept the situation as it is. क्या करें?
+
+[01:28:19] उस situation को accept करना होगा।
+
+[01:28:23] Solution का पहला step ही acceptance है। आप अगर किसी भी challenge में फंसे हो ना,
+
+[01:28:28] तो उस challenge को जितना जल्दी accept कर लोगे, उतना जल्दी solution की तरफ आगे
+
+[01:28:34] बढ़ोगे। Are you getting my point?
+
+[01:28:37] पर सबसे बड़ा problem है उसको accept करने में time लगता है। जितना late करोगे accept
+
+[01:28:41] उतना late solution होगा उसका। तो यह professional life में भी काम होता है,
+
+[01:28:47] personal life में भी काम होता है। मैं हमेशा एक चीज कहता हूं कि हमें चार life में
+
+[01:28:51] कामयाब होना है actually। जब हम ethical AI की बात कर रहे हैं और हमें community की
+
+[01:28:55] बात कर रहे हैं, तो personal life, professional life, social life और spiritual life।
+
+[01:29:00] यह चार life में कामयाब होने वाला व्यक्ति ही satisfaction feel करता है। Fulfillment
+
+[01:29:04] का एहसास उसको तभी होता है। क्या आपको चलेगा कि आप professional life में कामयाब हैं
+
+[01:29:09] और आप personal life में कामयाब नहीं हैं। आपको मजा आएगा? Happiness होगा आपके पास?
+
+[01:29:14] नहीं होगा। पर आप अगर personal life में कामयाब हैं, professional life में challenge
+
+[01:29:18] face कर रहे हैं। अगर आज इस situation में है, तब भी मजा नहीं आएगा। Yes or no.
+
+[01:29:22] तो यहां पर हम आपको overall सभी चीजें जो supportive चीजें हैं उसको
+
+[01:29:28] लेकर आपको हम ready कर रहे हैं so that you can become the leader.
+
+[01:29:31] Leader के अंदर कौन-कौन सी quality होनी चाहिए?
+
+[01:29:34] मैंने आपको इस orientation के time पर ही एक चीज कही थी कि we are looking for the
+
+[01:29:40] serious and commitment leadership.
+
+[01:29:44] याद है आप लोगों को? 150 करोड़ के देश को lead करने के लिए we want leadership और
+
+[01:29:49] leadership के अंदर यह सब चीजें हमें train करनी जरूरी है आपको। इस वजह से यह training
+
+[01:29:52] ली जा रही है। नहीं तो आप में से कुछ लोग कहेंगे, "Sir आप यह सब कुछ क्यों बता रहे हो?
+
+[01:29:56] आप सीधा point पर बात करो, technical बात करो और हम बाकी देख लेंगे।" कोई दिक्कत नहीं
+
+[01:30:00] है। वो तो हम बात कर ही रहे हैं और सारी चीज हो ही रही है। पर हम अपने process से चलते
+
+[01:30:05] हैं because हम अपनी community बना रहे हैं और उसको लेकर जो direction है, जो vision
+
+[01:30:09] है हमारा, उस चीज को लेकर we are looking for the serious people.
+
+[01:30:17] तो
+
+[01:30:19] accept कर लीजिए जितना जल्दी accept कर सकते हैं।
+
+[01:30:23] पर आप सब चीज accept भी तो नहीं कर सकते ना। तो क्या करें फिर?
+
+[01:30:27] जैसे अगर एक couple का शादी हुआ और तीन से छह महीने बाद उस wife को पता चला कि उसका
+
+[01:30:33] husband जो है वो gay है। क्या वो लड़की उसको accept कर पाएगी क्या lifetime के लिए?
+
+[01:30:39] नहीं कर पाएगी वो accept। तो क्या करें? Solution क्या है फिर?
+
+[01:30:43] Follow करें दूसरे R को। Next R.
+
+[01:30:47] What is that R?
+
+[01:30:50] जो change कर सकते हो, change कर लो। अगर कुछ change नहीं कर सकते हो तो उसको accept
+
+[01:30:55] कर लो। पर जो accept कर सकते हो उसको accept कर लो। पर जो accept नहीं कर सकते हो तो
+
+[01:31:01] remove yourself from that situation.
+
+[01:31:04] अपने आप को उस situation से remove कर लीजिए immediately. Don't delay.
+
+[01:31:10] अगर आपका breakup हो गया है, आपका divorce हुआ है या फिर कहीं problem face कर रहे
+
+[01:31:15] हैं, challenge face कर रहे हो, आपको लग रहा है कि नहीं यह चीज मैं accept नहीं कर
+
+[01:31:17] सकता।
+
+[01:31:19] If you feel that better accept करना ज्यादा better है और आगे बढ़ना ज्यादा better है।
+
+[01:31:25] लेकिन अगर आपको लगता है कि नहीं यह चीज acceptable नहीं है then उस चीज से remove करना
+
+[01:31:30] immediately that's the solution.
+
+[01:31:33] पर अब एक और challenge है। हर जगह से हम remove ही नहीं कर पाते हैं खुद को। Yes or
+
+[01:31:36] no?
+
+[01:31:38] हर जगह से remove कर पाते हैं क्या?
+
+[01:31:43] नहीं। तो क्या करें? Final solution क्या है sir बताइए ना। जैसे आप कहीं पर job कर रहे
+
+[01:31:49] हो और आपका boss toxic है।
+
+[01:31:52] वह रोज गालियां देता है, रोज pressure देता है, रोज torture करता है, बहुत काम देता
+
+[01:31:57] है, यह करता है, वह करता है। पर आपके EMIs हैं, bills हैं, बच्चों की fees हैं,
+
+[01:32:04] मजबूरी है आपकी और शायद इस वजह से आप वहां से remove नहीं कर पाते खुद को। आप pressure
+
+[01:32:09] में job करते हो।
+
+[01:32:12] तो solution क्या करें फिर? Final R क्या है?
+
+[01:32:14] जो बड़ा वाला R आ रहा है, car का।
+
+[01:32:18] मैं अपने team के साथ 50 लोगों के साथ Singapore गया था। उनको लेकर Marina
+
+[01:32:24] Bay Sands Hotel है, वहां पर हम रुके थे। उसके सामने Sentosa करके एक statue है।
+
+[01:32:31] लोग Sentosa statue पर photo खिंचवाने के लिए जाते हैं, जो famous है वहां पर। तो वह
+
+[01:32:36] Marina Bay Sands Hotel में नीचे उतरकर उसके पीछे से पूरा चक्कर लगाकर आपको चल कर आगे
+
+[01:32:41] जाना पड़ता है,
+
+[01:32:44] अगर आप पैदल जा रहे हैं।
+
+[01:32:48] तो दिक्कत क्या हो रही थी कि सीधा-सीधा आप वहां पर सीधा जा नहीं सकते क्योंकि बीच में
+
+[01:32:51] water है।
+
+[01:32:56] Next day हम Changi Airport पर थे Singapore में और हमारी flight थी।
+
+[01:33:02] मैं window seat पर बैठा था और flight ने takeoff किया, जो एक time पर बहुत बड़ा
+
+[01:33:06] hurdle था हमारे लिए। जो Marina Bay Sands Hotel था इतना बड़ा 57 floor का।
+
+[01:33:12] जब flight takeoff करा Marina Bay Sands Hotel मुझे नीचे से इतना छोटा लग रहा था और
+
+[01:33:17] मुझे कोई फर्क नहीं पड़ा उससे
+
+[01:33:19] और हमने bypass किया उसको। इसका मतलब The final R क्या है?
+
+[01:33:23] हर problem का solution। Rise above from all
+
+[01:33:29] situation.
+
+[01:33:33] Final solution है अपने आप को इतना ऊपर उठा लो कि बाकी सब problem इतनी छोटी
+
+[01:33:39] हो जाए कि आपको फर्क ही न पड़े।
+
+[01:33:42] आपने कभी flight से ऊपर देखा होगा तो हम इंसान की कोई value नहीं है।
+
+[01:33:47] आप अगर
+
+[01:33:49] moon से देखोगे तो हम दिखते भी नहीं है। हमारी Earth भी छोटा सा है। Universe में
+
+[01:33:53] देखोगे तो Earth exist ही नहीं। Earth खुद एक छोटा सा ball है।
+
+[01:33:58] तो हम किस चीज का tension पाकर बैठते हैं life में।
+
+[01:34:02] कौन जानता है हमें?
+
+[01:34:05] Sir, मेरे को जानते लोग, मेरी image खराब हो जाएगी। अरे!
+
+[01:34:08] image खराब होने के लिए पहले image बनानी पड़ती है।
+
+[01:34:13] इतना नहीं सोचने का। यह overthinking का problem है। Sir, मैं ऐसा करूंगा तो लोग क्या
+
+[01:34:18] सोचेंगे? वैसा करूंगा तो लोग क्या सोचेंगे?
+
+[01:34:20] मेरे को sir AI आता नहीं। अपने खुद को AI specialist कैसे बता दूंगा अचानक से। क्यों?
+
+[01:34:26] इस दुनिया में सभी चीजें अपने आके सीखी हैं ना।
+
+[01:34:29] तो क्यों नहीं बता सकते?
+
+[01:34:31] आपको proud करना है। कोई आपके घर पर खाना खिलाने नहीं आ रहा है। आपको अपने काम पर
+
+[01:34:35] focus करना है। Distraction बंद करना है।
+
+[01:34:40] हर काम में आप लोग यही बताएंगे आपको।
+
+[01:34:44] आपका competition उन अमीर बच्चों से नहीं है।
+
+[01:34:49] आपका competition है उनके पापा से।
+
+[01:34:54] समझ रहे हो कि नहीं समझ रहे हो आप?
+
+[01:34:58] इस challenge को लेकर चलें। मैं मेरी बात करूं। मेरे घर में बहुत problem थी।
+
+[01:35:04] एक time का मैंने कम से कम एक साल तक खाना नहीं खाया। मैंने life में एक time इतना
+
+[01:35:09] challenge face किया।
+
+[01:35:12] मेरे पापा जब hospital के ICU में admit थे तो वहां पर कोई help करने नहीं आया।
+
+[01:35:16] government hospital में आपको पता है कैसी situation होती है। मुझे कुछ idea नहीं थी।
+
+[01:35:19] मैं hospital के ICU के बाहर बैठकर रो रहा था। पता नहीं क्या करना है। पर उस
+
+[01:35:25] चीज को मैंने opportunity की तरह लिया कि अच्छा हुआ मुझे जल्दी responsibility मिल गई
+
+[01:35:29] है। 16 साल की उम्र में मुझे जल्दी responsibility मिल गई है, मैं जल्दी कामयाब हो
+
+[01:35:33] जाऊंगा। मैंने इस positive attitude से उस responsibility को लिया था
+
+[01:35:38] और business शुरू किया था। और मैं आपको बताऊं, इतनी आसानी से वह कामयाबी नहीं मिली। आप
+
+[01:35:43] आज जो देख रहे हैं कि हम कमा रहे हैं, मेरा नाम है यह, हमारी community बहुत अच्छा कर
+
+[01:35:47] रही है, Darsh बहुत अच्छा कर रहा है। Darsh की भी अपनी खुद की कहानी है बहुत strong।
+
+[01:35:52] Deepak की भी अपनी कहानी है। Deepak ने सारे business करे हुए हैं। It's not like that
+
+[01:35:56] कि straight forward हो गया।
+
+[01:36:00] 108 लोगों को मैंने
+
+[01:36:04] product sell करने की कोशिश करी थी। service sell करने की कोशिश करी थी एक महीने में।
+
+[01:36:09] और मैं कब की बात कर रहा हूं? 2006 की। जब कि social media नहीं था। सब कुछ manually
+
+[01:36:14] करना पड़ता था। एक महीने में 108 लोगों को अगर आप अपने product और service को sell
+
+[01:36:19] करने की कोशिश करते हो और एक भी sell नहीं आती है,
+
+[01:36:23] कैसा लगेगा आपको?
+
+[01:36:26] यह मेरे साथ हुआ है। एक बंदे ने भी purchase नहीं किया।
+
+[01:36:33] आप just imagine करो। और बात सिर्फ इतनी नहीं है। बात यह है कि hospital के bill दे
+
+[01:36:37] रहे थे। घर में कोई income source नहीं था। Rent भरना था। 18 बार rent का मकान change
+
+[01:36:43] करना कोई आसान नहीं होता Mumbai जैसे शहर में।
+
+[01:36:47] तो वह जो situation थी, हो सकता है आपकी situation और अच्छी story हो
+
+[01:36:53] आपके पास।
+
+[01:36:55] मैं मेरी बता रहा हूं। यहां पर mindset काम आता है दोस्त। जब 108 लोग आपको मना कर दे
+
+[01:37:01] तो आप खुद पर doubt करने लगते हो। मानते हैं नहीं मानते इस बात पर?
+
+[01:37:04] कि मैं कुछ गलत कर रहा हूं और मुझे आता ही नहीं।
+
+[01:37:08] या फिर हम लोग quit कर दे।
+
+[01:37:12] और इसी situation में
+
+[01:37:15] मेरा दोस्त था मेरे साथ और हम लोगों ने पता है क्या सोचा?
+
+[01:37:20] यार कितनी छोटी सोच है हमारी। 108 लोगों ने मना कर दिया और हम अपने को quit करने का
+
+[01:37:25] सोच रहे हैं। हमारी सोच ही बहुत छोटी है। हमें तो कामयाबी वैसे भी नहीं मिलनी चाहिए।
+
+[01:37:29] India 150 करोड़ लोगों का देश है और सिर्फ 108 लोगों को हमने approach किया और हम हार
+
+[01:37:35] मान रहे हैं। अरे! कम से कम हजार लोगों तक तो पहुंचो पहले
+
+[01:37:40] और फिर अगर कुछ नहीं हो रहा है तो फिर आप सोच सकते हो कि कुछ तो गड़बड़ है। या तो
+
+[01:37:44] product में गड़बड़ है या तो मेरे में गड़बड़ है।
+
+[01:37:48] Agree or not agree?
+
+[01:37:50] हमें अपनी सोच को बड़ा करना होगा और आज की date में यह आपके साथ नहीं होगा।
+
+[01:37:55] क्योंकि client को आपको ढूंढना ही नहीं है। client तो आपके पास खुद ही आ रहा है funnel
+
+[01:37:59] और marketing करके, meta ads चलाके, जो कि हम आपको already बता चुके हैं। आज तो बहुत
+
+[01:38:03] आसान है business करना।
+
+[01:38:06] पर उसके लिए भी फिर भी commitment तो चाहिए कि नहीं चाहिए?
+
+[01:38:10] Yes or no? तो success के लिए commitment चाहिए और यह एक बार का है। कहने का
+
+[01:38:16] मतलब एक story बताऊं छोटी सी मैं। अगर आप इस चीज को हमेशा
+
+[01:38:22] carry कर पाओगे।
+
+[01:38:24] आप चाहते हो मैं बताऊं तो आप thumbs up करें नहीं तो मैं आगे बढ़ सकता हूं। क्योंकि
+
+[01:38:29] कुछ चीजें click हो गई हैं। एक रेगिस्तान होता है। ध्यान से सुनना यह
+
+[01:38:35] बहुत काम आएगा आपके।
+
+[01:38:37] एक रेगिस्तान होता है।
+
+[01:38:40] एक बंदा है, वह वहां पर घूम जाता है। उसका नाम क्या है?
+
+[01:38:42] राम।
+
+[01:38:45] दो-तीन से भूखा-प्यासा है वह। उस रेगिस्तान से बाहर निकलने का रास्ता ढूंढ रहा है पर
+
+[01:38:50] मिल ही नहीं रहा। जहां देखो वहां पर बस सूखा
+
+[01:38:56] पड़ा है। कुछ नहीं है वहां पर। ना पेड़-पौधे कुछ भी नहीं, सिर्फ रेगिस्तान।
+
+[01:39:02] Just imagine the situation. दो दिन से वह भटक रहा है। ना छांव मिल रही है, ना
+
+[01:39:08] पानी मिल रहा है, ना खाना मिल रहा है, कुछ भी नहीं। उसको पता है कि वह खत्म होने वाला
+
+[01:39:11] है। पर कुछ न कुछ hope में, अपने परिवार को मिलने की hope में वह चलता रहता है
+
+[01:39:17] कि कहीं से कुछ मिल जाए, मुझे कोई इंसान मिल जाए या कुछ दिख जाए मुझे, कहीं तो पहुंचूं
+
+[01:39:21] मैं।
+
+[01:39:24] तो वहां पर जब दो-तीन दिन आप खाना नहीं खाते हो और ऐसे धूप में चलते हो तो आपको
+
+[01:39:29] illusion हो जाता है। आप देखते हो कि वहां पर पानी है पर पानी दिखता नहीं है। दूर से
+
+[01:39:34] रेगिस्तान में ऐसा illusion होता है। तो जब वह नजदीक जाता है तो वहां पानी नहीं होता।
+
+[01:39:39] पर जब चौथे दिन वह चलता है तो उसको एक hut दिखती है वहां पर, एक झोपड़ी, एक hut,
+
+[01:39:45] एक छोटा सा घर टूटा हुआ।
+
+[01:39:49] और उसको लगता है कि वह भी कोई गलत देख रहा हूं मैं, मेरी आंखों का illusion है
+
+[01:39:54] यह। पर वह कहता है चलो जो भी हो, चलो पहुंचते तो हैं उस पर। तो वह पहुंचता है वहां पर
+
+[01:40:00] और उसको यकीन नहीं होता कि सच में वहां पर hut थी।
+
+[01:40:05] और वह उसके अंदर जाता है और उसकी आंखें खुली की खुली रह जाती हैं। क्योंकि वो पता है
+
+[01:40:10] क्या देखता है अंदर?
+
+[01:40:12] उस hut के अंदर उसको handpump मिलता है।
+
+[01:40:18] Hand pump. वह पागल हो जाता है, वह खुश हो जाता है। वह कहता है, "Wow!
+
+[01:40:23] ऐसे रेगिस्तान में hand pump कैसे हो सकता है?"
+
+[01:40:28] उसको लगता है यह blessings है।
+
+[01:40:31] वह time गंवाए बगैर वह hand pump चलाना शुरू करता है, जोर-जोर से।
+
+[01:40:37] पर देखता है कि पानी नहीं आ रहा। 10 मिनट, 15 मिनट, 20 मिनट चलाता है पर पानी नहीं आ
+
+[01:40:42] रहा। आधा घंटा चलाता है, पानी नहीं आ रहा और उसको लगता है कि इसमें पानी नहीं है। अब
+
+[01:40:47] तो मेरी मौत पक्की है। और कोने में जाकर बैठ जाता है, उसी hut में। एकदम हताश,
+
+[01:40:53] निराश और blame करता हुआ कि क्यों आया मैं।
+
+[01:40:58] उसको hut के दूसरे कोने में एक bottle दिखती है, बैठे-बैठे। वह पानी से भरी हुई bottle
+
+[01:41:03] थी। उसने देखा कि पानी से भरी हुई bottle यहां पर है। वह पानी उठाता है और जैसे ही
+
+[01:41:08] पीने की कोशिश करता है, उस bottle के पीछे एक चिट्ठी चिपकी हुई रहती है। उस चिट्ठी को
+
+[01:41:14] वह जब खोलकर देखता है, तो वहां पर क्या लिखा हुआ होता है, "कृपया करके इस पानी को ना
+
+[01:41:18] पिएं। इस पानी को hand pump में डालें,
+
+[01:41:23] आपको पानी मिलेगा।"
+
+[01:41:25] Just imagine the situation now.
+
+[01:41:28] अब उसके पास दो choice हैं। या तो वह पानी पी ले
+
+[01:41:32] और दो-तीन दिन जिंदा रहे,
+
+[01:41:35] या तो वह पानी hand pump में डाल दे, उस चिट्ठी पर विश्वास कर ले
+
+[01:41:40] और
+
+[01:41:42] बहुत सारा पानी मिल जाएगा उसको और वह ज्यादा दिन जिंदा रह पाएगा, तो शायद वो घर पर
+
+[01:41:46] पहुंच जाएगा।
+
+[01:41:49] वो पता है क्या सोचता है? मरना तो तय है। अगर ये मैंने bottle का पानी पी लिया तो दो
+
+[01:41:55] दिन ज्यादा जीऊंगा, उससे ज्यादा कुछ नहीं होने वाला। पर अगर hand pump में डाला और अगर
+
+[01:41:59] ये सच में काम कर गया तो मेरे जीने के chances बढ़ जाएंगे और मैं यहां से बाहर निकल
+
+[01:42:03] पाऊंगा। तो वो risk ले रहा है। यही risk सब नहीं ले पाते। और वो पानी को
+
+[01:42:09] invest करता है। कहाँ invest करता है?
+
+[01:42:12] hand pump में invest करता है। और जैसे hand pump में डालता है,
+
+[01:42:17] अपनी पूरी जान लगाकर वो hand pump चलाना शुरू करता है।
+
+[01:42:23] और hand pump चलाते-चलाते 5 मिनट चलाता है, 10 मिनट चलाता है, पानी नहीं आता, 15 मिनट
+
+[01:42:29] नहीं आता, 20 मिनट continuous बहुत speed में। अब नीचे से आवाज़ आती है
+
+[01:42:35] करके और जबरदस्त तरीके से पानी का flow बाहर निकलता है।
+
+[01:42:41] और वो
+
+[01:42:43] उस दिन उसकी life की सबसे बड़ी satisfying feeling थी। क्योंकि उसके साथ वहां पर जीने
+
+[01:42:48] मरने की बात थी।
+
+[01:42:50] वह नहा लेता है, वह पानी भर लेता है, पी लेता है। उसके पास जो रखा था, सब भर लेता है
+
+[01:42:56] और खुश हो जाता है।
+
+[01:42:58] अब उसको दूसरे कोने में एक और map मिलता है, उस पूरे रेगिस्तान का
+
+[01:43:04] map और वहां पर दिखाया जाता है कि इस रेगिस्तान से बाहर निकलने का रास्ता क्या है। और
+
+[01:43:09] वह वहां से बाहर निकल जाता है, उस map के सहारे। तो moral of the story क्या है?
+
+[01:43:15] Moral of the story यह है, ध्यान से सुनना।
+
+[01:43:20] आपको अपनी life में किसी पर तो trust करना पड़ेगा। दूसरा,
+
+[01:43:25] आपको risk तो लेनी पड़ेगी अगर आप life में grow करना चाहते हैं। पर वो
+
+[01:43:31] calculated risk होनी चाहिए। देखो, उसके लिए तो जीने मरने की risk थी। हम यहां पर कोई
+
+[01:43:36] जीने मरने की risk नहीं ले रहे, right?
+
+[01:43:39] और तीसरी चीज, जब आप कुछ invest कर रहे हो तो अपनी जान लगा दो फिर
+
+[01:43:45] उसमें कामयाब होने के लिए। तब तक hand pump चलाओ, तब तक hand pump चलाओ जब तक पानी
+
+[01:43:51] ना निकले।
+
+[01:43:56] Are you getting my point? जैसे मैंने 108 लोगों तक hand pump चलाया था, पानी नहीं
+
+[01:44:00] निकला। पर मैंने continue रखा ना, तो 109वें व्यक्ति ने मेरा product purchase कर लिया
+
+[01:44:05] था। 109 वाले ने purchase कर लिया था और उसने तीन product purchase कर लिए। उसके बाद
+
+[01:44:10] मैंने कभी पीछे मुड़कर नहीं देखा।
+
+[01:44:13] यह जो story है ना, मेरे life में बहुत काम आई मुझे। तो क्या है?
+
+[01:44:18] कब तक hand pump चलाना है आपको? जब तक पानी नहीं निकलता। 10 जगह कुआं खोदोगे ना, कुछ
+
+[01:44:23] नहीं मिलने वाला दोस्त। एक जगह कुआं खोदना पड़ेगा, तब जाकर पानी मिलेगा। यह चीज अगर
+
+[01:44:28] समझ में आ गई ना तो हो गया काम आपका। और यही चीज हम जो screen पर देख रहे हैं।
+
+[01:44:34] कभी किसी को वड़ापाव का ठेला खोलते हुए देखते हैं तो वहां चले जाते हैं कि वहां पैसा
+
+[01:44:38] बन रहा है। वड़ापाव का ही ठेला डाल देते हैं, चाय की टपरी डाल देते हैं, चाय की
+
+[01:44:42] franchise ले लेते हैं, कपड़ों का, यह, वो। किसी भी viral reel को देखकर आप motivate
+
+[01:44:47] हो जाते हो। आप उसको follow करने लग जाते हो। आप उसके ऊपर influence हो जाते हो।
+
+[01:44:53] 10 जगह कुआं मत खोदो, एक जगह deep जाओ तो पानी मिलेगा आपको। कितने लोग agree करते हैं
+
+[01:44:59] इस बात से?
+
+[01:45:01] और यही चीज की वजह से time waste होता है आपका। अच्छा, एक course कर लिया। अब पता है
+
+[01:45:05] कुछ लोग क्या करते हैं? "Sir ठीक है, मैंने सीख लिया। पर Sir जितना मेरे को सीखना था
+
+[01:45:09] ना, उतना नहीं। और मुझे सीखना है। और मुझे सीखना है।" अरे सीखो, कोई problem नहीं है।
+
+[01:45:13] पर कितने course करोगे आप?
+
+[01:45:16] Course से नहीं होगा,
+
+[01:45:19] implementation से होगा। And यही bold statement मैंने आपको दी थी। Implementation of
+
+[01:45:24] information leads to transformation.
+
+[01:45:27] पर लोग implement नहीं करते, distract हो जाते हैं।
+
+[01:45:33] तो क्या आप distract हो गए आज से? और मैंने वैसे भी कह दिया है कि आपको AI में कुछ
+
+[01:45:38] सीखने की जरूरत है। आपको कोई ₹1 आगे खर्च करने की जरूरत नहीं है, सीखने के लिए। हम
+
+[01:45:43] already सिखाने वाले हैं आपको। आगे हमारी community में regular class होने वाला है।
+
+[01:45:48] आपको बुलाया जाएगा, 10 ने भी बोला आपको,
+
+[01:45:52] तो पैसा कोई waste करना नहीं है कहीं पर। समझ में आ रही बात?
+
+[01:45:55] Same program already लाखों रुपए में बिक रहा है। हमने जो आपको दिया है ना, वो program
+
+[01:45:59] दो लाख रुपए में बिक रहा है, universities में।
+
+[01:46:03] ठीक है। तो कितने लोग committed हैं?
+
+[01:46:07] मैं chat box open करके मैं आपको बिल्कुल
+
+[01:46:12] आपसे बुलवाना चाहता हूं। कितने लोग committed हैं?
+
+[01:46:15] Type committed in the chat box।
+
+[01:46:19] कि नहीं sir, हम इसमें आगे बढ़ेंगे और करके ही दिखाएंगे। बाकी तो हमारा
+
+[01:46:25] support बिल्कुल है। Chat box open करेंगे team。
+
+[01:46:35] Type committed।
+
+[01:46:39] लिखो, कोई बात नहीं, बहुत लोग लिख रहे हैं। आप भी लिखो क्योंकि लिखने से दिमाग पर असर
+
+[01:46:43] पड़ता
+
+[01:46:44] है।
+
+[01:46:57] Thank you.
+
+[01:47:03] Superb.
+
+[01:47:05] So much commitment. यह commitment आप खुद से कर रहे हो दोस्त, मेरे से नहीं कर रहे
+
+[01:47:08] हो। मैं कुछ लिखवा रहा हूँ।
+
+[01:47:12] और है ना, commitment strong कब होती है पता है, जब why strong होता है। You know what
+
+[01:47:16] is why? Why बहुत important है दोस्त।
+
+[01:47:20] कैसे करना यह ज्यादा important नहीं है, क्यों करना ज्यादा important है। अगर क्यों
+
+[01:47:24] clear नहीं है ना आपका, AI छोड़ दो आप, किसी भी business में कुछ नहीं होने वाला। Life
+
+[01:47:30] में कुछ नहीं होगा आपका। आप बोलोगे sir इतना खुल्ला कैसे बोल सकते हो आप?
+
+[01:47:35] Experience के साथ बोल रहा हूं मैं आपको।
+
+[01:47:39] Why बहुत strong होना चाहिए आपका। Why मतलब क्यों करना है?
+
+[01:47:45] क्या कारण है? सिर्फ पैसे कमाने नहीं, पैसे कमाना है। पैसे कमाकर नहीं होगा।
+
+[01:47:53] आपको पता है सरस्वती माताजी
+
+[01:47:58] ज्यादा important होती है लक्ष्मी माताजी से। You know that?
+
+[01:48:04] और आपने photo देखोगे ना, mostly photo देखोगे ना लक्ष्मी जी का,
+
+[01:48:09] वो खड़ा हुआ photo मिलेगा आपको।
+
+[01:48:12] और सरस्वती जी का photo देखोगे ना तो वो बैठे हुए मिलेगी आपको। पता है क्यों?
+
+[01:48:19] क्योंकि लक्ष्मी माताजी without सरस्वती अगर लक्ष्मी आ रही है ना,
+
+[01:48:24] तो वो कभी भी चली जाएगी। क्योंकि लक्ष्मी जी आते-जाते रहते हैं, इसलिए वो खड़े रहते
+
+[01:48:28] हैं। लक्ष्मी आज है, कल नहीं है। पर सरस्वती एक बार आ गई ना, तो वो आपके पास हमेशा
+
+[01:48:34] है। वो knowledge आपके पास हमेशा रहेगी। और उस knowledge से आप कभी भी लक्ष्मी कमा
+
+[01:48:39] सकते हो।
+
+[01:48:40] इसलिए सरस्वती पर focus करो, लक्ष्मी पर, लक्ष्मी खुद ही आ जाएगी। नहीं समझ में आ रहा?
+
+[01:48:50] समझ गए आप? तो समृद्धि पर focus करें। नहीं।
+
+[01:48:55] Getting? तो हम हमेशा इसी topic, तो knowledge कभी waste नहीं होता और आपकी
+
+[01:49:00] capability, आपका talent कभी waste नहीं होता। यह मेरा statement है जो मैंने तिहाड़
+
+[01:49:04] स्टेडियम में कहा था पहली बार। मेरी book में लिखा हुआ है यह। The leadership habit,
+
+[01:49:08] top 10 leadership habit। If you want to set in life, watch sunset.
+
+[01:49:11] If you want to rise in life, watch sunrise.
+
+[01:49:16] ईमानदारी से बताना सुबह कितने बजे उठते हो आप?
+
+[01:49:20] आप बोलोगे, "सर आप तो पूरी class लगा रहे हो आज।" ऐसे ही हो जाएगा क्या?
+
+[01:49:25] ऐसी ही community बनती है।
+
+[01:49:28] सारा हम करेंगे आपका काम। आपका हो जाएगा काम?
+
+[01:49:30] नहीं होगा।
+
+[01:49:35] उठना पड़ेगा।
+
+[01:49:38] आपको सच बताऊं, entrepreneur की journey क्या होती है?
+
+[01:49:41] कब सोते, कब उठते हैं, उनको खुद नहीं पता। सच बता रहा हूं। और
+
+[01:49:47] उसमें मजा आता है उनको। क्योंकि pressure में नहीं कर रहे काम, enjoy कर रहे हैं वो।
+
+[01:49:52] अच्छा, सुबह cricket खेलना है तो उठते हैं नहीं उठते अपन।
+
+[01:49:57] और पढ़ाई करनी है तो?
+
+[01:50:01] तो problem वो नहीं है, problem intention का है। ऐसा नहीं कि हम नहीं कर दे। अच्छा,
+
+[01:50:08] airport पर जब जाते हैं तो discipline में आते हैं कि नहीं आते अपन?
+
+[01:50:11] सब line से लगते हैं। कोई line break नहीं करता है।
+
+[01:50:16] Discipline हो जाता है ना automatic।
+
+[01:50:21] और foreign country में जाते हैं तब भी signal follow करते हैं।
+
+[01:50:26] क्या बोलते हैं उसको? Helmet लगाते हैं। पर जैसे ही India के road पर निकले, सारा
+
+[01:50:31] discipline खराब। Rule तोड़ दिए सारे के सारे। Problem क्या है मतलब?
+
+[01:50:35] Problem यह नहीं है कि हम discipline रहना नहीं चाहते। Problem है माहौल का। किसका
+
+[01:50:39] problem है? जहां जैसा माहौल होता है, वैसा इंसान behave करता है। Am I right that
+
+[01:50:45] way?
+
+[01:50:47] इसी वजह से मैं कहता हूं, आपकी जो संगति है, उसका फर्क पड़ेगा। जब आप founders के
+
+[01:50:51] mindset में आते हैं, जब आपके पास दोस्त founder हैं, तो आपका mindset कैसा होगा
+
+[01:50:56] बताइए? आप किसके साथ चाय पर चर्चा कर रहे हो ना, वैसी सोच आपकी होती है। आप अगर सच
+
+[01:51:02] में इस journey में आगे बढ़ना चाहते हो ना, तो अपने दोस्तों को, जो आपको लगता है, उनको
+
+[01:51:07] cut करना शुरू करें। आप लोगों से क्या बात कर रहे हो?
+
+[01:51:10] दोस्ती तोड़ रहे हो आप। आप उनके लिए भी भला करोगे। आप जब आगे बढ़ोगे, तो आपके दोस्तों
+
+[01:51:15] की help आप ही कर पाओगे। आपके पास दोस्त अगर cycle वाले हैं, तो छट्टी cycle आपकी है।
+
+[01:51:20] Congratulations!
+
+[01:51:22] आपके पास दोस्त अगर bike वाले हैं, तो छट्टी आपकी। पास दोस्त car वाले हैं, तो छट्टी
+
+[01:51:27] आपकी। और पास दोस्त Mercedes वाले हैं, तो इतना पक्का याद रखना,
+
+[01:51:32] आप unemployed नहीं होगे।
+
+[01:51:36] आपके पास काम होगा ही होगा। छोटी car तो होगी ही होगी आपके पास, क्योंकि आपके पास
+
+[01:51:40] दोस्त की Mercedes है। अगर आपके पास दोस्त करोड़पति है, तो आप 100% आ गए। तो यह जो
+
+[01:51:45] community है ना, founders की community है। आपका mindset change होगा उससे। समझ रहे
+
+[01:51:49] हैं आप? चलिए।
+
+[01:51:52] तो अपने दोस्तों को observe करें कि किसके साथ उठते और बैठते हो। क्या आप उनके साथ
+
+[01:51:56] बैठते हो जो आपसे 10 कदम आगे चल रहे हैं?
+
+[01:52:00] तब तो सीखोगे। पर आप अगर उनके साथ बैठोगे जो आपसे पांच कदम पीछे चल रहे हैं, तो आपको
+
+[01:52:04] सिखाना पड़ेगा। पर आपकी growth कहां है? सिखाने में कि सीखने में?
+
+[01:52:11] दोनों balance करो थोड़ा सा। थोड़ा सिखाओ भी। ऐसा नहीं कि एकदम ही बंद कर दो। सिखाओ
+
+[01:52:15] भी। पर सीखने के लिए आपके पास वैसी community होनी चाहिए जो आपसे 10 कदम आगे चल रही
+
+[01:52:20] है। तब तो life में आगे बढ़ोगे। तब तो आपके mindset change होंगे। Right?
+
+[01:52:25] So चलिए बनाते हैं तीन factors that control your life। ये तीनों ही चीजें जो आपकी
+
+[01:52:29] पूरी जिंदगी control करती हैं। Chatbox खोलकर बताइए। Team, chatbox open करें और आप
+
+[01:52:34] मुझे बताइए, ऐसी कौन सी तीन चीजें हैं जो आपकी पूरी जिंदगी को control करती हैं। Can
+
+[01:52:39] you tell me?
+
+[01:52:45] Phone।
+
+[01:52:48] Phone बोलते हैं। Very good। Habit, mindset। Mindset, habit, social media।
+
+[01:52:56] Peace, health, wealth, relationship.
+
+[01:52:58] Good।
+
+[01:53:00] चलो मेरे को समझ में आ गया आप क्या कह रहे हैं। मोटी-मोटी समझ में आ गया। चलो मैं
+
+[01:53:04] screen पर बताता हूं। तीन चीज कौन सी हैं जो आपकी पूरी जिंदगी control करती हैं।
+
+[01:53:10] यह हैं तीन चीज। आपका past, आपका present और आपका future। Agree or not agree?
+
+[01:53:17] इसके अलावा कुछ बचा ही नहीं आपका। यह पूरी जिंदगी आपका control करती है। Right?
+
+[01:53:24] अब ध्यान से समझना। present जो देख रहे हो ना, आप अभी present में हो। Right?
+
+[01:53:28] Present कहां से आया? Present के word को divide करो। Pre cent। Pre cent,
+
+[01:53:34] present.
+
+[01:53:38] पीछे से आई हुई चीजों को आप present में इस तरह
+
+[01:53:43] से convert करते हो। पर हम ज्यादातर कहां रहते हैं?
+
+[01:53:51] पता है आप कहां रहते हैं? आप ज्यादातर past में रहते हैं।
+
+[01:53:55] 80% past में रहते हैं, 20% future में रहते हैं। तो present में क्या करते हो?
+
+[01:54:00] Sir, हम तो past में रहते हैं। ऐसा होता है कि नहीं होता है आपके साथ?
+
+[01:54:06] पीछे की गलतियों के बारे में सोचते रहते हो। Sir, मैंने पहले भी शुरू किया था
+
+[01:54:10] business, ऐसा हुआ, वैसा हुआ, यह हुआ, वो हुआ, गलती और blame। यह जो self talk
+
+[01:54:15] negative पर चल रहा है ना, यह कुछ नहीं कराएगा आपसे।
+
+[01:54:19] अब मैं आपको एक example देता हूँ। अगर हमें future बनाना है, तो present में काम करना
+
+[01:54:23] पड़ेगा। क्या सुनो?
+
+[01:54:27] पर present में काम करने के लिए अगर हम past को बोझ लेकर चलेंगे, तो mount Everest
+
+[01:54:31] नहीं चढ़ पाएंगे। मतलब past के बोझ को छोड़ना पड़ेगा पीछे आपको। अब यह कैसे छोड़ेंगे?
+
+[01:54:35] एक example से। हम कहीं motivational speaker को सुनते हैं कि नहीं सुनते?
+
+[01:54:41] और सबसे पहले motivational speaker को सुनना बंद करो। बोले, क्या बात कर रहे हो sir?
+
+[01:54:52] Motivational speaker क्या कहते हैं?
+
+[01:54:55] कि sir,
+
+[01:54:57] example ले रहा हूँ, ठीक है। मान लो किसी के घर में एक चूहा मरा पड़ा है। घर में
+
+[01:55:03] बदबू आ रही है
+
+[01:55:05] और आपने motivational speaker को सुना। वो क्या कह रहा है?
+
+[01:55:07] कोई बात नहीं, room freshener लगा के रह लो। Immediate solution motivation होता है।
+
+[01:55:12] Room freshener लगाओ और रह लो। पर क्या वो permanent solution है?
+
+[01:55:17] आपको एक-दो घंटे अच्छा लगेगा। अरे हाँ, बदबू चली गई। उसके बाद क्या?
+
+[01:55:25] इसलिए जितना जल्दी आप motivate होते हो ना motivational speaker को सुनके, उतना ही
+
+[01:55:28] जल्दी आप demotivate हो जाओगे और उससे double speed में होते हो। कितने लोग agree करते
+
+[01:55:32] हैं इस बात पर? Thumbs up
+
+[01:55:33] करो।
+
+[01:55:39] Permanent solution पता है क्या है?
+
+[01:55:41] आपको उस चूहे को ढूंढना पड़ेगा और उसको उठा के अपने घर के बाहर
+
+[01:55:48] फेंकना पड़ेगा।
+
+[01:55:51] तब बदबू जाएगी। Room freshener की जरूरत नहीं है। क्या सुनो?
+
+[01:56:06] Hello।
+
+[01:56:10] आवाज़ आ रही है?
+
+[01:56:12] Thank you. तो permanent solution है अपने past के
+
+[01:56:17] जो episode है ना, गलत-सलत, उसको उठा के फेंक दो अपने जिंदगी के बाहर। उसको
+
+[01:56:24] लेकर मत चलो। वरना future नहीं बनेगा। अब ये हो सकता है episode आपके personal life के
+
+[01:56:28] हो, हो सकता है professional life के हो, कि sir मैंने professional life में ये
+
+[01:56:32] गलतियां कर दी, इस वजह से शायद मैं आज ये भुगत रहा हूँ। ये सब मत सोचो। अभी जो है उसका
+
+[01:56:37] सोचो। और आपको क्या sir ये बोलना तो आसान है, फेंकना ये वो। पर sir practically तो
+
+[01:56:43] बताओ। यार ध्यान सुनना, ध्यान से सुनना। जो मेरा last का class
+
+[01:56:49] है 3:00 बजे का, उसमें मैं आपको एक ऐसा ब्रह्मास्त्र दूँगा जो आप actually में
+
+[01:56:54] practically implement कर पाओगे और अपने problem को solve कर पाओगे। मैं आपको सिर्फ
+
+[01:56:59] information देके छोड़ने नहीं वाला हूँ आज। मैं आपको solution दूँगा।
+
+[01:57:03] Getting?
+
+[01:57:06] ठीक है। तो 3:00 बजे का class है उसमें। ये past को कैसे remove करना है या फिर उसमें
+
+[01:57:10] से कैसे दिमाग से बाहर निकालना है। चलिए अब important topic एक और है जिसको हम cover
+
+[01:57:15] करते हैं। बोलिए!
+
+[01:57:20] Negative self talk।
+
+[01:57:23] यह मैं बता चुका हूँ आपको। IKT mentality और perfection syndrome। ये तीनों
+
+[01:57:28] चीजें आपको बाहर निकालनी हैं। ठीक है। ये आपके critics हैं। क्या हैं critics?
+
+[01:57:33] अब आपको मैं बताता हूँ हम कामयाब होने के लिए हमें problem क्या होता है या फिर हम
+
+[01:57:37] पैसे क्यों नहीं कमा पाते। क्योंकि कई सारे perception हमारे दिमाग में होते हैं। जैसे
+
+[01:57:44] सबसे ज्यादा हम बात किसे करते हैं? खुद से करते हैं। पर जब हम सबसे ज्यादा बात करते
+
+[01:57:47] हैं, तो हम बात positive करते हैं कि negative करते हैं?
+
+[01:57:51] आप जानते ही हो। Right?
+
+[01:57:56] So
+
+[01:58:00] इसको लेकर
+
+[01:58:02] मैं 3:00 बजे की class में detail में बात करूँगा। पर एक चीज पक्की है। एक example से
+
+[01:58:08] समझाना चाहूँगा। ये तीनों चीज को लेकर।
+
+[01:58:12] Critics जो होता है ना हमारा, वो हमारे अंदर होता है। मतलब हम हैं ना दो लोग actually।
+
+[01:58:16] We are the two people inside.
+
+[01:58:19] एक व्यक्ति कामयाब होना चाहता है। एक व्यक्ति काम करना चाहता है। एक व्यक्ति सारी गलत
+
+[01:58:25] आदतों को छोड़ना चाहता है।
+
+[01:58:27] पर एक व्यक्ति अंदर से कहता है, "हाँ, मैं भी करना चाहता हूँ, पर आज नहीं बाद में।"
+
+[01:58:33] जैसे एक example cigarette का लेते हैं। एक व्यक्ति कहता है, "मैं cigarette छोड़ना
+
+[01:58:39] चाहता हूँ" और एक व्यक्ति कह रहा है, "cigarette पीने से मुझे high मिलती है,
+
+[01:58:43] enjoyment मिलती है, मुझे नशा आता
+
+[01:58:45] है।" पर example के साथ एक
+
+[01:58:51] व्यक्ति ने motivation speaker को सुना, वह boost हो गया और उसने मजबूरी में cigarette
+
+[01:58:56] छोड़ दी कि sir मैंने 10 दिन cigarette नहीं पी। मैंने cigarette छोड़ दी।
+
+[01:59:02] आप खुश हो गए? बोले नहीं। क्यों? क्योंकि खुशी तो cigarette पीने से आ रही थी उसको। तो
+
+[01:59:07] उसने खुद के खुद इंसान को मार दिया अंदर तो वह winner कैसे हुआ?
+
+[01:59:12] आप अपने आप को मार के winner हो सकते हो क्या?
+
+[01:59:14] आप समझ रहे मेरी बात कि ऊपर से जा रहा है। क्योंकि खुशी उसको cigarette पीने
+
+[01:59:20] से मिल रही थी पर उसने उसको छोड़ दिया मजबूरी में, motivation में और खुद को ही मार
+
+[01:59:26] दिया अंदर से। वह
+
+[01:59:30] permanent solution नहीं है। यह एक example है। यह कामयाबी को लेकर भी लागू होता है।
+
+[01:59:36] permanent solution क्या है फिर? permanent solution है आपको अपने आप से दोस्ती करनी
+
+[01:59:40] पड़ेगी। आपके अंदर जो दो लोग हैं न, उसको दुश्मन मत मानो और guilt feeling मत लेकर
+
+[01:59:46] आओ कि अरे! मुझे सुबह उठना था, मुझे health walk करना था, मुझे weight loss करना था,
+
+[01:59:49] मुझे सारी चीजें discipline में लानी थी, मुझे मेरे परिवार के सपने पूरे करने थे, मुझे
+
+[01:59:54] मेरे papa का खुश करना था पर मैं कर नहीं पा रहा हूँ। और फिर हम guilt भावना में चले
+
+[01:59:59] जाते हैं और उस guilt feeling के साथ आप कोई भी program करोगे, कोई भी चीज सीखोगे, आप
+
+[02:00:03] कभी भी achieve नहीं कर पाएंगे क्योंकि आप अपने आप को दुश्मन में डाल रहे हो।
+
+[02:00:09] तो आपको क्या करना पड़ेगा? सबसे पहले एक चीज bold statement लिख लीजिए।
+
+[02:00:15] Gratitude erases all negativity.
+
+[02:00:18] यह bold statement है, golden statement। Gratitude erases all
+
+[02:00:24] negativity immediately.
+
+[02:00:28] सबसे पहले जो चीज है उसको लेकर तो gratefulness लेकर आइए।
+
+[02:00:36] जैसे आप इस program का हिस्सा बन गए। सब तो नहीं बन पाए करोड़ो लोग हैं दुनिया में।
+
+[02:00:40] सबको तो मिला ही नहीं मौका। आपको मिला
+
+[02:00:44] क्योंकि आपने action लिया।
+
+[02:00:47] Action से ही आएगा आगे। और हम चीजों को लेकर grateful होते नहीं है पर जब चीजें हमारे
+
+[02:00:53] पास से चली जाती है तब हम grateful होना शुरू करते हैं।
+
+[02:00:57] पहले तो accept करो, ठीक है, मैंने गलती करी। यह guilt भावना कम हो जाएगी और फिर
+
+[02:01:01] gratefulness लेकर आओ और फिर उसके solution पर जब आप दोस्ती लेकर आओगे अपने अंदर नहीं
+
+[02:01:06] अगर मैं मन से छोड़ना चाहता हूँ। अब मेरा मन नहीं करता, वो automatic हो जाएगा अंदर।
+
+[02:01:09] और इसको लेकर मैं exercise कराऊंगा। आज मैं technique भी कराऊंगा आपको 15 मिनट की।
+
+[02:01:16] जो actually आपको transformation लेकर आएगा आपके अंदर। और यह सभी बड़े लोग करते हैं।
+
+[02:01:20] यह secret सभी top लोगों के पास है।
+
+[02:01:24] मैं जब भी 20,000 लोगों के सामने stage पर बोलने जाता हूँ। मैंने काफी events करी।
+
+[02:01:28] India के mostly सभी auditorium और stadium में मैंने event करे हैं, मुझे मौका मिला।
+
+[02:01:33] Mostly सभी
+
+[02:01:35] 1,000 की gathering से लेकर 20,000, 30,000, 40,000 की gathering तक मैंने stage पर
+
+[02:01:40] perform किया है as a speaker.
+
+[02:01:43] पर जब भी आज भी मैं जब stage पर जाता हूँ तो मुझे anxiety आती है।
+
+[02:01:48] भले वो दो मिनट की anxiety हो, आती जरूर है और उस चीज को आप कैसे tackle करते हो वही
+
+[02:01:53] confidence आपका बाहर निकल जाता है। अगर कोई important meeting में जा रहे हो तो
+
+[02:01:57] immediately आप खुद के ऊपर control कैसे लेकर आओ। जैसे आपके सामने client बैठा है और
+
+[02:02:01] आप उसको close कैसे करोगे?
+
+[02:02:03] Close तो बातों से करना पड़ेगा yes or no.
+
+[02:02:06] Communicate तो करना पड़ेगा। Ultimately at the end आपको communicate किससे करना है?
+
+[02:02:11] इंसान से ही करना है न। पैसा तो वही देने वाला है आपको yes or no.
+
+[02:02:15] पर communicate अगर clarity के साथ नहीं होगा, confidence के साथ नहीं होगा तो क्या
+
+[02:02:20] sale close होगी?
+
+[02:02:22] नहीं। तो फिर आप क्या achieve करोगे? आपके सपने कैसे पूरे करोगे?
+
+[02:02:26] चलो मैंने सब कुछ सिखा दिया। फिर बात वापस वही आ गई अधूरी। इसलिए
+
+[02:02:34] यह सारी चीजें cover करी जा रही है और इसके ऊपर training होगी आपकी proper। जब आप
+
+[02:02:37] हमारे program में आगे बढ़ेंगे sales के ऊपर training होगी आपकी, communication के ऊपर
+
+[02:02:41] training होगी आपकी।
+
+[02:02:45] It's a very important thing. Right?
+
+[02:02:48] चलिए, आप जानना चाहते हैं आप पैसे क्यों नहीं कमा पा रहे या फिर अगर आपने कमाए है तो
+
+[02:02:53] क्यों कमाए हैं? दोनों option बता रहा हूँ मैं। अगर आप पैसे कमा रहे हैं तो क्यों कमा
+
+[02:02:56] रहे हैं और नहीं कमा रहे तो क्यों नहीं कमा पा रहे। चलिए समझते हैं psychologically यह
+
+[02:03:00] क्या काम करता है और यह क्यों ऐसा हो रहा है आपके साथ। तो पहले money map framework
+
+[02:03:04] समझते हैं और इसके बाद हम lunch break करेंगे आपके साथ। तो इस दुनिया में 20% लोग हैं
+
+[02:03:10] जो financially broke हैं। मतलब यह वो लोग हैं-- यह दुनिया का data है। यह वो लोग हैं
+
+[02:03:15] जिनके पास खाना भी नहीं है। मतलब घर नहीं है, खाना नहीं है। Very poor category.
+
+[02:03:23] 60% लोग हैं जो financially struggle कर रहे हैं। आप कौन सी category में हैं आप खुद
+
+[02:03:27] observe कर सकते हैं, आपको मुझे बताने की जरूरत नहीं।
+
+[02:03:31] 60% लोग financially struggle कर रहे हैं। मतलब
+
+[02:03:34] उनका खाना-पीना चल रहा है पर बहुत तकलीफ में। कहने का मतलब रोज आ रहा है,
+
+[02:03:40] रोज जा रहा है, कुछ बच नहीं रहा है। कभी-कभी EMI bounce हो जा रहा है और गड़बड़ चल रही
+
+[02:03:45] है। Right? तो यह भी एक poor category में ही आएगा।
+
+[02:03:50] 15% लोग इस दुनिया में financially comfortable हैं।
+
+[02:03:55] मतलब यह वो लोग हैं जिनका सब time पर चल रहा है। उन्होंने घर बना लिया है अपना। EMI भी
+
+[02:04:00] time पर चल रहा है। School की bill भी सारे time पर चल रहे हैं। खाना-पीना अच्छा चल
+
+[02:04:03] रहा है। कोई दिक्कत नहीं है। ठीक है, comfortable life चल रही है। But हाँ, loan है,
+
+[02:04:07] पर वो चल रहा है, गाड़ी चल रहा है अपना।
+
+[02:04:10] 4% people financially rich हैं इस दुनिया में। अब यह वो लोग हैं जिनके पास multiple
+
+[02:04:15] property है, multiple businesses और पैसों की कोई problem नहीं है। Savings भी बहुत
+
+[02:04:20] strong कर रखी है। आने वाली generation को बैठ के खाने की जरूरत है, कुछ नहीं है
+
+[02:04:24] problem. यह वो category है। और इस दुनिया में सिर्फ 1% लोग हैं जो wealthy हैं।
+
+[02:04:31] Only 1% people wealthy. अब यह वो लोग हैं जो दुनिया को direction देते हैं। यह Elon
+
+[02:04:35] Musk, Adani, Ambani जैसे लोग हैं। ये उस category में आते हैं जो दुनिया की direction
+
+[02:04:41] set करते हैं global level पर।
+
+[02:04:45] अब आपको मैं मेरा बताऊं। मैं 20% से लेकर 4% इस सभी category में रहा हूँ।
+
+[02:04:52] मेरे 20 साल की journey में।
+
+[02:04:56] मैंने 20% से शुरू किया था। फिर 60%, 50% and right now I am in 4% category.
+
+[02:05:03] मुझे सब जगह रहने का मौका मिला और सब जगह का experience.
+
+[02:05:06] इस वजह से पैसे की कीमत हम समझते हैं कि क्या कीमत है। एक-एक रुपए की क्या value होती
+
+[02:05:10] है। क्योंकि वो root से आए हैं। बना बनाया नहीं मिला कभी।
+
+[02:05:17] So अगर आप इस category में ऊपर आना चाहते हैं, अगर आप सोच रहे हो कि sir मैं 60% की
+
+[02:05:21] category में हूँ या मैं 15% में हूँ या मैं 4% में हूँ। आप और grow नहीं कर पा रहे तो
+
+[02:05:27] आपको problem बता दूँ, problem कहाँ है। देखो जब तक problem identify नहीं होगा न तब
+
+[02:05:31] तक उसका solution कैसे पता चलेगा। इसलिए doctor हमेशा पहले report निकालता है कि भाई
+
+[02:05:35] problem तो बता दे क्या है तो तब तो दवाई देंगे ना। तो चलिए identify करते हैं इसको।
+
+[02:05:41] Money map framework. पैसे का जो game है ना दोस्त,
+
+[02:05:44] वो तीन चीजों से चलता है। एक है neurochemistry, एक है subconscious association और एक
+
+[02:05:50] है skills. Skills तो हम आपको दे रहे हैं। ठीक है। आपको मिल रही है और आगे भी मिलती
+
+[02:05:56] रहेगी। अब बची दो point. Neurochemistry क्या कहती है?
+
+[02:05:59] Neurochemistry में दो point हैं। Dopamine और cortisol। हमारे दो chemical होते हैं
+
+[02:06:04] हमारे दिमाग में। एक है dopamine जो हमें motivate रखता है, जो हमें excited रखता है।
+
+[02:06:09] Happy molecule बोलते हैं इसको। कि जैसे सुबह cricket खेलने आया तो हमारा dopamine
+
+[02:06:13] activate होता है। इस वजह से हम लोग सुबह उठ जाते हैं। Cortisol रोकने का काम करता है।
+
+[02:06:18] यह negative molecule कहा जाता है इसको। Cortisol मतलब रोकने का काम करता है, resist
+
+[02:06:22] करता है चीजों को करने के लिए। जैसे सुबह अगर उठकर पढ़ाई करनी है तो हमें मजा नहीं
+
+[02:06:26] आता। वो activate नहीं होता, हमें excitement नहीं होती। ठीक है। तो dopamine
+
+[02:06:33] grow करने का काम करता है। Active, happy करता है हमें और cortisol हमें रोकने का काम
+
+[02:06:38] करता है किसी भी चीज को करने के लिए। यहां तक clear है। अगर यहां तक समझ में आ रहा है
+
+[02:06:42] तो thumbs up करो। आगे बढ़ता हूँ मैं। Next, subconscious association क्या होता है?
+
+[02:06:47] इसको समझते हैं। Second point को समझते हैं। अब हमारा dopamine और cortisol हमारे
+
+[02:06:51] दिमाग में, यह psychological है और यह scientific बात बता रहा हूँ आपको। कुछ भी हवे
+
+[02:06:55] में बात नहीं चल रही है। कोई बंदा अगर पैसा कमा रहा है तो क्यों कमा रहा है और कोई
+
+[02:06:58] बंदा नहीं कमा रहा तो क्यों नहीं कमा रहा?
+
+[02:07:00] यह आपके mind का problem है। और कोई problem नहीं है। Opportunity सबके पास available
+
+[02:07:04] है। Market में जाओ सब available है।
+
+[02:07:07] सब इसी दुनिया में कमा रहे हैं। कोई मंगल ग्रह से नहीं है। है ना?
+
+[02:07:11] पर नहीं, subconscious association क्या है?
+
+[02:07:14] हम money के साथ चार ही चीज कर सकते हैं। ध्यान से समझिए। या तो हम पैसे को कमा सकते
+
+[02:07:19] हैं, या तो हम save कर सकते हैं, या तो हम invest कर सकते हैं, या तो हम spend कर सकते
+
+[02:07:24] हैं। इस चारों के अलावा हम कुछ नहीं कर सकते। यह सुनो।
+
+[02:07:29] पैसे का चार चीज करोगे। अब ध्यान से समझ लेना मैं समझाना चाहूंगा आपको। और फिर मैं
+
+[02:07:33] chat भी open करूंगा कि आपको समझा कि नहीं समझा। अब spending के साथ जिसका
+
+[02:07:39] dopamine connect हो चुका है, यह by default होता है। जब बचपन में आप पैदा होते हो तो
+
+[02:07:45] धीरे-धीरे वह आपके mindset वैसे बन जाते हैं और आपका dopamine connect हो जाता है।
+
+[02:07:50] इसको ऐसे समझो कि जैसे पहले जब आप गांव में देखते थे,
+
+[02:07:55] तो पगडंडियां होती थीं। आज भी गांव में पगडंडियां हैं। पर क्या वह पगडंडी पहले दिन
+
+[02:08:01] से है? कि कोई एक व्यक्ति उस रास्ते पर चलना शुरू किया और फिर उसको दूसरे ने follow
+
+[02:08:06] किया, तीसरे ने follow किया और फिर वह पगडंडी बन गई। बराबर?
+
+[02:08:09] ऐसे ही होता है।
+
+[02:08:13] वैसे ही हमारे दिमाग में पगडंडियां हैं, बहुत सारी जो बचपन से हमारी बन जाती
+
+[02:08:18] है। और उसी पगडंडियों को change करना बहुत जरूरी है। उस map को change करना बहुत जरूरी
+
+[02:08:24] है। तब आपको success मिलती है। अब जिस व्यक्ति का spending के साथ dopamine connect
+
+[02:08:30] हो चुका है, ये वो लोग हैं जिनको खर्च करके खुशी मिलती है। Mostly यह girls में देखा
+
+[02:08:35] जाता है कि mood खराब है तो चलो shopping करते हैं, mood अच्छा हो जाएगा उसका।
+
+[02:08:42] दिवाली का bonus आया है।
+
+[02:08:45] पर्दे लगे हुए हैं, पर पर्दे change करने हैं अपने को।
+
+[02:08:50] फालतू के खर्चे मतलब। समझे? क्योंकि उसको खुशी कहाँ से मिल रही है?
+
+[02:08:54] खर्च करने से। ऐसे लोगों को जानते हो ना आप?
+
+[02:08:58] iPhone है, अभी लिया है 17, पर iPhone 18 आ गया। नया चाहिए।
+
+[02:09:04] Newness चाहिए उसको, हमेशा। क्योंकि उसका dopamine spending के साथ
+
+[02:09:10] connected है। उसको satisfaction, happiness तभी मिल रहा है जब वो कुछ नया चीज खरीद
+
+[02:09:15] रहा है। कपड़े भरे पड़े हैं almirah में। पूरे के पूरे कपड़े भरे पड़े हैं, पर हमेशा
+
+[02:09:20] क्या बोला जाता है? मेरे पास तो कपड़े ही नहीं हैं। यह तो dialogue आपने सुना ही होगा,
+
+[02:09:24] जो भी यहाँ पर husband है।
+
+[02:09:27] तो ऐसी बात नहीं है कि यह लड़कों में नहीं होता। ठीक है?
+
+[02:09:30] ऐसा नहीं है। नहीं तो अभी मेरे साथ problem हो जाएगी कि यार सब चढ़ जाएंगे मेरे पे,
+
+[02:09:35] लड़कियां। ये क्या बात कर रहे हैं आप!
+
+[02:09:38] ऐसा नहीं, husband में भी होता है ऐसा कि नया कुछ न कुछ। अब example समझो।
+
+[02:09:45] अब spending के साथ जिसका cortisol connect हो गया। आप समझ रहे हो?
+
+[02:09:51] Anchor हो गया, connect हो गया। जिसका spending के साथ cortisol connect है, by
+
+[02:09:55] default
+
+[02:09:57] chemical aussá। वो पता है क्या है? वो वो दोस्त है। आप जब चार दोस्त
+
+[02:10:04] चाय पीने जाते हो, उसमें से एक-दो ऐसा होता ही है सब group में। जब bill देने का time
+
+[02:10:10] आया, payment करने का time आया, तभी उसका कोई call आ गया। ऐसा दोस्त है।
+
+[02:10:18] और जब भी आप किसी restaurant में जाते हो, ऐसे दोस्त हैं ही हर group में। जब payment
+
+[02:10:23] का time आया और जब divide किया TTMM, हम TTMM बोलते हैं उसको। तेरा, तू,
+
+[02:10:29] मेरा, मैं। तब वो पता क्या बोलेगा, "अरे!
+
+[02:10:32] मैं मेरा purse यार car में भूल गया।" उसका purse कभी जेब में नहीं होता।
+
+[02:10:38] यह वो लोग हैं जो cortisol-- मतलब महा कंजूस। मतलब इनके पास पैसा हमसे ज्यादा है
+
+[02:10:43] तिजोरी में पड़ा है पर। पर वही scooter चलाएंगे जो झुका-झुका के, मरा-मरा के,
+
+[02:10:48] घिसा-घिसा के जो 20 साल पहले खरीदा है। नया नहीं लेंगे वो। क्योंकि cortisol जुड़ा हुआ
+
+[02:10:53] है ना, वो रोक रहा है। उसको spending में मजा नहीं आ रहा। आप समझ रहे हो मेरी बात?
+
+[02:10:57] That's the problem. और ये लोग कभी ज्यादा पैसे नहीं कमा पाते क्योंकि उनका
+
+[02:11:03] focus ही कमाने पर नहीं है, उनका focus बचाने पर है। ज्यादा पैसे तब आता है जब आपका
+
+[02:11:07] focus कमाने पर ज्यादा होता है, बचाने पर नहीं।
+
+[02:11:11] अब आपकी income ही ₹25,000 है तो आप क्या ही बचा लोगे उसमें। इससे तो अच्छा खर्च ही कर
+
+[02:11:15] लो। अब आप बताओ आपकी income अगर ₹10 लाख है, तो आप कितना खर्च कर लोगे यार?
+
+[02:11:21] आप खर्च करके कितना खर्च कर लोगे? Automatic बचेगा। तो focus कहाँ होना चाहिए?
+
+[02:11:26] ज्यादा कमाने पर कि ज्यादा बचाने पर?
+
+[02:11:29] ज्यादा कमाने पर। Ok. तो यह कंजूस दोस्त आपके पास हो गए होंगे।
+
+[02:11:35] अब एक example लेता हूँ मैं। Earning.
+
+[02:11:38] अब मैं chat box open करता हूँ। आपको समझ में आ रहा होगा game आपके साथ क्या हो रहा
+
+[02:11:41] है। तो आपको क्या करना होगा? अब earning के साथ क्या जुड़ा हुआ होना चाहिए?
+
+[02:11:45] Cortisol जुड़ा हुआ होना चाहिए कि dopamine जुड़ा हुआ होना चाहिए?
+
+[02:11:48] तीन chat box open करें। और फिर मैं अभी आपको बताऊँगा कि क्या
+
+[02:11:54] जोड़ना है आपको। और इसको जोड़ना कैसे है वो भी psychological exercise में करवाने वाला
+
+[02:11:58] हूँ जैसे कि मैंने आपको promise किया है 3:00 बजे के class में।
+
+[02:12:04] Chat box open करेंगे तीन।
+
+[02:12:15] हाँ। तो earning के साथ क्या जुड़ा हुआ होना चाहिए?
+
+[02:12:36] अच्छा, earning के साथ dopamine, very good. Saving के साथ क्या होना चाहिए बताओ?
+
+[02:12:46] Saving के साथ क्या होना चाहिए? Saving के साथ भी dopamine ही होना चाहिए।
+
+[02:12:52] Investing के साथ क्या होना चाहिए?
+
+[02:12:56] Dopamine ही होना चाहिए। और spending के साथ क्या होना चाहिए?
+
+[02:13:02] Spending के साथ दोनों होना चाहिए, balance में。 Cortisol भी और dopamine भी।
+
+[02:13:09] यह नहीं कि cortisol ही। कमा क्यों रहे हो जब खर्च ही नहीं करना चाहते हो।
+
+[02:13:15] यह भी सोच सही नहीं है। Value for money में invest करें, value for money में खर्च
+
+[02:13:21] करें। देखो, कोई चीज महंगी है और कोई चीज सस्ती है। यह कैसे compare होता है?
+
+[02:13:25] यह ऐसे compare नहीं होता कि वो ₹2 लाख की है।
+
+[02:13:29] आप समझ रहे हो मेरी बात? यह compare होता है उसकी value क्या है।
+
+[02:13:35] जैसे एक लाख का iPhone आप ले रहे हो
+
+[02:13:39] तो उसकी value एक लाख की है, इसलिए ले रहे हो। पर वही iPhone एक लाख का अगर आपको
+
+[02:13:45] ₹10,000 में मिले
+
+[02:13:47] तो वो महंगा हुआ कि सस्ता हुआ?
+
+[02:13:51] वो ₹10,000 की value महंगी हुई कि सस्ती हुई?
+
+[02:13:53] वो सस्ता हुआ।
+
+[02:13:56] वहां पर ₹10,000 महंगे नहीं हुए। आप समझ रहे हो example?
+
+[02:14:00] Mercedes और Maruti।
+
+[02:14:03] Value for money। उसी हिसाब से pricing होती है। तो महंगा-सस्ता नहीं होता, value के
+
+[02:14:07] हिसाब से pricing होती है। Right? तो इस तरह से आपको यह ध्यान रखना। अब earning के साथ
+
+[02:14:13] मैं आपको एक example दे रहा हूँ, समझ गए?
+
+[02:14:16] अब कुछ लोग पैसा पता है क्यों नहीं कमा पाते?
+
+[02:14:18] अब आपको secret बताता हूँ। क्योंकि वो लोगों का earning के साथ cortisol
+
+[02:14:24] जुड़ा हुआ
+
+[02:14:28] है। आप लोग कहोगे कैसे हो सकता है यह?
+
+[02:14:32] यह ऐसे हो सकता है
+
+[02:14:34] कि कई लोग
+
+[02:14:37] money अपने अंदर झांक के जब देखोगे आप,
+
+[02:14:42] आपको money में एक anxiety है कि अगर ज्यादा पैसे मैंने कमा लिए तब भी दिक्कत हो
+
+[02:14:46] जाएगी।
+
+[02:14:53] इडियट आ जाएगी। या mind में perception क्या है, बचपन से क्या सुना हुआ है?
+
+[02:14:58] अमीर लोग गंदे होते हैं, अमीर लोग बुरे होते हैं और हमें क्या-क्या slogan दिए हुए
+
+[02:15:04] हैं। उतने ही पैर फैलाओ जितनी चादर है। काहे को?
+
+[02:15:08] चादर बड़ी करो।
+
+[02:15:13] अमीर लोग बुरे लोग होते हैं। क्या सारे अमीर बुरे होते हैं?
+
+[02:15:18] नहीं, ये सब गलतफहमी है हमारे दिमाग में। ज्यादा पैसा
+
+[02:15:24] कमाने से tax ज्यादा pay करना पड़ता है, इसलिए मैं GST number नहीं लूँगा।
+
+[02:15:30] पहले ही रोका हुआ है।
+
+[02:15:34] समझ रहे हो? Earning के साथ cortisol कभी नहीं होना चाहिए। Saving के साथ जिसका
+
+[02:15:38] cortisol है, वो भी बहुत दिक्कत है। Saving नहीं करता। Investing के साथ अगर cortisol
+
+[02:15:42] है तो investing में भी बहुत excuse देता है वो। नहीं, mutual fund में invest क्यों
+
+[02:15:46] करना, risk है बहुत। घर पर ही रखूंगा, cash ही रखूंगा। बस और एक बार मोदी जी कर देंगे
+
+[02:15:52] demonetization, खत्म हो गया cash आपका।
+
+[02:15:57] तो open करें अपने mind को, ठीक है। यहाँ तक clear हो रहा है बात?
+
+[02:16:01] क्या यह important बात समझ में आई आज आपको? If yes then give me heart symbol.
+
+[02:16:06] और इसको connect कैसे करना, यह exercise मैं live करवाने वाला हूँ आज ही। आपको
+
+[02:16:12] transform करने के लिए जो पहला step होगा, वो मैं live करवाने वाला हूँ आज। Ok.
+
+[02:16:18] Alright.
+
+[02:16:20] तो आज जैसे आप देख रहे हैं, यह चीज मैं बार-बार बताता हूँ
+
+[02:16:24] कि अब आपको wider का experience हो चुका है। हो चुका है कि नहीं हो चुका है?
+
+[02:16:30] आपको AI-- अच्छा, आपने जब इस class को join किया था
+
+[02:16:36] तब आपको क्या AI पता था? और आज जब हम bootcamp के दिन पर आ चुके हैं,
+
+[02:16:44] क्या आप chat में बता सकते हैं
+
+[02:16:48] कि आपको overall
+
+[02:16:53] कितना percent AI पता चला है। 80%, 90%, 50% chat में
+
+[02:16:58] बताओ। जितना भी पता है। zero से कहाँ पहुंचे आप?
+
+[02:17:07] Super.
+
+[02:17:13] Zero से कहीं ना कहीं तो आप पहुंचे हैं आज।
+
+[02:17:16] बहुत अच्छी बात है। और एक बार repeat करोगे course। आपके पास recording available है
+
+[02:17:21] एक साल के लिए सारी। और नए-नए course की recording भी आती रहेगी आपके पास और live भी
+
+[02:17:26] होता रहेगा। ठीक है। उसको repeat करें और 20% ज्यादा समझ में आएगा, और आगे समझ में
+
+[02:17:31] आएगा। पहली बार में सब कुछ समझ में आना जरूरी नहीं है। यह सुनो। अब आपको wider
+
+[02:17:37] समझ में आ गया।
+
+[02:17:40] अब आपको एक चीज को पकड़ के क्या करना है?
+
+[02:17:45] कुआं खोदना है।
+
+[02:17:47] और फिर क्या चलाना है? handpump. और कब तक चलाना है?
+
+[02:17:53] जब तक
+
+[02:17:55] पानी ना आए। और कितना पानी आएगा? उतना आएगा जितना आपकी generation को भी चल जाएगा।
+
+[02:18:02] ठीक है।
+
+[02:18:04] Very good. तो confuse नहीं होना है। niche लेकर deeper जाना है। niche इसलिए clear
+
+[02:18:09] करी गई है। आज का जो niche finder का topic था ना, अगर niche नहीं होगी ना तो deeper
+
+[02:18:14] नहीं जा पाओगे। जो इंसान सबके लिए है, वह किसी के लिए नहीं है। याद
+
+[02:18:19] रखना। आपको focus करना होगा एक जगह
+
+[02:18:24] पर। okay। अब nine step है
+
+[02:18:30] to launch as a pro. इसका screenshot ले लो पहले।
+
+[02:18:35] यह nine ही step है। इसके अलावा कुछ नहीं है।
+
+[02:18:39] आपके business को और आपके product को launch करने के लिए। और बहुत ही professionally
+
+[02:18:43] होगा यह सारा काम। Step one: find your profitable micro niche.
+
+[02:18:48] देखो micro niche बोला है, niche नहीं बोला है हमने। Micro niche बहुत important है।
+
+[02:18:54] Right.
+
+[02:18:56] Example WhatsApp पर मिल चुके हैं आपको। Step two: target market analysis.
+
+[02:19:00] यह बहुत important है, क्योंकि आप जिसको बेचने वाले हो ना, उसकी सोच क्या है,
+
+[02:19:06] वह आपको अगर पता नहीं है ना तो आप जो बात करोगे ना उसके पल्ले नहीं पड़ेगी।
+
+[02:19:13] जैसे आप जब एक doctor के पास जाते हो और आपको जिस बीमारी में problem हो रही है और
+
+[02:19:19] doctor जब सामने से बोलता है, "आपको ऐसा भी feel हो रहा है, आपको वैसा भी feel हो रहा
+
+[02:19:22] है" तो आप क्या बोलते हो? "हाँ यार!" यह doctor को कैसे पता?
+
+[02:19:26] "हाँ, ऐसा feel हो रहा है" तो आप तुरंत उससे convince हो जाते हो, connect हो जाते हो।
+
+[02:19:31] "यार ऐसा feel हो रहा है मेरे को"
+
+[02:19:33] तो आप उस पर विश्वास कर जाते हो। तो जब आप जिस product और service को market में बेचते
+
+[02:19:38] हो, उसको लेकर जब आपके पास already पूरा कुंडली है उसके सोच का, उस
+
+[02:19:45] audience के सोच का।
+
+[02:19:48] आप जब सामने से वह challenge बता दोगे ना कि यह चीज हो रही है, आपके साथ ऐसा हो रहा
+
+[02:19:51] है, आप यहाँ रखो, वहाँ रखो। वह बंदा already product purchase कर चुका है।
+
+[02:19:58] क्योंकि आप उसके subconscious mind में घुस चुके हो।
+
+[02:20:02] sell करना इस दुनिया का सबसे आसान काम है दोस्त, अगर आप इन steps को सही तरीके से
+
+[02:20:06] follow करते हैं। अब step three: delivery mechanism. यह क्या होता है?
+
+[02:20:09] चलो
+
+[02:20:10] sell आ गई। आपका product और service इंसान ने खरीद लिया। पर उसके बाद आपके पास
+
+[02:20:16] यह भी तो ready होना चाहिए कि आपको delivery क्या करनी है exactly.
+
+[02:20:20] उसके about क्या है आपके पास। ऐसे थोड़ी किसी से पैसा खरीद लिया और फिर हो गया काम।
+
+[02:20:25] वहां से तो काम शुरू हो रहा है। क्योंकि वह satisfy होगा तब तो आपकी retention बढ़ेगी।
+
+[02:20:31] वह दोबारा खरीदेगा आपसे। एक ही व्यक्ति दोबारा खरीदता है ना आपसे, जब आप उसको अच्छी
+
+[02:20:37] service देते हो, उसको value देते हो। तो एक बात याद रखना दोस्त। अगर आप हमारे
+
+[02:20:42] community में आ रहे हैं, परिवार में आ रहे हैं। अगर आप हजार रुपए charge करोगे ना
+
+[02:20:46] market में,
+
+[02:20:48] तो कम से कम ₹10,000 की value देने की नीयत के साथ काम करना। वरना हमारी community में
+
+[02:20:54] आप नहीं रह पाएंगे। I am really very sorry.
+
+[02:20:58] मैं दोबारा बोल रहा हूं। अगर आप किसी से हजार रुपए लोगे market से, तो कितनी value
+
+[02:21:02] देनी है आपको? कम से कम 10,000 की, मतलब 10 गुना ज्यादा।
+
+[02:21:08] ठीक है। यह example हम खुद follow कर रहे हैं। हमने आपसे हजार रुपए
+
+[02:21:14] लिए और आपको मैं पूछना नहीं चाहता कि हमने कितने पैसे की value दी है। आप खुद इसको
+
+[02:21:20] एहसास कर सकते हैं, महसूस कर सकते हैं। यह सुनो। agree or not agree.
+
+[02:21:26] यही चीज आपसे भी मैं उम्मीद करूंगा जब आप आगे बढ़ेंगे। आप जब अपना empire खड़ा करेंगे,
+
+[02:21:31] आप अपनी community develop करेंगे, वह सभी process होगी आपके साथ।
+
+[02:21:36] तब long term business खड़ा होगा। आप अगर एक ही व्यक्ति से सारी चीजें लूटना चाहोगे
+
+[02:21:40] ना, इस नीयत के साथ काम मत करिए। Success permanent नहीं रहेगी आपके पास। Step four:
+
+[02:21:45] build your funnel website with AI.
+
+[02:21:47] यह तो हम दिखा चुके कल। यह सारा काम automation पर है। यह nine के nine step
+
+[02:21:53] हमारे AppDaddy के system से हो जाएगी, जिसका demo आपको मैं कल दिखा दूंगा। पूरा का
+
+[02:21:57] पूरा AppDaddy के system में हो जाएगा यह काम आपका। Right.
+
+[02:22:01] Create your graphic video ads with AI. Integrate payment gateway and WhatsApp.
+
+[02:22:04] Run Facebook and Meta ads. Generate leads.
+
+[02:22:08] Leads generate करो। Create winners webinar. One-on-one call. Right.
+
+[02:22:12] या one-to-one call पर लेकर आओ या फिर webinar पर लेकर आओ। और final, start generating
+
+[02:22:17] revenue and sales.
+
+[02:22:19] Clear हैं ये steps और इसको हम आगे भी detail में जाते जाएंगे। आपका onboarding
+
+[02:22:25] session होगा Friday को। Next Friday जो भी लोग enroll कर रहे हैं
+
+[02:22:31] AppDaddy के software program में, आगे के premium membership में, तो आपका onboarding
+
+[02:22:36] call होने वाला है live. मैं ही लूंगा Friday को रात 8:00 बजे।
+
+[02:22:43] जो आपकी monetization की journey वहां से आगे चलने वाली है। Clear है। मैं पहले
+
+[02:22:47] announce कर रहा हूं इसलिए so that आप उसको note करके रखें। और अगर आप miss कर रहे हो
+
+[02:22:52] उस class को, तो उसकी recording आपके software में मिलेगी आपको। पर miss मत करिए,
+
+[02:22:58] क्योंकि live ही चीजें आपको ज्यादा clarity मिलेगी। ठीक है जी।
+
+[02:23:03] So
+
+[02:23:05] आगे बढ़ते हैं और इसके बाद हम आपको launch कर देंगे। यह आपके checklist है,
+
+[02:23:13] जो आपको आपके business को और आपके existing चीज को start करने के लिए चाहिए होगा।
+
+[02:23:19] इसका screenshot लेना पड़ेगा आपको। और यह Friday के पहले आपको ready रखना है सारा।
+
+[02:23:25] Brand name and logo. सोचो आप अपनी agency का। जो भी आप agency बनाना चाह रहे
+
+[02:23:31] हैं। अगर आप अपने existing business में इसको integrate करना चाह रहे हैं तो अलग बात
+
+[02:23:35] है। उसके लिए सिर्फ marketing करनी जरूरी। Marketing करो आप अपने इस software से। और
+
+[02:23:40] अगर आप अपना AI agency खोल रहे हो, AI marketing agency या फिर AI SaaS business आप
+
+[02:23:45] launch कर रहे हो अपना, तो ये चीजें आपको लेनी होगी। Domain आपको AppDaddy से मिल
+
+[02:23:50] जाएगा। जो भी आपको अच्छा लग रहा है वह purchase कर लो आप वहां से। Professional photos
+
+[02:23:55] आपके पास होनी चाहिए। अगर नहीं है तो आप AI से बना लो
+
+[02:24:00] blazer के, क्योंकि वो आपके landing page और website पर डालने पड़ेंगे आपको। Your
+
+[02:24:04] complete introduction section. अब introduction section क्या होता है?
+
+[02:24:09] बोले कि sir मेरे पास तो कुछ achievement ही नहीं है। मैं introduction में क्या
+
+[02:24:12] लिखूंगा खुद के बारे में?
+
+[02:24:19] So आपको मैं बता दूं सबसे पहला step आपको Friday को जो हम बताने वाले हैं,
+
+[02:24:25] आपको book लिखनी है पहले। अब book कैसे लिखनी है?
+
+[02:24:29] आपको author बनना है। आप लोग कहेंगे क्या बात कर रहे हो author? मैं। अरे!
+
+[02:24:35] आपको, आप life में जिस age में खड़े होंगे,
+
+[02:24:40] कुछ तो experience है ना किसी चीज का। ऐसे ही तो नहीं बड़े हो गए।
+
+[02:24:46] और वह experience जो आपके पास है, वह किसी और के पास नहीं है दोस्तों। वह आपका खुद का
+
+[02:24:50] experience है। वह real है। और वही value, वही चीज आपको book में डालनी है। वह
+
+[02:24:56] कैसे डालोगे? आपको बस अपना एक research material
+
+[02:25:01] 10-15 point का
+
+[02:25:04] लिख के,
+
+[02:25:06] software में upload करके आपको अपनी book generate करनी है।
+
+[02:25:11] Book का title सोचो। आप लोग कहेंगे sir यह author क्यों बनना है मेरे को?
+
+[02:25:14] Author इसलिए बनना है क्योंकि authority और brand positioning के बगैर आप product sell
+
+[02:25:20] नहीं कर पाते।
+
+[02:25:23] तो आप जब अपना introduction लिखोगे, वहां पर दो चीज आ जाएगी। एक तो आप अपनी agency के
+
+[02:25:26] founder हो जाओगे। You can write, "I am the founder at
+
+[02:25:32] whatever the company name of yours xyz.ai" है ना। और हाँ, जब भी आप domain खरीदो
+
+[02:25:38] तो .ai का अगर नहीं खरीद रहे हो, कोई दिक्कत नहीं।
+
+[02:25:42] .ai का domain महंगा होता है। आप .com, .in का खरीदो, कोई बात नहीं। Starting में
+
+[02:25:47] जितना पैसा बचा सकते हो बचाओ, क्योंकि ज्यादा पैसा हमें marketing में डालना है। ठीक
+
+[02:25:50] है। पर नाम में AI जरूर होना चाहिए। जैसे एक मेरी company है। Last year वह हमने
+
+[02:25:55] launch की थी। मेरी बेटी का नाम राही है। तो airaahi.com करके हमने एक company launch
+
+[02:26:00] की थी WhatsApp को लेकर।
+
+[02:26:03] तो आप नाम में AI डाल सकते हो। .com, .in के हिसाब से domain ले सकते हो। ठीक है। वह
+
+[02:26:07] research आप पूरा MDD के domain पर कर पाओगे। अगर आप MDD पर अभी नहीं करना चाह रहे,
+
+[02:26:12] बाहर से research करके देखना चाहते हो तो GoDaddy और Namecheap Google पर search करो।
+
+[02:26:17] मुझे domain लेना है, आपको वहां पर बहुत सारी link आ जाएगी। Okay.
+
+[02:26:20] Introduction section में आप founder आ जाओगे। आपका जो पहले का experience है, वह आप
+
+[02:26:24] थोड़ा लिखोगे और यह पूरा AI create करेगा। AI खुद ही आपका introduction section create
+
+[02:26:29] करेगा।
+
+[02:26:31] फिर आप जिस book को लेकर author बन रहे हो, author लिखो वहां पर। इतनी positioning
+
+[02:26:36] बहुत enough है market में launch करने के लिए। Agree or not agree?
+
+[02:26:40] If agree give me thumbs up. As a founder, as a author and as a
+
+[02:26:46] experience holder of whichever field you
+
+[02:26:50] have the experience. Right. It's enough.
+
+[02:26:53] Then
+
+[02:26:55] five testimony. TrustPilot पर account open करना है आपको। ठीक है।
+
+[02:27:01] TrustPilot एक genuine platform है जहां पर fake review नहीं आ सकते। आप अपनी company
+
+[02:27:06] को लेकर TrustPilot पर account खोलोगे। जैसे Google review होता है, वैसे TrustPilot
+
+[02:27:10] के review होते हैं जो globally recognized होते हैं। cal.com पर free में account
+
+[02:27:16] खुलता है। cal.in पर भी free में account खुलता है। यह account खोल लें क्योंकि
+
+[02:27:20] one-to-one appointment के लिए यह आपको लगेगा। अपने business का एक Facebook profile
+
+[02:27:25] और page बना लें और Instagram page बना लें। ये सारे काम complete करना शुरू करें। समझ
+
+[02:27:29] में आ रहा है।
+
+[02:27:32] इतना तो आता है। नहीं आता तो AI को पूछो, वह step बता देगा, कैसे करना है। Okay.
+
+[02:27:36] आपका खुद का page अगर आप रखना चाहते हो, उसी में अगर आप अपना business promote करना
+
+[02:27:41] चाह रहे हो तो भी कोई दिक्कत नहीं है। आप अगर company का page नया बनाना चाह रहे हो तो
+
+[02:27:45] बना सकते हो। Update profile, FB page bio। अब bio कैसे update करना
+
+[02:27:51] है? आप मेरा bio देख लेना और उसी को copy paste करके अपने bio को inspiration ले लेना
+
+[02:27:56] जब आपका introduction आपका आ जाए। ठीक है। AI खुद आपका bio बना देगा। 10 दिन की social
+
+[02:28:01] media post AI से generate करनी है क्योंकि कुछ न कुछ वहां पर आप डालते हो
+
+[02:28:07] तो उससे फायदा ही होता है और यह 10 social media post बनाने का काम सिर्फ दो मिनट का
+
+[02:28:12] है। ठीक है। AI बना लेगा। उस company को लेकर, आपकी जो agency है, उसको लेकर। अब यह
+
+[02:28:17] सारा काम अभी नहीं करना है आपको। यह आपको checklist दी है। यह Friday को आप हमें
+
+[02:28:22] बताएंगे। ठीक है। और कैसे करना है। जो कर सकते हो कर लो। free हो, इसलिए आपका time
+
+[02:28:26] waste ना हो इसलिए हम पहले ही बता रहे हैं आपको। Laptop आपके पास हो तो ज्यादा better
+
+[02:28:30] है। Laptop के बगैर कोई business शुरू होगा नहीं, मजा नहीं आएगा उसमें। अगर आप
+
+[02:28:34] business शुरू कर रहे हो तो थोड़े serious हो जाओ। थोड़ा investment करने के लिए दिमाग
+
+[02:28:37] खोल दो। आप restaurant नहीं खोल रहे। आप सोचो restaurant खोलोगे तो कितना पैसा लग
+
+[02:28:41] जाएगा furniture का, इसका-उसका। यह सबसे सस्ता business है और सबसे fast और सबसे
+
+[02:28:45] profitable business है। इसके अलावा market में कोई business ही नहीं है जो इतना fast
+
+[02:28:49] revenue दे सकता है आपको।
+
+[02:28:52] वह भी minimum investment पर zero maintenance पर। कोई rent ही नहीं करना। Market में
+
+[02:28:57] कुछ भी खरीदोगे तो ₹15-20,000 का rent देना पड़ जाएगा। यह सुनो। तो यह चीज समझो
+
+[02:29:03] आपकी। यह सबसे profitable business है। और without pressure you can do that.
+
+[02:29:08] So I think यहां तक clear है सभी को?
+
+[02:29:15] मजा आ रहा है।
+
+[02:29:19] Thank you.
+
+[02:29:22] तो आपको पता है ना lunch break के बाद किसका part है।
+
+[02:29:26] दीपक आ रहा है। और आपको laptop को touch करे बगैर agent बनाकर खिला देगा। और
+
+[02:29:32] आपको वह सीखना है। जितना सीखने मिले, जितना समझ में आए समझने की कोशिश करना। कोई
+
+[02:29:37] problem नहीं। बाद में recording वापस देखना। ठीक है। पर पहले live आप देखोगे और आपको
+
+[02:29:42] मजा आएगा। तो अब time हुआ है
+
+[02:29:49] मेरे हिसाब से
+
+[02:29:52] 01:00 बजे। Perfect time पर हमारा काम हो रहा है। Discipline सही चल रहा है अपना। तो
+
+[02:29:57] 1:45 को हम दोबारा connect
+
+[02:30:03] होंगे same link पर जो आपको WhatsApp पर मिली हुई है। ठीक है जी।
+
+[02:30:08] तो तब तक thank you so much. Let's connect on 1:45 after lunch.
+
+[02:30:14] और यह meeting हम चालू ही रखते हैं। अगर आप connect ही करना चाहते हो, connect
+
+[02:30:20] रखो, कोई दिक्कत नहीं है। और आप leave करके वापस connect करना चाहे तो भी कोई दिक्कत
+
+[02:30:25] नहीं है। Alright, thank you so much.
+
+[02:30:28] 1:45 को दोबारा connect।

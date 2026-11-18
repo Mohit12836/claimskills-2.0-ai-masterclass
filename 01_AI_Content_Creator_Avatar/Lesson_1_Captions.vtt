@@ -1,0 +1,7825 @@
+WEBVTT
+
+1
+00:00:46.770 --> 00:00:49.981
+Good evening everyone. Am I audible?
+
+2
+00:00:52.470 --> 00:00:54.000
+Just show me a big thumbs up.
+
+3
+00:00:56.401 --> 00:00:59.401
+I am super excited for today's class.
+
+4
+00:01:00.870 --> 00:01:05.490
+Just show me a big thumbs up, everyone, and please open the video camera.
+
+5
+00:01:06.750 --> 00:01:11.610
+Everyone, hi. Hello, everyone. I am able to see all of you. Can you see me?
+
+6
+00:01:13.740 --> 00:01:17.190
+Just give me a thumbs up. All good. Thank you so much for the great energy in the
+
+7
+00:01:17.280 --> 00:01:21.180
+room. I like this. Thank you so much. All good.
+
+8
+00:01:21.750 --> 00:01:27.630
+I request everyone, जितने भी लोग हैं, सभी अपने camera on करें। Not for me, it's for
+
+9
+00:01:27.690 --> 00:01:32.071
+you. Obviously, it's for your attention, it's for your presence of mind.
+
+10
+00:01:33.150 --> 00:01:38.069
+Camera के पीछे आपका ही नहीं रहेगा, you know better than me. All good guys.
+
+11
+00:01:38.130 --> 00:01:41.851
+Thank you so much for the great energy in the room, and obviously, people are
+
+12
+00:01:41.910 --> 00:01:44.820
+joining still but we have the time. Let's start the session.
+
+13
+00:01:45.000 --> 00:01:46.711
+How many of you are excited for today's class?
+
+14
+00:01:48.720 --> 00:01:49.440
+Are you excited?
+
+15
+00:01:50.700 --> 00:01:53.551
+Let me picture my screen.
+
+16
+00:01:54.810 --> 00:01:55.680
+Thank you so much.
+
+17
+00:01:57.540 --> 00:01:59.521
+All good, guys. Thank you so much.
+
+18
+00:02:00.780 --> 00:02:02.250
+Okay, without wasting any more time,
+
+19
+00:02:08.130 --> 00:02:12.030
+let's start the session on time so that we can finish it on time.
+
+20
+00:02:14.250 --> 00:02:14.760
+Perfect.
+
+21
+00:02:15.990 --> 00:02:20.970
+So first of all, let me welcome to the first class of
+
+22
+00:02:21.030 --> 00:02:24.510
+Flameskills.ai, AI Specialist 2.0.
+
+23
+00:02:25.710 --> 00:02:30.930
+Maybe आप में से कुछ लोग होंगे जो 1.0 batch भी attend कर चुके होंगे। आप में से कई
+
+24
+00:02:30.960 --> 00:02:36.180
+लोग होंगे जो हमारे पुराने 1.0 batch को भी attend किए होंगे, and आपने 1.0 की भी
+
+25
+00:02:36.270 --> 00:02:40.200
+content creation की academy attend करी होगी। Make sure.
+
+26
+00:02:41.040 --> 00:02:45.391
+अगर आप में से कोई लोग recent हैं जिन्होंने 2.0 में ही enrollment की है in the month
+
+27
+00:02:45.480 --> 00:02:50.520
+of August, so no worries, guys. इसके लिए आप लोगों के लिए भी एक मैं good news दूंगा
+
+28
+00:02:50.580 --> 00:02:53.370
+at the end of the class so that you can avail
+
+29
+00:02:55.171 --> 00:02:58.650
+both benefits. So thank you so much.
+
+30
+00:02:59.010 --> 00:03:02.040
+But make sure you stay till the end because
+
+31
+00:03:03.930 --> 00:03:06.540
+today's topic is highly creative topic.
+
+32
+00:03:07.830 --> 00:03:13.260
+AI अपने आप में एक creative world है, और AI के अंदर content एक अपने आप
+
+33
+00:03:13.351 --> 00:03:15.389
+में highly creative world है।
+
+34
+00:03:17.190 --> 00:03:22.620
+So make sure you attend fully. Do not skip in between,
+
+35
+00:03:23.550 --> 00:03:27.630
+until and unless कोई genuinely कोई logical या genuine reason आया आपके पास कि नहीं
+
+36
+00:03:27.690 --> 00:03:32.550
+जाना ही पड़ रहा है। Obviously, यह call record हो रहा है, इसकी recording कल in the
+
+37
+00:03:32.640 --> 00:03:37.320
+afternoon till afternoon team LMS पर upload कर देगी। But इसका मतलब यह नहीं कि हम
+
+38
+00:03:37.351 --> 00:03:42.960
+live attend ना करें। हमें यह समझना है because we are not teachers, as you know, we
+
+39
+00:03:43.020 --> 00:03:47.910
+are the actual founders building the AI startups and scaling them to globally from
+
+40
+00:03:47.970 --> 00:03:48.330
+scratch.
+
+41
+00:03:49.531 --> 00:03:55.291
+So teachers तो चलो सिखा के चले जाते हैं, but जो लोग खुद चीजें implement कर रहे हैं,
+
+42
+00:03:55.320 --> 00:03:59.520
+कोई चीज सीख के कुछ चीज implement कर रहे हैं, उस चीज का business already लोग बना रहे
+
+43
+00:03:59.550 --> 00:04:05.430
+हैं। उसका एक factor मैं आपको देना चाहूंगा। वह यह factor है कि सिर्फ सीखने के
+
+44
+00:04:05.460 --> 00:04:10.080
+mindset से नहीं हमें लेना है इस चीज को। जो भी आज आप सीखोगे, आज आपका पहला दिन आप समझ
+
+45
+00:04:10.110 --> 00:04:10.470
+लीजिए।
+
+46
+00:04:13.201 --> 00:04:18.810
+आपको किसी भी चीज को किस perspective से देखना चाहिए, यह मैं आपको पहले guide करूंगा।
+
+47
+00:04:18.870 --> 00:04:23.460
+फिर मैं main topic पर भी आऊंगा। But make sure यह वाली जो knowledge है, यह बहुत
+
+48
+00:04:23.520 --> 00:04:24.570
+important है आपके लिए।
+
+49
+00:04:25.980 --> 00:04:31.830
+आप जो भी सीखोगे in entire AI Specialist 2.0 program, हर एक चीज
+
+50
+00:04:31.860 --> 00:04:35.310
+को business के angle से जरूर देखें।
+
+51
+00:04:36.540 --> 00:04:41.370
+Business के angle मतलब-- दो मैं example दूंगा, आपका mind clear हो जाएगा इसमें। एक
+
+52
+00:04:41.460 --> 00:04:47.400
+वह चीज कि मुझे सीख के खुद के लिए सिर्फ वह एक, you know कि मैंने सीख लिया और
+
+53
+00:04:47.460 --> 00:04:51.060
+एक dopamine generate हो रहा है brain में। Wow! मैंने भी यह कर लिया। Wow!
+
+54
+00:04:51.120 --> 00:04:55.591
+मैंने भी वो कर लिया। मैंने भी video बना लिया। मैंने भी UGC ads बना लिए। मैंने भी
+
+55
+00:04:56.281 --> 00:05:01.860
+hyper realistic content बना लिया। तो यह चीजें खुद को तो dopamine देता ही है।
+
+56
+00:05:01.860 --> 00:05:04.020
+Dopamine you know that, happy molecules.
+
+57
+00:05:05.010 --> 00:05:09.570
+AI में आप कुछ भी करोगे, आपको happy molecule मिलने वाला है। I hope यह बात तो आप
+
+58
+00:05:09.630 --> 00:05:12.330
+agree करोगे। But what is my point here?
+
+59
+00:05:12.750 --> 00:05:17.670
+My point is we are not here to teach you how to generate happy molecules.
+
+60
+00:05:18.600 --> 00:05:20.190
+Happy molecules in some are dopamine.
+
+61
+00:05:20.880 --> 00:05:26.400
+We are here to teach you how to create an
+
+62
+00:05:26.550 --> 00:05:30.091
+outcome in form of income. Are you getting the point?
+
+63
+00:05:30.810 --> 00:05:32.070
+दोनों में बड़ा difference है।
+
+64
+00:05:33.870 --> 00:05:39.180
+Business का outcome लाना, उस mindset से सीखना, अलग mindset होता है।
+
+65
+00:05:40.110 --> 00:05:45.870
+सीखने के लिए कि अरे चलो ठीक है, 999 दिया है, attend करना ही है। यह mindset से कभी
+
+66
+00:05:45.900 --> 00:05:50.310
+कोई outcome नहीं आएगा। Make sure because we are into AI since three and three and a
+
+67
+00:05:50.341 --> 00:05:55.620
+half years. हजारों लोगों से हमारी globally one-to-one हुई है। हजारों meetings हम ले
+
+68
+00:05:55.680 --> 00:06:00.300
+लिए हैं in the last 20 years in marketing, training and leadership, last 3 years से
+
+69
+00:06:00.360 --> 00:06:05.640
+AI में। We know that human mind का behavior कैसा होता है जब भी कोई चीज सीखने जाता
+
+70
+00:06:05.670 --> 00:06:09.120
+है। It's not first time we are conducting any big events.
+
+71
+00:06:09.420 --> 00:06:12.630
+We have already conducted 30-30,000 gathering events also in India.
+
+72
+00:06:13.620 --> 00:06:14.400
+So the point is
+
+73
+00:06:15.841 --> 00:06:19.560
+you-- whatever I am trying to say यह आपके लिए बोल रहा हूँ, not for me.
+
+74
+00:06:20.310 --> 00:06:23.610
+So take it very carefully, take it very seriously and be attentive, obviously.
+
+75
+00:06:23.970 --> 00:06:29.730
+यह call मैं कोशिश करूंगा कि 10:00 बजे तक खत्म करूं because I know that
+
+76
+00:06:29.970 --> 00:06:33.690
+काफी सारी चीजें मुझे आप लोगों को बतानी हैं, दिखानी हैं। Obviously practicals भी
+
+77
+00:06:33.720 --> 00:06:36.000
+करके दिखाऊंगा so it will be exciting for you.
+
+78
+00:06:36.901 --> 00:06:42.091
+But obviously, as much as I can cover in today's call that I will cover, जिसमें
+
+79
+00:06:42.151 --> 00:06:47.940
+आपकी एक complete understanding आ जाए in content creation क्या हमें follow करना
+
+80
+00:06:48.030 --> 00:06:48.360
+है।
+
+81
+00:06:50.070 --> 00:06:51.390
+दूसरा मेरा यह point है आपसे
+
+82
+00:06:52.591 --> 00:06:52.831
+कि
+
+83
+00:06:54.870 --> 00:06:59.250
+इस चीज को अगर best सीखना है, content creation को अगर AI से अगर best सीखना है,
+
+84
+00:07:00.690 --> 00:07:06.091
+तो सबसे पहली चीज आपको यह समझनी होगी कि अगर मैं आपको एक चीज generate करके बता रहा
+
+85
+00:07:06.151 --> 00:07:11.370
+हूँ, for example, मैं एक चीज generate करके बता रहा हूँ, वह चीज तो आप समझ जाओगे।
+
+86
+00:07:12.331 --> 00:07:16.951
+But उससे आपका agency या business शुरू नहीं होगी। You have to become flexible in
+
+87
+00:07:16.980 --> 00:07:22.651
+your skills. Obviously. दुनिया का कोई भी trainer किसी एक
+
+88
+00:07:22.710 --> 00:07:27.750
+particular class में content creation, AI content creation cannot cover.
+
+89
+00:07:27.841 --> 00:07:30.690
+It's a very big, very wide, very creative subject.
+
+90
+00:07:31.320 --> 00:07:36.811
+It's upon us कि हम कितना दिमाग लगा रहे हैं, हमारी creativity क्या है। Obviously.
+
+91
+00:07:37.530 --> 00:07:40.410
+As we believe before artificial intelligence, there is a human intelligence that
+
+92
+00:07:40.470 --> 00:07:41.940
+controls the artificial intelligence.
+
+93
+00:07:42.480 --> 00:07:47.581
+So here it applies the same कि हमारा creative brain कितना अच्छा है,
+
+94
+00:07:48.451 --> 00:07:53.460
+उतना better आप creative tools को use कर पाओगे, उतना better आपकी outcome आएगी। I
+
+95
+00:07:53.490 --> 00:07:54.600
+hope you are getting the point.
+
+96
+00:07:56.701 --> 00:07:58.800
+So make sure that आप
+
+97
+00:08:01.020 --> 00:08:03.120
+यह चीजें ध्यान में रखें सारी and
+
+98
+00:08:04.320 --> 00:08:06.811
+without wasting the time let's start the session.
+
+99
+00:08:08.581 --> 00:08:13.951
+Starting का कुछ मैं आप लोगों को theory समझाऊंगा, जिसमें आपको यह समझना है सबसे पहले
+
+100
+00:08:14.520 --> 00:08:19.170
+कि-- हाँ, एक और point जो मेरा यहाँ पर point मैं highlight करना चाहूंगा
+
+101
+00:08:21.000 --> 00:08:26.940
+how you can become excellent in AI content creation that nobody
+
+102
+00:08:26.970 --> 00:08:32.280
+is teaching in India and globally this actual practical insights जो एक insight
+
+103
+00:08:32.370 --> 00:08:37.770
+secret है, जो जितने भी लोग सिखा रहे हैं उनके brain में। That you have to
+
+104
+00:08:37.831 --> 00:08:43.530
+understand. अगर वह चीज आपने पकड़ ली ना, तो आपका दिमाग अपने आप में एक engine बन
+
+105
+00:08:43.620 --> 00:08:49.470
+जाएगा। You become your self. आपके level पर आप भी लोगों को सिखाने के mindset से,
+
+106
+00:08:49.590 --> 00:08:54.360
+उस mindset पर आ जाओगे। I hope. How many of you are in the same frequency with me?
+
+107
+00:08:54.450 --> 00:08:59.640
+अब तक मैं जो बोल रहा हूँ I have to make sure कि मैं समझू चीजें ताकि मैं-- you know,
+
+108
+00:09:00.270 --> 00:09:00.510
+great
+
+109
+00:09:02.730 --> 00:09:05.401
+You are on the same page. Are you getting the point? Thank you.
+
+110
+00:09:06.600 --> 00:09:08.370
+I am trying to make it very easy,
+
+111
+00:09:09.840 --> 00:09:12.840
+ताकि सभी लोगों के mind में समझ में आए।
+
+112
+00:09:14.069 --> 00:09:19.561
+So, what is the engine जो अगर हमें चलना start हो जाए
+
+113
+00:09:20.010 --> 00:09:25.561
+so we can understand कि हम बाकी चीजों पर भी इस तरह से इस चीज का use कर सकते हैं।
+
+114
+00:09:26.760 --> 00:09:32.100
+So the second point जो मैं बता रहा हूं यह है कि AI content creation
+
+115
+00:09:32.820 --> 00:09:34.890
+in itself-- अगर मैं AI की बात करूं।
+
+116
+00:09:38.970 --> 00:09:44.940
+अगर मैं तीन महीने पहले या चार महीने पहले लिख देता तो, आज से चार महीने पहले थोड़ा सा
+
+117
+00:09:45.000 --> 00:09:49.470
+तरीका अलग था। Obviously, उसकी भी training हमारी हो रखी है। वह recording हम सब लोगों
+
+118
+00:09:49.500 --> 00:09:55.440
+को देने वाले हैं। आपके LMS पर कल आ जाएगी। जो 1.0 के हैं उनको तो मिल ही गई है। 2.0
+
+119
+00:09:55.470 --> 00:09:59.370
+वालों को भी हम देंगे। Make sure उसकी में चीजें क्या हैं, उसके अंदर हम से क्या cover
+
+120
+00:09:59.490 --> 00:10:03.360
+है, मैं last में बताऊंगा। Second, हमें समझना क्या है?
+
+121
+00:10:03.420 --> 00:10:05.880
+हमें समझना है the process.
+
+122
+00:10:07.200 --> 00:10:12.061
+Are you getting the point? क्या ऐसा standard process है जिसको अगर we follow करें,
+
+123
+00:10:12.151 --> 00:10:13.890
+जिससे हमें quality outcome आए।
+
+124
+00:10:15.450 --> 00:10:16.920
+Make sure यह आप ध्यान से समझिए।
+
+125
+00:10:18.300 --> 00:10:23.070
+Outcome लाना आज की date में कोई बड़ी बात नहीं है। You already have ChatGPT। आप सब
+
+126
+00:10:23.130 --> 00:10:28.440
+लोगों के पास होगी, majority of you। आप सब लोगों के पास Gemini वाला भी app होगा। आप
+
+127
+00:10:28.470 --> 00:10:34.200
+सब लोगों के पास Claude वाला भी app होगा। In mobile itself, आप Chrome browser में भी
+
+128
+00:10:34.260 --> 00:10:37.110
+login करके देख सकते हैं। But what is the difference?
+
+129
+00:10:38.280 --> 00:10:41.790
+जो लोग business कर रहे हैं, जो लोग नहीं कर पा रहे हैं, difference है quality।
+
+130
+00:10:43.020 --> 00:10:43.710
+Are you getting the point?
+
+131
+00:10:45.151 --> 00:10:50.910
+So, quality outcome लाने के लिए क्या process है, वह हमें अगर समझ में आ गई,
+
+132
+00:10:52.770 --> 00:10:57.750
+उसमें आप कितनी भी creativity add कर रहे हो that will make you versatile in content
+
+133
+00:10:57.811 --> 00:10:58.260
+creation.
+
+134
+00:11:00.510 --> 00:11:04.860
+अगर यहां तक clear है तो give me a big thumbs up, guys। Honest रहना मेरे साथ ताकि
+
+135
+00:11:04.920 --> 00:11:08.340
+मैं समझ पाऊं कि मैं सही तरह से पढ़ा पा रहा हूं आपको and you are understanding the
+
+136
+00:11:08.401 --> 00:11:09.030
+right way।
+
+137
+00:11:10.651 --> 00:11:13.470
+Thank you so much. Thank you so much, guys.
+
+138
+00:11:13.561 --> 00:11:19.470
+So let me clear you first कि how and what are the
+
+139
+00:11:19.530 --> 00:11:24.360
+processes, then we will obviously see some demos। मैं कुछ आपको अपनी तरफ से
+
+140
+00:11:24.780 --> 00:11:30.720
+foundational prompts भी दूंगा, जो आपको beginning में काम आएंगे। आप trial and test
+
+141
+00:11:30.750 --> 00:11:35.610
+कर पाओगे चीजों को। क्योंकि Gemini is free, ChatGPT is free, Claude is free।
+
+142
+00:11:35.670 --> 00:11:40.620
+Starting में आप उसको use कर सकते हो। Some case में शायद वह लोग paid version
+
+143
+00:11:40.681 --> 00:11:45.901
+required मांगते हैं to generate some additional stuff। Obviously, उनको भी खर्चा
+
+144
+00:11:45.960 --> 00:11:49.620
+लगता है, तो वह लेंगे ही आपसे। Simple सी बात है। So nice.
+
+145
+00:11:49.740 --> 00:11:55.681
+ठीक है। Let me share my screen first and focus on the screen now.
+
+146
+00:11:57.300 --> 00:11:57.990
+Just a minute.
+
+147
+00:12:13.651 --> 00:12:13.920
+Okay.
+
+148
+00:12:17.340 --> 00:12:18.151
+Number one।
+
+149
+00:12:19.860 --> 00:12:24.750
+थोड़ा सा इसको हम ध्यान से समझेंगे। 15-20 minute का, maximum आधे घंटे का हम theory
+
+150
+00:12:24.780 --> 00:12:29.490
+cover कर रहे हैं पहले, ताकि outline हमारी clear हो जाए पहले। book जब हम पढ़ते हैं,
+
+151
+00:12:29.670 --> 00:12:32.130
+book पढ़ने से पहले हम outline पढ़ते हैं। Table of content.
+
+152
+00:12:32.580 --> 00:12:37.890
+ताकि book का अल्हडा मिल जाता है। तो हमें outline clear करनी है। फिर हम one by one
+
+153
+00:12:37.950 --> 00:12:42.811
+चीजों को भी देखेंगे। Execute करके भी बताएंगे, process भी बताऊंगा मैं, step by step.
+
+154
+00:12:43.350 --> 00:12:46.200
+मैं आप सभी लोगों को साथ में चलकर--
+
+155
+00:12:49.020 --> 00:12:52.651
+we are all together. आप में से कुछ लोग होंगे जो काफी अच्छे से कर रहे होंगे कुछ
+
+156
+00:12:52.681 --> 00:12:56.371
+चीजें। I appreciate that. But आप में से कुछ लोग होंगे जो शायद beginner होंगे। So I
+
+157
+00:12:56.460 --> 00:13:01.710
+am the person जो साथ में लेकर चलेगा ताकि मैं वो चीजें easy way में starting to end
+
+158
+00:13:01.770 --> 00:13:04.740
+दिखाऊं, ताकि सबको सब समझ में आए। I hope this makes sense.
+
+159
+00:13:07.411 --> 00:13:13.230
+All good. So now the number one thing कि AI content creation में क्या ऐसे
+
+160
+00:13:13.290 --> 00:13:19.080
+platforms हम use करें जो हमें मदद करें और हमें वह required
+
+161
+00:13:19.110 --> 00:13:24.750
+होंगे उस process को outcome तक पहुंचाने के लिए। The number one page जो मैं screen
+
+162
+00:13:24.810 --> 00:13:30.270
+पर share कर रहा हूं। Serious. So number one is-- और उसके
+
+163
+00:13:30.301 --> 00:13:33.270
+process सिर्फ नहीं समझनी है। हमें यह भी समझना है कि
+
+164
+00:13:34.651 --> 00:13:38.730
+कौन सी चीज कहां apply करनी है। वह भी थोड़ा सा दिमाग-- आपका सारा focus अभी screen पर
+
+165
+00:13:38.760 --> 00:13:43.140
+रखिएगा, guys। नहीं तो यह चीजें ऊपर से भी जा सकती है। थोड़ा सा ध्यान से समझिएगा।
+
+166
+00:13:46.260 --> 00:13:52.170
+पहली चीज है हमें AI के foundation को यह समझना होगा कि पूरे world में
+
+167
+00:13:52.290 --> 00:13:56.551
+AI की अगर हम बात करें तो what is exactly AI?
+
+168
+00:13:57.210 --> 00:14:00.960
+यह route आपको clear होगा ताकि वहां से हम सारा clear हो जाए। सारी dots connected है।
+
+169
+00:14:00.960 --> 00:14:06.780
+Be with me. What is exactly AI? If I ask this question तो इसका honest
+
+170
+00:14:06.901 --> 00:14:11.520
+answer अगर मैं देना चाहूं कि AI is not any platform.
+
+171
+00:14:13.051 --> 00:14:14.790
+AI is not any software.
+
+172
+00:14:16.051 --> 00:14:21.090
+AI का full form ही यह चीज बता रहा है कि AI is the
+
+173
+00:14:21.181 --> 00:14:23.940
+intelligence, artificial intelligence.
+
+174
+00:14:25.080 --> 00:14:28.080
+So the word यह दिमाग में रखिएगा intelligence.
+
+175
+00:14:30.181 --> 00:14:35.730
+एक चीज मैं आपको अभी feel करवा रहा हूं जो शायद आपको-- पता नहीं आप लोगों ने उस चीज को
+
+176
+00:14:35.730 --> 00:14:38.911
+उस तरह से देखा नहीं है, but वो चीज उस तरह से देखना start करोगे तो उस तरह से आपका
+
+177
+00:14:39.000 --> 00:14:44.371
+using का जो vision है, जो सोच है वह limitless हो जाएगी।
+
+178
+00:14:45.181 --> 00:14:50.700
+Think about it like a-- कोई इंसान है जिसने PhD level की degree
+
+179
+00:14:50.760 --> 00:14:55.710
+लेकर life में बहुत बढ़िया कर लिया है। He is a highly successful people. Any person.
+
+180
+00:14:55.801 --> 00:15:00.570
+Think about it. Obviously, उसका intelligence level अच्छा होगा तभी तो वो कर पाया।
+
+181
+00:15:02.040 --> 00:15:04.710
+match कर रही है बातें। Same.
+
+182
+00:15:05.911 --> 00:15:07.590
+Artificial intelligence.
+
+183
+00:15:09.720 --> 00:15:15.151
+Artificial intelligence knew everything जो market में, दुनिया में
+
+184
+00:15:15.360 --> 00:15:21.270
+generalize available है, internet पर available है, news में available है।
+
+185
+00:15:21.360 --> 00:15:26.759
+उसको सब पता है। अब question यह है कि what is exactly AI?
+
+186
+00:15:26.820 --> 00:15:30.301
+ChatGPT है, Gemini है, Hexfield है, Agent है, Claude है। कौन AI है?
+
+187
+00:15:31.350 --> 00:15:36.990
+AI की foundation है LLM।
+
+188
+00:15:37.110 --> 00:15:38.730
+Large Language Model.
+
+189
+00:15:40.801 --> 00:15:41.130
+Get it?
+
+190
+00:15:43.110 --> 00:15:44.880
+Why it called large language model basically?
+
+191
+00:15:46.140 --> 00:15:50.551
+Basically, इसको large language model इसलिए बोला जाता है क्योंकि intelligence को जो
+
+192
+00:15:50.640 --> 00:15:53.700
+data चाहिए था, knowledge चाहिए होता है। इंसान के पास knowledge कहां से आता है?
+
+193
+00:15:54.060 --> 00:15:56.070
+बाहरी चीजों से आता है। Books पढ़ता है,
+
+194
+00:15:57.661 --> 00:16:03.330
+learning में invest करता है, courses खरीदता है। यह सब कर-कर कर जितना-जितना जिसने
+
+195
+00:16:03.360 --> 00:16:07.260
+ज्यादा invest करा होगा उतना data उसके पास ज्यादा होगा दिमाग में, उतना better वह
+
+196
+00:16:07.320 --> 00:16:09.630
+intelligence कहलाता है। Same with AI.
+
+197
+00:16:11.040 --> 00:16:16.681
+LLMs को एक तरह से models भी कहा जाता है। तो यह जो models है इनकी
+
+198
+00:16:16.740 --> 00:16:22.200
+intelligence भी अलग-अलग होती है। Now think deeply. ChatGPT is the LLM.
+
+199
+00:16:23.010 --> 00:16:26.670
+Gemini is the LLM. Hexfield is not the LLM.
+
+200
+00:16:26.730 --> 00:16:31.411
+Hexfield is the platform which is using the LLMs in the backend. Clear?
+
+201
+00:16:32.970 --> 00:16:37.980
+Agent is also not the LLM. He is also using some different LLMs in the backend।
+
+202
+00:16:39.090 --> 00:16:44.070
+Combination use करके वह सारी चीजें दिमाग अलग level पर रखता है। And Claude is also
+
+203
+00:16:44.130 --> 00:16:49.110
+the LLMs. और यह तीन नहीं है। अभी यहां पर पांच में से तीन LLMs है। But ये तीन LLMs
+
+204
+00:16:49.170 --> 00:16:51.840
+नहीं है दुनिया में सिर्फ। दुनिया में China
+
+205
+00:16:53.760 --> 00:16:59.460
+के पास भी बहुत से LLMs है। Kimi 3 and all this stuff like DeepSeek और बहुत सारे
+
+206
+00:16:59.490 --> 00:17:02.760
+names मिल जाएंगे आपको। आप simple ChatGPT को भी say कर दो give me a list of entire
+
+207
+00:17:02.850 --> 00:17:06.720
+LLM list, entire LLM models all over the world। आपको list मिल जाएगी। It's very
+
+208
+00:17:06.780 --> 00:17:11.611
+simple. मैं इस पर time ज्यादा नहीं दूंगा। आप समझ पा रहे हो मेरा। But these are the
+
+209
+00:17:11.820 --> 00:17:15.361
+LLMs, Large Language Model। यह intelligence का base है।
+
+210
+00:17:16.681 --> 00:17:22.051
+Now I hope यह clear हो रहा है। अब intelligence का base अगर है तो किसी की कोई चीज
+
+211
+00:17:22.890 --> 00:17:28.051
+अच्छी होती है। Intelligence में भी, इंसान में भी होता है। अगर कोई दोनों PhD user
+
+212
+00:17:28.080 --> 00:17:33.150
+है, दो PhD holder है, किसी की कुछ strength होगी, किसी की कुछ weakness होगी।
+
+213
+00:17:34.560 --> 00:17:38.430
+Depend कि उसका knowledge कैसा है, इसका knowledge कैसा है, इसका experience कैसा है,
+
+214
+00:17:38.490 --> 00:17:44.400
+इसका experience कैसा है। Same। Models में भी अपनी कुछ
+
+215
+00:17:44.520 --> 00:17:49.710
+strengths है, अपनी कुछ weaknesses है। Let me guide you that जो foundation आपका
+
+216
+00:17:49.770 --> 00:17:54.000
+clear होगा तो देखने का नजरिया आपको समझ में आ जाएगा कि कौन सी चीज कहां ज्यादा हम use
+
+217
+00:17:54.030 --> 00:17:59.611
+करें तो वह ज्यादा better result देगा हमें। ठीक है। If I ask about ChatGPT--
+
+218
+00:18:00.090 --> 00:18:04.350
+content creation में हमने यह चीजें जो सामने करके screen पर, यह most of the people
+
+219
+00:18:04.621 --> 00:18:09.060
+जो बड़े-बड़े agencies है वह use करते हैं आज की date में content creation ऐसे करने
+
+220
+00:18:09.090 --> 00:18:13.830
+के लिए। Number one is ChatGPT. If I talk about ChatGPT
+
+221
+00:18:16.116 --> 00:18:19.776
+In my personal experience as well, it's not like that I am just writing it here.
+
+222
+00:18:21.306 --> 00:18:26.856
+Idea generation, prompt generation, scripts and storyboards,
+
+223
+00:18:28.746 --> 00:18:32.437
+इन सब में ChatGPT की intelligence बहुत बढ़िया है।
+
+224
+00:18:33.697 --> 00:18:33.937
+Clear?
+
+225
+00:18:35.286 --> 00:18:36.996
+Second, अगर मैं बोलूं क्या इसकी strength है?
+
+226
+00:18:37.056 --> 00:18:42.306
+इसकी strength है image generation, जो भी recently दो-तीन महीने पहले updates आए थे।
+
+227
+00:18:42.366 --> 00:18:48.276
+इसका एक चीज और बता दूं। यह हम आज बात कर रहे हैं 2026 में। It doesn't
+
+228
+00:18:48.306 --> 00:18:52.416
+mean कि आज अगर यह चीज मैं बता रहा हूं, यही चीज रहेगी। हर model की strength यही
+
+229
+00:18:52.476 --> 00:18:56.076
+रहेगी, हर model की weakness यही रहेगी। Every model is continuously updating.
+
+230
+00:18:57.636 --> 00:19:00.276
+In every day, in every month, every week.
+
+231
+00:19:00.336 --> 00:19:03.486
+वो continuously update हो रहा है। Model change हो रहा है, upgrade हो रहा है। जैसे
+
+232
+00:19:03.546 --> 00:19:08.076
+एक बच्चा बड़ा होता है, उसका intelligence बड़ा होता है ना। उसकी maturity बढ़ती है।
+
+233
+00:19:08.166 --> 00:19:13.866
+Same with this intelligence. It's just like a three and a half years of artificial
+
+234
+00:19:13.896 --> 00:19:18.216
+intelligence baby, we all have in all over the world. So it's still growing.
+
+235
+00:19:18.636 --> 00:19:22.086
+इसकी intelligence दिन ब दिन बढ़ रही है क्योंकि data बढ़ रहा है। लोग use कर रहे हैं
+
+236
+00:19:22.116 --> 00:19:26.766
+तो data और मिल रहा है। So ChatGPT is basically the point number one is ChatGPT is
+
+237
+00:19:26.796 --> 00:19:32.256
+basically great in ideas, prompting, scripting, storyboard,
+
+238
+00:19:33.366 --> 00:19:37.926
+video scripts। इसमें बहुत बढ़िया इसका outcome आता है। Okay?
+
+239
+00:19:39.606 --> 00:19:41.766
+Second, if I talk about Google Gemini.
+
+240
+00:19:42.187 --> 00:19:47.256
+Google Gemini है, यह Google का product है। ChatGPT obviously OpenAI का product है।
+
+241
+00:19:47.316 --> 00:19:51.396
+Google Gemini के अगर बात करूं तो it's very good at photo generation.
+
+242
+00:19:53.016 --> 00:19:57.187
+If I talk about ChatGPT and Google Gemini, दोनों ही photo generation में अच्छे हैं
+
+243
+00:19:57.187 --> 00:20:02.886
+वैसे आज के date में। But at some point, Gemini is giving better
+
+244
+00:20:03.006 --> 00:20:08.166
+outcomes. जब हम बड़े level पर चीजें करना start करते हैं ना, जब हम बहुत से photos
+
+245
+00:20:08.197 --> 00:20:11.796
+create करते हैं दोनों चीजों पर, तो हमें समझ में आता है कि यह थोड़ा ज्यादा
+
+246
+00:20:11.826 --> 00:20:17.556
+intelligent है। यह mistake कम करता है, यह mistake ज्यादा करता है। Similarly, if I
+
+247
+00:20:17.616 --> 00:20:21.756
+talk about the third LLM in this slide, which is Claude。
+
+248
+00:20:23.106 --> 00:20:25.206
+अब Claude की अपनी strength क्या है?
+
+249
+00:20:25.956 --> 00:20:30.576
+Claude की भी अपनी एक strength है कि it's very good at
+
+250
+00:20:31.956 --> 00:20:32.256
+the
+
+251
+00:20:33.576 --> 00:20:38.616
+code generation। Coding के लिए use किया जाता है इसका आज के date में, जिसमें जो भी
+
+252
+00:20:38.646 --> 00:20:43.296
+engineers आज के date में हैं, जिनका time बच रहा है, जो code वो बड़े-बड़े time दे
+
+253
+00:20:43.356 --> 00:20:44.976
+देते थे, वो थोड़ा fast हो गया उनका काम।
+
+254
+00:20:46.776 --> 00:20:48.876
+Claude is also very good at scripting.
+
+255
+00:20:50.286 --> 00:20:55.447
+But इसको आप थोड़ा सा इस तरह से समझिए, यह inside knowledge आपको समझ में आएगी मेरी
+
+256
+00:20:55.476 --> 00:20:55.806
+बात।
+
+257
+00:20:57.426 --> 00:21:02.406
+Claude ने अभी recently दो दिन पहले Fable 5.1 launch किया,
+
+258
+00:21:03.606 --> 00:21:08.736
+जो कि दुनिया का सबसे intelligence models माना जाता है। यह वो claim कर रहा है। We
+
+259
+00:21:08.766 --> 00:21:09.666
+are not claiming it.
+
+260
+00:21:11.076 --> 00:21:14.376
+But obviously इसमें intelligence है comparatively जो बाकी सारे models हैं, but वो
+
+261
+00:21:14.406 --> 00:21:18.036
+intelligence किसकी ऊपर है? मतलब क्या strength के ऊपर है?
+
+262
+00:21:18.066 --> 00:21:23.316
+Which is the coding related mostly, complex tasks and coding related stuff.
+
+263
+00:21:24.516 --> 00:21:24.846
+Clear?
+
+264
+00:21:26.197 --> 00:21:30.576
+So what is the weakness then? Weakness पर हम बात करते हैं अभी। What is the
+
+265
+00:21:30.636 --> 00:21:36.576
+weakness? Weakness if I talk about the Claude, Claude is not built for image
+
+266
+00:21:36.606 --> 00:21:40.626
+generation until and unless आप दूसरी third party tool को उससे integrate ना कर दो।
+
+267
+00:21:43.236 --> 00:21:43.506
+Clear?
+
+268
+00:21:45.996 --> 00:21:50.406
+Gemini is not primarily built for coding.
+
+269
+00:21:53.826 --> 00:21:56.706
+ChatGPT it's also a good in coding.
+
+270
+00:21:57.126 --> 00:22:01.656
+इसका Codex करके एक और product है, ChatGPT Codex। उसमें वो better है
+
+271
+00:22:03.006 --> 00:22:06.366
+which is beating the Claude code.
+
+272
+00:22:07.836 --> 00:22:11.556
+One second. Now let me ask you because it's very important.
+
+273
+00:22:15.426 --> 00:22:20.346
+Let me stop the screen for a second and let me ask you, यहाँ तक how many of you got
+
+274
+00:22:20.406 --> 00:22:22.986
+here on the same page? Show me a big thumbs up.
+
+275
+00:22:25.206 --> 00:22:29.586
+Strength, weakness समझ में आ रही है। LLMs क्या होता है वो समझ में आ रही है। और अभी
+
+276
+00:22:29.646 --> 00:22:33.216
+हम साढ़े तीन साल के baby से ही काम चला रहे हैं, वो भी बहुत बढ़िया चल रहा है।
+
+277
+00:22:43.326 --> 00:22:44.886
+Guys, just a second. Okay,
+
+278
+00:22:47.646 --> 00:22:53.496
+thank you so much, guys. Thank you so much.
+
+279
+00:22:53.496 --> 00:22:55.056
+We are just 1000 people in
+
+280
+00:22:56.016 --> 00:23:18.426
+the
+
+281
+00:23:18.697 --> 00:23:24.456
+room, basically. So we are streaming it on YouTube on the private screen for the
+
+282
+00:23:24.516 --> 00:23:28.926
+people who are not able to join. So thank you so much, guys.
+
+283
+00:23:28.926 --> 00:23:29.496
+So now
+
+284
+00:23:31.116 --> 00:23:33.396
+the next screen.
+
+285
+00:24:17.886 --> 00:24:18.156
+Now,
+
+286
+00:24:19.746 --> 00:24:20.256
+before this,
+
+287
+00:24:22.326 --> 00:24:23.076
+let me ask you.
+
+288
+00:24:24.516 --> 00:24:28.956
+When we create any kind of images-- सबसे पहले हम images में समझेंगे। फिर हम videos
+
+289
+00:24:29.016 --> 00:24:32.437
+के section में जाएंगे। Step by step हम समझेंगे ताकि clear हो जाए। ऊपर से ना जाए कोई
+
+290
+00:24:32.496 --> 00:24:38.316
+चीज। जब भी कोई चीज हम create करते हैं ना, make sure that उसकी
+
+291
+00:24:38.376 --> 00:24:39.456
+purpose हमें पता हो।
+
+292
+00:24:40.805 --> 00:24:44.437
+Right? कि क्या purpose है उस चीज का, कि वो किसके लिए बनाई जा रही है। किसके लिए in
+
+293
+00:24:44.466 --> 00:24:48.066
+the sense of उसकी position क्या है, कौन से platform पर post होगा। Let's say, for
+
+294
+00:24:48.126 --> 00:24:52.146
+example, social media के लिए बनाई जा रही है या Meta Ads के लिए बनाई जा रही है। Meta
+
+295
+00:24:52.176 --> 00:24:56.106
+Ads obviously you know that. आप में से कई लोगों को idea होगा Meta Ads क्या होता है।
+
+296
+00:24:56.166 --> 00:25:00.336
+आप लोगों को नहीं पता है, मैं बता दूं। Instagram, Facebook, WhatsApp ये तीन platform
+
+297
+00:25:00.396 --> 00:25:06.096
+Meta के हैं और उसके ऊपर तीनों platform पर ads कैसे चलाने हैं, ये class भी हम आने
+
+298
+00:25:06.126 --> 00:25:09.846
+वाले time में cover करने वाले हैं। Agency level setup कैसे होगा, वो सारी बाद की बात
+
+299
+00:25:09.876 --> 00:25:11.796
+है। But make sure that Meta Ads
+
+300
+00:25:13.416 --> 00:25:19.206
+पर जो ads चलती हैं ना, वो ads का content का psychology अलग होता है और general
+
+301
+00:25:19.687 --> 00:25:22.896
+social media post की psychology अलग होती है। Clear?
+
+302
+00:25:23.856 --> 00:25:26.466
+So majority people
+
+303
+00:25:29.046 --> 00:25:33.516
+को ज्यादा दिया जाता है पैसा जो Meta Ads के creative बनाने के expert होते हैं
+
+304
+00:25:33.576 --> 00:25:39.156
+because इसका reason simple है। Social media post करके देना आज के date में it's not
+
+305
+00:25:39.187 --> 00:25:44.766
+a big deal because आज के date में AI से वो easily बन जाते हैं post। But social
+
+306
+00:25:44.826 --> 00:25:49.567
+media से businesses उतने नहीं आते हैं जितना Meta Ads चलाके आते हैं।
+
+307
+00:25:50.406 --> 00:25:54.486
+Business का root क्या है? Business के root हैं leads.
+
+308
+00:25:55.506 --> 00:26:00.906
+So Meta Ads के लिए जो creative लगती है, वो थोड़ी psychology अलग होती है उसकी। मैं
+
+309
+00:26:00.966 --> 00:26:06.877
+बताऊंगा वो उसका psychological factor क्या है ताकि आप वो चीज relate कर पाएं। और उस
+
+310
+00:26:06.966 --> 00:26:09.246
+psychology के experts जो होते हैं ना,
+
+311
+00:26:12.546 --> 00:26:15.786
+they are charging more for creating the content.
+
+312
+00:26:17.586 --> 00:26:23.016
+Getting it? Because वो creative के ऊपर depend रहता है। जो भी आपका business
+
+313
+00:26:23.646 --> 00:26:28.656
+client है, वो fund invest करने वाला है Meta Ads में वो creative के साथ। तो जितना
+
+314
+00:26:28.746 --> 00:26:33.576
+आपका powerful creative होता है ना, उतना कम उसको fund invest करना पड़ता है और उतने
+
+315
+00:26:33.636 --> 00:26:36.937
+कम fund में उनको ज्यादा से ज्यादा leads मिलती हैं। Basically, the science behind
+
+316
+00:26:36.966 --> 00:26:42.696
+that है कि पैसा बचाना client का भी और आपकी तरफ से quality output
+
+317
+00:26:42.726 --> 00:26:44.437
+मिलना। So now
+
+318
+00:26:45.666 --> 00:26:46.506
+what is the
+
+319
+00:26:49.746 --> 00:26:52.056
+psychology? The psychology is very simple.
+
+320
+00:26:55.446 --> 00:26:57.817
+In any winning creative,
+
+321
+00:26:59.466 --> 00:27:01.627
+जो winning है-- winning का definition यह हो गया कि
+
+322
+00:27:03.576 --> 00:27:08.016
+cost per lead करके एक term है। जो सारी चीज आपको याद रखनी है। देखो, पूरी batch है ना
+
+323
+00:27:08.046 --> 00:27:11.136
+connected है। Dots सारे connect होंगे आपके। So make sure you focus.
+
+324
+00:27:12.067 --> 00:27:16.536
+Meta Ads वाले class में सारी चीज आपको याद आ जाएगी जो मैं बोल रहा हूं अभी। Cost per
+
+325
+00:27:16.567 --> 00:27:22.356
+lead करके एक term है जो Meta Ads चलाने के बाद आपको समझ में आता है कि
+
+326
+00:27:22.506 --> 00:27:25.416
+एक lead generate करने का क्या cost पड़ रहा है आपके case में।
+
+327
+00:27:26.839 --> 00:27:30.048
+तो वह cost per lead कम से कम कैसे आए?
+
+328
+00:27:31.669 --> 00:27:36.348
+is equal to कम से कम तो आए but ज्यादा से ज्यादा quality leads भी आए।
+
+329
+00:27:38.089 --> 00:27:41.568
+वह कब होगा? इसका मैं आपको practical experience बताता हूं।
+
+330
+00:27:42.858 --> 00:27:47.748
+एक imagine करो कि एक ऐसा creative है। आप सब लोग Instagram use करते हो for sure
+
+331
+00:27:47.808 --> 00:27:51.378
+definitely इस बात की मुझे कोई doubt नहीं है। Facebook भी use करते ही होंगे। Right?
+
+332
+00:27:52.128 --> 00:27:57.948
+So make sure that आप जब भी खोलते हो यह platforms को, there is a sea
+
+333
+00:27:58.068 --> 00:28:01.399
+of ocean of content always available for you.
+
+334
+00:28:02.238 --> 00:28:06.318
+Always new, always fresh, always available, endless.
+
+335
+00:28:07.339 --> 00:28:13.308
+अब imagine करो कि इतने बड़े content के sea में आप scroll up कर
+
+336
+00:28:13.368 --> 00:28:14.928
+रहे हो। Just imagine a small movement.
+
+337
+00:28:15.348 --> 00:28:15.919
+You are scrolling
+
+338
+00:28:17.208 --> 00:28:21.889
+up. And what happens suddenly कि you just stop your finger.
+
+339
+00:28:23.748 --> 00:28:27.768
+क्यों? उसके तीन factor होते हैं। अब यह ध्यान से समझो आप।
+
+340
+00:28:29.298 --> 00:28:35.208
+तीन factor की वजह से इंसान के अंगूठे का thumb रुकता है या नहीं रुकता है,
+
+341
+00:28:35.238 --> 00:28:41.089
+यह समझ में आता है। वो तीन factor हैं scroll stopping hook line that relates with
+
+342
+00:28:41.149 --> 00:28:41.358
+you.
+
+343
+00:28:43.788 --> 00:28:45.169
+Scroll stopping visuals
+
+344
+00:28:47.419 --> 00:28:49.428
+that can make sense with the hook line
+
+345
+00:28:51.948 --> 00:28:55.399
+and call to action button जिसका short form है CTA.
+
+346
+00:28:56.899 --> 00:29:02.868
+CTA. क्या होगा आगे? Action लिया जाना है। Attention तो लाना पहला stage है। Attention
+
+347
+00:29:02.928 --> 00:29:05.238
+लाने के बाद action दिलाना दूसरा stage है।
+
+348
+00:29:07.098 --> 00:29:10.488
+Right? कि learn more पर click करके वो landing page पर तो आए at least.
+
+349
+00:29:11.419 --> 00:29:12.228
+clear हो रहा है सबको?
+
+350
+00:29:13.639 --> 00:29:17.899
+So अब बात हम कर रहे हैं कि वो visuals की तीन factor हैं यहां पर। So just scroll
+
+351
+00:29:17.958 --> 00:29:19.938
+stopping hook line the number one.
+
+352
+00:29:20.868 --> 00:29:24.948
+The strong headlines, curiosity, problem and desire in the first line.
+
+353
+00:29:25.279 --> 00:29:27.858
+The second is visuals on attentions.
+
+354
+00:29:28.008 --> 00:29:31.368
+अब ये तीन चीजें कैसे psychologically connected हैं, यह neuroscience से connected
+
+355
+00:29:31.368 --> 00:29:36.678
+है, मैं समझा दूंगा कैसे। इंसान जब decision लेता है-- हम life में हर रोज decision
+
+356
+00:29:36.738 --> 00:29:37.038
+लेते हैं
+
+357
+00:29:38.268 --> 00:29:43.458
+but हम कभी उसको decision word नहीं बोलते। मैं आपको बताता हूं कैसे। आप लोगों को यह
+
+358
+00:29:43.488 --> 00:29:46.788
+Zoom meeting मिली होगी, right? आप लोगों को शायद email में मिली होगी। आप लोगों को
+
+359
+00:29:46.848 --> 00:29:52.248
+शायद WhatsApp community में मिली होगी या WhatsApp में मिली होगी। जब मिली, उस moment
+
+360
+00:29:52.308 --> 00:29:54.798
+पर आपने decision ले लिया था ना कि connect होना है।
+
+361
+00:29:56.149 --> 00:30:01.128
+That was also a decision. Similarly, a practical example जब आप Instagram पर ad चला
+
+362
+00:30:01.188 --> 00:30:03.889
+रहे हो, आपके client की ad चल रही है, creative आपने बना के दिया है।
+
+363
+00:30:05.238 --> 00:30:10.038
+Why will people stop? तो वो तीन factor होते हैं। एक तो ये तीन बता दिए, एक
+
+364
+00:30:10.068 --> 00:30:13.878
+psychological तीन factor हो गए। इंसान decision लेता है तीन चीजों के basis पर जब
+
+365
+00:30:13.938 --> 00:30:19.728
+उसको believe हो जाए। कुछ लोग सुनने पर विश्वास रखते हैं। सुनाई
+
+366
+00:30:19.758 --> 00:30:24.649
+गई बातों को सुनके decision लेते हैं। वह एक category इंसान की होती है auditory
+
+367
+00:30:24.678 --> 00:30:28.098
+category. They are auditory persons.
+
+368
+00:30:28.758 --> 00:30:34.188
+Auditory वो लोग होते हैं जो अगर सुन ली कोई चीज तो उसी पर trust करके decision बना
+
+369
+00:30:34.248 --> 00:30:39.977
+लेते हैं। दूसरी category में है कुछ लोग ऐसे होते हैं जो visuals में believe
+
+370
+00:30:40.008 --> 00:30:45.919
+करते हैं। Getting the point? देखी हुई चीजों में believe करते
+
+371
+00:30:45.948 --> 00:30:51.798
+हैं। Right? So second category के लोग होते हैं जो देख रहे हैं कोई
+
+372
+00:30:51.858 --> 00:30:56.149
+चीज, "हां भाई देख लिया, मैंने देख लिया", उस चीज पर decision लेते हैं। ये सबका
+
+373
+00:30:56.208 --> 00:30:59.568
+अपना-अपना by nature होता है, अलग-अलग होता है। हमारी grown up case भी उस पर depend
+
+374
+00:30:59.568 --> 00:31:04.788
+करता है। हमारा brain इस तरह से काम करता है। तीसरे वो लोग होते हैं जो बोला जाता है
+
+375
+00:31:04.848 --> 00:31:07.878
+उनको kinesthetic in term of scientific word.
+
+376
+00:31:07.998 --> 00:31:13.308
+Kinesthetic मतलब वो देखते भी हैं, सुनते भी हैं but उससे decision नहीं लेते।
+
+377
+00:31:13.339 --> 00:31:14.899
+Decision लेते हैं उनकी gut feeling से।
+
+378
+00:31:17.029 --> 00:31:19.158
+vibe कैसी आ रही है, वो देखने के बाद।
+
+379
+00:31:20.868 --> 00:31:25.608
+Clarity कितनी है? Understanding दिमाग में कितनी अच्छे से बैठ रही है वो चीजों को
+
+380
+00:31:25.669 --> 00:31:30.468
+देखने के बाद। जो भी आपका visual है या जो भी आपका creative है। So ये तीनों category
+
+381
+00:31:30.498 --> 00:31:31.158
+के audience
+
+382
+00:31:32.628 --> 00:31:35.868
+यहां पर cover हो जाते हैं जब आपकी scroll stopping hook line है, scroll stopping
+
+383
+00:31:35.928 --> 00:31:41.688
+visuals है और obviously यह image के अंदर नहीं होगा। हमें videos में आपका audio आएगा
+
+384
+00:31:41.748 --> 00:31:46.848
+तो audio वहां से connect होगा लोगों का। So it's just about images जहां पर हमें समझ
+
+385
+00:31:46.938 --> 00:31:51.108
+आ रही है। Obviously image ऐसे ही result आता है, ऐसा नहीं है। हमें video ads भी लगती
+
+386
+00:31:51.139 --> 00:31:56.328
+है। Right? तो वो एक अलग topic है। But make sure आप यह चीज समझ पा रहे हो कि तीनों
+
+387
+00:31:56.389 --> 00:32:00.018
+category के audience दुनिया में हैं। अब तीनों category के audience को अगर हमारा
+
+388
+00:32:00.078 --> 00:32:04.428
+target market है, obviously हमारे target में तीनों category होगी, तो तीनों की
+
+389
+00:32:04.458 --> 00:32:08.779
+psychology के base पर हमें content create करना चाहिए। तभी वह meta ads पर अच्छा
+
+390
+00:32:08.808 --> 00:32:13.728
+perform करेगा। I hope this makes sense, right? Thank you.
+
+391
+00:32:15.618 --> 00:32:15.919
+So now
+
+392
+00:32:18.318 --> 00:32:23.718
+next. अच्छा, इस चीज को मैं बाद में बताता हूं। Let me now share and let's go to
+
+393
+00:32:23.779 --> 00:32:24.018
+the--
+
+394
+00:32:25.878 --> 00:32:26.688
+just give me a minute.
+
+395
+00:32:34.158 --> 00:32:34.458
+Okay.
+
+396
+00:32:36.408 --> 00:32:39.529
+Number one, let's go. यहां तक clear है सबको, right?
+
+397
+00:32:39.738 --> 00:32:41.628
+So let me share my screen again.
+
+398
+00:32:44.928 --> 00:32:46.038
+Screen is visible everyone?
+
+399
+00:32:47.958 --> 00:32:51.378
+Now able to see जिनके video camera on है। बाकी reactions मुझे नहीं दिख रहे। Thank
+
+400
+00:32:51.408 --> 00:32:55.968
+you so much. Perfect. So obviously यह video आप लोगों में से कई लोगों ने use किया
+
+401
+00:32:55.998 --> 00:33:01.458
+होगा obviously. इसमें कुछ सीखने जैसा है नहीं। अगर आप directly use करोगे तो
+
+402
+00:33:01.578 --> 00:33:07.368
+सीखोगे। कुछ ना कुछ तो आएगा ही आएगा। But क्या process को हम follow करें जिससे हमारा
+
+403
+00:33:07.399 --> 00:33:08.328
+result और better आए।
+
+404
+00:33:10.518 --> 00:33:16.428
+Got it. So number one, let's imagine the scenario कि अगर मैं किसी intelligence को
+
+405
+00:33:17.389 --> 00:33:22.008
+use कर रहा हूं in artificial. हमारे पास direct communication का channel है कि हम
+
+406
+00:33:22.068 --> 00:33:25.368
+direct उसको बोल रहे हैं कि ये बनाते दे दे। Let me try in front of you.
+
+407
+00:33:25.399 --> 00:33:27.078
+Let me try to create an image
+
+408
+00:33:28.339 --> 00:33:28.728
+for
+
+409
+00:33:30.378 --> 00:33:31.758
+AI specialist
+
+410
+00:33:33.198 --> 00:33:34.848
+program 2.0.
+
+411
+00:33:36.139 --> 00:33:40.308
+Date let's say for example second September.
+
+412
+00:33:41.328 --> 00:33:44.688
+Time 08:00 p.m.
+
+413
+00:33:46.399 --> 00:33:47.658
+IST and
+
+414
+00:33:50.389 --> 00:33:54.467
+let's see. इसको मैं simple एक input दे दूंगा। यह मुझे कुछ ना कुछ outcome दे देगा
+
+415
+00:33:54.529 --> 00:33:59.868
+for sure. इसमें कोई knowledge नहीं है। go through कर रहा हूं कि चीजें कैसी आएगी।
+
+416
+00:33:59.958 --> 00:34:01.218
+Let me try again.
+
+417
+00:34:02.808 --> 00:34:05.628
+Sometimes it say retry. It's okay.
+
+418
+00:34:06.529 --> 00:34:10.669
+It's developing phase in the AI all over the world. You just have to retry.
+
+419
+00:34:12.108 --> 00:34:15.738
+So जब तक यह आता नहीं है, तब तक मैं आपको दूसरी चीजें भी guide करता हूं ताकि हमारा
+
+420
+00:34:15.768 --> 00:34:19.428
+time बचे। So what is the other stage? What is the other step?
+
+421
+00:34:19.938 --> 00:34:23.839
+Other step is कि अगर हमें कोई visual create करना है, just imagine a first scenario
+
+422
+00:34:23.868 --> 00:34:28.938
+में और easy-easy भी अभी समझाऊंगा but पहले यह समझाओ क्योंकि ये भी आपको समझना जरूरी
+
+423
+00:34:29.029 --> 00:34:32.958
+है। अगर हमें यह process से result नहीं मिला तो हमें वो process से मिलेगा। दोनों
+
+424
+00:34:32.988 --> 00:34:37.368
+process, तीनों process वो सारी चीजें बताऊंगा मैं आपको। तो point number one कि अगर
+
+425
+00:34:37.399 --> 00:34:40.518
+मैं direct communicate कर रहा हूं और मुझे image दे रहा है तो मुझे कुछ ना कुछ अच्छा
+
+426
+00:34:40.548 --> 00:34:45.678
+ही देगा क्योंकि intelligence बढ़ रहा है। But उसको मुझे अगर better करना है। Let me
+
+427
+00:34:45.738 --> 00:34:50.868
+see. अब पहला outcome आ गया है। Just waiting. आ गए.
+
+428
+00:34:51.468 --> 00:34:56.839
+See this. अब मैं आपको यह समझाना चाह रहा हूं, ध्यान से समझिएगा। जब भी आप AI से
+
+429
+00:34:57.378 --> 00:35:00.498
+direct image मांगते हो या direct content मांगते हो,
+
+430
+00:35:02.298 --> 00:35:05.958
+वह क्या कर रहा है और वह क्यों कर रहा है, उसका भी मैं practical understanding दूंगा
+
+431
+00:35:06.018 --> 00:35:11.838
+कि आप समझ पाओ कि मैं किस way में समझा रहा हूं। अब मैंने इसको बोला कि create an
+
+432
+00:35:11.898 --> 00:35:13.968
+image for AI specialist program 2.0.
+
+433
+00:35:14.029 --> 00:35:17.268
+Date हो गई, यह time हो गया। मैंने और कुछ भी data उसको दिया नहीं था।
+
+434
+00:35:18.498 --> 00:35:23.418
+But फिर भी उसने अपना दिमाग लगा के यह सारा data उसमें डाल दिया।
+
+435
+00:35:25.338 --> 00:35:25.548
+Right?
+
+436
+00:35:26.928 --> 00:35:31.788
+अब पहली चीज जो आपको समझनी है कि जब भी आप AI से कोई भी चीज create करवा रहे हो,
+
+437
+00:35:33.199 --> 00:35:35.178
+over content यह हमेशा देगा आपको।
+
+438
+00:35:38.148 --> 00:35:43.548
+Human psychology को समझो। Over content कभी आपको मजा नहीं आता। किसी को मजा नहीं
+
+439
+00:35:43.578 --> 00:35:49.428
+आता। क्यों नहीं आता? आज के time में इतना content है ना कि लोग
+
+440
+00:35:49.518 --> 00:35:54.199
+कम से कम word में पूरी understanding लेने के mindset से ही चीजों को देखते हैं।
+
+441
+00:35:55.428 --> 00:35:58.968
+जहां ज्यादा दिख रहा है ना, वो सीधा skip हो जाता है क्योंकि दिमाग पर ज़ोर ही नहीं
+
+442
+00:35:58.998 --> 00:36:00.108
+देना है आज के time में लोगों को।
+
+443
+00:36:01.368 --> 00:36:03.588
+That's the reason. अब यह क्यों कर रहा है AI?
+
+444
+00:36:03.588 --> 00:36:06.078
+अगर मैं practical समझाता हूं, आप बहुत अच्छे से समझ पाओगे।
+
+445
+00:36:07.279 --> 00:36:11.898
+देखो जी, जब भी intelligence किसी का बढ़ता है ना पहली-पहली बार life में-- थोड़ा सा
+
+446
+00:36:11.928 --> 00:36:15.918
+हम इंसान की बात करते हैं। पहली-पहली बार intelligence life बढ़ता है किसी का कि यह
+
+447
+00:36:16.008 --> 00:36:18.978
+नया-नया बहुत ज्यादा ज्ञानी हो गया है। है ना?
+
+448
+00:36:19.038 --> 00:36:25.008
+हमने ऐसे stories भी सुने हैं life में बचपन से। तो जब नया-नया बहुत knowledge आता
+
+449
+00:36:25.038 --> 00:36:28.368
+है ना किसी को, तो वह बढ़ा-चढ़ा के बताता है अपने आप को।
+
+450
+00:36:29.797 --> 00:36:35.166
+How you relating with this line? ऐसा होता है। बहुत knowledge है, बहुत
+
+451
+00:36:35.226 --> 00:36:38.797
+knowledge है। जैसे बोलता है, वह बढ़ा-चढ़ा कर बताता है अपने आप को। होता कुछ नहीं है।
+
+452
+00:36:40.476 --> 00:36:45.666
+Obviously होगा but वह ज्यादा बताता है। Same with this model happening right now in
+
+453
+00:36:45.726 --> 00:36:51.366
+all over the world. इनकी intelligence अभी-अभी इतनी आई है। यह सालों से नहीं थी, यह
+
+454
+00:36:51.396 --> 00:36:55.656
+महीनों से नहीं थी। It's just two, three months and छह महीना बोल दो ज्यादा से
+
+455
+00:36:55.716 --> 00:37:01.686
+ज्यादा, जो इतना better यह कर पा रहा है। ChatGPT इतनी clarity, without spelling
+
+456
+00:37:01.716 --> 00:37:05.166
+mistake, इतने अच्छे images नहीं दे पा रहा था पहले। आज से छह, सात, आठ महीने पहले की
+
+457
+00:37:05.196 --> 00:37:09.786
+बात कर रहा हूँ। जब से image model 2.0 आया है इसका, तब से यह कर पा रहा है। तो it's
+
+458
+00:37:09.817 --> 00:37:12.606
+just a beginning of the era of intelligence in artificial.
+
+459
+00:37:13.177 --> 00:37:18.876
+So वह over देगा। You have to control with your human intelligence कि
+
+460
+00:37:18.936 --> 00:37:23.646
+उसमें क्या remove करना है, क्या minimal करना है ताकि उसकी appealingness बढ़े।
+
+461
+00:37:25.266 --> 00:37:27.396
+So it's just in conversation with the AI.
+
+462
+00:37:27.456 --> 00:37:30.786
+Let's start with this conversation कि what happens next.
+
+463
+00:37:31.386 --> 00:37:36.067
+The next is let's say कि make it minimal and
+
+464
+00:37:37.236 --> 00:37:41.916
+pure value added poster only.
+
+465
+00:37:43.716 --> 00:37:48.006
+Let me just give it a simple line. Let me reiterate it.
+
+466
+00:37:51.067 --> 00:37:54.906
+Models भी improve हो जाते हैं। Models day and night उनकी improvement चलती रहती है।
+
+467
+00:37:54.936 --> 00:38:00.846
+तो sometimes क्या होता है कि ChatGPT, Claude, Gemini इनके भी down आते
+
+468
+00:38:00.906 --> 00:38:01.596
+हैं servers.
+
+469
+00:38:02.916 --> 00:38:05.346
+तो यह चीजें होती रहती है, it's normal in AI.
+
+470
+00:38:08.286 --> 00:38:12.876
+So in the meantime, जब तक यह दे रहा है, what is the best way to create such image?
+
+471
+00:38:14.856 --> 00:38:16.116
+What is the best way to create this image?
+
+472
+00:38:16.206 --> 00:38:19.386
+देखो, कोई भी quality image की definition अगर बताओ तो क्या है?
+
+473
+00:38:19.776 --> 00:38:25.626
+Quality image की definition है कि उसके design में तो बढ़िया है सब कुछ but अंदर के
+
+474
+00:38:25.716 --> 00:38:29.766
+content में भी clarity और value होनी चाहिए।
+
+475
+00:38:31.146 --> 00:38:31.866
+Am I right that way?
+
+476
+00:38:33.726 --> 00:38:39.096
+So in winning marketing की अगर मैं psychology बताऊं, winning marketing वह होती है
+
+477
+00:38:39.156 --> 00:38:39.666
+जिसमें
+
+478
+00:38:41.466 --> 00:38:47.196
+quality लोग उसको पसंद करते हैं because quality people are the ones जो आप समझ लो
+
+479
+00:38:47.256 --> 00:38:50.736
+कि actual जहां से business आता है दुनिया में।
+
+480
+00:38:54.216 --> 00:39:00.156
+So उनकी जो actual base foundation है, जो सबकी common ही होगी-- minimalistic,
+
+481
+00:39:00.396 --> 00:39:02.797
+pure value added content को पसंद करते हैं।
+
+482
+00:39:05.196 --> 00:39:09.396
+So that is the foundation. Now see this. Is it clear than this?
+
+483
+00:39:10.416 --> 00:39:12.817
+This is the first image जिसको देखकर
+
+484
+00:39:14.106 --> 00:39:17.286
+obviously इसमें content ज्यादा है but पढ़ रहा कौन है, वह समझो।
+
+485
+00:39:18.726 --> 00:39:24.547
+Second, this is also the content but it looks premium than the
+
+486
+00:39:24.606 --> 00:39:25.266
+previous one.
+
+487
+00:39:27.276 --> 00:39:31.506
+Am I right that way? हो सकता है इसका improve किया जा सकता है but just an example to
+
+488
+00:39:31.536 --> 00:39:36.666
+understand you that content की difference कितनी आ रही है। just मैंने उसको एक चीज
+
+489
+00:39:36.726 --> 00:39:41.106
+समझाई कि भाई यह चीज नहीं करनी है। This is also a general way to work around जो सब
+
+490
+00:39:41.166 --> 00:39:43.596
+आप करते ही हो but now understand this point.
+
+491
+00:39:44.135 --> 00:39:48.486
+Before creating any image, you just have to create the content first.
+
+492
+00:39:49.656 --> 00:39:52.776
+Content कैसे create होगा? मैं आपको कुछ ideas starting बता रहा हूँ। You just have to
+
+493
+00:39:52.806 --> 00:39:58.026
+understand. First of all, अगर content की बात हो तो content के masters वो लोग होते
+
+494
+00:39:58.056 --> 00:40:01.896
+हैं जो content create करते हैं या marketing expert होते हैं।
+
+495
+00:40:03.456 --> 00:40:08.916
+Obviously marketing के जो expert लोग होते हैं, उनको पता है कौन सा word कैसे use
+
+496
+00:40:08.946 --> 00:40:09.366
+करना है।
+
+497
+00:40:10.656 --> 00:40:15.906
+Now, we usually give the roles to the AI in
+
+498
+00:40:17.136 --> 00:40:20.376
+today's time. What is the type? किस तरह से जाएंगे हम इस चीज को?
+
+499
+00:40:20.856 --> 00:40:25.416
+Let me give the role. Let's say how to do it? Image बनाओ.
+
+500
+00:40:25.596 --> 00:40:26.586
+Act as a
+
+501
+00:40:30.726 --> 00:40:31.476
+professional
+
+502
+00:40:36.126 --> 00:40:40.506
+performance marketer and a
+
+503
+00:40:44.496 --> 00:40:50.226
+marketing expert. A performance marketer it's obviously not needed here.
+
+504
+00:40:50.677 --> 00:40:53.797
+Act as a marketing expert who have--
+
+505
+00:40:55.177 --> 00:40:57.456
+just imagine the scenario-- who have worked for
+
+506
+00:40:59.166 --> 00:41:00.456
+Google and,
+
+507
+00:41:02.706 --> 00:41:06.036
+एक नाम ले लेता हूँ, Alex Hormozi is one of the names जो काफी
+
+508
+00:41:07.416 --> 00:41:09.876
+marketing के expert हैं in the world.
+
+509
+00:41:10.956 --> 00:41:11.436
+So
+
+510
+00:41:16.836 --> 00:41:20.317
+act as a professional marketing expert who have worked for Google and Alex Hormozi
+
+511
+00:41:21.547 --> 00:41:27.396
+almost
+
+512
+00:41:28.986 --> 00:41:30.396
+five plus years
+
+513
+00:41:33.336 --> 00:41:34.266
+to help them
+
+514
+00:41:36.756 --> 00:41:39.606
+create scroll-stopping
+
+515
+00:41:41.376 --> 00:41:42.186
+hook lines,
+
+516
+00:41:45.817 --> 00:41:46.596
+content
+
+517
+00:41:48.276 --> 00:41:49.536
+and CTA
+
+518
+00:41:54.096 --> 00:41:58.356
+for generating scroll-stopping
+
+519
+00:42:00.067 --> 00:42:04.056
+visual graphic ads. ठीक है?
+
+520
+00:42:05.436 --> 00:42:06.216
+So now
+
+521
+00:42:07.536 --> 00:42:12.126
+यह क्या कर रहा हूँ मैं, आप समझो। यह काम मैं कर रहा हूँ कि intelligence के पास बहुत
+
+522
+00:42:12.186 --> 00:42:15.666
+knowledge है। अब वो intelligence को सब knowledge अब तेरे को एक साथ नहीं चाहिए। अभी
+
+523
+00:42:15.696 --> 00:42:19.356
+मान लो मुझे creative बनाना है। अब मुझे creativity के अंदर expert level का creative
+
+524
+00:42:19.386 --> 00:42:21.306
+बनाना है, तो मुझे वही expert role उसको देना है।
+
+525
+00:42:23.256 --> 00:42:27.427
+मुझे वो role नहीं देना है। अभी मैं इसको यह role दूँगा कि you are a coding engineer
+
+526
+00:42:27.486 --> 00:42:32.376
+expert, तो वो role यहाँ पर काम नहीं आएगा मेरे को। Obviously वो चीज अलग है, वो skill
+
+527
+00:42:32.436 --> 00:42:35.856
+अलग है, वो भी समझ जाओ वो चीज को। तो हमें एक चीज का role देना है जो हमें out का
+
+528
+00:42:35.886 --> 00:42:39.456
+design करना है। उसका एक best role उसको दे दो, उसका एक experience उसको दे दो, कुछ
+
+529
+00:42:39.516 --> 00:42:42.906
+नाम उसको दे दो कि इसके लिए तूने काम किया है so that it can understand कि हाँ, मुझे
+
+530
+00:42:42.996 --> 00:42:47.797
+इस level पर सोचना है अभी और उस level पर मुझे सोच के outcome निकालना है। So let's
+
+531
+00:42:48.096 --> 00:42:52.746
+hit enter. मैं इसको सिर्फ enter करता हूँ। Now let's wait for the outcome.
+
+532
+00:42:52.806 --> 00:42:55.086
+वह समझेगा इस चीज को। Now see.
+
+533
+00:42:56.766 --> 00:42:59.196
+Obviously मेरे पास content आ गया है। Now
+
+534
+00:43:00.696 --> 00:43:04.146
+high-performing creative formula, इसने सबसे पहले समझ लिया है कि hook में क्या होगा।
+
+535
+00:43:04.177 --> 00:43:09.156
+The biggest text on the display, ideally four to ten words like value, outcome and
+
+536
+00:43:09.246 --> 00:43:14.766
+proof, scarcity, CTA and here are the 20 scroll-stopping hook direction I would
+
+537
+00:43:14.826 --> 00:43:18.276
+test. अब यह इस चीज में क्यों आया? क्योंकि already मैं इस चीज के ऊपर already chat कर
+
+538
+00:43:18.306 --> 00:43:21.576
+चुका हूँ। Same chat window में मैंने किया है इसके लिए। आपके case में नए chat होगा
+
+539
+00:43:21.636 --> 00:43:24.876
+तो शायद यह चीजें direct नहीं आएंगी। आपको बताना पड़ेगा कि हाँ, इसके ऊपर मेरे को एक
+
+540
+00:43:24.906 --> 00:43:29.047
+बनाना है तो मुझे दो। So let's see these hook lines first of all.
+
+541
+00:43:30.006 --> 00:43:31.866
+Stop collecting AI tools, start using them.
+
+542
+00:43:31.927 --> 00:43:33.817
+AI won't replace you, someone using AI might.
+
+543
+00:43:34.326 --> 00:43:37.626
+From AI confusion to practical AI skills. This is good, I like this.
+
+544
+00:43:38.346 --> 00:43:41.256
+Top sort out तो हो। Don't just learn AI, build with it.
+
+545
+00:43:41.496 --> 00:43:43.686
+20 days real AI skills build real output.
+
+546
+00:43:44.706 --> 00:43:48.817
+You can select 20 इसने दिए हैं। हो सकता है इसमें भी generic लग रहा हो आपको। So what
+
+547
+00:43:48.876 --> 00:43:52.236
+you can do? Obviously, don't give me generic.
+
+548
+00:43:53.586 --> 00:43:54.096
+Give me
+
+549
+00:43:57.336 --> 00:44:00.036
+above the ordinary
+
+550
+00:44:01.506 --> 00:44:04.716
+99% people
+
+551
+00:44:06.336 --> 00:44:10.206
+are doing. ठीक है? Let's wait for the other outcome.
+
+552
+00:44:11.226 --> 00:44:13.266
+Focus on the screen, everyone, please. Focus on the screen.
+
+553
+00:44:15.606 --> 00:44:19.626
+Now see this. Everyone has ChatGPT, very few know about what to do with it.
+
+554
+00:44:19.986 --> 00:44:24.516
+It is a good line for the AI specialist program. Is it relating?
+
+555
+00:44:25.177 --> 00:44:29.466
+relate हो रहा है ना? Empty course hook. You don't need another AI course.
+
+556
+00:44:29.526 --> 00:44:33.096
+You need AI capability. It's a good line. It's non-generic.
+
+557
+00:44:33.156 --> 00:44:35.226
+अब generic नहीं करना है। It's unique.
+
+558
+00:44:36.516 --> 00:44:36.876
+और यह
+
+559
+00:44:38.496 --> 00:44:43.056
+समझ रहा है कि यह sense बना रहा है चीजों को। Knowing 50 AI tools is not an AI
+
+560
+00:44:43.116 --> 00:44:44.946
+skills. Obviously it's not an AI skills.
+
+561
+00:44:45.427 --> 00:44:49.116
+वो tool collection वाला काम है। AI won't make you valuable.
+
+562
+00:44:49.266 --> 00:44:52.026
+What can you do with AI will. So it's like that.
+
+563
+00:44:52.056 --> 00:44:55.206
+मेरे को यह सारी चीज अच्छी लग रही है। मैं यह वाला लेता हूँ।
+
+564
+00:44:57.186 --> 00:44:58.506
+Let's use this one.
+
+565
+00:45:00.216 --> 00:45:04.927
+Now what I will do? मैंने paste कर दिया, copy करके paste कर दिया। मैंने कुछ नहीं
+
+566
+00:45:04.956 --> 00:45:10.116
+किया। Second वाला मेरे को अच्छा लगा, तो मैंने लिया। Now on this content
+
+567
+00:45:11.406 --> 00:45:12.516
+create a
+
+568
+00:45:14.976 --> 00:45:16.746
+scroll-stopping
+
+569
+00:45:20.766 --> 00:45:21.786
+image ad.
+
+570
+00:45:22.986 --> 00:45:27.456
+Just hit enter. Now wait for the outcome. क्या देता है यह?
+
+571
+00:45:29.016 --> 00:45:34.836
+In the meantime, मैं आपको आगे की process बता दूँ कि यह एक तरीका है कि हम चीजों
+
+572
+00:45:34.866 --> 00:45:40.410
+को better way में ले जाएं। Intelligence वही है, tools वही है, platform वही है। एक
+
+573
+00:45:40.471 --> 00:45:44.340
+इंसान direct मांग रहा है, एक इंसान उसको proper structure में expert बनाकर मांग रहा
+
+574
+00:45:44.340 --> 00:45:44.580
+है।
+
+575
+00:45:46.351 --> 00:45:51.450
+एक चीज हमेशा ध्यान रखो। 90% लोग दुनिया में best result इसके लिए भी नहीं निकाल पाते।
+
+576
+00:45:51.480 --> 00:45:53.491
+ये line आप लिख ही लो because it's very important.
+
+577
+00:45:53.550 --> 00:45:55.980
+ये आप सब लोग में से कई लोग कर रहे होंगे, I know that.
+
+578
+00:45:57.510 --> 00:46:03.210
+90% दुनिया में लोग AI से better result इसके लिए भी नहीं ले पाते because कि वो सारी
+
+579
+00:46:03.300 --> 00:46:03.721
+चीजें,
+
+580
+00:46:06.690 --> 00:46:12.540
+पूरा निबंध ऐसे लिख के पूरा उसको एक साथ बता देते हैं। Are you getting the point?
+
+581
+00:46:13.650 --> 00:46:18.991
+जब भी ऐसे better result लाना है जो भी आपका outcome है, वो पहले clear करो। Outcome
+
+582
+00:46:19.080 --> 00:46:24.390
+clear हो गया तो-- let's wait. मैं इस point पर आता हूँ। Now see this.
+
+583
+00:46:25.949 --> 00:46:28.440
+This is something different। Right?
+
+584
+00:46:29.851 --> 00:46:31.650
+Let me open in the big screen.
+
+585
+00:46:32.880 --> 00:46:34.290
+This is something different। Right?
+
+586
+00:46:34.500 --> 00:46:40.380
+Visual scroll stopping है। Hook line आप देख लो, बड़े words में लिखी हुई है।
+
+587
+00:46:40.440 --> 00:46:45.270
+Right? And clarity is better not 10 on 10, but it's better.
+
+588
+00:46:46.590 --> 00:46:50.910
+और मेरा जो hook line है, वो कुछ ना कुछ sense बना रहा है। It's just beginning, guys.
+
+589
+00:46:51.000 --> 00:46:55.590
+Be with me. आगे और भी चीजें बताऊंगा ताकि आपको और ज्यादा clarity मिले कि और इसको
+
+590
+00:46:55.650 --> 00:46:59.070
+better कैसे बनाया जा सकता है। यहां तक clear है सबको?
+
+591
+00:47:03.030 --> 00:47:03.900
+Okay, thank you so much.
+
+592
+00:47:06.360 --> 00:47:06.750
+Now,
+
+593
+00:47:09.630 --> 00:47:14.640
+let me share my screen. The next page is series.
+
+594
+00:47:15.570 --> 00:47:18.000
+How many of you would like to see the shortcuts
+
+595
+00:47:19.410 --> 00:47:20.790
+of creating great content
+
+596
+00:47:22.380 --> 00:47:27.870
+in ChatGPT? Recently उन्होंने shortcut features add किए हैं,
+
+597
+00:47:29.070 --> 00:47:33.241
+जिससे आपको outcome की quality और better मिलेगी। You will be amazed.
+
+598
+00:47:33.270 --> 00:47:38.370
+मैं कुछ करके दिखाऊंगा, आपको मजा आने वाला है। कोई भी prompt किए बिना। अगर आपके पास
+
+599
+00:47:38.430 --> 00:47:43.320
+image है ना, उसके साथ आप क्या-क्या कर सकते हो आज की date में without any prompting,
+
+600
+00:47:43.920 --> 00:47:49.890
+just see this. ये कुछ top outcome oriented आप
+
+601
+00:47:49.950 --> 00:47:54.150
+कह सकते हो, commands है जो हम use करते हैं mostly.
+
+602
+00:47:54.810 --> 00:47:58.440
+इसके अलावा और भी बहुत है। आप ChatGPT से मांगोगे, वो भी आपको दे देगा but these are
+
+603
+00:47:58.500 --> 00:48:03.360
+the top जो highly use किए जाते हैं। Now let me see.
+
+604
+00:48:03.420 --> 00:48:08.610
+अभी तक आपने जो समझा, मैं उसको थोड़ा सा revise कर दूं। We see that कैसे basically हम
+
+605
+00:48:08.670 --> 00:48:13.110
+ChatGPT को generally use करते हैं। Generally use करके क्या मिलता है। हमारा content
+
+606
+00:48:13.140 --> 00:48:17.580
+कोई clear नहीं है कि content क्या आने वाला है। अगर expert बनाकर उसको use कर रहे हैं
+
+607
+00:48:17.610 --> 00:48:21.721
+तो उसकी difference क्या है। उसको हम कैसे minimize कर सकते हैं। ये सारी basic
+
+608
+00:48:21.750 --> 00:48:24.480
+understanding है समझ लीजिए। यहां तक mostly सबको समझ में आ ही गया होगा for sure
+
+609
+00:48:24.510 --> 00:48:29.460
+because it's just basic part. Now, here is the magic का जहाँ पर
+
+610
+00:48:30.660 --> 00:48:32.460
+if I have the image already--
+
+611
+00:48:34.290 --> 00:48:38.880
+अगर नहीं है obviously बनाने का तरीका भी बताया मैंने। If I have the image already,
+
+612
+00:48:39.690 --> 00:48:43.410
+now let me show you some magical things.
+
+613
+00:48:43.590 --> 00:48:47.160
+Let me copy this image and paste here.
+
+614
+00:48:47.491 --> 00:48:48.030
+Let me
+
+615
+00:48:51.090 --> 00:48:52.260
+use the
+
+616
+00:48:54.330 --> 00:48:54.750
+first
+
+617
+00:48:56.010 --> 00:49:00.510
+command, magazine. Let me use the first command, magazine.
+
+618
+00:49:01.290 --> 00:49:06.570
+तो मैंने यहाँ पर image upload करा और simply magazine डाला और let's hit enter.
+
+619
+00:49:06.780 --> 00:49:10.620
+Now see this, zero prompting, nothing to do with the prompting here.
+
+620
+00:49:11.340 --> 00:49:14.760
+Now see the outcome. चार-पाँच करके देखेंगे you will be understanding the
+
+621
+00:49:14.790 --> 00:49:17.190
+versatility कि कितना versatile है यह चीज।
+
+622
+00:49:19.380 --> 00:49:19.830
+All good.
+
+623
+00:49:21.601 --> 00:49:23.491
+What the second one? Second one is the ad.
+
+624
+00:49:23.940 --> 00:49:29.430
+इसमें सारी details लिखी गई हैं, इसका आप screenshot ले सकते हैं। इस screenshot आपको
+
+625
+00:49:29.491 --> 00:49:33.150
+समझ में आएगा कि कब कौन-सा use करना चाहिए।
+
+626
+00:49:36.030 --> 00:49:37.650
+Magazine is for the personal branding.
+
+627
+00:49:37.860 --> 00:49:40.620
+Personal branding के लिए use किया जा सकता है कि आपका खुद का photo उसको magazine
+
+628
+00:49:40.680 --> 00:49:44.491
+cover बनाना है। Ad के लिए use करना है obviously ad/ use करोगे, scroll stopping
+
+629
+00:49:44.520 --> 00:49:48.930
+creativity दे देगा he already. कोई prompting नहीं करनी। Product अगर कोई आपका है,
+
+630
+00:49:49.020 --> 00:49:51.570
+E-commerce brand है किसी का, किसी को E-commerce brand का अपने product का
+
+631
+00:49:52.080 --> 00:49:56.670
+photography करना है, तो उसके लिए command है। UGC ad के लिए आपको कोई user generated
+
+632
+00:49:56.730 --> 00:50:01.500
+photo चाहिए। User generated मतलब कोई user हो जो आपका product hand कर रहा है। उसके
+
+633
+00:50:01.530 --> 00:50:04.290
+लिए use किया जाता है for E-commerce and B2C brands.
+
+634
+00:50:04.950 --> 00:50:10.351
+Models अगर मान लो कोई है like fashion, jewelry या textile related आप पकड़ सकते हो,
+
+635
+00:50:10.530 --> 00:50:14.550
+उसके लिए use किया जाता है। Cinematic basically cinematic brandings, campaigns and
+
+636
+00:50:14.580 --> 00:50:17.130
+brandings के लिए लिखा हुआ है सारा कुछ। I am just reading it out.
+
+637
+00:50:17.491 --> 00:50:20.101
+Poster, headshot, social thumbnails, I am not reading all of these things.
+
+638
+00:50:20.400 --> 00:50:26.130
+You are reading it. Billboard, packshot ये कुछ और advanced चीज है जो और scroll
+
+639
+00:50:26.160 --> 00:50:31.140
+stopping content हमें देता है। Let me see outcome आया होगा। Now see this, guys.
+
+640
+00:50:33.300 --> 00:50:34.260
+Is this powerful?
+
+641
+00:50:36.630 --> 00:50:41.130
+मैंने कोई prompting नहीं करी but उसने समझी कि magazine कैसी होती है, magazine का
+
+642
+00:50:41.221 --> 00:50:45.870
+outcome क्या होता है और उसकी quality क्या होती है। Right? This is powerful.
+
+643
+00:50:46.050 --> 00:50:50.760
+Now चलिए दो-तीन और करके देखते हैं ताकि और दिमाग आपका चले। Now let me
+
+644
+00:50:52.710 --> 00:50:58.500
+use this again same image and this time let me use
+
+645
+00:50:58.590 --> 00:51:03.810
+/ads. What is the command? /ad not ads, sorry.
+
+646
+00:51:04.500 --> 00:51:06.840
+So let's hit enter. Now see the difference.
+
+647
+00:51:07.170 --> 00:51:12.750
+Difference देखना अभी आप। पहला वाला तो ये था जो हमने समझा। दूसरा वाला का difference
+
+648
+00:51:12.810 --> 00:51:17.190
+आप समझ ही गए होंगे कि it's not the same thing happening without prompting.
+
+649
+00:51:19.080 --> 00:51:23.221
+Okay. We will also see the billboard one.
+
+650
+00:51:23.310 --> 00:51:27.300
+This is also the example to see the potential of these commands
+
+651
+00:51:29.130 --> 00:51:29.400
+and
+
+652
+00:51:31.590 --> 00:51:35.310
+एक बार ये outcome आ जाए after that we will generate the billboard one also। Right?
+
+653
+00:51:37.080 --> 00:51:37.351
+Okay.
+
+654
+00:51:42.660 --> 00:51:48.570
+Content creation एक ऐसी academy है ना, guys। इसमें कुछ time AI भी ले लेता है। जो
+
+655
+00:51:48.630 --> 00:51:50.221
+भी आप देख पा रहे हो, ले रहा है। Right?
+
+656
+00:51:50.490 --> 00:51:52.260
+So that's the reason ये थोड़ा लंबा भी जाता है।
+
+657
+00:51:55.110 --> 00:51:55.320
+Okay.
+
+658
+00:51:59.610 --> 00:52:05.550
+In the meantime मैं यहाँ पर आगे की process के लिए ready कर लूँ ताकि-- मैंने अभी hit
+
+659
+00:52:05.610 --> 00:52:07.229
+enter नहीं करना है, मेरे को सिर्फ लेकर ready रहना
+
+660
+00:52:09.060 --> 00:52:12.000
+है। Now wait for the outcome with this image.
+
+661
+00:52:18.360 --> 00:52:22.201
+आप ऐसे कुछ लोग side by side भी कर रहे होंगे but make sure आप focus करें। बाद में आप
+
+662
+00:52:22.231 --> 00:52:24.240
+कर सकते हो। You will have this understanding। Right?
+
+663
+00:52:27.360 --> 00:52:32.550
+Just a second। Okay. So it replaces-- okay, one second.
+
+664
+00:52:33.000 --> 00:52:34.590
+There is something happened.
+
+665
+00:52:36.601 --> 00:52:40.860
+Oh no, let me try again. It doesn't work right way। It does it on the other way।
+
+666
+00:52:40.891 --> 00:52:45.900
+Let me try again। I have this photo。 Let me
+
+667
+00:52:45.960 --> 00:52:50.910
+try। Okay, let me try with another photo
+
+668
+00:52:52.920 --> 00:52:54.540
+to show you the example.
+
+669
+00:52:55.770 --> 00:53:00.090
+Just hit enter। Okay।
+
+670
+00:53:02.190 --> 00:53:06.120
+Maybe some updates happening in the ChatGPT। It's all good.
+
+671
+00:53:06.601 --> 00:53:12.570
+ठीक है, ये आता है तब तक हम process समझते हैं आगे की। ये सारे commands
+
+672
+00:53:12.601 --> 00:53:16.981
+तो same sort of the area。 Right? So we will not gonna invest such time because ये
+
+673
+00:53:17.010 --> 00:53:21.840
+process में कोई ज्यादा complex चीज नहीं है जो आपको बताऊं कि कैसे करना है। You just
+
+674
+00:53:21.870 --> 00:53:27.570
+have to give the uploaded image and you just have to upload the right command कि
+
+675
+00:53:27.630 --> 00:53:32.070
+कैसा आपको चाहिए। Right? मैंने कुछ already बनाए हुए हैं, वो भी आपको दिखा दूं ताकि
+
+676
+00:53:32.130 --> 00:53:37.891
+you will get the idea. Just give me a minute, guys. Let me find that.
+
+677
+00:53:41.070 --> 00:53:44.731
+To save our time, nothing else.
+
+678
+00:53:49.560 --> 00:53:49.981
+Great.
+
+679
+00:53:52.110 --> 00:53:53.340
+Great, I found it.
+
+680
+00:53:55.800 --> 00:53:56.160
+See this.
+
+681
+00:53:59.731 --> 00:54:04.680
+Look at the outcome difference ताकि आप समझ पाओ कि क्या यह कर रहा है। Now see this.
+
+682
+00:54:05.910 --> 00:54:11.520
+मैंने यह image दिया था, मैंने यह command दिया था। See this image first। Right?
+
+683
+00:54:11.610 --> 00:54:16.020
+This is a generic image not for the optimized for the ad psychology.
+
+684
+00:54:16.260 --> 00:54:18.150
+Now see this outcome
+
+685
+00:54:19.410 --> 00:54:19.740
+with the
+
+686
+00:54:21.090 --> 00:54:21.810
+ad image.
+
+687
+00:54:24.150 --> 00:54:28.680
+See this insane difference। Right? This is the-- okay, this is not.
+
+688
+00:54:29.130 --> 00:54:34.320
+This is the general image। Right? And this is the
+
+689
+00:54:34.530 --> 00:54:38.370
+/ad command given image. Second
+
+690
+00:54:39.618 --> 00:54:45.199
+When I give it again with the UGC command, it gives me the difference
+
+691
+00:54:45.257 --> 00:54:50.989
+between this image and this image. UGC comes from User Generated Content.
+
+692
+00:54:51.348 --> 00:54:56.538
+So user generated content. Third, when I give
+
+693
+00:54:56.989 --> 00:55:02.959
+the cinematic command. So this is the image, which is our original
+
+694
+00:55:02.989 --> 00:55:06.288
+image, obviously, this is the outcome. Is this powerful now?
+
+695
+00:55:07.998 --> 00:55:09.168
+Are you getting the differences?
+
+696
+00:55:12.498 --> 00:55:18.438
+So it's not just a shortcut, it's very powerful commands which you can
+
+697
+00:55:18.468 --> 00:55:20.028
+see and use easily without any problem.
+
+698
+00:55:20.329 --> 00:55:22.248
+You just have the base image ready with you.
+
+699
+00:55:23.959 --> 00:55:27.648
+I have one more to show you. Let me
+
+700
+00:55:29.179 --> 00:55:32.898
+search, just a minute. I will show you one last thing so that this chapter is
+
+701
+00:55:32.898 --> 00:55:35.179
+closed and we can move on to the next chapter.
+
+702
+00:55:37.368 --> 00:55:37.938
+Okay.
+
+703
+00:55:51.528 --> 00:55:53.748
+Exposure magazine.
+
+704
+00:55:58.638 --> 00:56:01.278
+Let me check. One second.
+
+705
+00:56:11.538 --> 00:56:11.989
+No worries.
+
+706
+00:56:18.468 --> 00:56:20.268
+Let me show you. No problem.
+
+707
+00:56:22.908 --> 00:56:25.098
+Find it, it will take time, until then let me show you.
+
+708
+00:56:26.808 --> 00:56:30.378
+All good, guys. So let me use this image.
+
+709
+00:56:30.438 --> 00:56:35.239
+You must have seen this image which is in the community. This is made here.
+
+710
+00:56:37.338 --> 00:56:40.638
+Let me open this and see the final outcome so that you can understand the limit of
+
+711
+00:56:40.728 --> 00:56:43.518
+your creativity, how far you
+
+712
+00:56:45.798 --> 00:56:51.018
+can go. Billboard. This will be the final for this particular topic.
+
+713
+00:56:51.288 --> 00:56:54.558
+So we will move to the next topic after this, but make sure we see its outcome so
+
+714
+00:56:54.618 --> 00:57:00.318
+that you get an idea of what the limit of things can be. So what is its science?
+
+715
+00:57:00.318 --> 00:57:05.568
+The science is very simple, which is written here at the bottom.
+
+716
+00:57:06.168 --> 00:57:10.338
+/Command is equal to desired business outcome.
+
+717
+00:57:11.778 --> 00:57:12.378
+Getting the point?
+
+718
+00:57:13.668 --> 00:57:16.338
+So what is your desired business outcome? What do you want?
+
+719
+00:57:16.638 --> 00:57:21.168
+That you have to /command, the command can be a billboard, it can be a luxury, it
+
+720
+00:57:21.199 --> 00:57:24.739
+can be food, it can be infographics, it can be interior, it can be editorial,
+
+721
+00:57:25.459 --> 00:57:29.388
+whatever the idea you have in your mind for that particular image.
+
+722
+00:57:31.218 --> 00:57:35.628
+Now let's wait for the billboard. For this image, let's wait for the billboard.
+
+723
+00:57:37.489 --> 00:57:40.098
+And I want your reactions for this particular outcome.
+
+724
+00:57:40.579 --> 00:57:43.579
+I am also excited to see what the AI is giving.
+
+725
+00:57:50.929 --> 00:57:55.398
+Just a minute. It will take one minute or two minute, max to max.
+
+726
+00:57:56.148 --> 00:57:58.068
+If it is taking more than that in your case, then also keep in mind that many times
+
+727
+00:57:58.098 --> 00:57:58.308
+it may take refreshing. This happens
+
+728
+00:58:02.538 --> 00:58:06.858
+in AI. You have to refresh because these are very complex operations.
+
+729
+00:58:06.888 --> 00:58:10.818
+Even though it is a matter of an image, but hardware inputs are very complex.
+
+730
+00:58:13.699 --> 00:58:15.318
+Now, okay, great.
+
+731
+00:58:18.288 --> 00:58:21.079
+It's generated the different one,
+
+732
+00:58:22.338 --> 00:58:28.128
+maybe. So let's wait. I want to show you. Just give me a minute.
+
+733
+00:58:28.608 --> 00:58:29.658
+One second.
+
+734
+00:58:31.758 --> 00:58:36.528
+Model magazine request. It's good, but it's not the exact thing that I am looking
+
+735
+00:58:36.588 --> 00:58:36.858
+for.
+
+736
+00:58:38.748 --> 00:58:39.679
+Just a minute.
+
+737
+00:58:47.718 --> 00:58:51.288
+I hope you got the clarity, but make sure, let me show you the
+
+738
+00:58:53.298 --> 00:58:54.468
+potential.
+
+739
+00:58:56.058 --> 00:59:00.288
+So I found it in one minute, I will show you, no problem. The process is same.
+
+740
+00:59:00.408 --> 00:59:00.858
+Just a minute.
+
+741
+00:59:12.528 --> 00:59:17.388
+Anyways, no problem. The process is same, guys. I hope you got the understanding.
+
+742
+00:59:18.048 --> 00:59:21.468
+In the meantime, we have to save time. The process is same.
+
+743
+00:59:22.308 --> 00:59:25.188
+I hope you got the understanding. Now, the next point.
+
+744
+00:59:26.568 --> 00:59:31.548
+A problem that comes in AI is that whenever we create something, as you just saw
+
+745
+00:59:31.548 --> 00:59:36.348
+that something is in creative, so if you have to change it again and again, it
+
+746
+00:59:36.408 --> 00:59:41.449
+takes time to change and edit in these images. This is a problem.
+
+747
+00:59:42.618 --> 00:59:42.798
+So
+
+748
+00:59:44.028 --> 00:59:49.788
+one solution for this that agencies use is that they connect ChatGPT to
+
+749
+00:59:50.058 --> 00:59:51.168
+the Canva account.
+
+750
+00:59:53.449 --> 00:59:57.228
+How many of you have used Canva? Let me show, first of all, just give me a thumbs
+
+751
+00:59:57.318 --> 01:00:01.758
+up. Canva is a graphic design software which is used worldwide these days.
+
+752
+01:00:04.188 --> 01:00:08.298
+So many people. Okay, nice. So by integrating ChatGPT with Canva,
+
+753
+01:00:09.588 --> 01:00:11.688
+whatever user generated content is there, how can you bring it directly to Canva in
+
+754
+01:00:12.378 --> 01:00:16.908
+an editable format? I am telling you its process. Pay attention.
+
+755
+01:00:17.179 --> 01:00:20.148
+I have already connected it, but the process is very simple so that I can repeat
+
+756
+01:00:20.148 --> 01:00:22.338
+it. So this process is--
+
+757
+01:00:24.348 --> 01:00:25.248
+let me share with
+
+758
+01:00:26.449 --> 01:00:28.518
+you. The process is you have to
+
+759
+01:00:30.138 --> 01:00:30.618
+go to the
+
+760
+01:00:33.438 --> 01:00:37.188
+plugins option on the left-hand side. Can you see?
+
+761
+01:00:37.278 --> 01:00:39.168
+Plugins options on the left-hand side.
+
+762
+01:00:40.398 --> 01:00:45.438
+Here you have multiple options of different softwares to connect in which one of
+
+763
+01:00:45.468 --> 01:00:46.429
+them is Canva.
+
+764
+01:00:48.318 --> 01:00:49.998
+In my case, it's already connected.
+
+765
+01:00:50.058 --> 01:00:52.218
+The connection process does not require any coding or any knowledge.
+
+766
+01:00:52.278 --> 01:00:57.858
+It is a simple process of yours. When you click on
+
+767
+01:00:58.908 --> 01:01:01.818
+Canva, here obviously try and chat option is showing because it is already
+
+768
+01:01:01.848 --> 01:01:05.478
+connected. As you log in for the first time, when you click on Canva for the first
+
+769
+01:01:05.478 --> 01:01:07.007
+time, the connect option will appear here.
+
+770
+01:01:07.007 --> 01:01:12.347
+Let me show you how with the other platforms. Let me open any one of them.
+
+771
+01:01:13.638 --> 01:01:17.478
+One second.
+
+772
+01:01:20.179 --> 01:01:20.989
+I need...
+
+773
+01:01:23.748 --> 01:01:29.118
+Okay, now see this. Install like this. Install plugins. Can you see this button?
+
+774
+01:01:29.388 --> 01:01:32.388
+Likewise, it is connected to Gmail but not connected to Gmail.
+
+775
+01:01:32.449 --> 01:01:34.158
+So the option of install plugin is visible.
+
+776
+01:01:34.188 --> 01:01:36.978
+In the same way, in Canva you will find the install plugin button.
+
+777
+01:01:37.398 --> 01:01:41.989
+When you click on this button-- How many of you can log in to Gmail?
+
+778
+01:01:42.108 --> 01:01:43.218
+Just give me a thumbs up.
+
+779
+01:01:46.398 --> 01:01:50.028
+Google account, Gmail account, you can log in easily.
+
+780
+01:01:50.058 --> 01:01:51.679
+There is no technical knowledge in it.
+
+781
+01:01:51.739 --> 01:01:52.968
+Similarly, when you click on Canva,
+
+782
+01:01:54.468 --> 01:01:57.858
+your login window, the Canva account, it will ask you to log in.
+
+783
+01:01:57.888 --> 01:02:00.048
+You just have to keep going and log in the account.
+
+784
+01:02:00.228 --> 01:02:04.008
+When your login is done, then obviously you will get it in the install section.
+
+785
+01:02:04.098 --> 01:02:04.489
+It will
+
+786
+01:02:07.008 --> 01:02:09.468
+come in the install section. When it comes in the install section,
+
+787
+01:02:10.878 --> 01:02:12.858
+now the next step is very simple.
+
+788
+01:02:14.778 --> 01:02:16.848
+Let me open that.
+
+789
+01:02:20.748 --> 01:02:21.798
+Let me open that
+
+790
+01:02:23.808 --> 01:02:25.429
+window which I have told you
+
+791
+01:02:25.429 --> 01:02:31.128
+about. One second.
+
+792
+01:02:37.278 --> 01:02:41.358
+Perfect. Now see this. This was the image. The process is very simple.
+
+793
+01:02:41.898 --> 01:02:44.628
+There is no sense in repeating it, but the process is very simple. Look carefully.
+
+794
+01:02:44.688 --> 01:02:49.818
+This was an image. Now when I got this image, now there is so much content in this
+
+795
+01:02:49.818 --> 01:02:52.128
+image, I will tell it again and again, it will take time again and again, it will
+
+796
+01:02:52.758 --> 01:02:55.068
+make it again and again, there may be some mistake in that too or may not be.
+
+797
+01:02:55.218 --> 01:02:59.268
+Depends on the clarity of input. Now if I get its editable format, then I myself
+
+798
+01:02:59.268 --> 01:03:01.878
+can quickly delete whatever is needed and not needed from Canva, adjust whatever is
+
+799
+01:03:01.998 --> 01:03:03.739
+needed and get its outcome.
+
+800
+01:03:06.048 --> 01:03:09.949
+So what I have to do after the Canva login, after your login setup is done, which I
+
+801
+01:03:10.008 --> 01:03:15.858
+told you, after that I have to give you a simple command under that image @Canva.
+
+802
+01:03:16.128 --> 01:03:20.268
+Likewise, I am writing it once and showing you @Canva.
+
+803
+01:03:20.898 --> 01:03:23.688
+If I do @Canva, it means Canva is installed and it has come.
+
+804
+01:03:23.778 --> 01:03:28.188
+And I have written this link here, message here, "Convert this image into fully
+
+805
+01:03:28.278 --> 01:03:32.508
+editable format for Canva." The simple line I gave it.
+
+806
+01:03:33.048 --> 01:03:36.528
+When I gave it, it gave me the option to customize this edit directly.
+
+807
+01:03:37.489 --> 01:03:39.829
+As I-- look at this image carefully.
+
+808
+01:03:39.918 --> 01:03:41.148
+As I click on it
+
+809
+01:03:42.744 --> 01:03:45.954
+I will land into my Canva account with same image.
+
+810
+01:03:46.194 --> 01:03:50.454
+But the magic is जो मैंने अभी already change किया है इसमें कुछ-कुछ, तो आपको दिख रहा
+
+811
+01:03:50.484 --> 01:03:53.094
+होगा, I already change है यहां पर, क्योंकि I have already tried this.
+
+812
+01:03:53.664 --> 01:03:58.824
+So the magic is you can move whatever you want to move, wherever you want to move
+
+813
+01:03:59.304 --> 01:04:04.704
+and जो भी आपको करना है आप easily इसमें कर सकते हो। You can select, you can
+
+814
+01:04:04.764 --> 01:04:09.294
+unselect, you can delete, you can whatever.
+
+815
+01:04:09.354 --> 01:04:15.324
+Just सारी चीजें इसमें आ गई हैं। So it's very nice time-saving, जो कभी भी अगर
+
+816
+01:04:15.354 --> 01:04:19.494
+creative अच्छा है, उसमें कुछ चीजें अगर अपने को manage करनी है या हटानी है या change
+
+817
+01:04:19.525 --> 01:04:20.994
+करना है, color change करना है, whatever.
+
+818
+01:04:21.625 --> 01:04:26.514
+All you can do with this single simple strategy.
+
+819
+01:04:27.954 --> 01:04:32.155
+It's very valuable thing. जब आप ये चीजें करते हो ना, तो आपको इसकी value पता चलती है
+
+820
+01:04:32.214 --> 01:04:36.565
+कि कितनी powerful चीज है। बड़ी छोटी सी चीज है, पर बड़ी powerful चीज है। I hope you
+
+821
+01:04:36.625 --> 01:04:40.104
+got the clarity. Show me big thumbs up, guys. Right.
+
+822
+01:04:42.744 --> 01:04:43.014
+Now,
+
+823
+01:04:47.184 --> 01:04:50.994
+the next is-- अभी we will see now
+
+824
+01:04:52.315 --> 01:04:56.334
+images को लेकर भी काफी सारी चीजें हमने समझी because it's not that much complex in
+
+825
+01:04:56.724 --> 01:05:01.584
+2026 images कैसे बनानी हैं। But हाँ, images की psychology हमने आज समझी होगी कि किस
+
+826
+01:05:01.614 --> 01:05:07.164
+तरह psychology हमें लेनी चाहिए। Visuals में क्या चीजें कम होनी चाहिए, कैसी visuals
+
+827
+01:05:07.224 --> 01:05:10.405
+ज्यादा अच्छी रहती हैं, कैसी visuals ज्यादा अच्छी नहीं रहती हैं। By default AI क्या
+
+828
+01:05:10.464 --> 01:05:15.234
+देता है। कुछ shortcuts हमने command देखे और ये सारी चीजें हमने अभी तक समझी। The
+
+829
+01:05:15.324 --> 01:05:18.893
+next is कि कैसे हम AI से
+
+830
+01:05:20.574 --> 01:05:25.285
+realistic videos बना सकते हैं, उसकी क्या process है, वो हम देखने वाले हैं अभी। So
+
+831
+01:05:25.344 --> 01:05:31.014
+let me show you that. So be with me on the screen, guys. Be with me on the screen.
+
+832
+01:05:32.125 --> 01:05:32.604
+I am just
+
+833
+01:05:33.864 --> 01:05:34.525
+closing it
+
+834
+01:05:39.054 --> 01:05:39.384
+and
+
+835
+01:05:41.214 --> 01:05:42.744
+removing all the tabs.
+
+836
+01:05:44.934 --> 01:05:45.174
+So
+
+837
+01:05:47.304 --> 01:05:53.065
+I have already created a detailed document for this process because थोड़ा सा step
+
+838
+01:05:53.094 --> 01:05:56.244
+by step है तो आपको वो याद रहेगा नहीं। Obviously you need a document.
+
+839
+01:05:56.664 --> 01:06:02.484
+तो वो document भी you will find it in LMS के video के नीचे आपको मिलेगा। जहां पर भी
+
+840
+01:06:02.544 --> 01:06:08.155
+video आपको होगा LMS का, उसके नीचे आपको मिलेगा। You can able to download the
+
+841
+01:06:08.184 --> 01:06:13.224
+document as well. Right. So now let me open the document first.
+
+842
+01:06:17.424 --> 01:06:22.554
+ठीक है। Document से पहले मैं थोड़ा सा आपका mind open करना चाहूंगा। पहले हम देखेंगे
+
+843
+01:06:22.644 --> 01:06:26.304
+outcome, फिर हम देखेंगे outcome बनाने से। Is it okay? Right.
+
+844
+01:06:26.754 --> 01:06:32.604
+ताकि purpose clear हो जाता है। ठीक है। Let me show you the first process of
+
+845
+01:06:32.994 --> 01:06:35.244
+the outcome that I am showing.
+
+846
+01:06:39.594 --> 01:06:40.375
+Just a second.
+
+847
+01:06:41.785 --> 01:06:43.464
+Okay, perfect.
+
+848
+01:06:46.494 --> 01:06:46.854
+Perfect.
+
+849
+01:06:49.134 --> 01:06:49.644
+Now
+
+850
+01:06:52.014 --> 01:06:54.144
+imagine a scenario कि
+
+851
+01:06:58.014 --> 01:07:03.084
+जो भी बता रहा हूँ मैं which is the AI clothing commercials, basically ये practical
+
+852
+01:07:03.144 --> 01:07:07.344
+business के लिए आपको use होगा। Clothing industry is one of the biggest industry in
+
+853
+01:07:07.405 --> 01:07:09.684
+India. Right. Textile industry. Right.
+
+854
+01:07:10.164 --> 01:07:14.514
+बहुत बड़ी industry है। तो textiles के लिए हम modeling कैसे कर सकते हैं professional
+
+855
+01:07:14.544 --> 01:07:20.035
+level की। उस modeling की model video shoot कैसे करवा सकते हैं professional level
+
+856
+01:07:20.094 --> 01:07:24.204
+की। वो process मैं आपको बता रहा हूँ। Prompts भी दूंगा मैं आपको but prompts is
+
+857
+01:07:24.264 --> 01:07:28.044
+like-- is not like that कि वो हर बार आपको same ही काम आएगी। But prompts की idea मैं
+
+858
+01:07:28.104 --> 01:07:30.984
+जरूर दूंगा कि उसके आप varieties कैसे बना सकते हो।
+
+859
+01:07:32.214 --> 01:07:34.315
+Getting the point? So now understand this point.
+
+860
+01:07:35.604 --> 01:07:37.794
+Let me show you the video first. See this.
+
+861
+01:07:46.854 --> 01:07:47.125
+Okay.
+
+862
+01:07:51.384 --> 01:07:52.974
+Got the video. Now
+
+863
+01:07:54.804 --> 01:07:58.285
+see this video and after video, I want reactions, guys.
+
+864
+01:08:12.144 --> 01:08:13.914
+I am repeating again. ध्यान से देखिएगा।
+
+865
+01:08:26.245 --> 01:08:28.614
+Is it hyper-realistic? Right.
+
+866
+01:08:30.054 --> 01:08:30.775
+Is it detailed?
+
+867
+01:08:33.624 --> 01:08:37.254
+Number three is very important. Is it character consistent?
+
+868
+01:08:40.014 --> 01:08:44.124
+That is the main thing that you have to focus जहां पर लोगों को problem आती है।
+
+869
+01:08:44.184 --> 01:08:45.354
+Right. So now
+
+870
+01:08:46.644 --> 01:08:49.405
+how many of you excited to see how to do this?
+
+871
+01:08:50.964 --> 01:08:56.634
+Great. Thank you so much. Now let me share my screen and process में पहले
+
+872
+01:08:56.785 --> 01:08:58.495
+guide कर दूँ आप लोगों को
+
+873
+01:09:00.565 --> 01:09:01.014
+with the
+
+874
+01:09:02.574 --> 01:09:04.254
+document जो
+
+875
+01:09:05.544 --> 01:09:07.584
+specially आपके लिए बनाया है for this batch.
+
+876
+01:09:08.724 --> 01:09:12.474
+जो पुराने batch के users हैं, जो पुराने batch के community में हमारे already 1.0 के
+
+877
+01:09:12.504 --> 01:09:16.285
+obviously उन्होंने भी ये चीजें नहीं देखी होंगी। आप में से कई लोग होंगे I know that,
+
+878
+01:09:16.374 --> 01:09:21.684
+but make sure ये चीजें सभी लोग focus करके देखें। पहली चीज हमें क्या लगेगी?
+
+879
+01:09:21.894 --> 01:09:23.995
+पहली चीज हमें लगेगी एक proper model.
+
+880
+01:09:25.704 --> 01:09:29.394
+एक digital model लगेगा right, जिसकी video बना सकते हैं हम।
+
+881
+01:09:30.594 --> 01:09:32.844
+Second चीज हमें क्या लगेगी? Let me show you.
+
+882
+01:09:33.655 --> 01:09:36.504
+This is the first outcome जो model हमने बनाया, सबसे पहला point.
+
+883
+01:09:37.764 --> 01:09:42.745
+और यह जो process है, ये process generally कोई भी video के लिए जब user-generated
+
+884
+01:09:42.804 --> 01:09:48.594
+content या उसमें इंसान है, यह process by default आपका common रहेगा most of the
+
+885
+01:09:48.655 --> 01:09:49.315
+cases में।
+
+886
+01:09:51.025 --> 01:09:56.544
+Getting the point? So the first step is to create a model using
+
+887
+01:09:57.234 --> 01:10:02.934
+your prompts. अब prompts दिमाग में आते नहीं हैं। Let me tell you a very secret
+
+888
+01:10:03.024 --> 01:10:05.424
+thing in the AI all over the world.
+
+889
+01:10:06.774 --> 01:10:07.254
+Nobody,
+
+890
+01:10:08.544 --> 01:10:09.923
+literally nobody
+
+891
+01:10:11.603 --> 01:10:17.154
+sits and write the entire long, long prompts in 2026.
+
+892
+01:10:20.214 --> 01:10:24.024
+The prompts you see over the social media, आपने देखे होंगे कई ऐसे reels, कई ऐसे
+
+893
+01:10:24.084 --> 01:10:28.614
+videos कि लोग बोलते हैं कि ये करो, ये करो, ये ऐसा outcome आ जाएगा। If you want the
+
+894
+01:10:28.674 --> 01:10:29.995
+prompt, kindly
+
+895
+01:10:31.404 --> 01:10:35.094
+comment में prompt डालो या comment में ये add डालो। आपने बहुत ऐसे देखे होंगे reels,
+
+896
+01:10:35.184 --> 01:10:39.444
+I know that. Right. तो वो जो आपको देखते हुए obviously देखने में अच्छा लगता है but
+
+897
+01:10:39.474 --> 01:10:42.714
+वो जो prompt की दिमाग है ना, वो खुद की नहीं होती है, guys.
+
+898
+01:10:42.774 --> 01:10:45.084
+It's already generated with the help of AI.
+
+899
+01:10:46.884 --> 01:10:49.764
+Are you getting the point? So the point here I
+
+900
+01:10:51.564 --> 01:10:53.694
+am focusing on to realize you all of you.
+
+901
+01:10:55.074 --> 01:10:59.604
+If they can use the same platform and able to generate such prompts and with the
+
+902
+01:10:59.634 --> 01:11:02.574
+help of that prompt, they can able to generate such quality outcome.
+
+903
+01:11:03.234 --> 01:11:05.394
+You have the same tools, you have the same systems.
+
+904
+01:11:06.024 --> 01:11:08.124
+You just have to understand how to do it properly.
+
+905
+01:11:08.904 --> 01:11:11.785
+ठीक है। So now पहला हमें लगेगा model.
+
+906
+01:11:12.384 --> 01:11:16.134
+कोई भी textile related हो गया, garment related हो गया तो हमें एक model लगेगा。
+
+907
+01:11:16.314 --> 01:11:21.864
+Right. उस model का हमें photo चाहिए plain white background में। Second हमें लगेगा
+
+908
+01:11:21.984 --> 01:11:26.394
+उस model की character sheet. Let me show you.
+
+909
+01:11:26.484 --> 01:11:32.364
+अच्छा, model second हमें लगेगा उसको जो actual costume हमें लगेगा उसके ऊपर वो
+
+910
+01:11:32.424 --> 01:11:37.764
+costume हमें उस photo को हमें लगेगा। The first is model, the second is actual
+
+911
+01:11:38.544 --> 01:11:44.245
+costume. Is it clear? In this case, here is the prompt
+
+912
+01:11:44.334 --> 01:11:46.285
+that I am creating right away with you.
+
+913
+01:11:47.124 --> 01:11:48.024
+Just copy this
+
+914
+01:11:50.484 --> 01:11:50.785
+and
+
+915
+01:11:52.194 --> 01:11:54.234
+we will go to the Gemini.
+
+916
+01:11:55.524 --> 01:11:59.035
+Let's paste this, right and just hit enter.
+
+917
+01:12:00.834 --> 01:12:03.924
+Right. Initially, Gemini offers the free.
+
+918
+01:12:04.344 --> 01:12:09.234
+If you have Jio cards, Jio cards पे शायद ये कुछ और advance benefit दे रहा है। They
+
+919
+01:12:09.264 --> 01:12:12.654
+are maybe tie up with the Jio. Right. So it depends.
+
+920
+01:12:12.924 --> 01:12:15.954
+You can find it in MyJio store. See this, guys.
+
+921
+01:12:16.224 --> 01:12:20.934
+Simple input, simple output, एक proper quality का एक photo मुझे मिल चुका है। मेरा
+
+922
+01:12:20.995 --> 01:12:26.004
+पहला phase मैंने achieve कर लिया है। The second I will need that is
+
+923
+01:12:27.745 --> 01:12:32.154
+the product photo. Right. अब पहला stage तो मैंने achieve कर लिया। Second क्या है?
+
+924
+01:12:32.664 --> 01:12:36.594
+यहां पर लिखा हुआ है upload a master model जो हमारा already है。 Original clothing
+
+925
+01:12:36.684 --> 01:12:41.484
+reference together जो हमारा actual costume है, जो client आपको दे सकता है या आपके
+
+926
+01:12:41.544 --> 01:12:44.844
+पास अगर कोई already आप ही business कर रहे हो तो आपको चाहिए content creation के लिए
+
+927
+01:12:44.904 --> 01:12:48.894
+और social media. That. तो clothing reference is the product source of truth. Right.
+
+928
+01:12:48.924 --> 01:12:52.194
+तो ये सारी चीजें हो गई यहां पर along with this prompt
+
+929
+01:12:53.778 --> 01:12:59.448
+So now what I will do, I will first find the costume.
+
+930
+01:13:01.128 --> 01:13:01.788
+Let's say
+
+931
+01:13:05.388 --> 01:13:06.978
+Indian traditional
+
+932
+01:13:09.228 --> 01:13:10.338
+women wear.
+
+933
+01:13:13.938 --> 01:13:14.418
+So let me
+
+934
+01:13:16.188 --> 01:13:17.238
+find it over Google
+
+935
+01:13:19.188 --> 01:13:19.488
+and
+
+936
+01:13:20.988 --> 01:13:24.709
+okay, मेरे पास बहुत से options हैं but एक ध्यान देना जब भी आप photos किसी से भी
+
+937
+01:13:24.768 --> 01:13:29.568
+लेते हो, Google से भी ले रहे हो तो यहाँ पे hack है। Tools के options में size का
+
+938
+01:13:29.598 --> 01:13:32.568
+option होता है। Images के section में आप आते हो, tools के options में size का
+
+939
+01:13:32.568 --> 01:13:36.858
+option होता है। हमेशा large size के photos use करो अगर आपके पास photo लेनी हो तो।
+
+940
+01:13:36.888 --> 01:13:42.138
+क्योंकि large size के photos जब भी आप लोगे आपको 99% case में आपको up to 4K
+
+941
+01:13:42.168 --> 01:13:47.388
+resolution के photo ही दिखाएगा और बाकी photo नहीं दिखाएगा। So यहाँ पर देखिए बहुत से
+
+942
+01:13:47.898 --> 01:13:49.188
+already like उन्होंने
+
+943
+01:13:50.838 --> 01:13:55.728
+पहने wear है। तो हमें ऐसा नहीं चाहिए। हमें चाहिए proper जो dummy ने पहना हो।
+
+944
+01:13:57.288 --> 01:14:02.508
+Dummy wear जो हम देखते हैं दुकान के सामने होता है। यह देखो dummy wear आ गए।
+
+945
+01:14:03.588 --> 01:14:08.299
+Now see, there are so many dummies available here and let me
+
+946
+01:14:09.348 --> 01:14:10.098
+try with you.
+
+947
+01:14:17.238 --> 01:14:18.918
+This one is not the clear.
+
+948
+01:14:20.538 --> 01:14:21.918
+Anyone I can try.
+
+949
+01:14:24.709 --> 01:14:30.648
+Why not trying to use the original person photo इसका reason बता दूं ताकि यह confuse
+
+950
+01:14:30.709 --> 01:14:34.728
+ना हो जाए यह face लेना है कि वो face लेना है। So use the dummy instead.
+
+951
+01:14:36.049 --> 01:14:36.648
+That's better.
+
+952
+01:14:38.028 --> 01:14:41.718
+I hope this will be better.
+
+953
+01:14:43.428 --> 01:14:48.948
+अच्छा यह भी ठीक है। This is good. अरे पर इसमें words हैं,
+
+954
+01:14:49.278 --> 01:14:52.938
+watermark it will not work. It's also not working.
+
+955
+01:14:54.228 --> 01:14:58.488
+Let me open any one of them. कोई भी अच्छी चीज मिल जाए मुझे। ठीक है, that's it.
+
+956
+01:14:58.549 --> 01:15:03.799
+This is good. Let me copy this. Let me download this first. Let me download this.
+
+957
+01:15:03.948 --> 01:15:07.908
+We have watermark but it's okay, it's very minimal. Let me try.
+
+958
+01:15:08.898 --> 01:15:13.248
+I have this first image that I have to copy here. I have to paste it here.
+
+959
+01:15:14.838 --> 01:15:17.868
+Second image मुझे लेनी है जो अभी मेरा actual costume है。
+
+960
+01:15:19.218 --> 01:15:23.058
+I have to copy and paste it here and third I have to take this
+
+961
+01:15:24.618 --> 01:15:25.158
+exact
+
+962
+01:15:26.748 --> 01:15:31.638
+product integration prompt that I can copy here
+
+963
+01:15:31.698 --> 01:15:37.038
+and paste it here. Just hit enter. Let's wait for the first outcome.
+
+964
+01:15:37.338 --> 01:15:38.148
+क्या दे रहा है यह?
+
+965
+01:15:44.388 --> 01:15:49.938
+Now, if यहाँ पर अगर कोई चीज हमें ठीक करनी है obviously we can make it by changing
+
+966
+01:15:49.998 --> 01:15:52.878
+the problem को बता रही। Now see this thing.
+
+967
+01:15:54.828 --> 01:15:56.508
+Is it proper?
+
+968
+01:15:58.278 --> 01:15:59.178
+This is the image
+
+969
+01:16:00.438 --> 01:16:03.498
+we have got and the next
+
+970
+01:16:04.998 --> 01:16:06.467
+step is-- अच्छा,
+
+971
+01:16:07.878 --> 01:16:09.799
+I have done, one second.
+
+972
+01:16:11.658 --> 01:16:15.498
+It was a huge prompt, sorry. Let me again do it properly.
+
+973
+01:16:20.688 --> 01:16:23.358
+Copy. Let me do it again.
+
+974
+01:16:24.918 --> 01:16:25.428
+Copy.
+
+975
+01:16:28.038 --> 01:16:32.808
+Let me paste the first and the
+
+976
+01:16:34.459 --> 01:16:35.328
+second
+
+977
+01:16:36.558 --> 01:16:37.549
+product photo.
+
+978
+01:16:38.959 --> 01:16:42.438
+Got it. Now it's complete prompt till here.
+
+979
+01:16:43.728 --> 01:16:46.128
+Let's enter again. Now it will be different.
+
+980
+01:16:46.158 --> 01:16:47.838
+Basically starting
+
+981
+01:16:49.128 --> 01:16:50.838
+list of the product was missed here.
+
+982
+01:16:51.799 --> 01:16:52.428
+Now see this
+
+983
+01:16:53.748 --> 01:16:58.488
+with the complete prompt. The next step is step three, create your product sheet.
+
+984
+01:16:58.758 --> 01:17:02.538
+यह ध्यान से समझना। जब भी आपके पास पहला model आ जाए,
+
+985
+01:17:04.908 --> 01:17:10.038
+the first model you have, then you have the costume आपका पूरा आ गया उसके ऊपर। The
+
+986
+01:17:10.128 --> 01:17:15.768
+next step जो सबसे important होता है before making video that is your product
+
+987
+01:17:15.858 --> 01:17:20.088
+sheet. जिसको हम बोलेंगे product sheet, character sheet.
+
+988
+01:17:20.778 --> 01:17:24.588
+Character sheet is like a different thing जिसमें सिर्फ उस character के front view,
+
+989
+01:17:24.678 --> 01:17:28.758
+side view, left view, back view, full view, half view इस सारे angles से उसकी
+
+990
+01:17:28.788 --> 01:17:32.718
+character sheet बनी जाती है। Product sheet मतलब products के related focus किया जाता
+
+991
+01:17:32.748 --> 01:17:36.828
+है उस चीज के ऊपर। Now see this guys. This is more real than the previous one.
+
+992
+01:17:38.058 --> 01:17:43.278
+You can see the detailing. You can see the detailing here as well in this side.
+
+993
+01:17:44.568 --> 01:17:49.549
+Now the next step is to create such product sheets
+
+994
+01:17:50.418 --> 01:17:56.358
+before making the video. So we need this, हमारे पास अभी second point आ गया। हमें
+
+995
+01:17:56.628 --> 01:18:01.068
+तीसरी चीज चाहिए। So what is the तीसरी चीज के लिए हमें basically कुछ नहीं करना है।
+
+996
+01:18:01.158 --> 01:18:06.799
+We have to upload this again here and we have to write this
+
+997
+01:18:06.858 --> 01:18:07.278
+down.
+
+998
+01:18:09.558 --> 01:18:14.658
+ध्यान से देखिएगा क्या कर रहा हूँ मैं। And obviously we need this detailing कि
+
+999
+01:18:14.718 --> 01:18:17.928
+product sheet अगर चाहिए तो product sheet के अंदर हमें क्या चाहिए?
+
+1000
+01:18:18.438 --> 01:18:21.138
+कितने products चाहिए? Sorry, कितने shorts चाहिए?
+
+1001
+01:18:21.438 --> 01:18:24.288
+तो हमें 10 चाहिए। उसकी detailing यहाँ पर लिखी हुई है।
+
+1002
+01:18:27.318 --> 01:18:30.648
+Copy करके paste कर दिया मैंने। That's it. It's okay.
+
+1003
+01:18:32.088 --> 01:18:37.459
+Let me check short_1 and short_10. ठीक है। Then let me hit enter.
+
+1004
+01:18:38.448 --> 01:18:39.558
+Now wait for the outcome.
+
+1005
+01:18:42.978 --> 01:18:48.768
+We created model, we selected the product, product model तो बन ही
+
+1006
+01:18:48.828 --> 01:18:52.368
+गए। The next step is create your product sheet.
+
+1007
+01:18:55.158 --> 01:18:56.328
+Now wait for the outcome.
+
+1008
+01:18:58.248 --> 01:19:04.128
+See these guys. Now आपका दिमाग अच्छे से चलना start हो रहा होगा। Its
+
+1009
+01:19:04.188 --> 01:19:04.668
+detail,
+
+1010
+01:19:05.988 --> 01:19:08.118
+it's clear and it's
+
+1011
+01:19:10.608 --> 01:19:11.658
+same model consistent.
+
+1012
+01:19:13.368 --> 01:19:18.978
+That's it, guys. यह अगर आपका सही से बन गया product sheet then आपकी
+
+1013
+01:19:19.068 --> 01:19:24.198
+quality of video बहुत अच्छी होगी जब तक यह सही होगा।
+
+1014
+01:19:25.488 --> 01:19:29.658
+Getting the point? Don't try to create direct video क्योंकि direct video create
+
+1015
+01:19:29.688 --> 01:19:35.209
+करोगे तो वो खुद ही confuse है, खुद ही clear नहीं है कि करना क्या है। वो अपना दिमाग
+
+1016
+01:19:35.268 --> 01:19:39.588
+लगाएगा और खुद की imagination लगा देगा जो imagination गलत भी हो सकती है, सही हो सकती
+
+1017
+01:19:39.618 --> 01:19:44.358
+है। But in this case we have this sheet ताकि उसको clear रहे कि सारे angles से क्या
+
+1018
+01:19:44.388 --> 01:19:49.308
+होगा। Now the next is upload the final model product sheet in 16 by 9 sheet जो
+
+1019
+01:19:49.338 --> 01:19:53.658
+हमारे पास already है and tell the Google Omni-- what is Google Omni?
+
+1020
+01:19:53.688 --> 01:19:58.549
+Basically Google का यह product है। Google Omni को कोई अलग से नहीं जाना है आपको। You
+
+1021
+01:19:58.608 --> 01:20:02.988
+have this feature here video वाला section यहाँ से ही आप सीधा operate कर सकते हैं।
+
+1022
+01:20:03.768 --> 01:20:07.908
+But make sure यह शायद maybe Google is not offering in free।
+
+1023
+01:20:09.348 --> 01:20:13.549
+Jio के case में शायद दे रहा होगा। It depends on the situation from the Google क्या
+
+1024
+01:20:13.608 --> 01:20:17.448
+offers होंगे। But make sure this is very powerful outcome that you will see now.
+
+1025
+01:20:17.928 --> 01:20:23.328
+Now let me copy this now and let's go to the video section.
+
+1026
+01:20:23.838 --> 01:20:28.008
+ठीक है। अब तक हम chat section में थे, अब हम video section में हैं। Let's upload the
+
+1027
+01:20:28.038 --> 01:20:29.508
+photo of character sheet
+
+1028
+01:20:31.488 --> 01:20:35.178
+and now let's copy this one
+
+1029
+01:20:39.918 --> 01:20:40.398
+यहाँ से
+
+1030
+01:20:42.468 --> 01:20:47.299
+यहाँ तक। copy किया मैंने। Now this is the checklist obviously at the end of the
+
+1031
+01:20:47.328 --> 01:20:50.718
+bottom इसका outcome हमने already बनाया वो दिखाऊंगा आपको, आपने अभी देखा है already।
+
+1032
+01:20:51.558 --> 01:20:56.328
+Now see this one and video वाला section है। 16 by 9 का size हमने यहाँ पर दिया हुआ
+
+1033
+01:20:56.358 --> 01:21:01.368
+है जो कि already सारी चीज लिखी गई है। Scenes यहाँ पर दिए गए हैं panel 1, panel 2 यह
+
+1034
+01:21:01.428 --> 01:21:04.098
+सारी चीज लिखी गई है। Now let's hit the enter.
+
+1035
+01:21:04.368 --> 01:21:08.328
+16 by 9 यहाँ पर भी selected है ध्यान देना। Hit the enter.
+
+1036
+01:21:08.658 --> 01:21:13.188
+Let's wait for the first outcome that is coming in our process.
+
+1037
+01:21:14.478 --> 01:21:14.838
+All good?
+
+1038
+01:21:16.758 --> 01:21:19.278
+It's not rocket science, right? सबको समझ में आ रहा है यहाँ तक?
+
+1039
+01:21:19.608 --> 01:21:21.648
+Show me a big thumbs up. It's easy.
+
+1040
+01:21:25.278 --> 01:21:29.299
+Now the question is-- यह तो create हो रहा है। Now the question is
+
+1041
+01:21:30.918 --> 01:21:34.549
+how we can do it for other products?
+
+1042
+01:21:36.108 --> 01:21:39.978
+यह तो textile हो गया ना। How we can do it for other products? That is the question.
+
+1043
+01:21:41.538 --> 01:21:46.008
+So for that let me wait for the outcome first because it excites me always whenever
+
+1044
+01:21:46.038 --> 01:21:46.608
+I am doing it.
+
+1045
+01:21:51.348 --> 01:21:56.178
+Defining it's working, that's okay. So it's generating now.
+
+1046
+01:21:56.268 --> 01:21:56.928
+Okay, ठीक है।
+
+1047
+01:21:58.302 --> 01:21:59.353
+So the process
+
+1048
+01:22:01.032 --> 01:22:01.482
+will be,
+
+1049
+01:22:02.832 --> 01:22:04.182
+you have the product photo,
+
+1050
+01:22:07.062 --> 01:22:09.432
+you have the base prompts.
+
+1051
+01:22:11.052 --> 01:22:11.322
+Right?
+
+1052
+01:22:14.052 --> 01:22:15.702
+As I said, it's a creative world,
+
+1053
+01:22:17.052 --> 01:22:18.042
+so you have to be
+
+1054
+01:22:19.242 --> 01:22:21.192
+little bit creative when you are doing it.
+
+1055
+01:22:22.422 --> 01:22:26.052
+You have to be creative. It's a creative world. It's creative mind.
+
+1056
+01:22:26.682 --> 01:22:31.362
+So you have the product's photo, you have the prompts ready.
+
+1057
+01:22:32.532 --> 01:22:36.883
+So number one, model create करने वाला जो prompt है, वो तो same है। Right?
+
+1058
+01:22:38.022 --> 01:22:42.462
+Then the second one is कि वो model के साथ photo, ये जो process है, ये process मैं
+
+1059
+01:22:42.492 --> 01:22:47.412
+एक बार आपको आगे भी करके दिखाऊंगा on the second one ताकि आपको वो चीजें clear हो जाए।
+
+1060
+01:22:47.442 --> 01:22:52.872
+वो processing में जाए तो सही रहेगा। In the meantime ये generate हो रहा है। So let's
+
+1061
+01:22:54.012 --> 01:22:57.282
+wait for few minutes for this generation.
+
+1062
+01:23:00.972 --> 01:23:02.952
+If you want to drink water, obviously you can drink.
+
+1063
+01:23:03.792 --> 01:23:09.402
+वैसे हम generally पांच minute का water break देते हैं but इसमें नहीं दिया क्योंकि
+
+1064
+01:23:09.462 --> 01:23:12.972
+काफी चीजें और हैं जो मुझे बतानी है and we have the limited time. Right?
+
+1065
+01:23:13.062 --> 01:23:15.792
+So I understand and you also understanding the point.
+
+1066
+01:23:18.883 --> 01:23:19.152
+Sweet.
+
+1067
+01:23:26.802 --> 01:23:27.492
+All good, guys.
+
+1068
+01:23:34.843 --> 01:23:36.822
+एक और magical चीज बताऊंगा आपको after this.
+
+1069
+01:23:38.622 --> 01:23:44.022
+Gemini से कुछ भी हम बनाते हैं ना-- Oh, great. Now great, guys. Our video is ready.
+
+1070
+01:23:44.622 --> 01:23:48.343
+Excited to see you. I am also excited. I am also curious now.
+
+1071
+01:23:48.372 --> 01:23:51.343
+I was excited, obviously. So let's open the video.
+
+1072
+01:24:03.282 --> 01:24:05.322
+Is it powerful? Now show me the comments.
+
+1073
+01:24:06.822 --> 01:24:09.762
+Show me the reactions. एक-एक बार और देख लेते हैं। ठीक है?
+
+1074
+01:24:14.442 --> 01:24:15.222
+आवाज आ रही है सबको?
+
+1075
+01:24:17.593 --> 01:24:18.762
+Music भी है उसके पीछे।
+
+1076
+01:24:20.712 --> 01:24:23.022
+चल नहीं आ रही है? एक second, मैं download कर लेता हूँ।
+
+1077
+01:24:27.192 --> 01:24:31.633
+अब मैं आपको एक बहुत अच्छा hack बता रहा हूँ जो आपको बहुत काम आएगा ताकि आपके client
+
+1078
+01:24:31.692 --> 01:24:35.142
+आपको बोलेंगे नहीं कि आपने ये कैसे किया या कहाँ से किया। Right?
+
+1079
+01:24:35.262 --> 01:24:39.972
+उनको नहीं पता चलना चाहिए। Simple सी बात है, आपका business है ना वो। तो ये देखिए। ये
+
+1080
+01:24:40.002 --> 01:24:43.272
+video मैं अभी upload कर रहा हूँ। और ये video अभी आपको शायद आवाज--
+
+1081
+01:24:49.722 --> 01:24:52.572
+Sorry, आवाज बंद था। अभी आपको आवाज आएगी।
+
+1082
+01:24:54.822 --> 01:24:56.652
+ठीक है। Now let me play. See this.
+
+1083
+01:25:07.843 --> 01:25:10.182
+Now tell me the reaction. Is it powerful?
+
+1084
+01:25:11.652 --> 01:25:14.802
+Right? Some of the others जो हमने पहले देखा वो भी है। Right?
+
+1085
+01:25:14.982 --> 01:25:17.202
+तो और भी मैं दिखाऊंगा आपको। Be with me.
+
+1086
+01:25:18.372 --> 01:25:18.822
+So now
+
+1087
+01:25:21.672 --> 01:25:22.093
+ठीक है।
+
+1088
+01:25:23.383 --> 01:25:27.732
+All good, guys. तो अभी एक problem है। Problem ये है जब हम business standards से
+
+1089
+01:25:27.732 --> 01:25:32.562
+इसको देख रहे हैं, you can see यहाँ पे एक Gemini का by default logo है। Can you see
+
+1090
+01:25:32.593 --> 01:25:36.492
+this? It's very easy to remove this. I will show you। इसको कैसे remove करोगे?
+
+1091
+01:25:37.302 --> 01:25:42.133
+क्योंकि Gemini में आप कुछ भी बनाओ, ये logo तो आने वाला है। तो how you-- आप client
+
+1092
+01:25:42.162 --> 01:25:44.982
+को तो ये तो नहीं दोगे। Right? So how will you give it to the client?
+
+1093
+01:25:45.642 --> 01:25:50.112
+It's very simple. You just go to the Google and just
+
+1094
+01:25:51.343 --> 01:25:52.122
+search here
+
+1095
+01:25:53.532 --> 01:25:53.862
+Gemini
+
+1096
+01:25:55.062 --> 01:26:00.312
+watermark remover
+
+1097
+01:26:02.742 --> 01:26:03.192
+video
+
+1098
+01:26:05.202 --> 01:26:05.532
+free.
+
+1099
+01:26:07.182 --> 01:26:11.442
+Just click this first link, geminiwatermarkremover.io.
+
+1100
+01:26:12.252 --> 01:26:13.572
+Just click this first link.
+
+1101
+01:26:15.402 --> 01:26:16.872
+Come here, choose the video,
+
+1102
+01:26:19.572 --> 01:26:25.482
+upload the desired video. जैसे आप upload करोगे, obviously start local के option पे
+
+1103
+01:26:25.542 --> 01:26:30.853
+आप click करो。 That's it. It start working and we will see the difference of both
+
+1104
+01:26:30.883 --> 01:26:36.582
+quality. We will see the difference and the outcome कि वो properly remove हुआ है कि
+
+1105
+01:26:36.642 --> 01:26:36.792
+नहीं हुआ
+
+1106
+01:26:39.762 --> 01:26:43.932
+है। चीजें simple है but चीजों की outcome बहुत powerful है, guys.
+
+1107
+01:26:45.162 --> 01:26:47.472
+Until and unless you understand the processes.
+
+1108
+01:26:49.302 --> 01:26:52.662
+कोई shortcut तरीके से करोगे तो शायद वो outcome नहीं मिलेगा जो outcome मिलना आपको
+
+1109
+01:26:52.692 --> 01:26:56.622
+है। Process से जाओगे तो चीजें अच्छी बनेगी आपकी। Getting the point?
+
+1110
+01:26:56.922 --> 01:26:59.652
+किसी भी चीज में। In businesses as well.
+
+1111
+01:27:02.353 --> 01:27:04.902
+Perfect, done. Let me download.
+
+1112
+01:27:07.633 --> 01:27:12.192
+Now let me download and let me show you again this
+
+1113
+01:27:14.922 --> 01:27:19.843
+ताकि आप detail में देख पाओ कि quality क्या है।
+
+1114
+01:27:22.843 --> 01:27:25.302
+Everyone can able to see the video? See this.
+
+1115
+01:27:27.133 --> 01:27:27.372
+तो
+
+1116
+01:27:28.752 --> 01:27:33.853
+आपको अच्छी selling desk बनाने की 需 要 होगी। This as well for your business and
+
+1117
+01:27:33.853 --> 01:27:36.282
+client भी खुश हो जाएगा देख के। Right?
+
+1118
+01:27:36.343 --> 01:27:40.512
+क्योंकि वो भी जब social media में कहीं promote करेगा तो वो भी happy रहेगा इसे करके।
+
+1119
+01:27:40.542 --> 01:27:44.802
+Right? So I hope this makes sense and you get the clarity how to create such
+
+1120
+01:27:44.832 --> 01:27:48.972
+content. Second चीज मैं बताने जा रहा हूँ। ध्यान से देखिएगा। इसको देख के और मजा आएगा
+
+1121
+01:27:49.002 --> 01:27:52.212
+आपको because it's very-very-- थोड़ा-थोड़ा और interesting हो जाएगा यह चीज यहाँ से
+
+1122
+01:27:52.242 --> 01:27:56.292
+आपका अभी। कोई product है तो product का promo video कैसे
+
+1123
+01:27:56.322 --> 01:28:02.292
+बनाना है? तो मैं पहले outcome दिखा दूँ आपको ताकि आप
+
+1124
+01:28:02.353 --> 01:28:06.133
+समझो कि क्या होता है promo video. एक second देना मेरे को खाली आप।
+
+1125
+01:28:10.722 --> 01:28:10.962
+Okay.
+
+1126
+01:28:17.652 --> 01:28:20.022
+Wait you just a minute, guys.
+
+1127
+01:28:25.242 --> 01:28:26.531
+Let me show you the outcome first.
+
+1128
+01:28:36.883 --> 01:28:37.452
+Be with me.
+
+1129
+01:28:39.312 --> 01:28:39.912
+It's opening.
+
+1130
+01:28:47.172 --> 01:28:48.222
+Some time.
+
+1131
+01:28:53.472 --> 01:28:55.752
+Just a minute, guys. It's opening.
+
+1132
+01:29:25.152 --> 01:29:25.392
+Okay.
+
+1133
+01:29:30.732 --> 01:29:32.862
+Done. Let me share you the screen.
+
+1134
+01:29:42.312 --> 01:29:42.552
+Okay.
+
+1135
+01:29:53.322 --> 01:29:54.642
+Let me share your screen. Now see this.
+
+1136
+01:29:56.502 --> 01:30:02.412
+If you imagine any product, let's we have used the most popular one जो सब
+
+1137
+01:30:02.742 --> 01:30:05.472
+use कर ही रहे होंगे। उस photo के साथ--
+
+1138
+01:30:07.542 --> 01:30:12.972
+मैंने photo दिया ना, उस photo के साथ क्या उसने बना के दिया है let's see this.
+
+1139
+01:30:18.282 --> 01:30:22.002
+Can you see? It's not. Just to show me. Is it visible?
+
+1140
+01:30:23.292 --> 01:30:24.103
+Okay, one second.
+
+1141
+01:30:30.762 --> 01:30:31.332
+One second.
+
+1142
+01:30:40.272 --> 01:30:46.152
+Okay ठीक है। मैं screen share वापस कर रहा हूँ। Now it
+
+1143
+01:30:46.542 --> 01:30:48.343
+will be visible. No worries.
+
+1144
+01:30:50.262 --> 01:30:53.862
+Okay, now it's visible, right? Now I am playing it. Just look at this first.
+
+1145
+01:30:54.072 --> 01:30:56.052
+Now understand how to do it now later.
+
+1146
+01:31:02.232 --> 01:31:02.892
+Is it powerful?
+
+1147
+01:31:04.752 --> 01:31:07.062
+Photo से ये video बनाया है।
+
+1148
+01:31:11.712 --> 01:31:16.392
+Right, excited? The process is super simple until and unless you understand the
+
+1149
+01:31:16.452 --> 01:31:16.782
+process।
+
+1150
+01:31:19.122 --> 01:31:25.093
+Number one that you need... Let me stop screen again and share it fully
+
+1151
+01:31:25.122 --> 01:31:25.482
+with you।
+
+1152
+01:31:28.992 --> 01:31:30.462
+Number one that is
+
+1153
+01:31:32.982 --> 01:31:35.622
+ये वाला part हमने अभी cover करा कि कैसे हमारा
+
+1154
+01:31:37.032 --> 01:31:41.562
+garment related video हमें बनाना है। Second promo video like for the product। Now
+
+1155
+01:31:41.652 --> 01:31:45.522
+here is the process। सबसे पहले आपको जाना है Hexweb में। Hexweb क्या है?
+
+1156
+01:31:45.582 --> 01:31:48.312
+Hexweb एक ऐसा platform है जहां पर आपको multiple
+
+1157
+01:31:51.312 --> 01:31:57.072
+platforms मिल जाते हैं जैसे Gemini हो गया, Seedance 2.5 करके अभी सबसे latest चल रहा
+
+1158
+01:31:57.072 --> 01:31:59.232
+है model है। जैसे मैंने starting में models बताया था, correct?
+
+1159
+01:31:59.353 --> 01:32:04.482
+Gemini, ChatGPT। Seedance 2.5 करके भी एक model है जो video generation के लिए ही
+
+1160
+01:32:04.572 --> 01:32:06.162
+train किया गया है specifically।
+
+1161
+01:32:07.992 --> 01:32:12.372
+तो वो अभी तक का सबसे best model कहा जा रहा है। In which second you have to go to
+
+1162
+01:32:12.402 --> 01:32:17.142
+the marketing studio। Third you have to go to the select model as an Seedance 2.5।
+
+1163
+01:32:17.232 --> 01:32:21.162
+Fourth obviously you have this prompt। अब यह prompt जो Vaseline का prompt है how we
+
+1164
+01:32:21.192 --> 01:32:25.362
+can change it for other product? It's very simple, I will show you the process।
+
+1165
+01:32:26.622 --> 01:32:31.242
+Enter the prompt, upload the product photo like Vaseline in this case। Select the
+
+1166
+01:32:31.272 --> 01:32:36.103
+ratio and hit enter। That's it। Process बताने में ही complex है, but करने में बड़ा
+
+1167
+01:32:36.133 --> 01:32:41.383
+easy है। Let me open the Hexweb। Now you just have to copy this।
+
+1168
+01:32:42.792 --> 01:32:46.422
+मुझे full screen करनी पड़ेगी ताकि मैं दोनों thing आपको दिखा सकूं side by side।
+
+1169
+01:32:49.332 --> 01:32:54.912
+See this। I am just copying this prompt
+
+1170
+01:32:55.722 --> 01:32:56.353
+first।
+
+1171
+01:32:59.082 --> 01:33:02.982
+I am coming to the marketing studio here in the Hexweb।
+
+1172
+01:33:04.512 --> 01:33:10.392
+Hexweb may charge sometimes। Free शायद नहीं है so obviously it is very valuable
+
+1173
+01:33:10.422 --> 01:33:16.062
+also। Here you have these options। देखिए इस तरह कुछ window है। अब इस window के अंदर
+
+1174
+01:33:16.093 --> 01:33:19.932
+आप नीचे देखिए options हैं। ये options के अंदर by default ये marketing studio image
+
+1175
+01:33:19.962 --> 01:33:22.062
+selected है। यहां से आपको select करना है
+
+1176
+01:33:23.292 --> 01:33:25.062
+Seedance का।
+
+1177
+01:33:26.922 --> 01:33:30.462
+First of all, you have to select the video section because it is video, it is not
+
+1178
+01:33:30.492 --> 01:33:34.692
+photo जो हमें create करना है। Then select these options, then select the Seedance
+
+1179
+01:33:34.843 --> 01:33:40.242
+2.5। Seedance 2.5 जैसे आप select करते हो, यहां पर जो prompt था, वो prompt डालिए। I
+
+1180
+01:33:40.242 --> 01:33:44.172
+am not gonna generate again because ये time लेगा थोड़ा so we have the limited time।
+
+1181
+01:33:44.232 --> 01:33:50.022
+The process same है। कोई इसमें ज्यादा hidden चीज कोई नहीं है। जो process था वही है।
+
+1182
+01:33:50.082 --> 01:33:54.462
+Seedance 2.5 prompt मैंने ले लिया। Prompt के साथ मेरे को चाहिए image, plus icon पर
+
+1183
+01:33:54.492 --> 01:33:58.603
+डालूंगा यहां पर मैं। Plus icon के ऊपर मैंने देखी upload हो गई। यहां uploaded है।
+
+1184
+01:33:59.353 --> 01:34:02.862
+नहीं होगी तो आपको upload करनी है यहां से आपके own computer से। ये मैंने image ले
+
+1185
+01:34:02.922 --> 01:34:07.782
+ली। इसको close कर दिया। Image मेरी आ गई। Prompt मेरा आ गया। अब मेरे को settings
+
+1186
+01:34:07.812 --> 01:34:10.272
+check करनी है। यहां पर लिखी है। क्या settings check करने बोल रही है?
+
+1187
+01:34:10.633 --> 01:34:14.622
+2.5 select हो गए चलो ठीक है, product upload हो गए ठीक है, prompt आ गया ठीक है। 16
+
+1188
+01:34:14.652 --> 01:34:19.392
+by nine की size चाहिए। ये 16 by nine already selected ही था तो मैंने select कर
+
+1189
+01:34:19.452 --> 01:34:23.322
+दिया। And obviously quality अभी यहां से select कर सकते हो कि क्या quality का video
+
+1190
+01:34:23.383 --> 01:34:27.732
+चाहिए। 1080 HD quality मानी जाती है तो आप select करोगे। कितने seconds का video
+
+1191
+01:34:27.762 --> 01:34:33.732
+चाहिए then you can select by sliding it here। Maximum you have this 30 second
+
+1192
+01:34:33.822 --> 01:34:39.282
+option। All over the globe आज के date में generally 30 second तक के
+
+1193
+01:34:39.343 --> 01:34:43.962
+videos most of the platforms highest offer करते हैं। आज के time
+
+1194
+01:34:43.992 --> 01:34:49.242
+में। थोड़ा हमारी ये part खत्म हो जाए तो मैं आपको एक चीज और भी बताऊंगा at the end of
+
+1195
+01:34:49.272 --> 01:34:50.562
+the program कि कैसे
+
+1196
+01:34:51.912 --> 01:34:56.383
+इससे ज्यादा भी कर सकते हैं जो कि एक process है with this.
+
+1197
+01:34:57.912 --> 01:35:03.012
+Now see, after this, select the right seconds and after this, you just have to
+
+1198
+01:35:03.042 --> 01:35:07.212
+create this generate button, that's it। It's this simple process।
+
+1199
+01:35:09.312 --> 01:35:13.302
+Not confusing? यहां पर clear हो रहा है तो I am not gonna hit enter because it will
+
+1200
+01:35:13.662 --> 01:35:18.162
+take some time to generate। So we don't have such time। We have other stuff to work
+
+1201
+01:35:18.222 --> 01:35:19.782
+on that। Process is simple।
+
+1202
+01:35:21.552 --> 01:35:24.462
+Everyone please respond so that I can understand the
+
+1203
+01:35:26.412 --> 01:35:27.642
+frequency with you।
+
+1204
+01:35:29.172 --> 01:35:29.832
+All good, guys.
+
+1205
+01:35:32.022 --> 01:35:34.242
+All good। So now the next is
+
+1206
+01:35:35.532 --> 01:35:39.432
+UGC ads। How many of you are excited now? UGC मतलब पता है क्या होता है?
+
+1207
+01:35:39.702 --> 01:35:44.202
+UGC मतलब होता है user generated content जो आज के date में बहुत viral चल रहा है। But
+
+1208
+01:35:44.232 --> 01:35:49.482
+problem क्या पता है? Problem यह है कि user generated content में realistic nature
+
+1209
+01:35:49.512 --> 01:35:55.482
+नहीं आता है। Realism नहीं आता है। Natural चीजें नहीं लगती। वो थोड़ा artificial लगता
+
+1210
+01:35:55.512 --> 01:35:55.843
+है।
+
+1211
+01:35:57.252 --> 01:36:02.922
+मैं अभी आपको एक video दिखाऊंगा। After the video, I need a response from you। Honest
+
+1212
+01:36:02.952 --> 01:36:03.762
+response, obviously।
+
+1213
+01:36:05.412 --> 01:36:09.462
+And वो कैसे किया फिर हम देखेंगे। ठीक है?
+
+1214
+01:36:11.652 --> 01:36:15.042
+Until and unless यहां तक सबको clear है। We are on the same page now?
+
+1215
+01:36:15.912 --> 01:36:17.922
+अब तक on the same page?
+
+1216
+01:36:21.072 --> 01:36:22.362
+I can see many of the faces.
+
+1217
+01:36:24.072 --> 01:36:29.082
+Thank you so much for this one, guys। Thank you। All good। So now let me show you
+
+1218
+01:36:29.142 --> 01:36:30.492
+the video first। ठीक है?
+
+1219
+01:36:37.872 --> 01:36:40.062
+Just a minute। Let me share my screen।
+
+1220
+01:36:44.862 --> 01:36:56.562
+Perfect।
+
+1221
+01:36:57.582 --> 01:36:58.093
+It's open।
+
+1222
+01:37:02.262 --> 01:37:04.633
+पहले देखेंगे, पहले response मत करिएगा।
+
+1223
+01:37:06.072 --> 01:37:06.343
+ठीक है?
+
+1224
+01:37:14.383 --> 01:37:17.682
+Okay। I hope screen is visible to all of you।
+
+1225
+01:37:19.182 --> 01:37:20.562
+Let me hit the play button.
+
+1226
+01:37:21.042 --> 01:37:26.052
+It blends easily into the skin. See, no rubbing, no effort. Natural finish.
+
+1227
+01:37:26.322 --> 01:37:29.742
+Skin still looks like skin. Raspberry seed oil, carrot and licorice root extracts
+
+1228
+01:37:29.832 --> 01:37:32.772
+right there on the label. And we're gonna dive every morning. This is the step.
+
+1229
+01:37:32.892 --> 01:37:35.982
+Make SPF the easiest step. Camellia SPF 50 plus.
+
+1230
+01:37:36.191 --> 01:37:37.421
+It blends easily into the-
+
+1231
+01:37:38.412 --> 01:37:39.732
+Now let me play again.
+
+1232
+01:37:39.941 --> 01:37:45.012
+Skin. See, no rubbing, no effort. Natural finish. Skin still looks like skin.
+
+1233
+01:37:45.133 --> 01:37:48.162
+Raspberry seed oil, carrot and licorice root extracts right there on the label.
+
+1234
+01:37:48.312 --> 01:37:51.972
+And we're gonna dive every morning. This is the step. Make SPF the easiest step.
+
+1235
+01:37:52.062 --> 01:37:55.452
+Camellia SPF 50 plus. It blends easily into the skin.
+
+1236
+01:37:55.542 --> 01:37:57.792
+Now tell me honestly
+
+1237
+01:37:59.593 --> 01:38:01.633
+कौन बोलेगा कि यह AI generated video है?
+
+1238
+01:38:05.232 --> 01:38:07.272
+If you see such reels over the social media,
+
+1239
+01:38:10.512 --> 01:38:14.232
+1% लोगों को छोड़कर जो already जानते हैं, जो डूबे हुए हैं हैं, उनको छोड़कर बाकी
+
+1240
+01:38:14.262 --> 01:38:16.962
+लोगों को नहीं पता चलेगा कि यह AI generated video है। How to do it?
+
+1241
+01:38:17.652 --> 01:38:19.692
+Now it's the point that we have to learn.
+
+1242
+01:38:20.442 --> 01:38:24.672
+So be with me, guys। अच्छा ठीक है, एक question, permission जरूर चाहिए before
+
+1243
+01:38:25.182 --> 01:38:29.802
+showing this because it's very important for you, not for me। थोड़ा अगर 10:00 बजे
+
+1244
+01:38:29.862 --> 01:38:34.452
+से आगे call 15 मिनट या 20 मिनट थोड़ा shift हो जाए, आगे हो जाए तो it's comfortable
+
+1245
+01:38:34.482 --> 01:38:39.282
+for you all of you? Because मेरा भी reason हुआ नहीं है so don't worry। After call
+
+1246
+01:38:39.312 --> 01:38:40.182
+ही करना है। Right?
+
+1247
+01:38:41.922 --> 01:38:46.872
+ठीक है जी। So thank you so much for the great energy। Thank you so much। चलो
+
+1248
+01:38:47.052 --> 01:38:50.022
+process पहले मैं guide कर दूं आपको process क्या है इसकी।
+
+1249
+01:38:51.972 --> 01:38:52.452
+Let me-
+
+1250
+01:38:52.962 --> 01:38:53.712
+Natural finish.
+
+1251
+01:38:54.252 --> 01:38:55.332
+अच्छा एक second।
+
+1252
+01:38:55.392 --> 01:38:58.962
+Skin still looks like skin. Raspberry seed oil, carrot and licorice root-
+
+1253
+01:39:01.422 --> 01:39:03.942
+Number one, इसके लिए हमें क्या लगेगा?
+
+1254
+01:39:05.202 --> 01:39:09.822
+Screen पर देखें। हमें लगेगा सबसे पहले एक platform, Hexweb।
+
+1255
+01:39:10.992 --> 01:39:13.572
+Model लगेगा हमें Seedance 2.5।
+
+1256
+01:39:21.282 --> 01:39:27.103
+Okay, now I can see you all। And first we need obviously a
+
+1257
+01:39:27.192 --> 01:39:32.652
+model कि किस पर ऊपर video बनेगा। First we need this। So here is the
+
+1258
+01:39:33.222 --> 01:39:38.112
+prompt। Here is the prompt। Here is the first outcome।
+
+1259
+01:39:39.402 --> 01:39:39.642
+Now
+
+1260
+01:39:41.022 --> 01:39:46.932
+अब यह ध्यान दो आप कि अगर आपका outcome real नहीं आ रहा है क्योंकि it's a creative
+
+1261
+01:39:46.992 --> 01:39:51.012
+world। हो सकता है कि आपके case में AI थोड़ा सा अलग दे। हो सकता है, it depends
+
+1262
+01:39:51.012 --> 01:39:52.242
+क्योंकि AI is a creative world।
+
+1263
+01:39:53.862 --> 01:39:58.752
+तब क्या करना है? वो मैं आपको बताता हूं पहले। So अगर आपके case में-- let's open this
+
+1264
+01:39:58.782 --> 01:40:02.922
+prompt मैं आपको ये side by side करके भी दिखाऊं। Let's go to the ChatGPT
+
+1265
+01:40:05.142 --> 01:40:09.612
+या Gemini भी जा सकते हैं। Let's do it for both। दोनों पर करके देख सकते हैं हम।
+
+1266
+01:40:09.642 --> 01:40:14.082
+ChatGPT में गया। यह photo मेरे पास है। अब मैं इसको hit enter करता हूं
+
+1267
+01:40:15.522 --> 01:40:18.822
+And obviously I will go to the Gemini in new chat, hit enter.
+
+1268
+01:40:20.383 --> 01:40:23.982
+Let's wait for the both outcomes. किस में ज्यादा realistic आ रही है ताकि
+
+1269
+01:40:25.512 --> 01:40:28.302
+understanding आपकी भी बढ़ना start हो जाए चीजों के लिए।
+
+1270
+01:40:32.502 --> 01:40:36.822
+पहले मैंने ChatGPT को दिया, फिर मैंने Gemini को दिया। चलो Gemini का आ गया है। Now
+
+1271
+01:40:36.883 --> 01:40:37.302
+see this.
+
+1272
+01:40:39.642 --> 01:40:40.422
+Real है।
+
+1273
+01:40:42.912 --> 01:40:44.622
+Now wait for the ChatGPT.
+
+1274
+01:40:46.182 --> 01:40:48.582
+अच्छा, let's try again.
+
+1275
+01:40:50.112 --> 01:40:52.572
+Maybe some updates happening on ChatGPT right now.
+
+1276
+01:40:53.532 --> 01:40:54.942
+चलता रहता है इन लोगों का।
+
+1277
+01:40:56.353 --> 01:41:00.853
+क्योंकि speed चाहिए सबको आज की date में। Competition China और USA से ज़्यादा है आज
+
+1278
+01:41:00.883 --> 01:41:01.482
+की date में।
+
+1279
+01:41:07.062 --> 01:41:10.182
+One second. My screen is not visible. Someone save me.
+
+1280
+01:41:13.722 --> 01:41:15.312
+Now I hope it's visible.
+
+1281
+01:41:26.652 --> 01:41:27.462
+Just a minute, guys.
+
+1282
+01:41:30.012 --> 01:41:31.482
+Okay, now it's visible properly.
+
+1283
+01:41:35.172 --> 01:41:36.222
+Wait for the ChatGPT.
+
+1284
+01:41:46.062 --> 01:41:47.142
+It's taking some time.
+
+1285
+01:42:00.402 --> 01:42:04.122
+In this entire process, एक चीज मैं आपको और point out करवा दूं।
+
+1286
+01:42:05.472 --> 01:42:05.982
+क्या हो रहा है?
+
+1287
+01:42:07.633 --> 01:42:13.512
+One second. Whenever you are operating
+
+1288
+01:42:13.603 --> 01:42:16.272
+on AI, specially on content creation,
+
+1289
+01:42:18.792 --> 01:42:23.742
+so इस पूरे process में patience was very less.
+
+1290
+01:42:23.802 --> 01:42:26.382
+Now see this, guys. This is
+
+1291
+01:42:26.472 --> 01:42:30.972
+much real
+
+1292
+01:42:32.593 --> 01:42:33.492
+than this.
+
+1293
+01:42:34.782 --> 01:42:39.432
+How many of you agree? Show me a big thumbs up. This is much real than this.
+
+1294
+01:42:41.532 --> 01:42:45.613
+Obviously both are 19-20 का difference है, ज़्यादा difference नहीं है but this is
+
+1295
+01:42:45.642 --> 01:42:48.492
+much. I will prefer this one over this.
+
+1296
+01:42:48.553 --> 01:42:52.002
+The ChatGPT is winner in this case, so I use this now.
+
+1297
+01:42:52.752 --> 01:42:53.022
+And
+
+1298
+01:42:54.222 --> 01:42:58.363
+the next thing is we have to have a product.
+
+1299
+01:42:59.892 --> 01:43:02.472
+So we have the product here. Let me
+
+1300
+01:43:06.792 --> 01:43:07.332
+show you.
+
+1301
+01:43:09.372 --> 01:43:10.093
+Just a minute.
+
+1302
+01:43:19.512 --> 01:43:20.532
+एक second।
+
+1303
+01:43:22.843 --> 01:43:23.142
+Okay.
+
+1304
+01:43:30.462 --> 01:43:33.972
+So we have this image ready on ChatGPT.
+
+1305
+01:43:35.593 --> 01:43:40.363
+We have the product. The product is this.
+
+1306
+01:43:43.722 --> 01:43:46.482
+I cannot zoom this product. The product is this.
+
+1307
+01:43:47.502 --> 01:43:47.892
+एक second।
+
+1308
+01:43:49.482 --> 01:43:50.803
+There are different apps, so
+
+1309
+01:43:52.093 --> 01:43:52.812
+this is happening.
+
+1310
+01:43:54.613 --> 01:44:00.553
+The product is this. Now it's visible. So this is the product, this is the model.
+
+1311
+01:44:00.613 --> 01:44:02.442
+But आपके case में क्या है? यह
+
+1312
+01:44:05.082 --> 01:44:10.902
+modeling है और यह product है。 So we have this one and this one, both we
+
+1313
+01:44:10.962 --> 01:44:11.232
+have
+
+1314
+01:44:12.822 --> 01:44:16.512
+copied। And the next prompt is this.
+
+1315
+01:44:17.472 --> 01:44:21.222
+Step two यहाँ पे लिखा हुआ है। Step two के ऊपर मैंने यह prompt लिया
+
+1316
+01:44:23.712 --> 01:44:29.652
+and इसको मैंने copy किया and इसको मैंने paste किया। Let's wait for the-- I have
+
+1317
+01:44:29.682 --> 01:44:31.093
+to cancel this old one.
+
+1318
+01:44:34.363 --> 01:44:36.103
+यह button activate हो रहा है, एक second देना।
+
+1319
+01:44:42.762 --> 01:44:43.032
+Now,
+
+1320
+01:44:44.532 --> 01:44:47.142
+जब आपका model जितना real है,
+
+1321
+01:44:48.522 --> 01:44:51.312
+उतना better आपका content बनेगा in form of video.
+
+1322
+01:44:51.822 --> 01:44:56.262
+अगर यहाँ पर गड़बड़ है जैसे कि मान लो कि पहले वाला यह था। अगर मैं यह लेता तो शायद
+
+1323
+01:44:56.322 --> 01:45:00.642
+quality of video उतना नहीं होता जितना इसमें आ सकता है।
+
+1324
+01:45:02.262 --> 01:45:03.192
+There may be some
+
+1325
+01:45:05.113 --> 01:45:07.363
+thing that I have to refresh the ChatGPT again.
+
+1326
+01:45:16.392 --> 01:45:21.762
+ठीक है। So prompt आ गया, उसके साथ मेरा product आ
+
+1327
+01:45:21.853 --> 01:45:24.613
+गया। अच्छा, prompt के अंदर हमें देना है--
+
+1328
+01:45:29.952 --> 01:45:35.682
+One second देना। Okay, here you will understand the
+
+1329
+01:45:35.772 --> 01:45:41.382
+image one, white pump bottle, black pump orange। यह पूरा image one जो है ना, यह जो
+
+1330
+01:45:41.442 --> 01:45:45.343
+image one के अंदर जो product है ना उसकी detailing इस में already लिखी गई है। अब
+
+1331
+01:45:45.402 --> 01:45:49.992
+आपको लगा कि sir आपके image में अगर यह product है तो आपके case में शायद दूसरा
+
+1332
+01:45:50.053 --> 01:45:53.742
+product हो सकता है, तो उस particular case में यह जो existing prompt है ना, इस
+
+1333
+01:45:53.803 --> 01:45:59.292
+existing prompt के साथ यह आपके जो existing product है, वह image डाल के
+
+1334
+01:45:59.832 --> 01:46:03.582
+just add one command. मैं अभी यह नहीं कर रहा हूं but आपको process बता रहा हूं। Just
+
+1335
+01:46:03.613 --> 01:46:09.402
+add one command, change the prompt as per the image product.
+
+1336
+01:46:10.182 --> 01:46:16.152
+यह आप जब दोगे ChatGPT को, वह आपके product के according यही prompt
+
+1337
+01:46:16.212 --> 01:46:21.252
+को modified कर देगा। I hope यह clear है क्योंकि इसमें कोई भी rocket science नहीं
+
+1338
+01:46:21.282 --> 01:46:22.093
+बताया मैंने अभी तक।
+
+1339
+01:46:23.892 --> 01:46:29.202
+So next is I have to copy this image of the girl and मैंने
+
+1340
+01:46:29.712 --> 01:46:35.292
+paste कर दिया। Now, once it's uploaded, now let's wait for the outcome
+
+1341
+01:46:35.923 --> 01:46:38.982
+of this both product and the model.
+
+1342
+01:46:40.512 --> 01:46:44.682
+It should be like this. It should be like this in different-different
+
+1343
+01:46:46.841 --> 01:46:49.603
+scenes. One, two, three, four, five, six, seven, eight.
+
+1344
+01:46:49.662 --> 01:46:52.423
+Eight scenes के अंदर यह है। Properly
+
+1345
+01:46:53.832 --> 01:46:55.932
+हमारा outcome आना चाहिए। Let's wait for the outcome.
+
+1346
+01:47:00.492 --> 01:47:01.843
+It's 9:47.
+
+1347
+01:47:18.372 --> 01:47:19.093
+Just a minute.
+
+1348
+01:47:23.952 --> 01:47:28.722
+So it may take some time, but it's okay क्योंकि यह चीजें सही दे रहा है compared to
+
+1349
+01:47:28.752 --> 01:47:31.482
+the Gemini, as you see live with me.
+
+1350
+01:47:35.892 --> 01:47:38.803
+ChatGPT if you can see what is the weakness of ChatGPT?
+
+1351
+01:47:38.863 --> 01:47:43.093
+ChatGPT की weakness मैं बता सकता हूं कि it's not built specifically for videos.
+
+1352
+01:47:45.432 --> 01:47:49.992
+It's not built for videos. Its core strength is content, idea, image, etc.
+
+1353
+01:47:51.402 --> 01:47:57.252
+So obviously we need it for this. In this case, we need Cedars or Gemini for the
+
+1354
+01:47:57.282 --> 01:47:58.002
+video generation.
+
+1355
+01:48:02.322 --> 01:48:04.182
+एक second देना। Let me
+
+1356
+01:48:06.613 --> 01:48:08.353
+cover the next topic in the meantime.
+
+1357
+01:48:09.882 --> 01:48:10.152
+Okay.
+
+1358
+01:48:13.122 --> 01:48:18.462
+तब तक, जब तक यह बन रहा है, मैं आपको वो process समझा दूं ताकि आपका screenshot ले लो
+
+1359
+01:48:18.492 --> 01:48:23.053
+और आपकी outline clear हो जाए office, इस process की। See this, guys.
+
+1360
+01:48:24.492 --> 01:48:28.452
+See on the screen. Perfect the frame first, then create the motion.
+
+1361
+01:48:28.542 --> 01:48:33.192
+इस पूरे process को हमने किस तरह से किया है, यह एक screen पर आपको clear होगा ताकि आप
+
+1362
+01:48:33.252 --> 01:48:39.103
+समझ पाओ कि क्या हमने process follow करी। Idea number one, obviously we need a idea.
+
+1363
+01:48:40.212 --> 01:48:42.162
+The second is we need a required images.
+
+1364
+01:48:42.222 --> 01:48:46.152
+Images पहले होगी video बाद में बनती है। AI में हमेशा ध्यान रखो direct text to video
+
+1365
+01:48:46.182 --> 01:48:50.382
+बनाने जाओगे तो गड़बड़ होगी। Images reference होगी तो वह ज़्यादा अच्छा बनाएगी। Model
+
+1366
+01:48:50.442 --> 01:48:54.282
+चाहिए model plus product plus environment plus reference। मतलब कि अगर आपका model
+
+1367
+01:48:54.343 --> 01:48:57.792
+है, model का environment भी अगर आपने ready कर दिया कि मान लो office में बैठा है या
+
+1368
+01:48:57.853 --> 01:49:00.912
+मान लो वह garden में घूम रहा है so and so.
+
+1369
+01:49:01.363 --> 01:49:04.542
+Product के साथ model के photos, this is required images.
+
+1370
+01:49:05.142 --> 01:49:08.262
+तीसरा जो है ना which is perfect key frame.
+
+1371
+01:49:08.562 --> 01:49:12.192
+First make the still image correctly मतलब जो भी बता रहा हूं मैं।
+
+1372
+01:49:14.353 --> 01:49:18.673
+It's not generated. हाँ, देखिए आ गया। See this, guys carefully
+
+1373
+01:49:21.234 --> 01:49:25.314
+It looks real in every frame that I can see.
+
+1374
+01:49:26.784 --> 01:49:31.825
+If you are same with the same mind, आपको भी सही लग रहा है जो मैं बोल रहा हूँ, you
+
+1375
+01:49:31.854 --> 01:49:32.963
+can show me the reaction.
+
+1376
+01:49:34.314 --> 01:49:37.914
+It looks real in each one of the frame.
+
+1377
+01:49:40.255 --> 01:49:40.464
+Right?
+
+1378
+01:49:42.444 --> 01:49:47.844
+That's it. यह चीज अगर आपकी बहुत अच्छी है ना, तब आपका video का quality है ना, वो
+
+1379
+01:49:47.874 --> 01:49:48.624
+बहुत better होगा।
+
+1380
+01:49:50.064 --> 01:49:50.814
+I hope this makes sense.
+
+1381
+01:49:52.044 --> 01:49:52.464
+So
+
+1382
+01:49:53.844 --> 01:49:55.734
+now we have this character
+
+1383
+01:49:57.144 --> 01:49:59.184
+sheet ready with product.
+
+1384
+01:50:01.464 --> 01:50:04.614
+This step two is done. I think आपको हिंदी करना होगा।
+
+1385
+01:50:11.034 --> 01:50:12.205
+Okay, step two is done.
+
+1386
+01:50:14.755 --> 01:50:20.124
+The next, we have achieved this one and the next is this prompt for the video
+
+1387
+01:50:20.154 --> 01:50:25.974
+generation along with this image. This is the entire prompt that we have to copy.
+
+1388
+01:50:26.664 --> 01:50:29.934
+But video generation में time लगेगा obviously I am not going to do it right now
+
+1389
+01:50:30.114 --> 01:50:34.854
+because already we have discussed the process की क्या process है। So we have this
+
+1390
+01:50:35.154 --> 01:50:40.974
+sample जो पहले हमने दिखाया था, उसका sample यहाँ पर है, इसी process से। यह हमारा
+
+1391
+01:50:41.064 --> 01:50:46.434
+prompt है। इस prompt के साथ आप देख सकते हो कि इसमें क्या-क्या लिखा हुआ है। सारी
+
+1392
+01:50:46.464 --> 01:50:49.884
+चीजें लिखी हुई हैं, वो according आप समझ भी पाओगे कि यह चीज कर क्या रहा है।
+
+1393
+01:50:51.205 --> 01:50:57.053
+So what you can do? Go to the Hexfield। Hexfield के अंदर हमारे पास देखिए, यहाँ पर
+
+1394
+01:50:57.144 --> 01:51:02.334
+video का option है। Video के options में यहाँ पर reference image का option है। यह
+
+1395
+01:51:02.364 --> 01:51:03.654
+मैं delete कर दूँ, यह पहले वाला है।
+
+1396
+01:51:05.005 --> 01:51:09.894
+Reference image के अंदर हमें हमारी जो desired image है, यह वाली। Right, इसको मैं
+
+1397
+01:51:09.924 --> 01:51:10.734
+download कर दूँ।
+
+1398
+01:51:12.714 --> 01:51:16.104
+Character sheet वाली। मैंने यह upload कर दी।
+
+1399
+01:51:27.205 --> 01:51:27.834
+It's uploading.
+
+1400
+01:51:30.384 --> 01:51:32.064
+Be focus on the screen guys. Be focus.
+
+1401
+01:51:38.934 --> 01:51:39.505
+Okay.
+
+1402
+01:51:44.245 --> 01:51:45.294
+It's uploading.
+
+1403
+01:51:53.334 --> 01:51:56.184
+No worries. Okay, it's uploaded. अब ठीक है चलो।
+
+1404
+01:51:58.614 --> 01:52:00.864
+Once it gets fully upload, I can use it.
+
+1405
+01:52:01.614 --> 01:52:05.334
+चलो, यह आ गया। Now let's cancel this.
+
+1406
+01:52:06.144 --> 01:52:10.734
+Here you have to add the prompt। मैं थोड़ा सा इसको minimize करके दिखा दूँ ताकि आपको
+
+1407
+01:52:10.794 --> 01:52:12.834
+सारी चीजें दिखे। Okay.
+
+1408
+01:52:14.124 --> 01:52:15.834
+यहाँ मैंने image upload करी। कौन से section में?
+
+1409
+01:52:15.864 --> 01:52:17.394
+Hexfield में video वाले section में। Right?
+
+1410
+01:52:17.694 --> 01:52:22.734
+Video वाले section में directly किया मैंने। After this, I have uploaded the
+
+1411
+01:52:24.534 --> 01:52:29.005
+पूरी जो हमारा sheet है and here I have to give the
+
+1412
+01:52:30.325 --> 01:52:36.203
+video prompt। यह मैंने को डालना है but make sure हमें यहाँ पर model कौन सा select
+
+1413
+01:52:36.234 --> 01:52:39.414
+करना है। यहाँ पर नीचे देखो model का option है Hexfield में। Hexfield में बहुत से
+
+1414
+01:52:39.444 --> 01:52:45.024
+models हैं आपके पास अलग-अलग जो सारे-- जैसे Google OmniFlash भी है। Kling 3.2 भी एक
+
+1415
+01:52:45.084 --> 01:52:50.874
+अच्छा model है but जो हमने select करना है वो CDance 2.5। CDance 2.5 already
+
+1416
+01:52:50.904 --> 01:52:54.955
+selected है यहाँ पर। नीचे आप आओ। नीचे आपको यह select करना है, कितने second का video
+
+1417
+01:52:55.015 --> 01:52:55.705
+बनाना है आपको।
+
+1418
+01:52:56.964 --> 01:52:59.484
+क्या आपका frame-- यह aspect ratio क्या है?
+
+1419
+01:52:59.544 --> 01:53:02.995
+Aspect ratio already यहाँ पर लिखा हुआ है। If you can read this obviously nine by 16
+
+1420
+01:53:03.054 --> 01:53:07.794
+यहाँ पर लिखा हुआ है। तो we have to हमें confuse नहीं करना है। यहाँ जो लिखा है उसके
+
+1421
+01:53:07.794 --> 01:53:12.594
+according हम लोग यहाँ भी select करेंगे features में और 1080 का pixel है हमारा जो कि
+
+1422
+01:53:12.714 --> 01:53:17.005
+HD quality का video है। That's it guys. Once you click on generate, that's it.
+
+1423
+01:53:17.274 --> 01:53:20.694
+This is the complete process. Once you click on generate, it starts generating the
+
+1424
+01:53:20.724 --> 01:53:24.804
+video. It may take around five minutes, 10 minutes, up to 15 minutes some cases
+
+1425
+01:53:24.834 --> 01:53:28.674
+में। So obviously we don't have such time right now. It's 9:53 p.m.
+
+1426
+01:53:28.765 --> 01:53:34.344
+But the process is same. I want to understand from you all
+
+1427
+01:53:34.404 --> 01:53:37.825
+कि how many of you got the clarity in process?
+
+1428
+01:53:40.614 --> 01:53:40.884
+Right.
+
+1429
+01:53:42.534 --> 01:53:44.874
+Big screen here so that I am watching you all here.
+
+1430
+01:53:47.064 --> 01:53:47.634
+Thank you.
+
+1431
+01:53:49.614 --> 01:53:50.455
+Thank you so much.
+
+1432
+01:53:51.774 --> 01:53:55.104
+Thank you so much, guys. Thank you. Someone is saying wow. Thank you.
+
+1433
+01:53:55.644 --> 01:53:58.944
+ठीक है, no worries. आप में से कुछ लोगों को मैं एक
+
+1434
+01:54:00.474 --> 01:54:06.414
+input देना चाहूँगा। If any one of you जिसने आज पहली बार कोई चीज
+
+1435
+01:54:06.624 --> 01:54:11.604
+देखी ऐसी, हो सकता है क्योंकि आप अपने-अपने काम में busy रहे। I know you are all
+
+1436
+01:54:11.634 --> 01:54:12.594
+working professionals.
+
+1437
+01:54:14.154 --> 01:54:15.384
+But it doesn't make
+
+1438
+01:54:16.644 --> 01:54:21.984
+sense कि it doesn't means like that कि अगर मुझे 100% समझ में नहीं आ रहा है। मैं
+
+1439
+01:54:22.015 --> 01:54:25.734
+आपको यह practical बता रहा हूँ जो हर इंसान के साथ होता है। तो आप उस category में अगर
+
+1440
+01:54:25.794 --> 01:54:31.524
+हो तो आपके लिए यह अच्छी बात है जो मैं बता रहा हूँ। 100% समझ में नहीं आया है, don't
+
+1441
+01:54:31.584 --> 01:54:36.414
+worry. AI करने वाली चीज है। Yes, देखने वाली तो चीज है ही but करने वाली चीज है। जब
+
+1442
+01:54:36.474 --> 01:54:42.444
+करना करना करने लगोगे तो आपका दिमाग अच्छे से चलेगा। दूसरा
+
+1443
+01:54:42.474 --> 01:54:48.234
+point यह है कि अगर 50 जगह भी समझ में आया, 50% भी समझ में आया, positive sign
+
+1444
+01:54:48.265 --> 01:54:51.684
+है। और यह मैं अभी inside secret बता रहा हूँ।
+
+1445
+01:54:53.604 --> 01:54:57.864
+जब हम किसी भी successful इंसान को देखते हैं, हम सोचते हैं कि उसको हमारे से ज्यादा
+
+1446
+01:54:57.894 --> 01:55:01.674
+समझ आती है। But हमें यह समझ लेना चाहिए कि वो भी इंसान ही है।
+
+1447
+01:55:04.224 --> 01:55:08.154
+किसी भी इंसान को कोई भी चीज जब पहली बार वो देखता है,
+
+1448
+01:55:09.984 --> 01:55:15.745
+यह किस की बात कर रहा हूँ मैं? 100% किसी को भी समझ में नहीं आती है। If I
+
+1449
+01:55:15.804 --> 01:55:18.714
+talk about the Einstein level brain as well तो भी।
+
+1450
+01:55:20.304 --> 01:55:26.214
+So this is not like the abnormal, it's normal कि 50% आया समझ में।
+
+1451
+01:55:26.274 --> 01:55:30.924
+So now the understanding is कि जब हम करते हैं उस चीज को, अगर हमें अच्छा लगे, उसके
+
+1452
+01:55:30.984 --> 01:55:36.144
+ऊपर master करना है। We will obviously take it as a priority and practice it daily।
+
+1453
+01:55:36.174 --> 01:55:40.584
+किसी भी चीज में आप देख लो life में हम यही करते हैं। तो उसकी percentage बढ़ती जाती
+
+1454
+01:55:40.584 --> 01:55:45.593
+है। 55%, 60%, 65%, 70% then you master from the rest of the people all over the
+
+1455
+01:55:45.654 --> 01:55:47.694
+planet. So I hope this makes sense.
+
+1456
+01:55:48.503 --> 01:55:54.023
+So don't overthink कि अगर पूरा समझ में नहीं आया but ठीक है। Process समझ में आ गई
+
+1457
+01:55:54.054 --> 01:55:57.294
+है, that's good. Light सब लोग use करते हैं ना?
+
+1458
+01:55:58.404 --> 01:56:01.614
+Light हम लोग हमारे आपके घर में, सबके घर में light देख पा रहे हो आप लोग। Light चल
+
+1459
+01:56:01.674 --> 01:56:07.614
+रही है। But आप में से बहुत से लोग light चलती कैसे है वो नहीं पता है। सही
+
+1460
+01:56:07.644 --> 01:56:11.034
+बोल रहा हूँ मैं? उसका science क्या है वो नहीं पता है but हम use कर पा रहे हैं ना।
+
+1461
+01:56:12.474 --> 01:56:17.064
+Same with this technology. सब समझने की जरूरत नहीं है। Process समझनी है। Process समझ
+
+1462
+01:56:17.094 --> 01:56:21.084
+गया, business दिमाग है, you can start making money by serving the services, selling
+
+1463
+01:56:21.114 --> 01:56:21.804
+the services.
+
+1464
+01:56:23.364 --> 01:56:27.594
+These are the small skills that are very impactful in your local area as well.
+
+1465
+01:56:29.844 --> 01:56:31.075
+All good, guys. So now
+
+1466
+01:56:33.624 --> 01:56:38.394
+I want to understand how many of you are clear till now, till point with the same
+
+1467
+01:56:38.455 --> 01:56:42.624
+page? एक बार सब लोग मुझे thumbs up दिखाएं अगर clear है तो ही।
+
+1468
+01:56:45.594 --> 01:56:49.255
+नाम भी आता है, नाम भी पढ़ता हूँ मैं। Thank you.
+
+1469
+01:56:53.664 --> 01:56:54.984
+Thank you so much.
+
+1470
+01:56:56.544 --> 01:56:57.114
+Perfect.
+
+1471
+01:56:59.755 --> 01:57:01.884
+ठीक है। Now.
+
+1472
+01:57:08.934 --> 01:57:14.544
+ठीक है। All good, guys. So let me share my
+
+1473
+01:57:14.575 --> 01:57:15.745
+screen again.
+
+1474
+01:57:21.444 --> 01:57:22.674
+Let me share my screen again.
+
+1475
+01:57:25.794 --> 01:57:29.034
+Before that, एक बार मैं जरूर जानना चाहूँगा
+
+1476
+01:57:31.734 --> 01:57:37.495
+आज के class में कितने लोगों को मजा आया। Eye-opener moment था, wow वाली feeling
+
+1477
+01:57:37.554 --> 01:57:42.564
+आई। सब लोग मुझे एक बार last time reaction देने दे ताकि मैं आगे के conclusion पर
+
+1478
+01:57:42.624 --> 01:57:45.684
+पहुँचूँ और इसको हम conclude करें। Right?
+
+1479
+01:57:46.884 --> 01:57:50.604
+अगर सच में आया तो ही बताओ, मुझे कुछ नहीं करना है। आपको अगर अच्छा लगा है obviously
+
+1480
+01:57:50.664 --> 01:57:52.255
+then you just show me reaction.
+
+1481
+01:57:54.325 --> 01:57:59.034
+Okay, perfect. Thank you so much. It's just the beginning, guys.
+
+1482
+01:57:59.094 --> 01:58:02.034
+It's not the end of the class. It's not the end of the program yet.
+
+1483
+01:58:02.064 --> 01:58:06.234
+especially इसका just पहला class आज खत्म होने ही वाला है। मैं conclusion point पर
+
+1484
+01:58:06.294 --> 01:58:11.364
+आऊँगा और आगे एक-दो topics मुझे लेने हैं जो आपको मिलूँगा। अब मैं एक वो चीज बताऊँगा
+
+1485
+01:58:11.424 --> 01:58:12.864
+before coming to the final topic.
+
+1486
+01:58:14.154 --> 01:58:15.414
+वो चीज बताऊँगा जो
+
+1487
+01:58:17.034 --> 01:58:21.864
+लोगों ने August batch में August month में enroll किया है या September के starting
+
+1488
+01:58:21.894 --> 01:58:24.265
+of the week में enroll किया है in just one-two days.
+
+1489
+01:58:24.924 --> 01:58:30.799
+आप में से अगर कोई ऐसा है पहली चीज यह है कि आज का जो आपने Academy पूरा देखा, its AI
+
+1490
+01:58:30.858 --> 01:58:33.379
+content creation Academy and Avatar Academy.
+
+1491
+01:58:33.408 --> 01:58:38.809
+The Avatar Academy थोड़ा सा topic लंबा है तो हमने already उस call को conduct किया
+
+1492
+01:58:38.838 --> 01:58:42.738
+हुआ है। वह process थोड़ी लंबी है। It will take around one hour to understand this
+
+1493
+01:58:42.799 --> 01:58:44.118
+process। But make sure
+
+1494
+01:58:46.218 --> 01:58:52.129
+आप सभी लोगों को कल जैसे ही working hours में team आएगी office और उस time
+
+1495
+01:58:52.188 --> 01:58:54.138
+period पर सभी लोगों को
+
+1496
+01:58:55.638 --> 01:59:01.398
+दो घंटे का detail content on another way of creating
+
+1497
+01:59:01.488 --> 01:59:02.059
+content
+
+1498
+01:59:03.948 --> 01:59:09.828
+and Avatar and UGC, उसका एक और class आपको मिलेगा in the
+
+1499
+01:59:09.888 --> 01:59:11.688
+recorded format all over the MS.
+
+1500
+01:59:13.428 --> 01:59:13.938
+Is it wow?
+
+1501
+01:59:15.588 --> 01:59:20.658
+जो लोग 1.2 के batch में थे obviously उन लोगों को आज live value मिल चुकी है। जो लोग
+
+1502
+01:59:20.718 --> 01:59:24.948
+live नहीं आ पाए obviously उन लोगों को भी इस class की access मिलेगी। So we believe
+
+1503
+01:59:25.008 --> 01:59:29.988
+in building community. So we are offering like-- हमारा एक और purpose था छोटा सा जो
+
+1504
+01:59:30.049 --> 01:59:33.528
+अभी याद आया तो बता दूं मैं आपको। Many of you like--
+
+1505
+01:59:35.028 --> 01:59:37.129
+we are not a course selling company first of all, right.
+
+1506
+01:59:37.249 --> 01:59:41.148
+We are the actual founders building softwares and scaling it to the world level.
+
+1507
+01:59:42.888 --> 01:59:47.328
+So ground experience जो है, जो practical में चीजें काम करती हैं, वही चीज हम focus
+
+1508
+01:59:47.358 --> 01:59:51.918
+करते हैं सिखाने की, जो actual में business बना पाता है। हमारा focus उस पर रहता है।
+
+1509
+01:59:51.978 --> 01:59:56.688
+हमारा focus उस पर नहीं रहता है कि कोई Academy सिखा रहे हो, वह चीज सिखा रहे, मैं
+
+1510
+01:59:56.749 --> 02:00:00.738
+उसको वही चीज सिखाकर पैसे कमाऊंगा। It's not like that here in your community.
+
+1511
+02:00:01.698 --> 02:00:04.067
+Second point यह है कि
+
+1512
+02:00:07.488 --> 02:00:12.319
+it's just the first day of your entire program and
+
+1513
+02:00:15.108 --> 02:00:20.538
+जो भी एक intent fee हम उसको बोलते हैं, जिसका reason यह है क्योंकि already
+
+1514
+02:00:21.738 --> 02:00:27.108
+you know that 3000 से ज्यादा, 3000-3500 से ज्यादा लोगों ने specialist program में
+
+1515
+02:00:27.138 --> 02:00:31.338
+registered किया है। मैं आपको world की practical reality बता रहा हूं अभी। और यह अभी
+
+1516
+02:00:31.368 --> 02:00:35.299
+इसके लिए बता रहा हूं क्योंकि आज पहला class है। आगे और भी classes होंगी। तो यह चीज
+
+1517
+02:00:35.358 --> 02:00:36.138
+आपके साथ ना।
+
+1518
+02:00:38.088 --> 02:00:43.668
+3000-3500 लोगों ने ₹999 pay करके specialist program में enroll किया हुआ है।
+
+1519
+02:00:45.499 --> 02:00:51.379
+But you are watching कि आज के call पर हजार लोग हैं और YouTube पर कुछ और plus
+
+1520
+02:00:51.408 --> 02:00:56.538
+हैं, 100-200 लोग plus हैं। जो हमारे पास data था, जो हमने देखा। ज्यादा नहीं होंगे। I
+
+1521
+02:00:56.538 --> 02:00:57.198
+am just roughly.
+
+1522
+02:00:58.518 --> 02:01:02.778
+So why are other people are still not able like क्यों join नहीं करते?
+
+1523
+02:01:02.838 --> 02:01:08.809
+क्यों उसको वह नहीं करते? Because it's three inner problem that everyone is facing
+
+1524
+02:01:08.868 --> 02:01:14.658
+in 2026 जो बहुत जरूरी है हमें समझना। अगर हमें आगे बढ़ना है, हमारी जो wall है, उसको
+
+1525
+02:01:14.718 --> 02:01:20.658
+cross करके ऊपर आना है। Right level change करना है। तो यह चीज क्या
+
+1526
+02:01:20.688 --> 02:01:22.879
+है? Number one is overthinking.
+
+1527
+02:01:25.038 --> 02:01:28.458
+Second is perfection syndrome and third is procrastination.
+
+1528
+02:01:29.868 --> 02:01:31.848
+These are the three inner enemies.
+
+1529
+02:01:33.198 --> 02:01:38.478
+जो हमेशा आए तो उसको shoot करके उसको खत्म करो। उसको रखो मत अपने अंदर। This
+
+1530
+02:01:39.257 --> 02:01:43.938
+is not gonna save you. Obviously वह आपका outcome उसके साथ अच्छा नहीं रहता। यह चीज
+
+1531
+02:01:43.968 --> 02:01:47.178
+हमें भी होती है। We are also human but we understand, we have developed the skills
+
+1532
+02:01:47.208 --> 02:01:49.848
+कि कैसे वह चीज को overcome करना है। Outcome पर focus करो।
+
+1533
+02:01:51.078 --> 02:01:55.549
+Complete करने पर focus करो। पूरी understanding जब होगी ना तब आपका mind अच्छे से
+
+1534
+02:01:55.608 --> 02:02:00.198
+चलेगा। तब decision सही पाओगे आप कि कौन से direction में business करना है AI में।
+
+1535
+02:02:00.258 --> 02:02:04.158
+ठीक है। In the coming time we will also guide you on that point particular topic.
+
+1536
+02:02:04.578 --> 02:02:08.418
+I hope this is meaningful जो मैंने अभी आपको बोला guys.
+
+1537
+02:02:11.478 --> 02:02:11.838
+Perfect.
+
+1538
+02:02:17.388 --> 02:02:23.148
+All good. I hope यह screenshot आप ले लो। जो process का screenshot है जो अभी हमने
+
+1539
+02:02:23.208 --> 02:02:26.118
+किया generating hyper realistic videos.
+
+1540
+02:02:26.868 --> 02:02:30.559
+यह process की screenshot में आपको काफी detailing मिलेगी। यह recording में तो होगा
+
+1541
+02:02:30.588 --> 02:02:36.468
+ही but screenshot होगा तो क्या use कर पाओगे। Now understand this most
+
+1542
+02:02:36.528 --> 02:02:37.158
+important point.
+
+1543
+02:02:38.778 --> 02:02:43.879
+Prompt को लेकर लोग बड़े confuse हैं कि sir prompt कैसे और क्या हमें उसके अंदर चीजें
+
+1544
+02:02:43.938 --> 02:02:46.428
+देखनी चाहिए। क्या होता क्या है basically।
+
+1545
+02:02:48.078 --> 02:02:53.148
+Prompt का एक मैं बड़ा ही layman language में चीज समझाता हूं। Prompt is the
+
+1546
+02:02:53.208 --> 02:02:54.168
+communication,
+
+1547
+02:02:55.368 --> 02:02:58.968
+communicative message to the LLM by human.
+
+1548
+02:03:01.398 --> 02:03:06.948
+Communicative message to the LLMs चाहे LLM ChatGPT हो, Gemini हो, Grok हो anything,
+
+1549
+02:03:07.008 --> 02:03:11.988
+any LLM by the human. Now the word comes here
+
+1550
+02:03:13.038 --> 02:03:13.879
+engineering.
+
+1551
+02:03:15.258 --> 02:03:20.448
+कई लोग इसके courses बेच रहे हैं prompt engineering के。 Right.
+
+1552
+02:03:21.348 --> 02:03:26.569
+और कई universities भी बेच रही हैं लाखों में। So what is basically prompt
+
+1553
+02:03:26.658 --> 02:03:32.299
+engineering means now? It simply means writing the same stuff in a very
+
+1554
+02:03:32.358 --> 02:03:33.018
+better way.
+
+1555
+02:03:37.158 --> 02:03:42.348
+Better का definition क्या है? Better का definition है clear intent, fully clear.
+
+1556
+02:03:43.398 --> 02:03:48.379
+AI को आपका intent समझ में आता है, आपका
+
+1557
+02:03:49.069 --> 02:03:53.148
+words उसको समझ में नहीं आता है। Words की spelling mistake वो भी चलेगी।
+
+1558
+02:03:54.408 --> 02:03:58.968
+आपका grammar का spelling mistake वो भी चलेगा। But अगर आपका intent उसमें समझ में आ
+
+1559
+02:03:58.999 --> 02:04:00.408
+रहा है कि हां, यह intentive है
+
+1560
+02:04:01.938 --> 02:04:06.078
+तो वो better outcome आपको देगा जो आपका desired outcome है। चाहे वह video बनाना हो,
+
+1561
+02:04:06.138 --> 02:04:10.728
+चाहे वह image बनाना हो, चाहे वह text to text copy writing करना हो whatever.
+
+1562
+02:04:12.379 --> 02:04:16.458
+So these are the four inputs जहां पर आपको समझ में आ रहा है। पहले में आप देखो
+
+1563
+02:04:16.488 --> 02:04:20.448
+purpose. What are we creating? Ad, photo. आपका intent क्या है?
+
+1564
+02:04:20.508 --> 02:04:23.358
+Purpose क्या है आपका? Subject. Second point is subject.
+
+1565
+02:04:23.448 --> 02:04:27.888
+What or who or what is the focus? Right.
+
+1566
+02:04:28.129 --> 02:04:29.569
+आपका product, person, brand.
+
+1567
+02:04:30.978 --> 02:04:34.879
+Reference आपके पास अगर है तो obviously आप reference दे रहे हो। जैसे हमने what must
+
+1568
+02:04:35.088 --> 02:04:38.178
+remains accurate, right. Face, product, clothes, logo.
+
+1569
+02:04:38.268 --> 02:04:41.898
+अगर reference को जो आप reference दे रहे हो कि अगर मान लो logo है तो obviously आप एक
+
+1570
+02:04:41.958 --> 02:04:44.688
+line लिखोगे keep the logo same as it is.
+
+1571
+02:04:45.168 --> 02:04:48.108
+Logo में change नहीं आनी चाहिए। Logo में change चलता नहीं है। किसी भी company में
+
+1572
+02:04:48.108 --> 02:04:52.817
+नहीं चलेगा। And obviously the outcome where it will use Instagram, meta ads,
+
+1573
+02:04:52.907 --> 02:04:57.407
+Amazon, website, reels. यह आप सारे dots connect करते पाओगे जब हमने पूरी process
+
+1574
+02:04:57.438 --> 02:05:01.788
+starting से देखी कि किस type का image चाहिए, उसके लिए क्या outcome है, क्या
+
+1575
+02:05:01.819 --> 02:05:04.668
+psychology है। Images का हो गया, UGC ads का हो गया,
+
+1576
+02:05:07.578 --> 02:05:11.629
+promo video आपका product ad promo video का हो गया like these are all.
+
+1577
+02:05:12.468 --> 02:05:18.198
+Now so if I talk about in detail video prompt को लेकर so don't
+
+1578
+02:05:18.228 --> 02:05:20.508
+write like this कि make her walk beautifully.
+
+1579
+02:05:20.569 --> 02:05:23.629
+अगर मुझे किसी को चलाना है तो मैं अगर ऐसे लिखूं कि make her walk beautifully तो वो
+
+1580
+02:05:23.688 --> 02:05:28.578
+शायद उतना better समझेगा नहीं जितना उसको समझना चाहिए। आपके दिमाग में सारी clarity है
+
+1581
+02:05:28.578 --> 02:05:32.508
+but उसको बताया नहीं आपने पूरा in the form of word. So what is the process now?
+
+1582
+02:05:32.598 --> 02:05:37.698
+The same woman from reference. Subject आपका उसको देना जरूरी है। Action क्या होगी
+
+1583
+02:05:37.758 --> 02:05:39.618
+उसकी? Walking naturally towards camera.
+
+1584
+02:05:40.278 --> 02:05:43.518
+Camera movement आपको बता दीजिए slow cinematic tracking shot.
+
+1585
+02:05:43.608 --> 02:05:47.238
+Right कि अगर मान लो video बन रहा है obviously अगर video real में बनाता मैं
+
+1586
+02:05:48.528 --> 02:05:52.188
+real modeling के साथ बना रहा तो obviously cameraman की expertise आती थी ना।
+
+1587
+02:05:54.138 --> 02:05:57.258
+Cinematographer बोलते हैं, cameraman बोलते हैं, videographer बोलते हैं। उसकी
+
+1588
+02:05:57.319 --> 02:06:01.488
+expertise आती थी। तो वो भी यहां पर add होनी जरूरी है। Environment हमें देना जरूरी
+
+1589
+02:06:01.518 --> 02:06:04.788
+है क्योंकि actual में तो हम करते time environment तो हमारा select करते हैं ना अच्छा
+
+1590
+02:06:04.848 --> 02:06:08.868
+वाला कि कहां पर जाकर video बनानी है। Similar way with AI.
+
+1591
+02:06:09.319 --> 02:06:13.549
+Lighting हम select करते हैं right real में भी। तो जो चीजें आप real में करते हैं वही
+
+1592
+02:06:13.608 --> 02:06:19.008
+चीज करने के लिए वही चीज अगर आप AI को दे रहे हो detail तो वो better outcome देगा।
+
+1593
+02:06:19.038 --> 02:06:24.918
+You can also यह बोल सकते हो कि मान लो कि iPhone 17 Pro से shoot करो तो वो चीज की
+
+1594
+02:06:24.948 --> 02:06:26.598
+settings set करेगा। Right.
+
+1595
+02:06:27.858 --> 02:06:32.718
+Emotions अगर आपके पास है obviously वहां पर add करनी है constantly, perceive exact
+
+1596
+02:06:32.838 --> 02:06:38.448
+सारी pattern, color, face. Right कि अगर मान लो कोई ऐसी चीज है जो गड़बड़ नहीं चलेगी。
+
+1597
+02:06:38.988 --> 02:06:44.629
+Textiles की industry में textiles जो fabric है उसके texture में गड़बड़ नहीं चलती
+
+1598
+02:06:46.668 --> 02:06:51.228
+क्योंकि उसी के basis पर उसकी selling होती है। Logo अगर किसी का है तो logo में
+
+1599
+02:06:52.218 --> 02:06:57.918
+changes नहीं चलते। तो कुछ ऐसी चीज है जहां पर changes या AI generated changes थोड़े
+
+1600
+02:06:57.978 --> 02:07:03.138
+बहुत भी नहीं चलेंगे तो आप उसको exact command दें कि यह चीज आप जैसी दी है, जैसा
+
+1601
+02:07:03.198 --> 02:07:08.928
+photo दिया है वैसा का वैसा ही आप use करें। उसकी quality में difference ना आए। Clear
+
+1602
+02:07:08.958 --> 02:07:09.319
+है guys.
+
+1603
+02:07:10.879 --> 02:07:14.598
+तो outcome क्या है? इसका outcome यही है कि जितना हम उसको
+
+1604
+02:07:16.398 --> 02:07:22.158
+real में करते हैं उतना better उतना ही उसको detail देंगे तो वह
+
+1605
+02:07:22.218 --> 02:07:24.648
+चीजों को वैसे ही execute करेगा जो आपके दिमाग में
+
+1606
+02:07:26.478 --> 02:07:26.958
+है। ठीक है।
+
+1607
+02:07:28.549 --> 02:07:28.848
+Now
+
+1608
+02:07:30.049 --> 02:07:32.598
+एक और point है यहां पर what should I use
+
+1609
+02:07:36.858 --> 02:07:42.379
+अगर मैं इस चीज की बात करूँ कि Cedance 2.5 भी video generate करता है
+
+1610
+02:07:43.788 --> 02:07:48.708
+और Gemini है Omni, Flash। यह model भी video generate करता है।
+
+1611
+02:07:50.418 --> 02:07:54.049
+Hixfield में - यह green color का symbol आ रहा है देख रहे हैं - Hixfield का symbol
+
+1612
+02:07:54.078 --> 02:07:57.379
+है। Right? Hixfield में दोनों model available है but
+
+1613
+02:07:58.668 --> 02:08:03.888
+Cedance 2.5 is good। जब उसको हम बोले कि
+
+1614
+02:08:06.708 --> 02:08:10.758
+professional level की videos अगर बनानी है तो I would recommend the Cedance 2.5 at
+
+1615
+02:08:10.819 --> 02:08:11.178
+present,
+
+1616
+02:08:12.379 --> 02:08:13.249
+आज के date में। Right?
+
+1617
+02:08:16.129 --> 02:08:22.008
+इसको इस तरह से सोचो, अगर आपने यह service चालू करी है, तो आपका दिमाग
+
+1618
+02:08:22.069 --> 02:08:22.488
+चलेगा।
+
+1619
+02:08:23.688 --> 02:08:27.379
+तो आपके पास दो package है client को देने के लिए, offer देने के लिए।
+
+1620
+02:08:28.728 --> 02:08:30.468
+तो अगर client बोलता है कि मैंने
+
+1621
+02:08:32.448 --> 02:08:37.368
+आपको एक ₹2000 का package बोला और एक ₹4000 या ₹5000 का package बोला और 30 second
+
+1622
+02:08:37.398 --> 02:08:41.118
+video आया, for example, 15 second video for example.
+
+1623
+02:08:42.379 --> 02:08:47.328
+Up to 30 second most of the platforms देते हैं but मैं आपको एक चीज बताऊंगा आज जो
+
+1624
+02:08:47.388 --> 02:08:49.398
+आपका aha moment होगा at the end of the class.
+
+1625
+02:08:51.499 --> 02:08:55.638
+अगर client आपका ₹5000 वाला package लेता है तो obviously उसकी quality अच्छी होगी,
+
+1626
+02:08:56.448 --> 02:09:00.918
+उसकी detailing अच्छी होगी। तो you will select the model 2.5 of Cedance।
+
+1627
+02:09:02.328 --> 02:09:05.569
+अगर client बोलता है कि मेरा budget कम है तो obviously उसकी quality में difference
+
+1628
+02:09:05.629 --> 02:09:10.938
+आएगा। आप Gemini का Omni, Flash भी use कर सकते हैं। It's all about कि जब भी आप कोई
+
+1629
+02:09:10.968 --> 02:09:16.698
+भी model use करते हो, जो भी generation आप करते हो, चाहे वह दुनिया का कोई भी AI का
+
+1630
+02:09:16.728 --> 02:09:17.268
+platform हो,
+
+1631
+02:09:18.648 --> 02:09:23.569
+Gemini से लेकर ChatGPT से लेकर दुनिया का कोई भी AI अगर आप use कर रहे हो
+
+1632
+02:09:24.468 --> 02:09:29.658
+तो उसमें credits या tokens की costing लगती है। वह आपको ही नहीं लग रही, ऐसी नहीं बात
+
+1633
+02:09:29.718 --> 02:09:34.488
+है। वह आपको भी लग रही है और जो company है उसको भी लग रही है, आपकी generation.
+
+1634
+02:09:35.838 --> 02:09:39.078
+Are you getting the point? It's not like that आप जो भी credits खरीदते हो किसी से
+
+1635
+02:09:39.138 --> 02:09:42.049
+भी, वह पूरा उसका profit होता है, ऐसा नहीं होता है।
+
+1636
+02:09:43.668 --> 02:09:45.258
+80% उसका खर्चा होता है उसके अंदर
+
+1637
+02:09:46.668 --> 02:09:50.749
+to generate such content. इसका एक logical reason भी देना चाहूंगा on the day one
+
+1638
+02:09:50.778 --> 02:09:54.138
+क्योंकि आज का पहला दिन है, तो पहले दिन ही foundation भी clear हो जाए अपनी। AI
+
+1639
+02:09:54.168 --> 02:09:57.559
+industry में आ रहे हो। इसका logical reason बहुत simple है।
+
+1640
+02:09:58.938 --> 02:10:00.648
+आप में से सभी लोग phone use करते हैं, right?
+
+1641
+02:10:02.299 --> 02:10:07.008
+Just give me a break for this chat. सभी लोग phone use करते हैं obviously.
+
+1642
+02:10:07.848 --> 02:10:13.158
+अब आप imagine करो वह दिन, जिस दिन आपने phone को intense level पर use किया। सात घंटा
+
+1643
+02:10:13.218 --> 02:10:18.258
+लगातार use किया, छह घंटा लगातार use किया। क्या चीजें होती हैं, आपको समझ में आएंगी।
+
+1644
+02:10:18.348 --> 02:10:23.478
+पहली चीज, आपका phone गर्म होगा। दूसरा क्या होता है?
+
+1645
+02:10:24.588 --> 02:10:25.608
+वह hang कर सकता है।
+
+1646
+02:10:27.348 --> 02:10:32.268
+सही बात है। तीसरा क्या हो सकता है? उसकी battery down हो जाए। तीन चीजें होती हैं। अब
+
+1647
+02:10:32.328 --> 02:10:36.948
+phone क्या है? Computer ही है, computing machine ही है। उसके साथ आप input, output
+
+1648
+02:10:37.008 --> 02:10:38.238
+कर रहे हो। आपने input दिया, उसने
+
+1649
+02:10:39.828 --> 02:10:43.668
+कुछ outcome दिया। तो उसका जो processor है, जहां पर main processing हो रही है input,
+
+1650
+02:10:43.728 --> 02:10:46.458
+output की, वह गर्म होता है mostly।
+
+1651
+02:10:48.468 --> 02:10:52.158
+और वहां की heat इतनी ज्यादा होती है जब आप constantly use करते हो, तो आपको समझ में
+
+1652
+02:10:52.188 --> 02:10:53.898
+आता है क्यों गर्म होता है। Now imagine scenario.
+
+1653
+02:10:54.588 --> 02:10:58.819
+यह तो phone वाला case है। जब AI नहीं था, उस time का जमाना याद करो, आज से चार साल
+
+1654
+02:10:58.879 --> 02:10:59.299
+पहले।
+
+1655
+02:11:00.588 --> 02:11:06.379
+Imagine करो now, किसी भी model को, दुनिया का कोई भी software AI driver या कोई भी
+
+1656
+02:11:06.438 --> 02:11:11.749
+model है, आप AI use कर रहे हो। आपने कुछ भी मांगा, generally
+
+1657
+02:11:12.408 --> 02:11:14.328
+minutes में आपको outcome मिल रहा है। मिल रहा है?
+
+1658
+02:11:16.698 --> 02:11:22.488
+Intelligent outcome मिल रहा है, detailed outcome मिल रहा। So
+
+1659
+02:11:22.549 --> 02:11:27.168
+just imagine कि AI भी तो hardware पर ही चल रहा है। Right?
+
+1660
+02:11:28.069 --> 02:11:33.738
+जब आप input देते हो free वाले platform पर भी कि यह text generate करके दो, यह मेरे
+
+1661
+02:11:33.768 --> 02:11:34.758
+को ऐसे लिख के दो।
+
+1662
+02:11:36.348 --> 02:11:40.698
+वह छोटे से process में भी company को खर्चा आता है। कहां पर खर्चा आता है, मैं बताता
+
+1663
+02:11:40.728 --> 02:11:46.008
+हूँ। जब भी वह process, आपका command जाता है server पर, जहां पर वह model है,
+
+1664
+02:11:46.908 --> 02:11:51.618
+वह server पर उसकी processing जब होती है ना, तो hardware level पर दो सबसे बड़े खर्चे
+
+1665
+02:11:51.648 --> 02:11:55.999
+हैं, जहां पर AI के बड़े companies जितने भी हैं, उनको सबसे ज्यादा खर्चे लगते हैं
+
+1666
+02:11:56.059 --> 02:11:59.208
+which is number one is water and number two is electricity.
+
+1667
+02:12:00.319 --> 02:12:06.228
+It's a massive cost every day. Millions of rupees every day
+
+1668
+02:12:06.288 --> 02:12:11.629
+लोगों को maintenance में जाता है AI servers को चलाने के लिए। Right? क्यों लगता है?
+
+1669
+02:12:11.688 --> 02:12:15.918
+Simple सी बात है। जब आप input दे रहे हो, fraction of minutes में आपको outcome मिल
+
+1670
+02:12:15.978 --> 02:12:21.379
+रहा है आपके chat में। Just imagine कि कितनी speed से वह process हो रहा है in the
+
+1671
+02:12:21.408 --> 02:12:27.348
+hardware। Right? तो वह जो speed है, जहां speed है, वहां friction है, जहां
+
+1672
+02:12:27.379 --> 02:12:31.728
+friction है, वहां पर heat है, जहां heat है तो उसको cool करने के लिए water लगेगा या
+
+1673
+02:12:31.848 --> 02:12:32.688
+कुछ और लगेगा।
+
+1674
+02:12:34.668 --> 02:12:40.278
+और water अगर required daily है तो obviously उसकी costing लगेगी। Second,
+
+1675
+02:12:40.788 --> 02:12:44.718
+उसको operate करने में अगर उतनी heat generate हो रही है, जैसे हम press करते हैं सब
+
+1676
+02:12:44.778 --> 02:12:48.978
+लोग। Right? Press या press में कपड़े देते हो आप। Press electricity क्यों ज्यादा
+
+1677
+02:12:49.008 --> 02:12:51.978
+खाती है? क्योंकि वह heat generate करती है।
+
+1678
+02:12:53.328 --> 02:12:55.549
+Friction हो रहा है वहां पर electrons का। Right?
+
+1679
+02:12:55.848 --> 02:13:00.708
+तो friction same, जब आप models use कर रहे हो तो processing में जो power चाहिए होती
+
+1680
+02:13:00.708 --> 02:13:04.608
+है ना, वह power बड़ी electricity का बहुत बड़ा खर्चा है। That is the reason दुनिया
+
+1681
+02:13:04.668 --> 02:13:10.158
+का कोई भी platform या कोई भी model या कोई भी AI tool, आज हम यह चीज समझ रहे हैं कि
+
+1682
+02:13:10.218 --> 02:13:15.828
+AI आया है। Mark this line, in the coming time, in the coming years you will all see
+
+1683
+02:13:15.828 --> 02:13:19.218
+it everywhere all over the world. जैसे आज हम electricity का bill pay करते हैं, सभी
+
+1684
+02:13:19.249 --> 02:13:19.908
+लोग करते हैं, right?
+
+1685
+02:13:21.288 --> 02:13:27.228
+In the coming life, हमारा सबका for sure AI का bill आएगा। उसके
+
+1686
+02:13:27.258 --> 02:13:30.049
+बिना competition नहीं रहेगा। Competition में आप नहीं रह पाओगे।
+
+1687
+02:13:31.249 --> 02:13:37.098
+आप चीजें ही execute नहीं कर पाओगे। यह direction में बढ़ रहा है। So
+
+1688
+02:13:37.158 --> 02:13:41.928
+make sure that अभी हम जो समझ रहे हैं, जो सीख रहे हैं-- तो चलो यह तो पहला class है,
+
+1689
+02:13:41.988 --> 02:13:46.668
+हमारा subject था content creation, videos बनाना। This is all the foundation
+
+1690
+02:13:47.059 --> 02:13:52.518
+learning. जब आप आगे बढ़ते हो, industry में entry करते हो, business start करते हो तो
+
+1691
+02:13:52.549 --> 02:13:56.268
+obviously foundation जितना जल्दी आप strong करते हो, उतना better आपका outcome मिलता
+
+1692
+02:13:56.299 --> 02:14:00.438
+है, किसी भी revolution में। किसी भी revolution की बात करूँ। ठीक है, इस topic पर हम
+
+1693
+02:14:00.499 --> 02:14:03.648
+आगे guide करेंगे आपको。 No worries. But this makes sense, right?
+
+1694
+02:14:07.218 --> 02:14:07.578
+Perfect.
+
+1695
+02:14:09.888 --> 02:14:14.778
+All good guys. So now obviously this is the conclusion point and after this I will
+
+1696
+02:14:14.838 --> 02:14:20.688
+show you some magical thing जो industry में बहुत rare है। बहुत मतलब बहुत rare है।
+
+1697
+02:14:20.749 --> 02:14:22.398
+कि कैसे डेढ़ मिनट का
+
+1698
+02:14:23.598 --> 02:14:29.328
+video बना सकते हैं, जिसके ऊपर हमने खुद research करके खुद एक ऐसी चीज बनाई है
+
+1699
+02:14:29.418 --> 02:14:32.629
+जिसको by यह possible है in one shot डेढ़ मिनट का video.
+
+1700
+02:14:33.588 --> 02:14:37.249
+पहले यह चीज समझ लो one system, every output idea number one.
+
+1701
+02:14:37.309 --> 02:14:41.928
+Second is creative brief. Third is reference images. Perfect key frame.
+
+1702
+02:14:41.988 --> 02:14:46.608
+Perfect key frame क्या है अपना? जो अपनी character sheet हो गई या product sheet हो
+
+1703
+02:14:46.638 --> 02:14:47.928
+गई। Right?
+
+1704
+02:14:49.338 --> 02:14:53.958
+वह आपका perfect key frame. वह आपका अगर सही है तो आपका video की quality वहां पर
+
+1705
+02:14:54.018 --> 02:14:55.668
+better दिखेगी with the right prompt.
+
+1706
+02:14:58.488 --> 02:15:02.928
+AI obviously is not skill, it's the creating the right output
+
+1707
+02:15:04.278 --> 02:15:05.958
+for the right businesses.
+
+1708
+02:15:07.249 --> 02:15:10.278
+Right? Purpose is the skill. All good?
+
+1709
+02:15:11.958 --> 02:15:13.758
+Now I hope
+
+1710
+02:15:15.408 --> 02:15:18.108
+यह सब clear है सबको। Now I will show you the
+
+1711
+02:15:20.388 --> 02:15:21.708
+two minute video.
+
+1712
+02:15:23.749 --> 02:15:28.368
+This is just the outcome. पहले मैं आपको दिखा दूँ एक video.
+
+1713
+02:15:29.118 --> 02:15:30.918
+ध्यान से सुनिएगा, फिर उसके बारे में बताऊंगा।
+
+1714
+02:15:39.528 --> 02:15:40.428
+I hope सबको screen
+
+1715
+02:15:41.688 --> 02:15:43.129
+दिख रहा है। All good.
+
+1716
+02:15:44.358 --> 02:15:48.708
+It's one minute and 30 second video। Okay?
+
+1717
+02:15:49.458 --> 02:15:51.738
+And let me play this button.
+
+1718
+02:15:52.038 --> 02:15:54.468
+Grey light on the window pane.
+
+1719
+02:15:56.629 --> 02:16:02.508
+Gold letters spelling out a name. Kettle and stone before
+
+1720
+02:16:02.569 --> 02:16:06.228
+the day. Quiet street, she leads the way.
+
+1721
+02:16:09.468 --> 02:16:14.328
+Metal drum starts to tick and hum. Green beans falling one by one.
+
+1722
+02:16:14.418 --> 02:16:19.999
+She flips the switch, the warmth begins. Morning waking from within.
+
+1723
+02:16:20.508 --> 02:16:22.999
+Watching close through the little glass.
+
+1724
+02:16:23.328 --> 02:16:28.518
+Waiting for the color to pass from green to gold to something more.
+
+1725
+02:16:28.608 --> 02:16:33.588
+She's done this a hundred times before. This is how the morning starts.
+
+1726
+02:16:34.008 --> 02:16:36.319
+One small room, one steady heart.
+
+1727
+02:16:54.903 --> 02:16:59.643
+Sun comes up along the street. Warms the glass beneath her feet.
+
+1728
+02:16:59.733 --> 02:17:05.583
+She cracks a bean between her hands. Breathes it in and understands.
+
+1729
+02:17:05.944 --> 02:17:11.163
+Watching close through the little glass. Waiting for the color to pass.
+
+1730
+02:17:11.223 --> 02:17:17.073
+From green to gold to something more. She's done this a hundred times before.
+
+1731
+02:17:17.283 --> 02:17:21.723
+This is how the morning starts. One small room, one steady heart.
+
+1732
+02:17:23.583 --> 02:17:25.293
+How was it, guys? How was it?
+
+1733
+02:17:27.393 --> 02:17:30.153
+मैं अभी बताता हूँ एक बात। अब आपको समझ आएगा 全 部 ।
+
+1734
+02:17:31.533 --> 02:17:37.083
+This 1 minute 30 second video is built in entire one
+
+1735
+02:17:38.163 --> 02:17:38.674
+shot.
+
+1736
+02:17:40.502 --> 02:17:45.663
+That is not available all over the world right now, but we have developed such
+
+1737
+02:17:45.723 --> 02:17:50.674
+solutions for this. यह कहाँ काम आता है मैं बता दूँ। Don't कि इस पर पूरा दिमाग लगा
+
+1738
+02:17:50.703 --> 02:17:54.094
+दो आप। बाकी चीजें जो मैंने सिखाई हैं वह भी बहुत important हैं। right.
+
+1739
+02:17:54.213 --> 02:17:59.883
+वह भी चीजें हैं। AI filmmaking या long form promo
+
+1740
+02:17:59.913 --> 02:18:05.133
+video किसी particular brand के लिए अगर करना है, उस particular चीज के लिए इसका बहुत
+
+1741
+02:18:05.163 --> 02:18:10.803
+ज्यादा benefit होता है। इस particular video का market rate अगर हम बोले तो कम से कम
+
+1742
+02:18:10.864 --> 02:18:11.043
+आप
+
+1743
+02:18:12.754 --> 02:18:18.603
+7 to 10,000 आप charge कर सकते हो। Depend आपने उस पर कितना effort डाला obviously
+
+1744
+02:18:18.694 --> 02:18:19.444
+detailing के लिए
+
+1745
+02:18:20.733 --> 02:18:25.413
+for one video. Minimum side बता रहा हूँ मैं आपको। अगर यही video real में shoot करना
+
+1746
+02:18:25.444 --> 02:18:28.623
+है तो किसी को बहुत ज्यादा खर्चा लग सकता है, लाखों में जा सकते हैं। That is
+
+1747
+02:18:28.682 --> 02:18:32.733
+obviously you can tell to the client कि वह पूछेगा कि इतना क्यों?
+
+1748
+02:18:32.763 --> 02:18:32.853
+Its
+
+1749
+02:18:34.293 --> 02:18:37.174
+number one reason. एक तो number one ये है। Number two reason कि
+
+1750
+02:18:39.184 --> 02:18:44.223
+आज के time पर 1 minute 30 second की videos एक साथ नहीं बन पाते
+
+1751
+02:18:44.254 --> 02:18:47.344
+हैं। 99% case in AI.
+
+1752
+02:18:49.143 --> 02:18:54.213
+right. So लोग क्या करते हैं? लोग करते हैं कि वह 10 scene अलग-अलग बनाते हैं 10-10
+
+1753
+02:18:54.243 --> 02:18:55.533
+second के या
+
+1754
+02:18:57.033 --> 02:19:02.793
+15 scene बना लिए 10-10 second के या 20 second के। उसके according फिर सभी scenes
+
+1755
+02:19:02.853 --> 02:19:07.924
+को video editor को देके उसको merge करवा के फिर वही video बनाते हैं, जिसमें भी
+
+1756
+02:19:08.313 --> 02:19:12.333
+consistency of character-- यह पूरे video में आपने अगर ध्यान से देखा होगा, character
+
+1757
+02:19:12.364 --> 02:19:13.413
+consistency दिखी आपको।
+
+1758
+02:19:15.333 --> 02:19:17.013
+Character consistency थी, right.
+
+1759
+02:19:17.614 --> 02:19:20.703
+अब मैं आपको और एक अच्छी चीज बताता हूँ। इस video में
+
+1760
+02:19:22.203 --> 02:19:23.254
+images भी AI की थी,
+
+1761
+02:19:25.263 --> 02:19:26.283
+video भी AI का ही था,
+
+1762
+02:19:28.383 --> 02:19:33.153
+music भी AI का था और जो song था वो भी AI का था। Now its wow.
+
+1763
+02:19:35.133 --> 02:19:40.143
+So that is the concluding point, but that today we don't have such time.
+
+1764
+02:19:41.194 --> 02:19:46.323
+So it's built on AppDaddy.ai which is built by us। right.
+
+1765
+02:19:47.103 --> 02:19:47.373
+So
+
+1766
+02:19:49.773 --> 02:19:54.303
+this is the process. Process बता दूँ मैं आपको screen share करके क्योंकि generate
+
+1767
+02:19:54.333 --> 02:19:57.153
+करने में time लग सकता है। right.
+
+1768
+02:19:59.043 --> 02:20:00.933
+It's a long video obviously.
+
+1769
+02:20:02.343 --> 02:20:04.653
+So let me share my screen.
+
+1770
+02:20:07.502 --> 02:20:08.194
+Just a minute.
+
+1771
+02:20:12.393 --> 02:20:14.073
+Let me share my screen. See this guys.
+
+1772
+02:20:16.203 --> 02:20:17.733
+I hope you all are visible to screen.
+
+1773
+02:20:18.123 --> 02:20:23.223
+Process इसके अंदर यह है कि which is one of the app is video studio in which the
+
+1774
+02:20:23.283 --> 02:20:28.893
+option is promo video. Here the sample idea you will give like for
+
+1775
+02:20:28.923 --> 02:20:30.903
+example, यहाँ पर लिखा हुआ है that a late
+
+1776
+02:20:32.133 --> 02:20:36.723
+night drive of
+
+1777
+02:20:39.423 --> 02:20:45.183
+student going to home। right. मैंने एक simple idea दिया। Simple idea
+
+1778
+02:20:45.243 --> 02:20:48.123
+को, मेरे पास prompt नहीं है। Prompt का idea नहीं है। The prompt what I will do,
+
+1779
+02:20:48.183 --> 02:20:52.353
+what I will just polish my idea. When I click on this polish my idea, it will
+
+1780
+02:20:52.503 --> 02:20:57.573
+create a idea on the basis of this simple line। right.
+
+1781
+02:20:58.263 --> 02:21:03.003
+So process number one is कि यहाँ पहले, ये देखिये आ गया। Process का पूरा idea यहाँ
+
+1782
+02:21:03.033 --> 02:21:06.993
+पर generate हो के आ गया। Now the next is आप screen size select करते हो कि 9 by 16
+
+1783
+02:21:07.053 --> 02:21:11.493
+या 16 by 9। कितने लंबा video चाहिए आपको 20 second, 30 second, 40 second, 50 second,
+
+1784
+02:21:11.614 --> 02:21:17.373
+60 second, 70 second, 80, 90 या total आपका 90 second का आ गया जैसे कि आपका डेढ़
+
+1785
+02:21:17.433 --> 02:21:18.003
+minute का video.
+
+1786
+02:21:19.233 --> 02:21:23.043
+Person अगर आपका कोई है या product आपके पास कोई है या logo कोई है तो ये सारी चीज आप
+
+1787
+02:21:23.103 --> 02:21:25.864
+यहाँ डालने का option है। right. Plan and draw it.
+
+1788
+02:21:25.893 --> 02:21:29.043
+जैसे आप इस पर click करते हो, इसकी process आगे थोड़ी लंबी है but I will guide you
+
+1789
+02:21:29.073 --> 02:21:33.513
+verbally. Just जैसे आप इस पर click करते हो it will give you first the two
+
+1790
+02:21:34.743 --> 02:21:38.223
+या three images depend कि आपका video कितना लंबा है। अगर मान लो 90 second का है तो
+
+1791
+02:21:38.283 --> 02:21:41.043
+obviously वो आपको nine images देगा या 10 images देगा।
+
+1792
+02:21:42.423 --> 02:21:48.243
+जैसे मैंने आपको अभी सिखाया। इस चीज को इससे relate करो। अभी हम क्या कर पाते हैं
+
+1793
+02:21:48.333 --> 02:21:49.023
+कि हम
+
+1794
+02:21:50.283 --> 02:21:56.103
+photo बना रहे हैं prompt से। Photo अगर सही है तो फिर हम
+
+1795
+02:21:56.133 --> 02:21:58.833
+उसको video में convert कर रहे हैं। Clear.
+
+1796
+02:21:59.673 --> 02:22:05.403
+So यह idea के basis पर images हमें देता है। Images अगर हमें सही लगी तो फिर उसी
+
+1797
+02:22:05.463 --> 02:22:06.963
+images के basis पर आगे हमें
+
+1798
+02:22:08.614 --> 02:22:13.203
+agree करके लेकर जाएगा। फिर वहाँ पर हमारा जो music है, हमारे जो
+
+1799
+02:22:15.663 --> 02:22:16.143
+images के
+
+1800
+02:22:17.763 --> 02:22:22.503
+साथ फिर हमें यह video के section में लेकर जाएगा कि क्या उसकी video बना के दी उसने
+
+1801
+02:22:22.533 --> 02:22:26.373
+पहले। अगर video आपको सही लग रही है then you approve it.
+
+1802
+02:22:27.033 --> 02:22:30.573
+अगर video सही नहीं लग रही है तो उसको आपको crop करने को ऐसा लग रहा है कि इसमें यह
+
+1803
+02:22:30.603 --> 02:22:36.483
+section crop करना है तो आप crop कर रहे हो और उसके साथ फिर जब आप आगे बढ़ रहे हो तब
+
+1804
+02:22:36.694 --> 02:22:40.053
+आपका music आप खुद बना सकते हो with the help of AI.
+
+1805
+02:22:41.163 --> 02:22:44.913
+Music के साथ अगर आपको, अगर मान लो AI generated music नहीं चाहिए you can upload your
+
+1806
+02:22:45.033 --> 02:22:50.013
+own as well. कोई voice over देना है तो वो आप add कर सकते हो। वो जब final हो जाए
+
+1807
+02:22:50.103 --> 02:22:55.983
+then you hit enter then वो आपको complete video बना के दे रहा है जो 1 minute 30
+
+1808
+02:22:56.103 --> 02:22:59.043
+second that we-- 90 second right total all out.
+
+1809
+02:22:59.823 --> 02:23:05.253
+90 second की video in one shot with entire clip together with character
+
+1810
+02:23:05.313 --> 02:23:09.993
+consistency यह बना के दे रहा है। Let me show you the another example ताकि आप और
+
+1811
+02:23:10.023 --> 02:23:15.933
+relate कर पाओ कि यह कितनी हमारी मेहनत गई इस चीज को करने के लिए। It's
+
+1812
+02:23:15.962 --> 02:23:16.563
+not easy.
+
+1813
+02:23:18.302 --> 02:23:23.133
+Let me show you the another video। right. See this now.
+
+1814
+02:23:26.853 --> 02:23:29.883
+Now visible right. I am playing it again 1 minute 30 second.
+
+1815
+02:23:36.873 --> 02:23:42.483
+Gray light on the terminal floor. Strangers running to somebody's arms.
+
+1816
+02:23:42.813 --> 02:23:48.033
+Kit bag heavy on my shoulder. I just wanna see that
+
+1817
+02:23:48.243 --> 02:23:48.813
+gate.
+
+1818
+02:23:50.313 --> 02:23:55.413
+Fields go running past the window. My own face looking back at me.
+
+1819
+02:23:56.313 --> 02:24:01.503
+31 stops till the platform where a taxi's waiting under a tired sky.
+
+1820
+02:24:02.643 --> 02:24:06.933
+Same old streets and crooked numbers. Same blue door I've seen in dreams.
+
+1821
+02:24:07.023 --> 02:24:09.873
+Hand on the latch of the garden gate now.
+
+1822
+02:24:10.323 --> 02:24:13.623
+Boots in the grass, still damp with rain.
+
+1823
+02:24:17.043 --> 02:24:21.903
+एक बात मैं पूछना चाहता हूँ आप How many of you feel this is the real dog?
+
+1824
+02:24:23.223 --> 02:24:25.833
+This is not real dog. This is AI generated.
+
+1825
+02:24:27.963 --> 02:24:28.923
+Now आगे देखिए।
+
+1826
+02:24:29.373 --> 02:24:34.593
+Something moves behind the kitchen glass. Ears go up, feet go loud on the tile.
+
+1827
+02:24:34.713 --> 02:24:37.503
+I hear the door before I see it swing.
+
+1828
+02:24:39.543 --> 02:24:42.873
+I'm home. I'm home, I'm finally home.
+
+1829
+02:24:42.993 --> 02:24:48.723
+Down on my knees on the wet green grass. Cold fur under my hands, my face.
+
+1830
+02:24:48.993 --> 02:24:52.083
+I'm home, I'm home, I'm finally home.
+
+1831
+02:24:52.503 --> 02:24:55.203
+Bag in the grass where I let it fall.
+
+1832
+02:24:55.864 --> 02:25:01.593
+Nothing else matters at all. He hit me like the whole world
+
+1833
+02:25:01.683 --> 02:25:05.403
+missed me. Paws on my chest, my name in his eyes.
+
+1834
+02:25:05.853 --> 02:25:11.253
+There's my mother in the doorway crying. Both hands pressed against her mouth.
+
+1835
+02:25:14.793 --> 02:25:16.203
+Wow! मजा आया।
+
+1836
+02:25:17.643 --> 02:25:20.583
+So obviously these are the possibilities.
+
+1837
+02:25:21.273 --> 02:25:25.053
+दुनिया कहाँ जा रही है, क्या-क्या कर रहे हैं, हमें कितना सीखना चाहिए, कहाँ चीजें
+
+1838
+02:25:25.114 --> 02:25:26.583
+ज्यादा priority रखनी चाहिए।
+
+1839
+02:25:27.843 --> 02:25:32.763
+आप कोई भी business में हो guys, किसी भी situation में हो, काम कर रहे हो, retired
+
+1840
+02:25:32.793 --> 02:25:37.173
+life जी रहे हो, student हो, working professional हो, housewife हो, mark this line
+
+1841
+02:25:37.263 --> 02:25:43.203
+for all of you because artificial intelligence is the thing जो सभी को सीखनी चाहिए,
+
+1842
+02:25:44.523 --> 02:25:49.864
+जो आगे जाकर सबको जरूरत पड़ने वाली है उसकी। कहीं ना कहीं पड़ेगी। आपको समझने में
+
+1843
+02:25:49.923 --> 02:25:54.723
+easy रहेगा जब आप आगे जल्दी इसको enter करो। All good guys.
+
+1844
+02:25:54.723 --> 02:25:58.503
+So thank you so very much. It's 10:26 p.m.
+
+1845
+02:25:58.623 --> 02:26:02.331
+As I said थोड़ा late होगा। तो हो गया थोड़ा late.
+
+1846
+02:26:02.751 --> 02:26:04.011
+Thank you so much for joining the call.
+
+1847
+02:26:04.042 --> 02:26:09.891
+But make sure before leaving मैं थोड़ी सी information दे दूं कि कल क्या है, ताकि
+
+1848
+02:26:09.921 --> 02:26:13.761
+आप right time पर connect करो। आज जितने भी लोग live connect हुए हैं, एक बात मैं
+
+1849
+02:26:13.792 --> 02:26:17.571
+पूछना चाहूंगा you got some quality value in the today's class?
+
+1850
+02:26:18.681 --> 02:26:20.241
+I want your final reaction.
+
+1851
+02:26:25.761 --> 02:26:27.381
+Thank you. That's great.
+
+1852
+02:26:28.881 --> 02:26:32.931
+Thank you so much. Thank you so much. That's very means a lot to us.
+
+1853
+02:26:34.042 --> 02:26:38.001
+Now let me tell you what is the next chapter.
+
+1854
+02:26:39.411 --> 02:26:42.921
+कल हम क्या देखने वाले हैं, इसके ऊपर मैं बात कर रहा हूं। ध्यान से समझिएगा।
+
+1855
+02:26:44.601 --> 02:26:50.061
+पहली चीज कल दर्शन Canada से आपको live आकर
+
+1856
+02:26:50.751 --> 02:26:54.951
+guide करने वाले हैं। उनका subject रहने वाला है AEO,
+
+1857
+02:26:56.451 --> 02:26:58.131
+Answer Engine Optimization.
+
+1858
+02:27:00.111 --> 02:27:00.411
+Right.
+
+1859
+02:27:02.811 --> 02:27:06.051
+अब मैं थोड़ी सी background भी बता दूं ताकि आप इस चीज को उस perspective से जरूर
+
+1860
+02:27:06.111 --> 02:27:06.531
+सुनें।
+
+1861
+02:27:08.301 --> 02:27:11.211
+Answer Engine Optimization 2025 में
+
+1862
+02:27:13.222 --> 02:27:18.621
+या मैं 2024 के end of the year की बात करूं। Right.
+
+1863
+02:27:19.191 --> 02:27:20.451
+End of the year of 2024.
+
+1864
+02:27:21.741 --> 02:27:26.571
+SEO के बारे में कितने लोगों ने सुना है, एक बार मुझे react करके बताइए। Search Engine
+
+1865
+02:27:26.631 --> 02:27:32.001
+Optimization mostly सुना होगा। नहीं सुना है तो basically होता यह है उसमें कि अगर
+
+1866
+02:27:32.061 --> 02:27:36.231
+Google पर आपके बारे में कोई search कर रहा है तो आपकी website या आपका page rank करे
+
+1867
+02:27:37.011 --> 02:27:42.651
+जल्दी से जितना ऊपर से उतना rank करें competitor से आपके। ताकि ज्यादा
+
+1868
+02:27:42.711 --> 02:27:46.401
+visitors आपकी website पर आए, ज्यादा लोग आप तक पहुंचे और ज्यादा business आपको मिले।
+
+1869
+02:27:46.431 --> 02:27:52.281
+Simple logic यही है इसका। एक SEO optimize करने का एक अच्छी marketing agency
+
+1870
+02:27:53.451 --> 02:27:58.011
+₹2 लाख से ₹5 लाख तक लेती है। तीन से छह महीने का project रहता है generally। फिर
+
+1871
+02:27:58.042 --> 02:28:01.641
+maintenance रहता है हर महीना अलग। It's not one time activity, it's a consistent
+
+1872
+02:28:01.701 --> 02:28:06.051
+activity जिसके लिए लोग इतना charge करते हैं। एक बार rank करके number one पर आ गए
+
+1873
+02:28:06.141 --> 02:28:09.741
+इसका यह मतलब नहीं कि आप number one पर ही रहोगे हमेशा। दूसरे लोग भी तो कर रहे हैं।
+
+1874
+02:28:09.771 --> 02:28:14.031
+तो वो भी तो competitor है। वो भी तो कर रहा है काम। आप भी कर रहे हो काम। तो platform
+
+1875
+02:28:14.061 --> 02:28:17.001
+तो एक ही है। Google एक ही platform है तो वो कितने लोगों को ऊपर दिखाएगा?
+
+1876
+02:28:17.601 --> 02:28:18.381
+That is the science.
+
+1877
+02:28:19.641 --> 02:28:25.071
+अब Answer Engine Optimization basically the advance and the future of SEO.
+
+1878
+02:28:26.601 --> 02:28:29.961
+मैं थोड़ा सा history बता दूं इस topic को लेकर। ताकि आप लोग कल के session को time पर
+
+1879
+02:28:29.991 --> 02:28:34.701
+connect करके अच्छे से note and pen के साथ attend करो। It's not straightforward, यह
+
+1880
+02:28:35.001 --> 02:28:40.941
+समझो पहले। AEO is a high ticket skill और AEO करके
+
+1881
+02:28:41.001 --> 02:28:45.771
+देना वह charging भी high ticket है market में। So obviously उसकी skills भी high
+
+1882
+02:28:45.801 --> 02:28:50.031
+ticket होंगी। Obviously वह straightforward थोड़ा नहीं होगा। But मैं इसलिए पहले बता
+
+1883
+02:28:50.091 --> 02:28:53.811
+रहा हूं ताकि आप लोग ऐसा ना हो कि sir यह boring subject है। Boring जो होता है,
+
+1884
+02:28:53.961 --> 02:28:58.491
+ज्यादा वहीं पैसा होता है। इतना समझ लो। दुनिया में जो भी boring है, वहां business
+
+1885
+02:28:58.521 --> 02:28:58.731
+है।
+
+1886
+02:29:00.111 --> 02:29:02.871
+थोड़ा सा उल्टा सोचने पर मजबूर कर रहा हूं आपको मैं आपके फायदे के लिए।
+
+1887
+02:29:04.281 --> 02:29:06.472
+दूसरा AEO,
+
+1888
+02:29:07.881 --> 02:29:10.671
+Darsh is the investor side of the world.
+
+1889
+02:29:10.731 --> 02:29:14.542
+He is called generally normally recognized as an AEO scientist.
+
+1890
+02:29:14.991 --> 02:29:19.101
+Why I am calling as an AEO scientist in the western side of the world because Darsh
+
+1891
+02:29:19.161 --> 02:29:20.451
+is the person जिन्होंने
+
+1892
+02:29:21.801 --> 02:29:26.781
+सबसे पहले, दुनिया में one of the few people जिनको सबसे पहले यह समझ में आया कि AEO
+
+1893
+02:29:26.841 --> 02:29:32.241
+exactly करना कैसे है। Western side of the world में हमने already 2024-25 के बाद यह
+
+1894
+02:29:32.601 --> 02:29:38.181
+B2C में results निकाल के दिए हैं लोगों को in-service, not any kind of platforms we
+
+1895
+02:29:38.211 --> 02:29:40.131
+have shown to them. B2C में बता रहा हूं।
+
+1896
+02:29:42.111 --> 02:29:45.561
+Full clarity की किस तरह की processes होनी चाहिए, क्या things होनी चाहिए। वह पूरी
+
+1897
+02:29:45.591 --> 02:29:47.451
+understanding Darsh is the right person for you.
+
+1898
+02:29:48.201 --> 02:29:51.801
+In India, हमने last year की बात बता रहा हूं 2025 में,
+
+1899
+02:29:53.181 --> 02:29:58.821
+हमने in the month of June, I remember the date, exact date याद नहीं, but in the
+
+1900
+02:29:58.851 --> 02:30:03.831
+month of June, second or third week की बात है। हमने AI Engine Optimization के ऊपर
+
+1901
+02:30:04.161 --> 02:30:08.211
+1000 लोगों का live event किया था for the very first time in India। उससे पहले आज की
+
+1902
+02:30:08.271 --> 02:30:10.731
+date में किसी ने भी उस topic पर इतना बड़ा event नहीं किया था।
+
+1903
+02:30:12.081 --> 02:30:17.722
+Indian marketing agencies में ऐसे 1% लोग भी नहीं होते in the last year जिनको AEO
+
+1904
+02:30:17.931 --> 02:30:20.751
+क्या होता है वह पता है और AEO कैसे करना है exactly वो पता है।
+
+1905
+02:30:21.951 --> 02:30:26.961
+Right. Scheme में code generate करना, LLM prompt generate करना। यह सब basic चीजें
+
+1906
+02:30:27.021 --> 02:30:31.251
+लोगों को पता थी but exactly करना कैसे वो नहीं जानते थे। हजारों से ज्यादा marketing
+
+1907
+02:30:31.281 --> 02:30:35.841
+agencies हमारे से connect हुई थी in the last year जब हमने India में इसका event किया
+
+1908
+02:30:35.871 --> 02:30:39.531
+था सबसे पहला। Right. After this,
+
+1909
+02:30:40.941 --> 02:30:46.491
+Darsh is the person जिसने already इस चीज को लेकर specific
+
+1910
+02:30:46.641 --> 02:30:52.491
+AI के apps बनाए हैं for this particular mastery to give service
+
+1911
+02:30:52.551 --> 02:30:53.511
+to the people.
+
+1912
+02:30:55.161 --> 02:31:00.141
+So he is already in tech part as well good. In AEO part as well he is very good.
+
+1913
+02:31:01.911 --> 02:31:02.061
+So
+
+1914
+02:31:03.292 --> 02:31:08.571
+my message to all before joining today, tomorrow's class, क्योंकि वह बहुत powerful
+
+1915
+02:31:08.631 --> 02:31:13.281
+skill है। कोई shortcut नहीं होता कि आपने आज AEO कर दिया और तुरंत हो जाता है। SEO
+
+1916
+02:31:13.311 --> 02:31:16.941
+में भी ऐसा नहीं होता। जिनको SEO knowledge है, वो समझ पा रहे होंगे। But वह impact
+
+1917
+02:31:17.001 --> 02:31:21.261
+उसका जो कल आपको कुछ sample examples भी Darsh दे पाएंगे मुझे लगता है, जो उन्होंने
+
+1918
+02:31:21.292 --> 02:31:23.871
+western side of the world में कुछ results निकाल के लिए, उसका outcome आपको देख के
+
+1919
+02:31:23.901 --> 02:31:29.481
+समझ में आएगा कितनी powerful चीज है। और क्यों लोग इतना marketing AEO करवाने में इतना
+
+1920
+02:31:29.511 --> 02:31:30.081
+खर्च क्यों करते हैं
+
+1921
+02:31:31.281 --> 02:31:35.151
+लाखों। So you will understand tomorrow. Tomorrow is the first class of AEO.
+
+1922
+02:31:36.141 --> 02:31:41.121
+Friday को second class AEO का। दो दिन का AEO का class रहेगा आप लोगों का guys। As I
+
+1923
+02:31:41.181 --> 02:31:42.171
+said, it's a big topic.
+
+1924
+02:31:43.701 --> 02:31:44.061
+Right.
+
+1925
+02:31:45.441 --> 02:31:46.671
+So excited now.
+
+1926
+02:31:49.251 --> 02:31:54.051
+मजा आने वाला है। But make sure कि time पर connect करें और time पर live connect
+
+1927
+02:31:54.111 --> 02:31:58.731
+करें। क्योंकि live सीखने का focus अलग रहता है, recording का focus अलग रहता है।
+
+1928
+02:32:00.441 --> 02:32:02.331
+So tomorrow
+
+1929
+02:32:04.042 --> 02:32:07.671
+की Zoom link आपको community में आ जाएगी, WhatsApp पर आ जाएगी, email पर आ जाएगी। So
+
+1930
+02:32:07.701 --> 02:32:13.011
+be alert on the community and the email। परसों की भी आ जाएगी and उसके बाद के जो भी
+
+1931
+02:32:13.071 --> 02:32:16.701
+announcements होगी obviously orientation जिन्होंने देखी है, जिन्होंने नहीं देखी एक
+
+1932
+02:32:16.731 --> 02:32:20.961
+message दे दूं। जिन्होंने recently दो-तीन दिन में हमारे enroll में लिया है तो आपको
+
+1933
+02:32:21.111 --> 02:32:25.222
+LMS access check करना है। Learning Management System जहां पर orientation की
+
+1934
+02:32:25.281 --> 02:32:29.631
+recording हमने already upload कर दी है। अगर आप में से कोई ऐसा है, ध्यान से सुनिए,
+
+1935
+02:32:29.691 --> 02:32:33.590
+अगर आप में से कोई ऐसा है जिन्होंने LMS access आपको नहीं मिल पा रहा है।
+
+1936
+02:32:35.061 --> 02:32:38.931
+Learning Management System जो है अपना, उस portal में जो हमारी recordings हैं,
+
+1937
+02:32:39.021 --> 02:32:41.751
+orientation की recording आ गई है। अभी आज की class की आ जाएगी कल तक।
+
+1938
+02:32:43.431 --> 02:32:48.292
+Access नहीं मिल पा रहा है तो मैं आपको email ID दे रहा हूं। Support मैं chat में डाल
+
+1939
+02:32:48.321 --> 02:32:49.191
+रहा हूं। ध्यान से देखिएगा。
+
+1940
+02:32:51.711 --> 02:32:56.961
+support@claim skills.here. इसमें आप पहले तो क्या करोगे, पहले तो आपका registered
+
+1941
+02:32:56.991 --> 02:33:02.722
+email ID check करोगे। उसका inbox check करो। उसका spam folder भी check करो। उसका
+
+1942
+02:33:02.781 --> 02:33:07.011
+junk folder भी check करो। All mail folder भी check करो। सारे folder check करो। नाम
+
+1943
+02:33:07.101 --> 02:33:08.931
+search करो Claim Skills Learn.
+
+1944
+02:33:11.451 --> 02:33:15.411
+90% case में आपको email आया ही होगा। आपने शायद notice नहीं किया होगा। अगर फिर भी
+
+1945
+02:33:15.472 --> 02:33:20.151
+नहीं मिल रहा है, दो गलतियां लोग करते हैं। तो गलत email ID check करते हैं जो हम देख
+
+1946
+02:33:20.181 --> 02:33:23.751
+रहे हैं। Registration email ID अलग होता है। गलत email check करते हैं तो नहीं मिलने
+
+1947
+02:33:23.781 --> 02:33:27.051
+वाला आपको simple सी बात है। Registered email check कर रहे हैं, बस inbox check कर
+
+1948
+02:33:27.081 --> 02:33:30.891
+रहे हैं तो भी शायद नहीं मिल सकता है rare case में। तो आप वो check करो। फिर भी अगर
+
+1949
+02:33:30.951 --> 02:33:34.581
+नहीं मिल रहा है तो फिर आप support पर simple एक mail डालो कि this is my registered
+
+1950
+02:33:34.641 --> 02:33:37.731
+email ID, kindly provide access of LMS again.
+
+1951
+02:33:38.301 --> 02:33:42.351
+Simple line लिख दो। Team आपको as soon as possible उस पर revert करके आपको access
+
+1952
+02:33:42.381 --> 02:33:48.261
+provide कर देगी। Okay. Thank you. So I hope that
+
+1953
+02:33:48.351 --> 02:33:52.671
+this is the final message. Thank you so much for joining today's class and see you
+
+1954
+02:33:52.731 --> 02:33:58.161
+soon tomorrow. Darsh will connect you and मेरे class आगे और होंगे in the next week.
+
+1955
+02:33:58.611 --> 02:34:01.972
+Thank you so much guys. Take care. Thank you for joining and give your precious
+
+1956
+02:34:02.001 --> 02:34:04.311
+time. Have a good day. Thank you, bye.

@@ -1,0 +1,3872 @@
+# AEO Optimization Masterclass
+Course: 02_AI_AEO_Optimization
+Vimeo ID: 1230140364
+Track: English (auto-generated)
+Total Words: 17807
+================================================================================
+
+[00:03] क्या हाल चाल?
+
+[00:09] Awesome!
+
+[00:12] एक आध minute हम बात करेंगे फिर हम start करेंगे।
+
+[00:18] How's everybody doing? All good? Health ठीक,
+
+[00:22] family ठीक।
+
+[00:24] Awesome!
+
+[00:27] Awesome,
+
+[00:39] guys. Awesome. Thank you. And Deepak, I was talking to Deepak.
+
+[00:42] कल का session you guys loved it.
+
+[00:46] Zoom की limit खत्म हो गई थी कल। We had to go on YouTube।
+
+[00:51] एक हजार से लोग ज्यादा हो गए थे। So thank you for
+
+[00:55] your enthusiasm। एक हम ने बात करी थी orientation में,
+
+[01:01] that was about persistence. आपको continuously work
+
+[01:05] करते रहना पड़ेगा if you want to achieve something
+
+[01:10] जो आप achieve करना चाहते हो।
+
+[01:12] So
+
+[01:13] you showed up yesterday which is great. आज आ गए which is awesome. Right?
+
+[01:18] So एक चीज तो हम आपको guarantee दे सकते
+
+[01:22] हैं। Guarantee एक word है जिसे मैं बहुत lightly use नहीं करता because
+
+[01:27] guarantee किसी चीज की नहीं है। You never know कल को जिंदगी रहेगी कि नहीं रहेगी। आज
+
+[01:31] promises कर दो तो।
+
+[01:33] लेकिन एक चीज की guarantee मैं जरूर कर सकता हूं वह यह है कि
+
+[01:38] जब हम
+
+[01:39] lessons कुछ सिखाने
+
+[01:42] आएंगे आपको तो
+
+[01:45] आपके expectation से ज्यादा ही सीख के जाओगे आप। And okay.
+
+[01:49] यह मत सोच के आना कि अच्छा यार पता नहीं इसमें उतनी value होगी कि नहीं
+
+[01:53] होगी। I can tell you कि
+
+[01:55] जो भी हम सिखा रहे हैं वो already implement करके बहुत सारे returns
+
+[01:59] ले चुके हैं तो हम कुछ ऐसे nuances
+
+[02:01] हैं, extra पता
+
+[02:05] हैं चीजों के बारे में जो generally लोगों को पता नहीं होती। Right तो जब आओगे तो
+
+[02:09] सीख के जाओगे कुछ ना कुछ। Okay?
+
+[02:12] So
+
+[02:13] start करते हैं आज का दिन। मैं basic पहले आपको समझा
+
+[02:17] दूं कि AEO
+
+[02:20] word का मतलब क्या है। हम उसके बाद depth में जाएंगे। उसके बाद हम
+
+[02:24] हर चीज समझेंगे कि कैसे उसको use करना है, कैसे
+
+[02:29] उसका लोग misuse कर रहे हैं और कैसे उस चीज से
+
+[02:33] आज जो AI platforms हैं उस चीज को कैसे tackle कर रहे हैं
+
+[02:37] और हमारे business और
+
+[02:41] हमारे clients का business recommend हो। So those are the things that we learn
+
+[02:45] today. तो दो parts हैं आज और कल। आज हम
+
+[02:49] AEO के बारे में सारा कुछ overall सीखेंगे। कल हम बात करेंगे कि
+
+[02:53] इस knowledge को जो आपने आज सीखा, इसको आप
+
+[02:57] use करके पैसे कैसे कमा सकते हो। How can you create a business out of
+
+[03:01] it? Right? और मैं आज आपको examples भी दूंगा
+
+[03:05] जो
+
+[03:07] एक business के basically जो हम ने खुद
+
+[03:11] उसको improve करके, वहां से we are earning on regular basis.
+
+[03:15] So that's something जो मैं आपको दिखाऊंगा। मैंने उसके बारे में बात करी भी
+
+[03:18] थी orientation में भी। मैं आज थोड़ा in-depth जाऊंगा उसके बारे में। Okay?
+
+[03:22] So theory नहीं है।
+
+[03:25] मैं stories थोड़ी use करूंगा ताकि concept समझ आ जाए। And
+
+[03:30] जो चीजें पढ़ाई जा रही हैं वो proper practically
+
+[03:32] implement करने के बाद ही आपको
+
+[03:36] सिखाया जा रहा है। कुछ भी theory नहीं है इसमें। कुछ भी हम नहीं सीख कहीं
+
+[03:40] से पढ़ के कुछ सिखा नहीं रहे। Okay? Result आने के बाद,
+
+[03:45] बहुत सारी चीजें गलत करने के बाद, सही चीज का
+
+[03:49] result मिलने के बाद उसको observe करके वो सिखाया जा रहा है। Okay?
+
+[03:52] So that you don't end up making those mistakes.
+
+[03:55] So
+
+[03:56] start करते हैं। Let me share my screen.
+
+[04:02] तो मेरी दो screens हैं actually. दो, तीन।
+
+[04:06] तो अगर मैं इधर उधर देख रहा हूं तो it means I am looking at other screens। Okay?
+
+[04:11] So
+
+[04:14] okay, all right. I hope आप को presentation only screen दिख
+
+[04:18] रही है। Yes, okay cool.
+
+[04:21] So
+
+[04:22] The Answer Economy, जिसके बारे में हम आज बात करने वाले हैं कि what is
+
+[04:26] Answer Economy and what does that really mean और उसको आप कैसे
+
+[04:31] अपने business में use कर सकते हो। So
+
+[04:35] पहले तो हम बात करते हैं सीधी सी बात, जो कि मैंने एक
+
+[04:39] tool बनाया है
+
+[04:41] जिसके बारे में हम detail में बात नहीं करेंगे लेकिन वो tool करता क्या है मैं उसके
+
+[04:44] बारे में आपको बता देता हूं। वो tool क्या करता है?
+
+[04:46] वो tool
+
+[04:47] जब आप अपने business का नाम डालते हो उसमें, चाहे आपका business online हो, चाहे
+
+[04:51] offline हो, चाहे online, offline दोनों हो।
+
+[04:54] जब भी आप अपना business का नाम उस tool में डालते हो, वो tool क्या करता है कि वो tool
+
+[04:59] आपके business के बारे में समझ के अपने आप आपके business के बारे में समझ के basically
+
+[05:03] आपके website के basis पर आपके
+
+[05:07] competitors कौन है उस industry में,
+
+[05:10] उन को ढूंढ के,
+
+[05:12] आपके industry में कौन-से questions पूछे जा रहे हैं आपके customers
+
+[05:16] के through.
+
+[05:18] अगर आप
+
+[05:20] कपड़े बेचते हो for example,
+
+[05:23] लड़कों के कपड़े बेचते हो तो
+
+[05:26] men कौन-से questions पूछ रहे हैं online जाकर कपड़ों के
+
+[05:30] बारे में, वो questions वो find out करती है app। Okay?
+
+[05:34] वो find out करती है app कहाँ से ChatGPT, Claude, Perplexity,
+
+[05:38] Gemini, Google से भी जाकर, Grok से जाकर and then
+
+[05:42] Google में एक section होता है
+
+[05:45] People Also Ask। एक section होता है People Also Ask।
+
+[05:49] वहां से जाकर भी वो questions find out करती है। So
+
+[05:52] काफी सारी चीजें connected हैं उस app के साथ। And उन
+
+[05:56] questions को find out करने के बाद उन questions को पूछा जाता है इन
+
+[06:00] सभी platforms से दोबारा। क्योंकि यह questions तो लोग पूछ रहे हैं लेकिन
+
+[06:04] हम भी यह question पूछते हैं और देखते हैं कि क्या answer निकल के आता है।
+
+[06:09] एक चीज मैं आपको बताता हूं
+
+[06:11] कि
+
+[06:12] हो सकता है कि आपको कुछ चीजें समझ न आएं,
+
+[06:16] जो मैं बता रहा हूं, जो मैं बोल रहा हूं कुछ चीजें समझ न आए। मैं कोशिश करूंगा कि
+
+[06:19] examples मैं आपको जितने ज्यादा दे सकूं, उतने examples दूं।
+
+[06:23] बीच में I'll open up the room ताकि आप अपने questions मुझे भेज भी सकें
+
+[06:27] अगर आप questions, अगर आपको समझ नहीं आई कोई particular चीज। लेकिन
+
+[06:31] अगर आपको कोई questions होंगे, you know q.claimskills.ai पर जाकर question
+
+[06:35] आप डाल सकते हो। या तो आपको immediately answer मिल जाएगा या team
+
+[06:39] another next 24 to 48 hours में आपका question का answer दे देगी।
+
+[06:43] तो
+
+[06:44] यह मैंने इसलिए कहा क्योंकि हो सकता है कि आपको कुछ चीजें समझ न आए जैसे मैंने बोला
+
+[06:48] people also ask. People also ask का मतलब होता है, मैं
+
+[06:52] आपको screen
+
+[06:54] दिखाऊं for a second.
+
+[07:07] तो people also ask अगर आप देखें, मैं अगर Google पर मैंने search किया what is
+
+[07:11] AU? और अगर मैं नीचे scroll करूं तो एक section आता है people also ask.
+
+[07:15] तो जिन्होंने
+
+[07:17] AU के बारे में पूछा उन्होंने SEO के बारे में भी पूछा है। जिन्होंने AU के बारे में
+
+[07:20] पूछा है उन्होंने AI के बारे में भी पूछा है। Will AI replace SEO?
+
+[07:24] तो यह people also ask एक section है। तो ऐसी कुछ चीजें हो सकती हैं जो आपको
+
+[07:27] technically समझ न आए। लेकिन
+
+[07:30] अगर आपको technically समझ नहीं आ रही तो आप यह समझ ना कि वह found है, वह
+
+[07:34] basic चीज नहीं है
+
+[07:36] और उस पर बहुत ज्यादा ध्यान मत लगाना। क्योंकि जितनी basic चीजें हैं, जितनी
+
+[07:40] foundational चीजें हैं वो तो सारी समझ आ जाएंगी। I have made sure कि मैं उसको इस
+
+[07:44] हिसाब से समझाऊं कि आपको सारी समझ आ जाएंगी।
+
+[07:47] तो
+
+[07:48] coming back to the topic जो मैं बताना चाहता था कि
+
+[07:53] वह app
+
+[07:55] basically आपके जितने questions आपके industry में पूछे जा रहे
+
+[07:59] हैं आपके customers के through,
+
+[08:02] उन सभी को analyze करके, questions पूछ के, उसके
+
+[08:06] answers वापस लेकर आकर
+
+[08:08] आपको एक report मिल जाती है कि
+
+[08:11] आप कहां खड़े हो और आपके competitors कहां खड़े हैं।
+
+[08:15] इसके बारे में और बहुत सारी details हैं, बहुत सारी depth में अगर मैं जाऊं तो
+
+[08:19] मैं इसके बारे में बहुत देर तक बात कर सकता हूं। लेकिन that's not the point.
+
+[08:23] But the point that I am trying to make is जो चीज मैंने कही, उसका
+
+[08:27] एक part हम आज manually भी करेंगे।
+
+[08:30] आप लोग करोगे अपने phones पर, अपने laptops पर, जहां से भी आप logged in
+
+[08:33] हो। मैं आपको बताऊंगा वह क्या करना है, कैसे करना है। ताकि आपको
+
+[08:37] थोड़ा सा एक visual भी आप check कर सकोगे कि
+
+[08:42] किस के बारे में हम बात कर रहे हैं। आप relate कर पाओगे उस चीज के बारे में।
+
+[08:45] Ok. चलो
+
+[08:47] let's start हमारा दिन।
+
+[08:51] तो
+
+[08:53] एक चीज
+
+[08:54] मैं बता दूं आपको कि
+
+[08:57] अगर आप आज का और कल का दिन पूरा attend करते हो ना तो आप एक पूरा
+
+[09:01] framework बना के लेकर जा सकते हो इस पूरे AU के concept से कि आप business कैसे
+
+[09:05] खड़ा कर सकते हो इस एक concept से ही, सिर्फ एक चीज के basis पर।
+
+[09:10] Ok.
+
+[09:11] तो now the next thing is
+
+[09:15] आज के बारे में हम बात करेंगे कैसे
+
+[09:17] आप लोगों को दिखो, कैसे आप
+
+[09:20] visible हो। लेकिन visible होने का मतलब यह नहीं है कि लोग आपको
+
+[09:24] choose करेंगे। आप जब Google पर कुछ search करते हो
+
+[09:28] तो आपको जो
+
+[09:30] पहले जो 10 blue links आते थे, अभी तो मैंने आपको दिखाया Google पर ऊपर एक answer आ
+
+[09:33] रहा है और उसके नीचे links आ रहे हैं। तो पहले जो links आते थे उनमें से
+
+[09:38] choose करना होता था।
+
+[09:40] आज भी story
+
+[09:43] वैसी ही है लेकिन change उसमें क्या है मैं define करूंगा। But the
+
+[09:47] point is आपको सिर्फ यह focus नहीं करना कि लोग आपको उन links
+
+[09:51] में देखें। आपको यह focus करना है कि लोग आपसे
+
+[09:55] interact करें। So going back to the previous screen जो मैंने पहले screen दिखाई
+
+[09:58] थी। मैं वह screen एक बार दोबारा आपको दिखाता हूं कि इसका मतलब क्या है जो मैं बोल रहा
+
+[10:02] हूं।
+
+[10:05] तो यहां पर अगर आप देखो तो यह सारे
+
+[10:08] links हैं यहां पर। Right? मैं इन किसी भी links पर click करके, इन blue links
+
+[10:12] को blue links बोलते हैं। Google के जो blue links हैं। मैं इन पर किसी भी पर जाकर I
+
+[10:16] can search और मैं answer अपना find out कर सकता हूं। Right?
+
+[10:20] लेकिन
+
+[10:23] यहां तक scroll कौन करेगा?
+
+[10:27] अगर answer मुझे यहीं मिल रहा है top पर।
+
+[10:30] Nobody is scrolling down
+
+[10:35] वह answer find out करने के लिए क्योंकि मुझे answer यहीं मिल गया। तो एक होती है
+
+[10:40] चीज कि आप list में दिख रहे हो। एक चीज होती है कि
+
+[10:44] आपको choose कर लिया गया है answer देने के लिए।
+
+[10:49] That is the difference. आज हम बात करेंगे कि आप कैसे दिखो, लोगों
+
+[10:53] आपके बारे में कैसे find out कर सकें, कैसे आप इन
+
+[10:56] searches के results में आओ। कल हम in-depth बात करेंगे कि
+
+[11:00] आप कैसे choose हो पाओ
+
+[11:02] in platforms पर। Ok. तो यह दो differences हैं आज और कल के
+
+[11:06] sessions में। Ok.
+
+[11:09] सिर्फ visible होना is not enough. लोग आपके बारे में सिर्फ जान, अगर आपका
+
+[11:13] नाम list में आ रहा है it's not that enough.
+
+[11:15] मैं आपको prove कर देता हूं यह example के साथ।
+
+[11:20] आप एक कोई भी चीज सोचो just think about something
+
+[11:23] जो आपने last कोई चीज खरीदी हो। मैं दूध वगैरह की बात नहीं कर
+
+[11:27] रहा। मैं बच्चे की stationery box की बात नहीं कर रहा।
+
+[11:31] मैं बात कर रहा हूं कोई ऐसी चीज जिसका life पर impact थोड़ा ज्यादा होता
+
+[11:35] है।
+
+[11:36] For example car या आपने अपने बच्चे की किसी की admission किसी
+
+[11:39] school में करवाई हो। अगर आप student खुद हो तो आपके जो parents
+
+[11:43] हैं उनकी अगर मैं बात करूं, उन्होंने जो search किया
+
+[11:47] हो। आप सोचो एक बार कि आपने कोई भी जब
+
+[11:51] ऐसी चीज खरीदी या घर खरीदा हो, आपने जब भी कोई चीज ऐसी खरीदी
+
+[11:55] थी तो आपका process क्या था खरीदने का?
+
+[11:58] आप एक बार उसको सोचो। पूरे process को 30 seconds, 1 minute के लिए
+
+[12:01] सोचो।
+
+[12:10] तो मेरे हिसाब से
+
+[12:12] आपने अपने friend के बारे में, आपने अपने friend से पूछा होगा
+
+[12:15] कि
+
+[12:19] Sound is low.
+
+[12:23] Hold on.
+
+[12:25] आपको आवाज़ आ रही है मेरी?
+
+[12:32] Can you guys hear me?
+
+[12:35] Let me see.
+
+[12:37] Okay. You are good with the team? I just got a message from the team.
+
+[12:41] Team बोल रही थी कि आवाज़ कम आ रही है। Okay. All right, cool.
+
+[12:45] चलो let me get
+
+[12:47] back to what I was talking about. So आप उस process के
+
+[12:51] बारे में सोचो कि
+
+[12:54] जो आपने
+
+[12:56] ये सारी चीजें करी, car ली या admission ली या कुछ और, something like that.
+
+[12:59] तो आपने क्या किया होगा?
+
+[13:01] आपने अपने friend से पूछा होगा कि आपके friends के
+
+[13:04] बच्चे किस school जा रहे हैं? उन्होंने कौन सी car ली?
+
+[13:07] उन्होंने वो car क्यों ली?
+
+[13:10] तो अगर हम उस process के बारे में सोचें,
+
+[13:14] तो एक तो वो process shift हो चुका है online.
+
+[13:18] Right? आप सिर्फ अपने friend से नहीं पूछ रहे। आप
+
+[13:22] multiple platforms से पूछ रहे हो। आप ChatGPT से पूछ रहे हो, आप Google से पूछ रहे
+
+[13:26] हो, आप Claude से पूछ रहे हो।
+
+[13:29] आप multiple
+
+[13:31] sources से information लेकर तब decision ले रहे हो। इसका मतलब यह है
+
+[13:35] कि
+
+[13:37] जब आप अपना business करोगे
+
+[13:40] या अगर आप कर रहे हो already, तो आपके जो customers हैं,
+
+[13:44] वो भी आपके बारे में अलग-अलग जगह जाकर
+
+[13:47] पता करने की कोशिश करेंगे। That
+
+[13:51] is what makes you special
+
+[13:55] कि आपको लोग choose करें
+
+[13:57] कि आप सिर्फ एक जगह पर visible न हो, आप multiple जगह पर visible हो। और
+
+[14:01] जो भी
+
+[14:02] आज सीखोगे, कल सीखोगे, समझोगे, तो उससे
+
+[14:06] आप सिर्फ एक जगह पर visible नहीं होगे, आप multiple जगह पर visible होगे। ताकि लोग
+
+[14:09] जहां-जहां जाकर आपके बारे में पूछें, आपके business के बारे में पूछें,
+
+[14:13] तो उनको
+
+[14:15] proper आपकी information वहां से मिल पाए।
+
+[14:19] एक तो चीज हो गई यह। दूसरी चीज यह है। जब आप online
+
+[14:23] search करते हो,
+
+[14:25] तब कभी आपने
+
+[14:27] second page पर गए हो? कभी भी?
+
+[14:31] Ever आप Google पर
+
+[14:34] जब कुछ भी search करते हो।
+
+[14:37] कोई नहीं जाता second page पर। So अगर
+
+[14:41] आप online visible होना चाहते हो, number one, उसका
+
+[14:45] सबसे important
+
+[14:47] factor यह है कि आप सिर्फ visible न हो, आप first page पर
+
+[14:51] visible हो। Second,
+
+[14:53] आपका जो business है, आप जो भी कर रहे हो,
+
+[14:57] उसको automatically recommend किया जाए
+
+[15:01] by Google. जो ऊपर answer मैंने दिखाया था आपको। Google आपको वहां
+
+[15:05] automatically recommend करें। दूसरा, जब आप
+
+[15:09] ChatGPT पर जाकर कोई question पूछते हो, ChatGPT भी आपको एक
+
+[15:13] ही answer देता है। आपको 10 links नहीं आते वहां ChatGPT पर।
+
+[15:18] तो कैसे आपको choose किया जाए? क्या-क्या चीजें
+
+[15:22] करनी पड़ेंगी? क्या-क्या करना पड़ेगा?
+
+[15:23] मैं आपको proper पहले foundation बिठा रहा हूं, आपकी
+
+[15:27] daily experiences के basis पर
+
+[15:30] कि
+
+[15:31] एक तो हमें page one पर आना है। दूसरा, हमें
+
+[15:35] सिर्फ page one पर नहीं आना। हमें वो answer बनना है जो ये machines choose करें
+
+[15:40] कि हमें recommend करें basically. Right?
+
+[15:43] So that's what the target is. और अगर आपको लगता है बहुत मुश्किल है, मैं आपको
+
+[15:47] example दिखाऊंगा। मुश्किल नहीं है। It's very much possible.
+
+[15:50] हम already बहुत बड़ी कर चुके हैं। मैं आपको example depth में जाकर बताऊंगा कि कैसे
+
+[15:53] ये सारी चीजें होती हैं।
+
+[15:56] मैं आपको ये सारी चीजें इसलिए बता रहा हूं कि
+
+[15:59] आपका mind open रहे इन सब चीजों को catch करने के लिए कि अच्छा!
+
+[16:03] ये चीज बोली थी, ये इस चीज से इसलिए link हो रही है। ये वाली जो चीज मैं बता रहा हूं,
+
+[16:07] Vidars बता रहा है, ये इस चीज से link हो रही है। So you understand what I am
+
+[16:11] basically going to talk in depth.
+
+[16:14] ठीक है? चलो। तो एक चीज हम ये करते हैं कि
+
+[16:19] मैं एक activity करूंगा। मैं थोड़ी time के लिए chat खोलूंगा।
+
+[16:24] actually आप मुझे direct messages तो भेज सकते हो तो we will do that.
+
+[16:27] आप अभी नहीं क्योंकि मैं अभी messages check नहीं कर रहा। तो अभी मत भेजो, message
+
+[16:31] loss हो जाएगा।
+
+[16:33] आपकी अगर website already है, मैं आपको कुछ examples खुद भी
+
+[16:36] दिखाऊंगा। लेकिन मैं चाहता हूं कि
+
+[16:41] आज के जो attendees हैं, उनमें से किसी एक की website लेकर उसको थोड़ा
+
+[16:45] improve किया जाए।
+
+[16:47] So I want you to
+
+[16:51] remember कि where did you buy your website from?
+
+[16:55] अगर if you have a website, आपकी website कौन सी है?
+
+[16:58] आप obviously उस website का नाम आपको याद होगा। लेकिन आपने website कहां से
+
+[17:02] खरीदी है, check कर लेना। आपके पास उसका access है कि नहीं। आपने वह website कहां
+
+[17:06] बनाई है?
+
+[17:07] This is specifically for those people जिन्होंने आज तक
+
+[17:11] कभी अपना website का audit नहीं किया है।
+
+[17:15] Specifically उनके लिए जिनकी website का audit आज तक नहीं
+
+[17:19] हुआ है। उनके लिए सिर्फ। तो एक तो मैं
+
+[17:23] जब पूछूंगा तब मुझे अपनी website का address बताना, number one.
+
+[17:27] Number two,
+
+[17:29] I want you कि आप अपनी website को access कर पाओ क्योंकि मैं
+
+[17:33] जो change बताऊंगा न कि आप यह change करो। हम instant
+
+[17:37] result देखेंगे कि वह change करने के बाद आपकी website पर क्या
+
+[17:41] instant result, क्या change आया? कि आपकी website और visible होगी कि नहीं होगी।
+
+[17:46] Okay?
+
+[17:47] So आप website अपने ध्यान में रखो। Make sure आप access कर पाओ अपनी
+
+[17:51] website,
+
+[17:52] edit कर पाओ अपनी website basically. ठीक है?
+
+[17:55] कि आप जहां से अपनी website बनाई थी, वह आप edit कर पाओ, वहां login
+
+[17:59] करके। अगर आप वो नहीं कर पा रहे, आप please अपनी website का address
+
+[18:03] मत बताना। सबका time waste होगा। अगर आप अपनी website edit कर पाओगे,
+
+[18:07] तब ही आप अपना website का नाम बताना otherwise मत बताना। Okay?
+
+[18:10] All right.
+
+[18:12] So
+
+[18:15] that's what we will do today. एक मैं आपको example खुद बताऊंगा
+
+[18:20] कि
+
+[18:22] industry में इस चीज की
+
+[18:26] demand कितनी है और इस चीज
+
+[18:28] को provide करने वाले कितने
+
+[18:32] कम लोग हैं।
+
+[18:34] दो concept को बोलते हैं Blue Ocean और Red Ocean.
+
+[18:37] Red Ocean का मतलब यह होता है कि उसमें already इतना
+
+[18:41] competition है कि आप
+
+[18:43] उसमें से client नहीं ढूंढ पाओगे और generally Red Ocean में लोग क्या करते हैं कि
+
+[18:48] आप जब भी अपनी service provide करवाने जाते हो, ऐसी industry में जहां पर already बहुत
+
+[18:52] सारे लोग बैठे हुए हैं, तो आपके पास starting में सिर्फ एक ही तरीका बचता है
+
+[18:56] कि आप अपने prices बहुत कम रखो। तो आपको बहुत ज्यादा high customer service देनी
+
+[19:00] पड़ेगी। prices कम रखने पड़ेंगे। बहुत ज्यादा मेहनत करनी पड़ेगी।
+
+[19:04] दूसरी तरफ होता है Blue Ocean, demand बहुत ज्यादा है।
+
+[19:09] लोगों को पता नहीं है क्या करना है, क्या नहीं करना है और आप निकल के
+
+[19:13] जाते हो सीखते हुए कि उसको कैसे handle करना है और आप जितना मर्जी price
+
+[19:17] अपना रख लो, उतनी ज्यादा आपको detail में जाकर customer service भी नहीं करनी पड़ती
+
+[19:21] because आपकी competition में इतने लोग नहीं है। तो मेहनत कम,
+
+[19:25] results ज्यादा that's called Blue Ocean.
+
+[19:27] और AEO ऐसा concept है Answer Engine Optimization एक ऐसा concept है
+
+[19:30] जो कि Blue Ocean है क्योंकि
+
+[19:33] mostly लोगों को नहीं पता कि यह चीज कैसे करते हैं।
+
+[19:37] आप मुझे बताओ, हमने एक survey किया था तो उसके basis पर मैं एक बात बोल रहा
+
+[19:41] हूँ। इस survey के basis पर भी और मेरे बाकी के experience के
+
+[19:45] basis पर भी कि Google ने announce नहीं किया था
+
+[19:49] कि
+
+[19:50] game के rules change हो चुके हैं।
+
+[19:53] अभी AEO आ गया है। किसी को email नहीं मिली थी। किसी
+
+[19:57] business को Google ने बताया नहीं था कि अब आपको यह चीजें change करनी
+
+[20:01] पड़ेंगी। जिसकी वजह से most of the people, they don't know
+
+[20:05] कि क्या हो रहा है, क्या नहीं हो रहा। पहले क्या होता था?
+
+[20:09] For example, जैसे मैंने 10 blue links की बात बताई।
+
+[20:13] example यह वाला आप समझो कि आप अगर
+
+[20:16] जाओ एक librarian के पास।
+
+[20:19] आपने एक librarian के पास जाकर अपने question पूछा। आपने बोला कि मुझे इस
+
+[20:23] question का answer दे दो। तो librarian ने क्या किया?
+
+[20:26] आपको 10 books दे दीं कि यह 10 books हैं, यह पढ़ो। इनमें से आपको answer मिल
+
+[20:30] जाएगा।
+
+[20:31] वही 10 link हमारे
+
+[20:34] Google से होते थे। आपको पढ़ने पड़ते थे,
+
+[20:38] links में जाकर click करके पढ़ना पड़ता था, अपना answer लेना पड़ता था।
+
+[20:44] Nobody understood कि कितना बड़ा pain point है।
+
+[20:48] और businesses क्या करते थे? अलग-अलग
+
+[20:52] pages बनाते रहते थे। बहुत सारे pages बनाते रहते थे और
+
+[20:56] उसको rank करवाने के लिए जो चीजें होती थीं, वो भी इस हिसाब से
+
+[21:00] होती थीं जिनका कोई sense नहीं बनता था। मैं आपको एक बहुत funny सी चीज बताता हूँ।
+
+[21:04] Google पर
+
+[21:06] Google के ऊपर rank करने के लिए
+
+[21:08] अगर आप उस topic को sell करना चाहते हो। Let's say आप
+
+[21:12] कपड़े बेचते हो for example. आप
+
+[21:15] लड़कों के men's clothing बेचते हो। आप अपनी website पर
+
+[21:18] हजारों बार अगर men's clothing, men's clothing, men's clothing, men's clothing लिख
+
+[21:22] दोगे-- अब की बात नहीं कर रहा, मैं पुरानी बात कर रहा हूँ। तो आपकी website rank
+
+[21:26] होना शुरू हो जाती थी।
+
+[21:31] But वैसा नहीं रहा आज। आज के time पर मैं आपको आपके experience के
+
+[21:35] basis के हिसाब से बताता हूँ।
+
+[21:37] आप जब आज search करते हो question कोई,
+
+[21:40] तो अगर आपने वो question ढंग से नहीं भी form किया होता, अगर आप English में
+
+[21:44] question search कर रहे हो for example या हिंदी में question search कर रहे हो। अगर
+
+[21:48] आपकी spelling mistake है या आपने वो question ढंग से
+
+[21:52] form नहीं किया, वो grammatically question correct नहीं है फिर भी आपको answer
+
+[21:56] मिल जाता है। कैसे?
+
+[22:00] मुझे answers तो आपके मिल रहे हैं। मतलब आप chat कर रहे हो मुझसे तो
+
+[22:04] tell me why do you think
+
+[22:07] that happens? कैसे आपके गलत question का भी answer
+
+[22:11] आपको सही मिल जाता है जबकि आपने
+
+[22:15] grammar properly form नहीं करी, आपकी spellings ठीक नहीं थी फिर भी
+
+[22:19] आपको कैसे answer मिल जाता है?
+
+[22:26] Any guesses?
+
+[22:33] Let me check.
+
+[22:36] No idea.
+
+[22:38] Prediction. वो कैसे prediction है? Just how is it predicted?
+
+[22:41] AI assumption. How do AI assume? मतलब what happens कि
+
+[22:46] वो ऐसे समझते हैं कि AI engines ऐसे समझ लेते हैं।
+
+[22:50] Things have evolved. Yes. But what has changed? What has changed exactly?
+
+[22:54] Patterns. Okay. A part of it.
+
+[22:58] AI does it all. But how?
+
+[23:02] That's what I'm saying. आयुष,
+
+[23:03] आप कह रहे हो keywords. Keywords is not the game anymore.
+
+[23:07] तो many way में men's clothing was a keyword.
+
+[23:10] You don't have to put men's clothing thousands of time अपनी
+
+[23:14] website पर। चलो मैं बताता
+
+[23:16] हूँ। आप
+
+[23:20] जब internet पर search करते हो कुछ भी, आपका एक phone
+
+[23:24] है, आपका एक laptop है।
+
+[23:26] आप वहीं से जो करते हो सब कुछ वहीं से करते हो।
+
+[23:29] मैं एक example देता हूँ आपको। अगर आप Google Gemini पर search करते हो।
+
+[23:31] Google के पास आपका Gmail है।
+
+[23:36] आप Google की Google Drive use करते हो अपना data save करने के लिए। आप
+
+[23:40] YouTube use करते हो। आप में से शायद कुछ लोगों को ना पता हो
+
+[23:44] लेकिन YouTube is owned by Google.
+
+[23:47] Google ने YouTube खरीद लिया था बहुत time पहले।
+
+[23:50] आप Google का Chrome browser use करते हो। आप
+
+[23:54] Chrome browser में अपने bookmarks करके रखे होते हैं कि आपको यह वाले
+
+[23:58] pages जाकर visit करने हैं। Gmail मैंने आपको already बता दिया।
+
+[24:03] अब Google को इतना पता है आप कौन सी videos देखते हो,
+
+[24:08] कौन से आपने links specifically save करके रखे हुए हैं, आपको
+
+[24:12] किस तरीके की emails आती है और आप उनके कैसे responses देते हो। आप Google पर क्या
+
+[24:16] search करते हो? यह सब पता है Google को। उसके basis
+
+[24:20] पर Google ने एक profile बना ली
+
+[24:23] आपकी
+
+[24:24] कि आपकी personality कैसी है।
+
+[24:28] आप
+
+[24:30] किन चीजों के साथ interact करते हो और किन चीजों के साथ आप interact नहीं करते?
+
+[24:34] Google ने आपकी personality बना ली है।
+
+[24:38] तो आप Google Gemini से जो question पूछोगे,
+
+[24:42] आपको जो answer मिलेगा वह आपकी personality का पूरा
+
+[24:46] file बनाकर रखा हुआ है।
+
+[24:50] उसको consider करके आपको answer मिलेगा। तो वह आपकी
+
+[24:53] intention समझता है, वह आपका intent समझता है।
+
+[24:59] जिसमें keywords की जरूरत नहीं पड़ती।
+
+[25:03] जिस वजह से आप अगर question गलत भी पूछोगे,
+
+[25:08] तब भी आपको answer सही मिलेगा because आपकी पूरी
+
+[25:12] profile online बन चुकी है।
+
+[25:16] And these platforms understand कि आपका
+
+[25:20] usage करने का तरीका कैसा है।
+
+[25:24] जैसे
+
+[25:26] parents को बच्चों के बारे में पता चल जाता है कि "okay, बच्चा मेरा
+
+[25:30] यह तुतला के बोल रहा है, लेकिन यह बोल रहा है।"
+
+[25:34] वैसे क्योंकि parents को उन बच्चों के intention का पता होता है कि वह
+
+[25:38] क्या बोलने वाले हैं, कैसे बोलने वाले हैं, क्योंकि observe किया होता है। It's
+
+[25:42] all based on observation. आपको इतने time से observe
+
+[25:46] किया जा रहा है कि आपकी profile एक online already available है,
+
+[25:50] जिसके basis पर आपकी intention समझकर आपको एक answer दिया जाता है,
+
+[25:54] जिसकी वजह से आप most of the time those answers से satisfactory होते हो।
+
+[25:59] मैं एक funny fact बताता हूँ।
+
+[26:05] US, Canada के बारे में अगर बात करूं, इस तरफ की मैं बात करूं। I don't know वह चीज
+
+[26:08] India में उतनी नहीं हो रही।
+
+[26:10] लोग AI platform से बात करना human beings से ज्यादा पसंद कर रहे
+
+[26:14] हैं। उसका simple सा reason यह है
+
+[26:18] क्योंकि human beings तो आपको बोल देंगे कि "नहीं यार तू गलत है।
+
+[26:21] नहीं ऐसा नहीं हो सकता" या सामने वाले को आपकी बात ही नहीं समझ आएगी।
+
+[26:26] AI engines के साथ यह problem नहीं है क्योंकि आपको इतने depth में observe किया जा
+
+[26:30] चुका है कि आपको जो AI answer देगा, वह आपको पसंद आएगा। वह ऐसे ही answer
+
+[26:34] दिया जाता है जो आपको पसंद आए। तो
+
+[26:36] AEO का funda यह भी है कि
+
+[26:40] जो मैंने starting में बात बताई थी ना कि
+
+[26:42] we will come up with the questions
+
+[26:45] कि आपकी business, आपकी industry में लोग कौन-से questions पूछ रहे हैं।
+
+[26:50] उसका perspective यही था कि हम आपके customer की profile समझें
+
+[26:54] इस तरीके से कि उस तरीके का content आपकी website पर
+
+[26:59] डाला जाए कि
+
+[27:00] आपका content ऐसा हो कि AI engine समझें कि आप अपने
+
+[27:04] customer का intent समझते हो।
+
+[27:07] आपका customer क्या जानना चाहता है, आप intent समझते हो तभी आपने वह वाला
+
+[27:11] content अपनी website पर बनाया है। तो how do you understand
+
+[27:15] that intent
+
+[27:17] and how do you really create that content?
+
+[27:21] AEO की यह एक foundational चीज है।
+
+[27:28] Let me take a pause here.
+
+[27:33] अभी तक जो मैंने कहा, वह समझ आया?
+
+[27:38] यह foundational थी चीज। यह बहुत basic चीज थी।
+
+[27:42] इसके ऊपर ही सारी चीजें develop होंगी।
+
+[27:46] ठीक है। तो intention
+
+[27:47] समझने के बाद
+
+[27:52] then you basically
+
+[27:55] create the content
+
+[27:57] ताकि आपका जो content है वह लोगों को समझ आ पाए।
+
+[28:02] AI engines को भी। एक चीज और मैं आपको बता दूँ कि आज के
+
+[28:06] time पर
+
+[28:08] हमें दो चीजों का ध्यान रखना है। हमें सिर्फ customers का ध्यान नहीं
+
+[28:12] रखना। हमें AI engines का भी ध्यान रखना है कि AI engines को भी वह चीज समझ आए।
+
+[28:17] अब एक और चीज है।
+
+[28:19] आपने content तो लिख लिया
+
+[28:21] अपने platform पर।
+
+[28:23] लेकिन वह content की जो quality है, वह कैसी है?
+
+[28:29] उसकी quality कितनी अच्छी है, कितनी अच्छी नहीं है, वह बहुत matter करती है। मैं
+
+[28:32] example देता हूँ आपको। आप मुझसे पूछो कि "दर्श यार
+
+[28:36] मुझे healthy रहना है, मैं क्या करूं?"
+
+[28:38] मैं बोलूं, "Eat apple a day, keep doctor away." You know?
+
+[28:43] बहुत basic, बहुत foundational सी चीज है।
+
+[28:46] कोई नहीं follow करेगा इस call पर।
+
+[28:49] Right?
+
+[28:50] अगर आप कोई ऐसी information share कर रहे हो जो already exist
+
+[28:54] करती है और लोगों को वह generally पता है।
+
+[28:59] It is not going to make a difference.
+
+[29:02] आप recommend नहीं होगे। आपकी
+
+[29:05] information की quality बहुत low थी
+
+[29:09] जिसकी वजह से आप recommend नहीं होगे。
+
+[29:11] मैं एक example और देता हूँ आपको।
+
+[29:14] आप यह समझो कि आपको अगर किसी का रिश्ता करवाना है।
+
+[29:18] ठीक है। आपके पास लड़की आई। आपको वह लड़की की family
+
+[29:22] बोल रही है कि "हमारा रिश्ता करवा दो।"
+
+[29:24] आप लड़के वाले के
+
+[29:26] बारे में हर जगह से पता करोगे। हर चीज देखोगे उनकी कि
+
+[29:30] उनका family background कैसा है, उनके बाकी रिश्तेदार कैसे हैं, लड़का job कैसी
+
+[29:34] करता है, कितनी देर से job कर रहा है। You will understand
+
+[29:38] everything और तब जाकर आप वह लड़का recommend
+
+[29:42] करोगे।
+
+[29:44] Same वैसे ही
+
+[29:47] AI engines के लिए आप लड़की वाले हो।
+
+[29:50] तो आपको जो business recommend होना है, जो लड़के वाले recommend होने हैं,
+
+[29:55] वह proper research करने के बाद recommend होंगे।
+
+[29:59] आपकी preference, आपकी profile देखने के बाद तब वह recommend होंगे।
+
+[30:03] अब
+
+[30:04] जब आप business हो तो आप लड़के वाले हो।
+
+[30:08] तो आप अगर लड़के वाले हो तो आपको अपनी profile online ऐसी बनानी
+
+[30:12] पड़ेगी कि आप recommend हो दूसरे लड़की वालों के लिए।
+
+[30:16] अब उसके लिए क्या है कि आपकी जो information की quality होनी चाहिए वह
+
+[30:19] काफी high होनी चाहिए। मैं एक example देता हूँ आपको। For example,
+
+[30:23] आप मुझसे पूछो कि
+
+[30:25] "दर्श यार मुझे प्यास बहुत लगती रहती है। पानी मैं बहुत पी लेता हूँ, बहुत
+
+[30:29] पानी पी लेती हूँ but still I
+
+[30:33] want to continue having water।" मैं क्या करूं?
+
+[30:36] एक तो मेरा बहुत basic जवाब हो सकता है कि पानी पीते रहो, फिर और क्या कर
+
+[30:39] सकते हो। Right? इसका तो कोई और इलाज है नहीं।
+
+[30:43] अगर मैं आपको थोड़ा in-depth जाकर answer दूं और मैं बोलूं कि प्यास इसलिए
+
+[30:47] शायद ज्यादा लग रही है क्योंकि तुम्हारी body
+
+[30:53] पानी retain नहीं कर पा रही। पानी retain करने के लिए अगर आपकी body में
+
+[30:57] salt थोड़ा ज्यादा होगा, तो पानी retain होगा, और आपको प्यास कम लगेगी।
+
+[31:02] यह थोड़ी in-depth knowledge हो गई, जो common knowledge नहीं
+
+[31:05] है। अगर मैं इस level की बात करना start करूं
+
+[31:09] तो
+
+[31:11] आप बोलोगे, "नहीं यार, Darsh को health के बारे में पता है।" तो आपका कोई
+
+[31:15] friend आपसे health के बारे में कुछ पूछे तो आप मुझसे पूछने आ
+
+[31:18] जाओगे कि "हां नहीं यार, let's talk to Darsh, उसको health के बारे में थोड़ा ज्यादा
+
+[31:21] पता है। यह तो मुझे पता ही नहीं था कि body में salt थोड़ा ज्यादा होना चाहिए
+
+[31:24] अगर water retention कम है।" Right?
+
+[31:29] Similarly,
+
+[31:31] जब आपकी information की quality high होती है और कैसे you make that
+
+[31:35] quality higher? सब कुछ cover होगा। अभी मैं concept समझा रहा
+
+[31:39] हूँ कि how do you really get recommended या recommend कैसे होते हो। एक तो हो गया
+
+[31:42] वह। दूसरी चीज होती है--
+
+[31:47] चलो मैं बताता हूँ। उसके बारे में बताता हूँ। बाकी चीजें क्या होती हैं, जो structure
+
+[31:50] होता है proper, उसके पीछे code क्या होता है and all other stuff, मैं उसके बारे में
+
+[31:52] बताता हूँ। Let me continue with a few other things उससे
+
+[31:56] पहले। So
+
+[31:59] आज आप जो सीख कर जाओगे,
+
+[32:02] वह जाओगे कि कैसे बाकी के platforms आपको answer करें,
+
+[32:06] recommend करें।
+
+[32:08] एक proper autopsy करेंगे हम एक live account की। मैं आपको दिखाऊंगा।
+
+[32:13] कैसे हम एक website fix करेंगे जो मैंने आपको बताया। मुझे कुछ websites
+
+[32:17] already आ चुकी हैं, लेकिन आप मुझे अभी मत भेजिए। मैं messages नहीं पढ़ रहा
+
+[32:21] हूँ। आपकी website miss हो जाएगी। So you wait
+
+[32:25] till I
+
+[32:27] share the information with you कि मुझे आप website अपनी
+
+[32:31] भेजो। तब तक आप wait करो please। And again,
+
+[32:35] आप तभी अपनी website मुझे भेजना अगर आप अपनी website edit कर सकते
+
+[32:39] हो तो। Otherwise मत भेजना please. We will not.
+
+[32:42] हम change नहीं कर पाएंगे, हम difference नहीं देख पाएंगे। Okay.
+
+[32:46] Alright. So
+
+[32:48] moving on to the next part
+
+[32:51] कि
+
+[32:53] questions आप अपने q.claimskills.ai पर पूछ सकते हो।
+
+[32:57] मैं कोशिश करूंगा-- jargons होते हैं कि ऐसी language जो
+
+[33:01] एक specific industry से related होती है तो कई बार वह बाहर समझ नहीं आती। तो
+
+[33:05] मैं कोशिश करूंगा कि मैं ऐसी language न use करूं कि आपको समझ न आए। I will
+
+[33:09] try my best. एक चीज मैं बार-बार जो use करूंगा वह AEO है। AEO is
+
+[33:13] Answer Engine Optimization। उसके बारे में हम आज बात कर रहे हैं। तो AEO के बारे में
+
+[33:16] तो सबको पता लग ही गया होगा आज already. Right?
+
+[33:19] So next is--
+
+[33:24] Yeah, यह मैं already आपको पूछ चुका हूँ website. Okay.
+
+[33:27] So
+
+[33:29] जो story change हुई, वह यह हुई कि
+
+[33:33] 10 links के बजाय आज हमें एक answer मिल रहा है। That's also I have talked to
+
+[33:37] you about कि वह एक answer में हमें कैसे recommend होना है।
+
+[33:42] एक फटाफट comparison कर लेते हैं जो चीजें हम ने already बात कर चुकी है उनके बारे
+
+[33:45] में। कि पहले होता था हमें 10 links मिलते थे।
+
+[33:48] अब हमें एक answer मिलता है right on the top.
+
+[33:51] That is the answer that we go for. वही answer हम पढ़के answer
+
+[33:55] हमारा questions हमें समझ आ जाता है।
+
+[33:58] फिर पहले क्या होता था?
+
+[34:01] Customer आप links choose करते थे कि आपको कौन-से links click करने
+
+[34:04] हैं। आज आपको machine खुद ही choose करके बता रही है
+
+[34:08] कि यह answer है। यहां से आपका question answer हो
+
+[34:12] जाएगा। तो आप click नहीं कर रहे हो links पर
+
+[34:15] अब। अब आपको machine ही answer दे रही है कि यह
+
+[34:19] answer है।
+
+[34:22] अगर आप page one
+
+[34:25] पर नहीं आते थे, तब
+
+[34:28] आप समझ लो कि आपको कोई lead नहीं आने वाली क्योंकि page two पर कोई नहीं
+
+[34:32] जाता
+
+[34:33] Google के। Page one से जो answer लेने होते लोग ले लेते हैं। अगर आप page one पर थे
+
+[34:37] तो आप समझ लो कि आप race में हो। अगर आप page one पर नहीं हो then आप race में भी नहीं
+
+[34:40] हो।
+
+[34:42] अब
+
+[34:43] आपका नाम answer में ही आता है जो AI choose
+
+[34:47] करता है। अगर आपका नाम AI ने answer दिया और अगर
+
+[34:51] आपका नाम वहां नहीं आ रहा then आप invisible हो। तो 10 links वाली बात हो गई खत्म
+
+[34:55] already.
+
+[34:58] तो पहले यह चीज होती थी कि अगर आपको लोग देख पा रहे हैं first page
+
+[35:02] पर then you are already winning कि आप race में हो। लेकिन अब अगर
+
+[35:05] आप लोग आपके बारे में लोग पढ़ पा रहे हैं
+
+[35:09] जो answer ChatGPT ने Google ने दिया तब आप जीत रहे हो
+
+[35:12] otherwise आप नहीं जीत रहे।
+
+[35:16] clear है ना यह चीज? इसमें कोई doubt तो नहीं है कि क्या difference आया है
+
+[35:20] AEO से? क्योंकि अब आपको एक answer मिल रहा है तो आपको उस एक answer में recommend
+
+[35:24] होना है। आपको सिर्फ 10 blue links में recommend नहीं होना। That part
+
+[35:28] is clear, right?
+
+[35:32] Okay.
+
+[35:37] Alright.
+
+[35:39] So
+
+[35:41] अगर आप में से
+
+[35:42] कोई मुझे कहे you know यह तो ChatGPT की story हो गई। ChatGPT में हमें एक answer
+
+[35:46] मिलता है।
+
+[35:48] But why should we worry about ChatGPT? That's not the case.
+
+[35:51] मैंने आपको दिखाया, right? कि Google पर भी आपको ऊपर एक answers generate हो कर आ रहा
+
+[35:55] है। आप वहीं से अपना question का answer ले लेते हो and then you don't
+
+[35:59] go down। And
+
+[36:02] बाकी के AI assistants भी एक ही answer दे रहे हैं।
+
+[36:05] आपको एक answer देने के बाद फिर आपको alternatives मिलते हैं कि "अच्छा यह तो
+
+[36:09] हमने आपको answer दे दिया लेकिन अगर आपको और details चाहिए then आप जाकर click कर
+
+[36:13] लो।" So
+
+[36:15] people don't click anymore. The point is कि people don't click.
+
+[36:18] इनको
+
+[36:19] no click search भी बोलते हैं basically कि आप
+
+[36:22] search तो कर रहे हो और आपको आपका answer भी मिल रहा है लेकिन आपको click नहीं करना
+
+[36:26] पड़ रहा कहीं पर।
+
+[36:28] तो एक activity हम करेंगे लेकिन अभी नहीं। मैं आपको बताऊंगा
+
+[36:32] वह activity कब करनी है जिसमें I will tell you कि
+
+[36:36] आप अपने business के बारे में मतलब आप अपना business का नाम नहीं डालोगे
+
+[36:41] आप जिस industry को belong करता है,
+
+[36:45] आप अपनी industry के बारे में search करो
+
+[36:49] और आपको पता करना है, आपको देखना है कि आपका business कहाँ recommend हो रहा
+
+[36:53] है। अगर recommend हो रहा है कि नहीं हो रहा। या तो आपका business recommend हो रहा
+
+[36:56] होगा या आपके competitor का business recommend हो रहा होगा या कोई भी recommend नहीं
+
+[36:59] हो रहा होगा और किसी ने भी online अपनी presence strong नहीं बना रखी है।
+
+[37:04] हम वह activity अभी करेंगे।
+
+[37:06] हम वह activity करेंगे।
+
+[37:09] तो उसके लिए मैंने आपको कहा था अपने phone वगैरह बंद कर लो।
+
+[37:13] Let's do that activity actually right now.
+
+[37:20] Guys, team आप chat सिर्फ मेरे साथ खोल सकते हो?
+
+[37:24] क्योंकि मुझे individual messages आ रहे हैं तो पढ़ने बहुत मुश्किल हो जाते हैं। Just
+
+[37:28] open the chat for everybody to be able to chat only with me,
+
+[37:32] not with everybody else, only with me.
+
+[37:38] Chat column team. Okay.
+
+[37:43] Let me
+
+[37:44] start that.
+
+[37:46] One second.
+
+[37:49] Let's do one activity.
+
+[37:56] Second.
+
+[38:02] Chat.
+
+[38:05] All right.
+
+[38:08] So let's do one thing.
+
+[38:10] आप अपना phone निकालो।
+
+[38:13] अपना phone निकाल के
+
+[38:16] उसमें आपका जिस industry में आपका business है,
+
+[38:20] आपका business के बारे में directly नहीं पूछना। Not your name, not the name of your
+
+[38:24] business. जिस industry में आपका business belong करता है,
+
+[38:28] उस industry के बारे में आप पूछो कि
+
+[38:31] मुझे-- for example, who is the best
+
+[38:35] in that industry in your town?
+
+[38:38] Who is the best clothing manufacturer या
+
+[38:43] who is the best clothes seller in your town?
+
+[38:46] तो आप अपनी industry का नाम डालकर,
+
+[38:48] अपने शहर का नाम डालकर एक search करो ChatGPT पर and
+
+[38:54] I'll tell you what I need from you. आप पहले search करो। Let's wait for some time
+
+[39:00] ताकि आप सब search कर पाओ। Let's search that. Let's do that.
+
+[39:04] Okay, so packaging machine manufacturers आप search करो।
+
+[39:09] What comes up?
+
+[39:17] Search करो आपके क्या निकल के आ रहा है?
+
+[39:27] अभी answers मत भेजना।
+
+[39:30] I will tell you when to send me the answers.
+
+[39:33] ताकि वह answers आप कर पाओ।
+
+[39:37] So somebody is asking कि loan and finance services का कैसे करें?
+
+[39:40] So आप question पूछ सकते हो। Who is the best
+
+[39:44] personal loan or finance service provider in
+
+[39:48] whatever your city is? जो भी आपका city है।
+
+[39:56] Diamond and jewelry same thing. Who is the best diamond merchant in my
+
+[39:59] city? In whatever your city is.
+
+[40:11] Best mutual fund advisor in Surat. Go for it.
+
+[40:22] पूछ लिया? अगर पूछ लिया है, अब मुझे एक चीज का answer बताओ
+
+[40:26] कि
+
+[40:29] आपका कितने लोग थे? Let me stop sharing.
+
+[40:32] I want to understand। सिर्फ वही लोग hand raise करेंगे
+
+[40:37] जिनका अपना नाम search में
+
+[40:44] आया था। सिर्फ वही लोग hand raise करेंगे।
+
+[40:57] छह लोग, पांच लोग।
+
+[41:03] सात लोग।
+
+[41:07] अब
+
+[41:09] 10 लोग चलो।
+
+[41:11] हम लोग almost इस call पर हजार लोग हैं।
+
+[41:16] तो 1% लोग भी नहीं हुए।
+
+[41:21] 0.1% लोग basically.
+
+[41:26] So 0.1% of people got their names
+
+[41:30] when they asked question about their
+
+[41:35] business.
+
+[41:38] That their business, which industry that business belongs to?
+
+[41:40] If you ask a question about
+
+[41:43] who's best in that industry in your city?
+
+[41:45] Only 0.1% of people are getting
+
+[41:48] the answers with their names. Okay.
+
+[41:52] अब
+
+[41:53] tell me how many of you-- आप लोग hand raise जो अपने
+
+[41:57] keyboard नीचे कर लो वापस because I'm going to ask a next question.
+
+[42:07] Hand raise आप नीचे कर लो अपने। Lower hand. All lower your hand.
+
+[42:11] Lower hand. Okay.
+
+[42:12] अब मुझे आप यह बताओ आपकी industry में-- raise your
+
+[42:16] hand if you saw the name of your competitor
+
+[42:20] on that list.
+
+[42:39] बीस लोग already हो गए।
+
+[42:42] 20, 23, 24,
+
+[42:44] 25, 26
+
+[42:49] 27। Okay. So at least twice the population.
+
+[42:53] लेकिन
+
+[42:55] इसमें
+
+[42:58] जो अच्छी बात यह है कि या तो आपका नाम भी
+
+[43:02] नहीं है, या आपके competitor का नाम है।
+
+[43:08] Twice the population जिन्होंने answer दिया कि उनका नाम आ रहा था, उसे twice
+
+[43:12] लोग, three times actually because 30, almost 30 number है। तो
+
+[43:16] 0.3% of the people on this call जिनका
+
+[43:19] competitor का नाम नहीं था उस पूरी list में।
+
+[43:23] So the point is,
+
+[43:25] या तो आपका नाम दिख नहीं रहा, आपके competitor का दिख रहा है because आप
+
+[43:29] optimized नहीं हो ढंग से,
+
+[43:31] या
+
+[43:32] दोनों ही नहीं दिख रहे।
+
+[43:34] Remember मैंने blue ocean, red ocean की बात करी थी?
+
+[43:39] एक first mover advantage नाम की चीज होती है कि आप
+
+[43:44] जितनी जल्दी action लेते हो
+
+[43:46] और आप उस action को, इसका यह मतलब नहीं कि आपने कोई भी action ले लिया।
+
+[43:50] Properly structured तरीके से, ढंग से जो action आप लेते हो
+
+[43:55] और business set up करते हो एक industry में,
+
+[43:59] तो
+
+[44:00] आपको first mover होने का जो benefit मिलता है
+
+[44:03] उसका कोई comparison ही नहीं है। मैं एक example दे देता हूँ इस चीज को लेकर भी
+
+[44:07] कि
+
+[44:13] Google के बारे में सबको पता है इस call पर। एक दूसरा platform भी है
+
+[44:17] DuckDuckGo करके जो search engine है।
+
+[44:21] Yahoo एक search engine है। ऐसे और बहुत सारे search engines हैं।
+
+[44:26] लेकिन I can guarantee कि 10-20%
+
+[44:30] लोगों ने भी इस call पर DuckDuckGo का नाम नहीं सुना होगा।
+
+[44:34] उसका simple सा reason यह है कि DuckDuckGo was not the first
+
+[44:38] search engine.
+
+[44:42] Right? तो एक first mover advantage होता है। अगर आप उस industry में सबसे
+
+[44:46] पहले आ जाते हो और आप ढंग से काम करते हो
+
+[44:50] continuously, तो you can grow and become like Google ताकि
+
+[44:53] पूरे industry में किसी और का नाम पता ही न हो।
+
+[44:58] आज भी mostly जो लोग इस call पर हैं उनको ChatGPT का नाम पता है
+
+[45:02] क्योंकि ChatGPT was the first AI engine that came into the world
+
+[45:06] in hands of common people. Mostly लोगों को बाकी platforms के बारे में
+
+[45:10] पता ही नहीं है। ChatGPT के बाद
+
+[45:14] Claude है, Claude Perplexity है, Grok है, Gemini है। There are other
+
+[45:17] platforms as well.
+
+[45:22] So the point is, जो first move करता है
+
+[45:26] वह market ज्यादा capture कर लेता है। तो अगर आपको आपका भी नाम नहीं दिखेगा और
+
+[45:30] आपके competitor का नाम भी नहीं दिख रहा तो बहुत बड़ी opportunity है
+
+[45:35] उसको capture करने की।
+
+[45:38] और अगर आपको आपका नाम नहीं दिखा और competitor का नाम दिखा
+
+[45:42] then आपको बहुत जल्दी चीजें implement करनी पड़ेंगी अपने business
+
+[45:46] में ताकि आपके competitors आपका market share ज्यादा से
+
+[45:50] ज्यादा ना खा पाएं।
+
+[45:53] So यह problem
+
+[45:56] पूरी दुनिया में है।
+
+[45:59] That's why I was saying कि blue ocean and red ocean.
+
+[46:03] अभी
+
+[46:05] अगर आपने अपना check करना था जो ChatGPT पर check कर लिया, सब कुछ कर
+
+[46:09] लिया। अपना Instagram जो check करना था check कर लिया।
+
+[46:12] Right? Messages भेजनी थी, भेज दी। Phone वापस रख दो side
+
+[46:14] पर।
+
+[46:19] Phone वापस रखो।
+
+[46:25] All right.
+
+[46:27] So the point is कि आप कभी invisible नहीं थे, आप कभी answer
+
+[46:31] ही नहीं थे।
+
+[46:33] तो हमें सिर्फ answer बनना है उन questions का जो questions लोग
+
+[46:36] पूछ रहे हैं आपके industry से related. As simple as that.
+
+[46:42] So
+
+[46:43] ez.car
+
+[46:46] जो एक client के बारे में मैंने orientation में भी बात करी थी।
+
+[46:50] मैं उसके बारे में थोड़ा in-depth जाकर आपको analysis करके उनके बारे में
+
+[46:53] बताऊंगा
+
+[46:55] कि
+
+[46:56] क्या किया था हमने उनके साथ, क्या नहीं किया था
+
+[46:59] और कैसे results आए, कैसे results नहीं आए।
+
+[47:02] तो उसके बारे में हम थोड़ा in-depth जाकर बात करेंगे। ठीक है?
+
+[47:07] अगर मैं इनकी variety बता दूं, तो variety in a sense कि
+
+[47:11] यह platform ऐसा था जिसमें आप imagine करो
+
+[47:15] एक ऐसी जगह है जो पहाड़ों में है और जहां
+
+[47:19] हर साल बर्फ गिरती है और mostly लोग--
+
+[47:25] India में तो pickup trucks बोलते हैं ना?
+
+[47:28] तो यहां पर उनको सिर्फ trucks बोलते हैं। तो basically जैसे
+
+[47:32] सामने car होती है and then पीछे you have that
+
+[47:35] big area जहां पर आप चीजें load कर सकते हो। Pickup trucks basically.
+
+[47:39] Pickup trucks are generally known to be good for snowy
+
+[47:42] regions. जहां पर snow ज्यादा पड़ती है वहाँ pickup trucks ज्यादा अच्छे काम करते हैं
+
+[47:46] because tyre बड़े होते हैं, power ज्यादा होती है, four by four होते
+
+[47:49] हैं। आप एक area ऐसा imagine करो जहां पर
+
+[47:53] pickup trucks ज्यादा हैं क्योंकि ठंड पड़ती है और mountainous
+
+[47:57] region है। Mountainous region है तो मतलब plain road नहीं है। तो उसके लिए
+
+[48:01] आपको power भी ज्यादा चाहिए, different तरीके की cars चाहिए।
+
+[48:05] दूसरा एक region ऐसा आप imagine करो
+
+[48:08] कि जो beach वाला area है, जहां पर beaches हैं, plain
+
+[48:12] roads हैं, समुद्र के किनारे गर्मी पड़ती है।
+
+[48:16] Mountains नहीं है, snow नहीं है।
+
+[48:19] ez.car
+
+[48:21] की पांच अलग-अलग locations इकट्ठी होकर
+
+[48:25] ez.car बनी थी। उनमें से एक location ऐसी है जो कि
+
+[48:30] Montana में है। जो मैंने आपको बताया बर्फिला region या पहाड़ी
+
+[48:34] region, सर्दियों में बर्फ पड़ती है। दूसरा है उनका California में जहां
+
+[48:38] पर कभी ठंड नहीं पड़ती, गर्मी जरूर होती है। Beach के side पर plains road,
+
+[48:41] different type of cars, different type of people और Montana में different type
+
+[48:45] of cars, different type of people.
+
+[48:49] अगर आप अपना business, चाहे तो दोनों cars ही
+
+[48:54] दोनों both तो cars ही रहे हैं। अगर आप अपने business की
+
+[48:58] website के content में अपना area
+
+[49:02] समझकर, अपना customer base समझकर content नहीं डाल रहे हो
+
+[49:06] और आप generic content डाल रहे हो,
+
+[49:09] it will not give you results.
+
+[49:13] Easy Car से यही मैंने prove किया था कि आप
+
+[49:16] अलग-अलग
+
+[49:19] platform, अलग-अलग
+
+[49:22] locations पर अगर आपकी dealerships हैं, अगर आप उनको इकट्ठा
+
+[49:25] एक साथ लेकर आते हो, still आप कैसे rank कर सकते हो एक ही website से?
+
+[49:29] That is what I am going to show you.
+
+[49:33] Nice अनुराग।
+
+[49:35] Okay.
+
+[49:36] So to show you the stats, मैंने slides नहीं दिखाए थे आपको।
+
+[49:41] आपने यह already शायद देखा हो अगर आपने orientation attend करी
+
+[49:44] थी। अगर आपने नहीं करी थी तो आपने नहीं देखा होगा। So I will show you
+
+[49:48] the results एक बार फिर से and comparison करके अब
+
+[49:52] आपको थोड़ा और समझ आएगा कि क्या किया था और क्या नहीं किया था। क्योंकि हम concept की
+
+[49:56] बात कर रहे हैं अभी।
+
+[49:58] So let me
+
+[50:00] select the dates.
+
+[50:05] एक second.
+
+[50:10] So दो
+
+[50:11] महीने का data लेते हैं हम लोग।
+
+[50:21] Okay.
+
+[50:24] Alright.
+
+[50:29] Okay.
+
+[50:31] So यह easy Car, if you see here, ऊपर easy Car
+
+[50:35] लिखा हुआ है। यहां पर easy Car का यह Google search console है।
+
+[50:39] easy Car का
+
+[50:41] जो statistics मैं दिखा रहा हूं आपको कि total जो
+
+[50:45] उनके impressions basically लोगों ने जो car के बारे में search किया था और यह time
+
+[50:49] period है आपका
+
+[50:54] 23 March से लेकर 24 May तक का।
+
+[50:57] 23 March, 24 May दो महीने का data। 23 March
+
+[51:01] यहां पर भी
+
+[51:03] 23 से लेकर यहां पर 24 May तक।
+
+[51:07] So 27,000 times इनके जो impressions
+
+[51:11] basically आए थे जब लोगों ने पूछा था कि car हमें चाहिए, then
+
+[51:14] इनका नाम निकल के आया था। ठीक है?
+
+[51:17] Around 1000 लोगों ने click किया था इनके
+
+[51:21] links पर, उनके impressions पर। और average position मतलब 12th position
+
+[51:25] मतलब page number two। क्योंकि Google के page one पर सिर्फ
+
+[51:29] 10 links ही आते हैं। जो
+
+[51:32] non-sponsored links होते हैं वह 10 ही आते हैं। Non-sponsored links का
+
+[51:36] मतलब
+
+[51:37] यह है कि आप Google पर भी rank high कर सकते
+
+[51:41] हो पैसे देकर। Basically sponsorship करके, ads run
+
+[51:45] करके।
+
+[51:46] जो non-ad वाले link होते हैं वह 10 ही होते हैं। फिर आपको page two पर
+
+[51:50] जाना पड़ता है। So
+
+[51:53] यह page two पर थे। अभी जब हमने इनके
+
+[51:56] साथ काम किया, we worked on their
+
+[52:00] platform, तो मैं 25 May से 25 July
+
+[52:04] तक का दिखाता हूँ, अगले दो महीने का data.
+
+[52:06] तो यह आप ध्यान रखना, यह 27,000 number है यहां पर।
+
+[52:10] 27,000 लोग आए थे। मेरे लोगों को impressions दिखे थे
+
+[52:14] और 1000 लोगों ने click किया था।
+
+[52:17] May से July तक। तो हमने इनका platform जो था वह launch किया 25 May
+
+[52:21] को।
+
+[52:23] 25 May को जब हमने launch किया, 25 May से 25 July दो महीने।
+
+[52:27] 1.16
+
+[52:33] million number of impressions.
+
+[52:36] 11 लाख impressions की बात कर रहे हैं हम लोग।
+
+[52:41] 27 हजार से 11 लाख impressions.
+
+[52:48] और easy.car पर
+
+[52:51] जैसे मैं आपको बता रहा था, एक जगह की
+
+[52:55] cars नहीं है। वो mountain region वाली cars भी बेच रहे हैं, वो beach
+
+[52:59] वाली cars भी बेच रहे हैं।
+
+[53:03] That is the power. अब इतने impressions उनके बढ़े, उनके clicks भी
+
+[53:06] बढ़े। मैं आपको सारी detail अभी दिखाता हूँ कि क्या था उसमें, क्या नहीं था and
+
+[53:10] क्या हमने किया था। That is the next part that I am going to cover कि हमने क्या किया
+
+[53:14] था। तो एक तो 11 लाख impressions और यह clicks हो गए
+
+[53:18] three times। और यह average position आप check करो कि 12th, 13th position से यह
+
+[53:22] 7th to 8th position पर आ गए थे। तो page one पर आ गए थे यह लोग।
+
+[53:28] और results कितनी जल्दी मिलते हैं मैं वह आपको दिखाता हूँ।
+
+[53:32] मैं एक simple सी चीज दिखाता हूँ आपको। इनका rank check करते हैं May के
+
+[53:35] 22 से लेकर 23 तारीख तक के। May
+
+[53:39] के 22 और 23 मतलब हमने 25 को launch किया था। Let's check
+
+[53:45] their rank on 22nd, 23rd May.
+
+[53:48] इनका rank था 15th to 16th position.
+
+[53:52] ठीक है?
+
+[53:53] और हमने launch किया था इनका 25th को। तो 25th से 26th
+
+[53:57] में देखते हैं इनका rank कितना better हुआ था।
+
+[54:01] So 26th.
+
+[54:04] So एक दिन में page two से page one पर आ गए ये लोग।
+
+[54:08] 15th to 16th rank से लेकर 7th to 8th rank तक in
+
+[54:12] one day.
+
+[54:14] In just one day.
+
+[54:19] Right? So यह कैसे किया? यह मैं वही बता रहा था।
+
+[54:23] इसका proper एक structured तरीका है
+
+[54:26] कि how do you really
+
+[54:28] get those kind of results? क्योंकि मैंने एक चीज बोली कि हमें सिर्फ
+
+[54:32] अपने customer के बारे में ध्यान में नहीं रखना, हमें यह भी ध्यान में रखना है कि यह
+
+[54:35] AI platforms कैसे information समझते हैं।
+
+[54:38] यह information समझते हैं
+
+[54:41] code की, language ज्यादा समझते हैं। यह
+
+[54:44] human language इतनी अच्छे तरीके से नहीं समझ पाते जितनी अच्छे तरीके से code
+
+[54:48] समझते हैं। तो वह code क्या होता है? उसको बोलते हैं schema markup.
+
+[54:53] Schema markup is a code. वह code आपके page
+
+[54:57] के पीछे होता है। इसलिए मैंने पूछा था कि जिनकी websites है
+
+[55:01] जिन्होंने कभी audit नहीं किया और आप access कर सकते हो अपनी
+
+[55:05] websites का कि
+
+[55:08] We'll make that change, and I'll show you the results, that your website will be
+
+[55:12] visible or not. Instant. Like this.
+
+[55:15] Instantly, you'll see the difference. Okay? That is what we will do.
+
+[55:19] So,
+
+[55:23] Easy Car related team, many slides.
+
+[55:25] I
+
+[55:26] just wanted to cover that very fast.
+
+[55:30] Mm.
+
+[55:34] Okay.
+
+[55:39] Okay. So,
+
+[55:41] let's do one thing. We will do one activity.
+
+[55:46] We've been on the call for one hour. Let's do that activity.
+
+[55:48] So are you guys ready for,
+
+[55:51] this is now when I will start looking at your
+
+[55:55] answers. If you have your website ready
+
+[55:58] and you have never audited it before, or you can
+
+[56:04] access your website and you can make a change to your website.
+
+[56:08] Three conditions: never audited,
+
+[56:11] you have access to your website, and you can make edits to your website.
+
+[56:15] If you don't know how to make edits,
+
+[56:17] let's not waste everybody's time.
+
+[56:19] You learn, and do it later, what all you have to do.
+
+[56:23] Give me
+
+[56:26] a website
+
+[56:30] in the chat now.
+
+[56:36] Okay.
+
+[56:38] Let me pick a few. I am picking some websites,
+
+[56:41] and
+
+[56:47] I'll decide which website we'll go with, because I'm going to check a few and I'll
+
+[56:51] see which will have the biggest impact.
+
+[56:53] So we'll pick one of those websites.
+
+[56:55] I'm just checking
+
+[56:57] one of the websites right now.
+
+[57:03] Okay.
+
+[57:05] Only give me the names if you can edit your website.
+
+[57:08] Otherwise, please don't.
+
+[57:11] Let's not waste everybody's time.
+
+[57:27] I'm just looking for some details from the websites I
+
+[57:31] have.
+
+[57:36] Okay.
+
+[57:41] Give me a few minutes.
+
+[58:06] Okay. Okay.
+
+[58:07] techgenixconsultant.com.
+
+[58:16] Whose website is that?
+
+[58:17] Techgenixconsultant.com.
+
+[58:25] Somebody
+
+[58:27] has put that in the chat. Whose
+
+[58:29] website is techgenixconsultant.com?
+
+[58:32] Can you send me a message again?
+
+[58:46] Okay. All right. Madhu.
+
+[58:48] Okay. So
+
+[58:50] can you edit your website?
+
+[58:55] Okay.
+
+[58:57] Let me
+
+[59:00] try
+
+[59:08] to bring you
+
+[59:14] up on the call.
+
+[59:23] So Madhu,
+
+[59:25] are you okay if I bring you on the call so that I can screen share?
+
+[59:29] Okay.
+
+[59:31] Oh, Dave. Okay, it's Dave. All right, cool. I'm bringing you on the call.
+
+[59:34] If you can share your screen, we'll edit a few things.
+
+[59:38] Okay. All right, cool. Let's do that. Okay.
+
+[59:44] All right, Dave.
+
+[59:48] Can you share your screen?
+
+[01:00:02] You should be able to unmute as well.
+
+[01:00:06] Yeah. I am unmuted. Yep.
+
+[01:00:08] Okay. You getting an option to share your screen?
+
+[01:00:13] Yeah. I'm getting an option. Okay, cool.
+
+[01:00:16] Okay. Remove the spotlights.
+
+[01:00:20] All right.
+
+[01:00:22] Yeah.
+
+[01:00:23] So this is clear.
+
+[01:00:26] Okay.
+
+[01:00:29] And- This is based on GoDaddy. We have edit.
+
+[01:00:33] Okay. So do you know where you can put a code on this website?
+
+[01:00:39] Just a second.
+
+[01:00:46] Yeah, come again?
+
+[01:00:48] Do you know where to put the code on this website?
+
+[01:00:53] Not really, because we have designed it
+
+[01:00:56] through the AI. So I will not-
+
+[01:01:00] Okay. Scroll down a little bit.
+
+[01:01:02] Edit me. You're in the edit right now, right?
+
+[01:01:07] The optimization- Scroll down. So this is just the styling.
+
+[01:01:10] What about when you have to change the content, where do you go?
+
+[01:01:14] Okay, just a second.
+
+[01:01:21] So I'm just going to check other messages in the meantime.
+
+[01:01:25] Okay, so-
+
+[01:01:28] Just give me a sec. Lewis, you have a problem. Okay. Where can you edit?
+
+[01:01:32] If you can edit, where to edit the code from? If you can find that out.
+
+[01:01:36] Lewis, I'll prompt with you next in case if this doesn't work out.
+
+[01:01:45] But I'm checking a few things first.
+
+[01:01:49] No, I don't think we
+
+[01:01:52] have that option, bro.
+
+[01:01:57] Okay, you don't have that option? No.
+
+[01:02:00] Okay. All right. So then I'm just going to bring Lewis on. Sure.
+
+[01:02:04] All right. Thank you. Thanks, Dave. Thanks.
+
+[01:02:10] All right. Lewis, I'm bringing you on. Let's do this together.
+
+[01:02:17] Okay.
+
+[01:02:27] Are you on, Lewis?
+
+[01:02:32] Can you unmute yourself?
+
+[01:02:35] Yes, we are on.
+
+[01:02:36] Yeah. Hello.
+
+[01:02:37] Hello. Hi.
+
+[01:02:38] Hi, guys.
+
+[01:02:40] Hi. Okay. So My Custom Beats.
+
+[01:02:45] Let's do that.
+
+[01:02:48] And
+
+[01:02:50] okay, I'm also setting up a few things for you guys in the back end so that I
+
+[01:02:54] can show you
+
+[01:02:55] what are we going to do with, what are the code that we're going to change.
+
+[01:02:58] So I'm doing a very quick audit
+
+[01:03:02] on your website, and I'll show you what we're going to change.
+
+[01:03:06] So, can you share a screen with everybody please in the meantime?
+
+[01:03:11] Okay, hang on.
+
+[01:03:32] Are you getting the option to share screen?
+
+[01:03:34] I'm just looking. Oh, yeah. Okay. Yeah.
+
+[01:03:38] Okay.
+
+[01:03:44] One participant can share at a time.
+
+[01:03:47] It says one participant can share at a time.
+
+[01:03:52] Yeah, only you will
+
+[01:03:54] be sharing if- Yeah ... because I'm not sharing anything right now. Oh, okay.
+
+[01:03:58] Hang on.
+
+[01:04:03] In the interest of time, I'm just going to look in case somebody else is ready.
+
+[01:04:07] Okay, perfect.
+
+[01:04:10] Okay.
+
+[01:04:14] So where is this website built?
+
+[01:04:16] It's on React and White.
+
+[01:04:19] Okay, perfect. Yes, NVS code.
+
+[01:04:22] Okay, and then do you have a header section somewhere?
+
+[01:04:26] Yes. Okay. And you can put a code in that, right?
+
+[01:04:29] Absolutely. Okay, perfect. So, if you can stop sharing right now,
+
+[01:04:33] because I want to share a screen with everybody else and show them something else,
+
+[01:04:37] and then I'll basically come back and ask you to share your screen. Perfect.
+
+[01:04:40] I just wanted to see if you could share the screen or not.
+
+[01:04:42] So
+
+[01:04:43] what I've done, guys,
+
+[01:04:45] basically, I took their website, My Custom Beats, and the tool that I was
+
+[01:04:49] talking to you about,
+
+[01:04:51] I put the website in that tool, and it automatically
+
+[01:04:54] detected what are the competitors in that
+
+[01:04:58] industry for them.
+
+[01:05:00] Do they look like to be correct competitors for you?
+
+[01:05:04] Hmm.
+
+[01:05:08] They do, but they're not the industry that
+
+[01:05:10] we're actually
+
+[01:05:14] marketing towards.
+
+[01:05:16] Cruise ships.
+
+[01:05:17] So you have more niche down product, are you saying?
+
+[01:05:21] Correct. Okay. So then that means that this if system
+
+[01:05:25] is not able to detect that, it means that we have to put that information in a more
+
+[01:05:29] structured manner so that your competitors are shown correctly as well.
+
+[01:05:33] So if I go and run an audit, this audit is going to be running for some time
+
+[01:05:37] now, and what it's going to tell us is how visible you are when people
+
+[01:05:41] are asking questions that your business belongs to, the industry that your business
+
+[01:05:45] belongs to, and
+
+[01:05:48] competitors visible. So if you see,
+
+[01:05:51] across five platforms, that analysis is currently running right now.
+
+[01:05:54] So we'll come back to this. And what will happen basically is you
+
+[01:05:58] will see
+
+[01:06:00] what are the things that are lacking, and I will basically be able to
+
+[01:06:04] give you a code.
+
+[01:06:10] and then it's going to start appearing in a much more detailed manner
+
+[01:06:14] for
+
+[01:06:15] your entire website. And your website will be more and more visible.
+
+[01:06:18] So if I look at it, let me actually
+
+[01:06:21] show you what's visible right now.
+
+[01:06:25] If I do a schema validator check very quickly, this is what shows up for
+
+[01:06:29] me.
+
+[01:06:30] So if I do it for My Custom Beats, that's all I see on
+
+[01:06:34] the page.
+
+[01:06:38] Okay? That's all I see, which is- Right ... it's a webpage.
+
+[01:06:41] This is the name. It's a website. Okay.
+
+[01:06:45] That's it, nothing else. The basic description only.
+
+[01:06:49] It doesn't tell me anything else about your business.
+
+[01:06:52] So like when you- Oh, it's a new website, actually. Yeah.
+
+[01:06:55] It's not the old website. So- Perfect.
+
+[01:06:58] Great time to actually do it then. Absolutely.
+
+[01:07:02] Right. So, this is what we're going to make better today, where
+
+[01:07:06] you will, once this entire audit is over, I'll give you codes,
+
+[01:07:10] and then when you update that, those codes are going to be appearing here
+
+[01:07:16] instantly. And then you'll be able to see that,
+
+[01:07:19] over a period of time, you'll be able to see that you're getting recommended
+
+[01:07:22] organically because you've
+
+[01:07:26] been able to understand how do you really niche down.
+
+[01:07:28] The way you've niched down, how do you really communicate that message?
+
+[01:07:33] basically. So I'm going to give you a code Okay ...
+
+[01:07:37] that you will just update on your new website.
+
+[01:07:40] Do you want us to do it right now or maybe later? Yes.
+
+[01:07:43] So what's happening right now is, if you see,
+
+[01:07:48] this analysis is currently running, the analysis of each other.
+
+[01:07:52] So when this is completed, when it's done, it's going to tell me what
+
+[01:07:56] are the loopholes and where are the loopholes.
+
+[01:07:58] And then based on the loopholes, it will generate a code for your
+
+[01:08:02] website, and it'll give that code to you. So it's going to take some time.
+
+[01:08:05] Oh, perfect.
+
+[01:08:06] Yeah.
+
+[01:08:07] Interesting.
+
+[01:08:07] So
+
+[01:08:08] we guys saw what's the code right now on the website, but we'll
+
+[01:08:12] see what are the things that are wrong, and I'll show those to you,
+
+[01:08:16] to everybody, when the analysis is complete.
+
+[01:08:18] And it will also generate the things that are not
+
+[01:08:22] on your website. So we'll fix those live on the call.
+
+[01:08:26] And this is exactly what we did with
+
+[01:08:30] easy.car.
+
+[01:08:32] Exactly what we did. Okay?
+
+[01:08:35] So that's one thing, which is schema markup.
+
+[01:08:38] I gave you guys an example, the other example which was for a
+
+[01:08:42] librarian. So if you go to a librarian and you ask a question from a
+
+[01:08:46] librarian, and the librarian will give you 10 books.
+
+[01:08:51] Okay, the answer is in these 10 books.
+
+[01:08:54] You're not going to read all those books.
+
+[01:08:56] Similarly, when you go to Google, you ask a question, you don't go through all 10
+
+[01:09:00] links to find your answer.
+
+[01:09:02] Your answer appears on the top.
+
+[01:09:06] So the next thing that actually happens is, when
+
+[01:09:10] you get that answer,
+
+[01:09:11] the next question is,
+
+[01:09:13] how does Google give that answer?
+
+[01:09:18] The answer has been given to you. We need to understand how to get recommended
+
+[01:09:22] in that answer.
+
+[01:09:26] You're getting my point? Getting my question?
+
+[01:09:29] How do we really get recommended? So one way is schema markup, and
+
+[01:09:33] I'll tell you what is the difference. Okay?
+
+[01:09:35] The other thing is called
+
+[01:09:37] llms.txt.
+
+[01:09:41] Llms.txt is, again, let me give you an example, a librarian
+
+[01:09:45] example. You went to
+
+[01:09:47] the librarian and you told the
+
+[01:09:50] librarian,
+
+[01:09:55] "I want to learn about business development." So the librarian will directly
+
+[01:09:59] tell you to go to the library and get business
+
+[01:10:03] development books. The
+
+[01:10:06] librarian will not tell you to first read astrology books,
+
+[01:10:10] then read chemistry books, then read biology books, and then go read business
+
+[01:10:14] development books. A librarian will directly tell you where
+
+[01:10:17] business-related books are, and you can go over there and find the book that you're
+
+[01:10:21] looking for. Similarly, when you ask
+
+[01:10:25] Google a question, to source the answer for Google,
+
+[01:10:30] Google does not go through your entire website to find the answer.
+
+[01:10:30] Google does not go through your entire website to find the answer.
+
+[01:10:36] Google
+
+[01:10:41] goes to
+
+[01:10:43] a place which is something called llms.txt.
+
+[01:10:47] Llms.txt,
+
+[01:10:49] I'll share my screen, and I'll show you what that means.
+
+[01:10:56] Llms.txt. I will first show you the easycar website, which we were
+
+[01:11:00] talking about. So they have about 500 cars.
+
+[01:11:03] Sorry, 600 cars, which means there are
+
+[01:11:08] definitely 600 pages on their website.
+
+[01:11:11] Because there are 600 cars, each car will have its own page.
+
+[01:11:14] And then there are other tools and everything, and then there is a blog section
+
+[01:11:18] which has blogs that get generated every day.
+
+[01:11:21] So you see, I was telling you,
+
+[01:11:23] they are dealing with cars that belong to the beach area, and they're dealing with
+
+[01:11:27] cars that belong to the mountainous region, which is you have your truck here, and
+
+[01:11:31] you have your normal cars here. So there are a lot of blogs
+
+[01:11:35] that are there. This page is full of blogs, but the point that I'm trying to make
+
+[01:11:39] is, there may be a lot of information.
+
+[01:11:43] There may be a lot of information. So this website
+
+[01:11:48] has at least 1,000 to 1,200 pages, 1,000 to 1,200 pages, at least at this point in
+
+[01:11:50] time.
+
+[01:11:52] Amongst all of these pages, if I or Google has to find a particular information,
+
+[01:11:58] Google will not
+
+[01:12:01] go through all 1,200 pages to get you that information.
+
+[01:12:07] Google
+
+[01:12:08] will go to llms.txt. So
+
+[01:12:12] let me open it here itself. So let me just-- Here.
+
+[01:12:18] Let's do that.
+
+[01:12:22] One second. I'll share my screen in a second again.
+
+[01:12:29] Okay, so this is what llms.txt looks like.
+
+[01:12:33] Basically, a guide of which information is where.
+
+[01:12:38] So what it shows you is,
+
+[01:12:43] if you want to know how to buy a car, then
+
+[01:12:45] go to these particular pages. If you want to know what
+
+[01:12:49] cars are available, then this is the link where you have to go.
+
+[01:12:54] If you want to know what are the popular models,
+
+[01:12:57] this is where you go. If you want to answer any frequently
+
+[01:13:01] asked questions, here are the questions and here are the answers.
+
+[01:13:05] If you want
+
+[01:13:07] to have any information on buying guides, how to buy a car,
+
+[01:13:10] then here are the guides. These are the direct links.
+
+[01:13:13] If you want to compare vehicles, then this is the vehicle comparison
+
+[01:13:17] guide here. In which areas do you provide services?
+
+[01:13:21] These are the direct links. So the point that I'm trying to make is,
+
+[01:13:24] instead of going through 1,200 pages, Google just has
+
+[01:13:28] to go to one page,
+
+[01:13:32] find out where the information is, and then go to that page
+
+[01:13:36] directly
+
+[01:13:37] ... and give you that information. Do you understand what I'm saying?
+
+[01:13:41] How easy this is for AI engines. This is called
+
+[01:13:45] llms.txt.
+
+[01:13:49] Which most of the websites don't have.
+
+[01:13:55] Most of the websites don't have llms.txt.
+
+[01:14:00] So this is your
+
+[01:14:02] llms.txt.
+
+[01:14:04] There is something called a schema markup, which I was talking about.
+
+[01:14:08] I told you about one thing. I showed you
+
+[01:14:11] one here. Let me show that again. One second.
+
+[01:14:18] Just this.
+
+[01:14:22] Okay? Schema markup. So let's say llms.txt
+
+[01:14:27] was sent by Google to this page.
+
+[01:14:30] Okay? This page had these details in the schema markup. Only these details.
+
+[01:14:32] From here, Google won't understand many details about what the
+
+[01:14:34] business
+
+[01:14:39] does and doesn't do.
+
+[01:14:42] So to recommend this, Google needs more information.
+
+[01:14:46] So Google reads this
+
+[01:14:49] code. Google does not read what is on your website.
+
+[01:14:53] Google does not read this.
+
+[01:14:56] I'll tell you why. Because when you go to the website,
+
+[01:15:05] there are sections that load when you scroll.
+
+[01:15:08] So Google is not going to scroll through the whole
+
+[01:15:12] section.
+
+[01:15:14] And then sections are appearing when you scroll.
+
+[01:15:16] So Google is not going to
+
+[01:15:18] scroll down and read all the sections.
+
+[01:15:20] Google will directly go to this code and understand what your website is about.
+
+[01:15:25] It will know
+
+[01:15:27] everything from here. Now, if I go back to this particular report that was
+
+[01:15:30] generated, basically, this is what is telling me
+
+[01:15:34] what the brand presence is, which is totally fine if there is no brand presence
+
+[01:15:37] right now because you have recently launched your website.
+
+[01:15:41] But it's telling me what are the things that are missing on the website.
+
+[01:15:45] So it's telling me schema structure is missing overall.
+
+[01:15:49] So this is the schema that you can generate, then you can put
+
+[01:15:53] on your website. So I'm just going to give you
+
+[01:15:55] one of the schemas right now
+
+[01:16:02] that you can add. I can
+
+[01:16:05] send you all of these so that you can add these schemas to your website.
+
+[01:16:12] Lewis, can you put your email address in the chat for me and I'll have these sent
+
+[01:16:16] to you. And then what will happen is, because there are multiple schemas that are
+
+[01:16:20] missing. I was thinking probably there's going to be just one or two.
+
+[01:16:22] There are a lot of these schemas that are missing.
+
+[01:16:24] So if one schema is not enough, we have to put a lot of schemas on the website.
+
+[01:16:28] And then what will happen is
+
+[01:16:30] when Google will go to this page to read the
+
+[01:16:34] code, it will understand all the context about everything that this
+
+[01:16:38] website does.
+
+[01:16:41] So I'll send you all of these schemas, basically, that you can put on
+
+[01:16:45] your website that will help you to get more and more visible.
+
+[01:16:51] I was thinking if there's one schema, we could just do it right now and I could
+
+[01:16:54] show it to people. But there are quite a few that are
+
+[01:16:57] missing.
+
+[01:16:59] So I'm generating all of these, and I'll send these to you so you can add it on the
+
+[01:17:03] website.
+
+[01:17:09] Okay?
+
+[01:17:12] So, for example, this one.
+
+[01:17:17] Let me see. Yeah. Lewis, is this accurate?
+
+[01:17:24] Is this schema accurate from your product group, basically?
+
+[01:17:34] It's not visible.
+
+[01:17:36] Oh, it's not visible. Sorry, one second.
+
+[01:17:41] It's next.
+
+[01:17:42] I think this is ready.
+
+[01:17:47] Is it visible now?
+
+[01:17:49] Let me get it into full screen mode.
+
+[01:17:53] Okay. Yes.
+
+[01:18:12] Is that accurate?
+
+[01:18:14] Yeah. Two lines to appear. Yeah.
+
+[01:18:18] Okay. So like this, there are a few schemas that are missing.
+
+[01:18:21] I've generated all of these. So I've generated all of these schemas, and I'm going
+
+[01:18:24] to send you all of these. Oh, wow. Yeah.
+
+[01:18:27] So what will happen is,
+
+[01:18:30] when you update these schemas in addition to what you already have,
+
+[01:18:34] it's going to make it much more easier for AI engines to understand-
+
+[01:18:39] Okay ... what your business is all about.
+
+[01:18:41] Okay.
+
+[01:18:41] Which is-
+
+[01:18:41] So
+
+[01:18:43] it says exactly where to put it as well, correct? Yes.
+
+[01:18:46] There are instructions over here, okay? In the head section.
+
+[01:18:48] That's why I was asking, do you have the head section- Yes ... where you can add?
+
+[01:18:51] Yeah. So that's exactly where you put it. Yes.
+
+[01:18:54] Perfect.
+
+[01:18:56] Perfect. So
+
+[01:18:57] what will happen is, to basically give context on what's going to happen,
+
+[01:19:01] when you will add that schema
+
+[01:19:04] markup code, it's going to start appearing on this page, which
+
+[01:19:08] means AI engines will have more context about your
+
+[01:19:12] website, what your website is about, and what do you really do.
+
+[01:19:17] Okay.
+
+[01:19:18] Okay? Got it. Thanks. So- Thank you so much. Thank you.
+
+[01:19:22] Thank you. Yeah.
+
+[01:19:22] You're welcome. No
+
+[01:19:24] problem. I
+
+[01:19:26] just got your email address. I'm going to make a note of it, and we'll send it to
+
+[01:19:29] you.
+
+[01:19:30] hello@mycustombeats.com, right? Yes. Okay, perfect. Great.
+
+[01:19:34] Thank you.
+
+[01:19:36] Thank you. Cool. All right. Thank you.
+
+[01:19:38] So-
+
+[01:19:41] Yeah. So
+
+[01:19:43] that's what schema markup does. It will explain to AI
+
+[01:19:47] engines what
+
+[01:19:50] your website is about. LLMs.txt tells where that content is,
+
+[01:19:54] and then
+
+[01:19:59] AI engines go through that entire schema markup to understand what the content
+
+[01:20:02] actually is.
+
+[01:20:08] The other thing that is important is that your website should
+
+[01:20:12] have speed. You have to have a great speed of your
+
+[01:20:15] website so that it loads really fast, because nobody's
+
+[01:20:19] going to wait for
+
+[01:20:22] your website to load. If your website is not loading, it's not going to work.
+
+[01:20:26] And so basically, there should be instant responses on your website.
+
+[01:20:31] I'll give you a few other things. So, for example, we talked about blog posts.
+
+[01:20:36] In blog posts,
+
+[01:20:40] let's say
+
+[01:20:42] you're a firefighter. When you're a firefighter, you have very little time.
+
+[01:20:45] If you have to go put out a fire, you
+
+[01:20:49] have to reach that place
+
+[01:20:51] as soon as possible.
+
+[01:20:53] Now let me ask you a question.
+
+[01:20:57] Don't you think AI engines work like firefighters?
+
+[01:20:59] That they have to give you accurate
+
+[01:21:03] answers
+
+[01:21:06] as quickly as
+
+[01:21:07] possible. If you ask a question to ChatGPT and get the answer 15 minutes later,
+
+[01:21:10] will you wait?
+
+[01:21:15] And if you get the answer instantly but it is wrong, will you use
+
+[01:21:18] ChatGPT again?
+
+[01:21:22] So instant answers and accurate answers.
+
+[01:21:26] The more you help
+
+[01:21:32] AI engines to give accurate and fast answers, the more your business will be
+
+[01:21:36] recommended. And I'll tell you what I mean by that. I will show you a blog post.
+
+[01:21:39] For example, you are a firefighter.
+
+[01:21:43] If
+
+[01:21:55] you ask, "We got a call from
+
+[01:22:02] here that there
+
+[01:22:04] is a fire. You are on your way, you don't know exactly where the fire is.
+
+[01:22:07] You are asking someone, 'Tell me where the fire is.'"
+
+[01:22:09] And he is asking you, "Will you drink water? Have some tea before going.
+
+[01:22:11] Let's talk." Now you will say, "Are you crazy?
+
+[01:22:12] I have to go and put out the fire, and you are asking me for tea and water." Which
+
+[01:22:13] means if there is a fire somewhere, first you should know the address.
+
+[01:22:14] You should know where the fire is so that you can go
+
+[01:22:16] there. Similarly,
+
+[01:22:18] if I talk about your blog post, the information about which your blog post
+
+[01:22:22] is, should be
+
+[01:22:27] in the first paragraph. The most important
+
+[01:22:31] information has to be shared on the top.
+
+[01:22:33] If the person who has come to read the blog
+
+[01:22:35] post, the information is
+
+[01:22:39] written at the end, then no one
+
+[01:22:41] is going to read till the end. It's one of
+
+[01:22:45] the things that I'm telling you. You have to provide the information that
+
+[01:22:49] is most important on the top.
+
+[01:22:56] Why?
+
+[01:22:57] Why do you have to do that? So that
+
+[01:23:00] AI engines basically can find out that
+
+[01:23:04] answer very quickly,
+
+[01:23:06] and then provide that information to the people by reading just the top of the
+
+[01:23:10] stuff.
+
+[01:23:14] Does that make sense?
+
+[01:23:23] So I'll show you the structure, some of the structures.
+
+[01:23:26] Let me actually show you a few more things.
+
+[01:23:34] We just saw
+
+[01:23:36] the schema markup of one of the websites.
+
+[01:23:39] And this is a schema markup only for my blog
+
+[01:23:43] post. Look at the kind of types of schemas that are there.
+
+[01:23:48] It's just one blog post. If I show you, this is one blog post.
+
+[01:23:53] There's a blog post on claim skills.
+
+[01:23:55] Just one blog post has all of these schemas.
+
+[01:24:00] Look at the detail and the depth of
+
+[01:24:03] the schema
+
+[01:24:05] only for a blog post.
+
+[01:24:11] It explains exactly what this blog post is about.
+
+[01:24:25] Exactly what this blog post is about. It explains everything.
+
+[01:24:29] So
+
+[01:24:31] let me show you the structure.
+
+[01:24:34] So the structure is-- Let me open it here, actually.
+
+[01:24:40] Yeah.
+
+[01:24:43] So the structure is like this. First, I'll tell you
+
+[01:24:47] what are you going to learn in this blog post.
+
+[01:24:49] And all of these are clickable links.
+
+[01:24:52] So if I click here, it takes me to this particular section.
+
+[01:24:55] Every section has a heading
+
+[01:24:58] so that you understand what you are going to read in that section.
+
+[01:25:05] Every first paragraph is the most important paragraph of
+
+[01:25:08] that
+
+[01:25:12] particular section.
+
+[01:25:14] Providing relevant links. If I click over here, it takes me where it
+
+[01:25:18] sourced that information from.
+
+[01:25:28] And then in the end, and wherever it is possible, add bullet points.
+
+[01:25:31] It is easy to consume
+
+[01:25:35] bullet points compared to long paragraphs.
+
+[01:25:37] And if you notice,
+
+[01:25:39] the blog post is not running at the entire width of the page.
+
+[01:25:44] उसका reason यह है, जितना लंबा sentence देखेगा, उतना human
+
+[01:25:48] mind
+
+[01:25:50] lazy होने की वजह से read नहीं करेगा। You will not
+
+[01:25:54] want to read long sentences. That is the reason
+
+[01:25:58] why the newspapers होते हैं, वो columns में होते हैं।
+
+[01:26:03] You only have a few words in one column and then you go to the next
+
+[01:26:07] column and then you go to the next column because newspapers understand the
+
+[01:26:10] psychology. If you have one long sentence in the
+
+[01:26:13] newspaper में very long sentence है, आप नहीं पढ़ पाओगे।
+
+[01:26:20] These are the things that I'm talking to you about which when it comes to the
+
+[01:26:22] structure.
+
+[01:26:24] तो एक तो होगा schema markup. Schema markup कैसे generate करते हैं, वो मैंने आपको
+
+[01:26:27] tool पे दिखाया। We'll talk about tools and everything later on.
+
+[01:26:31] अभी आप theory पहले foundational चीजें समझो।
+
+[01:26:34] Keep it in mind, कल का दिन भी है। This is a reasoning skill, दो दिन के
+
+[01:26:38] रखे हैं SK Academy के because we have to go in depth in this entire thing.
+
+[01:26:43] So
+
+[01:26:44] schema markup, आपका एक work हो गई। Then
+
+[01:26:48] you have llms.txt और मैंने आपको blogs के बारे में बताया कि what is
+
+[01:26:53] the structure
+
+[01:26:55] of the blog should be.
+
+[01:26:56] So the structure of the blogs, I'm going to put it in the chat.
+
+[01:26:59] You may copy it, you may take a screenshot.
+
+[01:27:02] So
+
+[01:27:03] I'm going to put it in the chat. Most important thing
+
+[01:27:07] to be shared
+
+[01:27:09] in the beginning in 50 to 60 words.
+
+[01:27:13] That's number one.
+
+[01:27:15] Okay? Number two,
+
+[01:27:20] have a section
+
+[01:27:22] that shares
+
+[01:27:24] what you will learn,
+
+[01:27:27] and it should be clickable and should take the
+
+[01:27:30] user
+
+[01:27:33] to the specific section.
+
+[01:27:36] Number three,
+
+[01:27:39] every section should start
+
+[01:27:44] with
+
+[01:27:45] a proper heading,
+
+[01:27:48] which should explain what the following
+
+[01:27:52] section is about.
+
+[01:27:55] Number four,
+
+[01:27:57] every section's first paragraph should
+
+[01:28:01] be the most important
+
+[01:28:04] paragraph
+
+[01:28:07] in the section.
+
+[01:28:10] Fifth, use bullet points wherever possible.
+
+[01:28:17] Sixth, use step-by-step
+
+[01:28:20] process wherever possible.
+
+[01:28:24] Seventh, use frequently asked questions
+
+[01:28:29] wherever
+
+[01:28:30] possible.
+
+[01:28:34] Eighth,
+
+[01:28:36] add schema markup
+
+[01:28:40] for the blog.
+
+[01:28:43] Ninth,
+
+[01:28:45] add a relevant image
+
+[01:28:47] on the top.
+
+[01:28:49] Tenth,
+
+[01:28:51] make sure the image is in
+
+[01:28:56] WebP format.
+
+[01:28:59] Eleventh, make sure there's
+
+[01:29:02] meta description
+
+[01:29:07] for the blog.
+
+[01:29:10] Make sure
+
+[01:29:12] there's alt text
+
+[01:29:15] for the image
+
+[01:29:18] as well.
+
+[01:29:21] These are the 12 points.
+
+[01:29:24] आप इनका screenshot ले लो, आप इनको copy paste कर लो। This is
+
+[01:29:28] what your structure for the blog should be.
+
+[01:29:33] Pro level, if you want to go to the next level,
+
+[01:29:35] I'm adding a few more points.
+
+[01:29:38] Make sure the information on the blogs
+
+[01:29:44] is not generic.
+
+[01:29:48] The
+
+[01:29:49] related blogs should be interconnected
+
+[01:29:54] with each other
+
+[01:29:58] by linking them.
+
+[01:30:01] Fifteenth,
+
+[01:30:03] if the information
+
+[01:30:06] on your blogs
+
+[01:30:08] is stale, remove that blog.
+
+[01:30:14] These are some pro tips
+
+[01:30:18] as to how you can take it even to the next level, अपने blogs को।
+
+[01:30:23] एक चीज मैं और बताता हूँ। Create
+
+[01:30:26] pillar pages
+
+[01:30:28] and blogs underneath.
+
+[01:30:31] Let me explain that. The last जो मैंने point लिखा, let me explain that.
+
+[01:30:36] So
+
+[01:30:37] let's say,
+
+[01:30:38] मुझे बात करनी है
+
+[01:30:40] AI marketing के बारे में।
+
+[01:30:43] AI marketing
+
+[01:30:44] के बहुत सारे topics हो सकते हैं।
+
+[01:30:47] I can use AI marketing for email marketing.
+
+[01:30:50] I can use AI to do my Facebook, Instagram marketing.
+
+[01:30:54] I can use AI for my AEO marketing. What we're talking about is also part of
+
+[01:30:58] marketing. ऐसे I can use AI in different marketing
+
+[01:31:02] sections.
+
+[01:31:04] Billboards लगाने या running ads on TV.
+
+[01:31:06] I can use AI in whatever sense I want.
+
+[01:31:11] अगर मैं AI marketing एक ही topic लिखूं और उसका blog
+
+[01:31:15] post बना दूं, which is
+
+[01:31:17] 50,000 words, एक book लिख दूं पूरे website पे, nobody's gonna read
+
+[01:31:21] that.
+
+[01:31:23] I create a pillar, like a first page, and I explain at a
+
+[01:31:26] बहुत high level पे मैं explain करूं कि what is AI marketing and
+
+[01:31:31] where all it can be utilized. जैसे मैंने बताया email marketing,
+
+[01:31:35] Facebook, Instagram marketing,
+
+[01:31:37] LinkedIn marketing,
+
+[01:31:39] AEO, and all of that stuff. You explain what AI marketing is and how it
+
+[01:31:43] can be used अलग-अलग जगह पे。 That is your pillar page.
+
+[01:31:46] Pillar page का मतलब आप high level से start कर रहे हो
+
+[01:31:51] And then you are going down
+
+[01:31:53] slowly and slowly. So when you write in it, write paragraphs, if you
+
+[01:31:56] write email marketing, then you click on email marketing, it should take the
+
+[01:32:00] user to the page where email marketing is explained.
+
+[01:32:06] So let me draw that and explain it to you what I mean by that.
+
+[01:32:19] Okay.
+
+[01:32:21] So,
+
+[01:32:23] this should explain it.
+
+[01:32:26] So let's say I have to create blog posts on AI marketing.
+
+[01:32:31] Okay? So I have a page which explains what email
+
+[01:32:35] marketing is. And then within AI
+
+[01:32:38] marketing,
+
+[01:32:40] I have talked about, let's say...
+
+[01:32:45] Or let me do it this way.
+
+[01:32:47] Within AI marketing, I've talked about these topics.
+
+[01:32:51] Talked about
+
+[01:32:53] email marketing,
+
+[01:32:56] I've talked about AEO, I've talked about
+
+[01:33:00] Facebook,
+
+[01:33:03] Insta marketing,
+
+[01:33:05] YouTube,
+
+[01:33:08] LinkedIn.
+
+[01:33:11] In US and Canada, you also have TikTok,
+
+[01:33:15] so on and so forth, right?
+
+[01:33:17] Television marketing.
+
+[01:33:21] You get the point. So now,
+
+[01:33:23] what I will do is, I will explain
+
+[01:33:27] at a very high level
+
+[01:33:36] what AI marketing is. So this is my pillar
+
+[01:33:40] page. Pillar page that basically talks about everything
+
+[01:33:44] at a very high level. Okay?
+
+[01:33:47] After that, when I'm talking about all of these things,
+
+[01:33:51] they will have their own sub-pillars.
+
+[01:33:53] So let me take email marketing, for example.
+
+[01:33:56] Let me take this out, and let me talk about email marketing now.
+
+[01:34:01] Now, email marketing in itself is a big concept as well.
+
+[01:34:06] For example, if I want to write blogs, write blog posts,
+
+[01:34:10] then I can write a blog on
+
+[01:34:13] top five mistakes
+
+[01:34:16] new email marketers
+
+[01:34:18] make.
+
+[01:34:24] Okay?
+
+[01:34:27] 10 best tools to use
+
+[01:34:30] for email marketing.
+
+[01:34:42] 10 tips to take care of
+
+[01:34:45] when marketing
+
+[01:34:48] through emails.
+
+[01:34:52] So I have AI marketing's pillar page, and I have email
+
+[01:34:55] marketing's pillar page, and I have these blogs
+
+[01:34:59] underneath. So AI marketing is explaining where all you can do
+
+[01:35:03] use AI for marketing, and then email marketing was one of them.
+
+[01:35:06] And email marketing, what is email marketing?
+
+[01:35:08] You explain that in detail, and then you have pages, the
+
+[01:35:12] blogs for the specific topics.
+
+[01:35:15] Did you understand the structure?
+
+[01:35:20] So what will happen because of this is that you have made things in a proper
+
+[01:35:23] structured way.
+
+[01:35:26] AI platforms love structure.
+
+[01:35:31] So when you make things in a structured way, you start getting more
+
+[01:35:34] recommendations. And what is the structure of a blog post?
+
+[01:35:37] I've already written 16 points in the chat.
+
+[01:35:41] Right? So that's how you basically create your entire
+
+[01:35:45] Wikipedia of the topics that your
+
+[01:35:48] business is related to.
+
+[01:35:51] You have to write blogs on every topic
+
+[01:35:55] that people are searching for
+
+[01:35:58] in the industry that your business belongs to.
+
+[01:36:01] You have to write on every single topic.
+
+[01:36:05] But high quality. Just take care of these 16 points that I've mentioned.
+
+[01:36:09] Don't share general information.
+
+[01:36:12] You should not share general information.
+
+[01:36:17] Are
+
+[01:36:18] you getting stuff that I'm sharing? Is it making sense?
+
+[01:36:22] How
+
+[01:36:25] AI engines understand the things and why we need to do all of this
+
+[01:36:28] stuff?
+
+[01:36:36] Okay.
+
+[01:36:37] Awesome.
+
+[01:36:43] Let me
+
+[01:36:44] read a couple of messages.
+
+[01:36:51] And tomorrow,
+
+[01:36:53] I will show
+
+[01:36:56] you a tool. What the problem here is, now, we
+
+[01:37:00] know what we need to do.
+
+[01:37:04] How do we really do it?
+
+[01:37:06] I'll tell you why. When it comes to creating a structure,
+
+[01:37:10] creating the blog post, how do you really create a blog post and all of those
+
+[01:37:14] things?
+
+[01:37:16] Humanly,
+
+[01:37:18] is it possible to write so much content?
+
+[01:37:22] You as a business owner,
+
+[01:37:25] will you manage your business or will you write your blogs?
+
+[01:37:30] That's the next challenge, right? Okay, we understood this needs to be done.
+
+[01:37:37] Should I run my business? Should I run my business or sit and write my blogs?
+
+[01:37:43] Or if I write generic blogs from AI,
+
+[01:37:47] then those blogs will be generic because that's how AI likes to respond.
+
+[01:37:51] Generic information
+
+[01:37:55] Tomorrow I'm going to show you an app
+
+[01:37:58] that solves all of these problems.
+
+[01:38:01] I showed you one app today, where we created a schema markup.
+
+[01:38:08] Which I'll be sending to Lewis. So
+
+[01:38:12] in addition to that,
+
+[01:38:14] we'll explain
+
+[01:38:16] app. That app as well, I'll explain in detail tomorrow what that app does.
+
+[01:38:21] In addition to that, I will show you an app that actually generates the
+
+[01:38:24] blog posts which are relevant
+
+[01:38:30] to your business. And you don't need to invest a lot of time thinking about it when
+
+[01:38:33] it comes to creating that content.
+
+[01:38:37] Remember, I
+
+[01:38:39] said today
+
+[01:38:41] we
+
+[01:38:42] will talk and learn how are you basically found on the internet, which is the
+
+[01:38:44] foundational stuff. Tomorrow, I will basically show you how to get
+
+[01:38:48] recommended and how to get cited.
+
+[01:38:51] This is
+
+[01:38:53] the
+
+[01:38:54] platform that you should go to. I'll give you another example.
+
+[01:38:57] Let me go back to the statistics. Okay?
+
+[01:38:59] Which I was showing you for Easy Car.
+
+[01:39:01] Let me go back to the statistics and show you a few other things.
+
+[01:39:07] And I'll tell you what that means.
+
+[01:39:15] Okay.
+
+[01:39:23] Engagement.
+
+[01:39:28] Let's select
+
+[01:39:32] April 24th. Okay, so going back here,
+
+[01:39:36] let's compare it for two months on two months.
+
+[01:39:41] So March
+
+[01:39:45] to May 24th.
+
+[01:39:49] May 25 to
+
+[01:39:53] July 25.
+
+[01:40:02] Okay, so we had already seen this comparison.
+
+[01:40:05] They had 27,000 impressions versus 11 lakh impressions.
+
+[01:40:09] This is a comparison that we already saw.
+
+[01:40:11] We saw the clicks increased. We saw that they came down on first page.
+
+[01:40:15] They came from the second page to the first page.
+
+[01:40:17] Click-through rate, this percentage-wise, you may feel less, that people have
+
+[01:40:19] fallen
+
+[01:40:22] here. But to explain it to you,
+
+[01:40:26] 3,000 people came here out of 11 lakh people.
+
+[01:40:30] That's the reason it is 0.3%. And these 3,000 people,
+
+[01:40:34] this is what I'm going to explain you the difference now.
+
+[01:40:37] The next thing that I'm going to explain it to you.
+
+[01:40:43] First problem is becoming visible.
+
+[01:40:46] That's the first problem, how to become visible.
+
+[01:40:50] Once you are visible,
+
+[01:40:52] the next question is, are people clicking?
+
+[01:40:55] Let me give you an example. You go to a mall.
+
+[01:40:58] There are
+
+[01:41:00] many clothes and shoe shops there.
+
+[01:41:04] Which shop is more visible? Number one.
+
+[01:41:11] You will only go to that shop which is more visible.
+
+[01:41:15] Or it will attract you more. You won't go, it will attract
+
+[01:41:19] more, which is more visible. Either they would have done extra decoration or
+
+[01:41:23] lighting.
+
+[01:41:25] Whatever they have done, which is more visible. That's the first thing.
+
+[01:41:29] But being visible doesn't mean that the customer will come inside.
+
+[01:41:33] But the chances of the customer coming are higher because it is more visible.
+
+[01:41:37] So second point is that more customers should come inside.
+
+[01:41:42] More visible and more customers should come inside.
+
+[01:41:46] But more customers coming inside doesn't mean that the sales will
+
+[01:41:49] be more. It is not necessary that if somebody comes onto your platform or comes to
+
+[01:41:53] your shoes shop and if they don't like the shoes, they will leave.
+
+[01:41:56] Or they won't like the design or the size
+
+[01:41:58] won't be the same as they want, you won't have their size
+
+[01:42:02] shoes.
+
+[01:42:04] So more visibility does not guarantee
+
+[01:42:08] more sales. More clicks does not guarantee
+
+[01:42:12] more sales.
+
+[01:42:14] But
+
+[01:42:15] if people are spending more time
+
+[01:42:20] in your showroom, that is closer to
+
+[01:42:23] making more sales than visibility is. So it happens like this.
+
+[01:42:27] Let me
+
+[01:42:28] show you again
+
+[01:42:30] visually
+
+[01:42:31] what I am trying to say.
+
+[01:42:33] So the first thing is
+
+[01:42:37] more visibility.
+
+[01:42:41] More visibility, let's create it like this.
+
+[01:42:45] It's like this.
+
+[01:42:51] Here are your sales.
+
+[01:42:56] After becoming more visible, the next stage is
+
+[01:42:59] more clicks or
+
+[01:43:04] more people walking into your store. Okay?
+
+[01:43:10] That's the second stage.
+
+[01:43:13] If you are
+
+[01:43:14] not visible, where will the click happen?
+
+[01:43:16] Or if the showroom is not visible, how will people come?
+
+[01:43:18] So you have to be more visible. That's the first thing.
+
+[01:43:21] Then you have to make people walk into your
+
+[01:43:25] store. Right?
+
+[01:43:27] When people start
+
+[01:43:30] recommending your platform, ChatGPT and Google, then people click there when
+
+[01:43:34] Google recommends something.
+
+[01:43:36] Number two, you will have more clicks.
+
+[01:43:39] Number three,
+
+[01:43:41] time spent
+
+[01:43:43] on the website
+
+[01:43:46] or your store.
+
+[01:43:53] Investment is not only of money, investment is also of time.
+
+[01:43:55] The more the time that a person spends in your store or
+
+[01:43:59] on your website
+
+[01:44:02] Higher the chances कि वो आपसे आपका product
+
+[01:44:06] ले लेंगे,
+
+[01:44:07] क्योंकि उन्होंने already time spend कर लिया है ज्यादा आपके साथ।
+
+[01:44:11] So
+
+[01:44:12] this is what I want to show you कि पहले जो
+
+[01:44:15] चीजें मैंने आपको दिखाई,
+
+[01:44:17] यह वाली कि more visibility और more clicks तो यहां पर हो गए।
+
+[01:44:21] Second is
+
+[01:44:23] engagement which is
+
+[01:44:26] कि लोग engage कितना कर रहे थे उनकी website के साथ?
+
+[01:44:29] तो यह है हमारा data April से May तक का।
+
+[01:44:33] April से May तक का मतलब यह वाला data.
+
+[01:44:37] यह May तक का data है। तो
+
+[01:44:40] लोग जब आ रहे थे उनकी website पर तो 20 seconds ही spend कर रहे थे उनकी website
+
+[01:44:44] पर
+
+[01:44:45] जब उनको car खरीदनी होती थी। उससे पहले जब वो decision लेना होता था, 20 seconds ही
+
+[01:44:49] spend कर रहे थे just 20 seconds on their website.
+
+[01:44:54] फिर जब हमने इनकी website पर काम किया, 25th May को launch किया।
+
+[01:44:58] Next month की मैं performance अगर आपको दिखाऊं तो यह 20 seconds से change हो गया
+
+[01:45:02] two minutes में।
+
+[01:45:05] So people were spending way more time as
+
+[01:45:09] well.
+
+[01:45:10] ज्यादा visible, ज्यादा clicks और ज्यादा time spend कर रहे थे लोग
+
+[01:45:14] उनकी website पर,
+
+[01:45:16] which resulted in कि जो sales थी वो four times हो गई
+
+[01:45:19] basically.
+
+[01:45:23] So कोई अगर आपको बोले ना कि हम आपको ज्यादा visible कर देंगे। Ask them this
+
+[01:45:27] question,
+
+[01:45:28] what about clicks? What about time spent engagement?
+
+[01:45:32] What about that?
+
+[01:45:35] Right? अब जो बंदा दो minutes spend कर रहा है or जो बंदा 20
+
+[01:45:39] second spend कर रहा है, it's very clear कि जिसने दो minutes spend
+
+[01:45:43] किए हैं वो आपका ideal customer है।
+
+[01:45:46] And how do you really keep people up on your website, on your web app
+
+[01:45:50] is एक तो information होगी blog, दूसरा हो गया आपकी पूरी की पूरी
+
+[01:45:54] website का structure.
+
+[01:45:56] जो उनको information चाहिए वो easily मिल जाए। For example,
+
+[01:46:00] अगर मैं Easy Car पर वापस जाऊं then to show that to you.
+
+[01:46:07] दो चीजें करने आते हैं लोग
+
+[01:46:10] cars की website पर।
+
+[01:46:12] या तो खरीदने आते हैं, sell करने आते हैं।
+
+[01:46:15] I like to buy, I like to sell.
+
+[01:46:17] तो पहली दो चीजें बता दी। यहां पर center of the screen,
+
+[01:46:21] whatever you want to do, आप जिस पर click करोगे you will be taken there.
+
+[01:46:25] You have to buy.
+
+[01:46:27] Now if you see the website loaded very fast.
+
+[01:46:29] There are so many cars on this page.
+
+[01:46:32] But it loads very fast. मैंने आपको बोला था कि your website should load fast.
+
+[01:46:37] So यह हो गया आपका
+
+[01:46:40] page जहां पर cars है which is new that I have to buy
+
+[01:46:44] cars. Now when it comes to buying cars आपको new चाहिए कि old चाहिए?
+
+[01:46:47] यहां पर एक filter आ गया। When I click on new out of 592 I have
+
+[01:46:51] 270 cars that are new. If I want to buy used then I can
+
+[01:46:55] see the used cars only by just putting this filter here.
+
+[01:46:58] उसके बाद अगर मुझे specific location पर चाहिए कोई car.
+
+[01:47:02] यह आपकी mountainous region वाली हो गई, यह आपकी California वाली हो गई।
+
+[01:47:06] If I click on this I will mostly see the trucks.
+
+[01:47:08] You see mostly pickup trucks दिख रहे हैं आपको।
+
+[01:47:13] When I go in the California one
+
+[01:47:16] they also have trucks, but they also have these cars as well sedans.
+
+[01:47:20] They have these SUVs.
+
+[01:47:23] They have these sedans.
+
+[01:47:29] So I can either search through stores, I can either
+
+[01:47:33] search through यह वाली चीजें or और क्या चीजें होती हैं?
+
+[01:47:37] सिर्फ car खरीदने तो लोग आए नहीं होते। अगर लोगों को car खरीदनी है
+
+[01:47:41] then लोग यह भी तो जानने की कोशिश कर सकते हैं ना कि उनकी
+
+[01:47:45] monthly payment क्या होगी?
+
+[01:47:49] So we have added some tools here.
+
+[01:47:53] कि अगर मेरी car का price $30,000 है और अगर मैं
+
+[01:47:57] $3,000 down payment करूं और मैं कोई अपनी car साथ में ना sell
+
+[01:48:01] करूं और यह average interest rate है और 60 months में मुझे pay करना है
+
+[01:48:05] then how much interest will I pay and what will be my monthly payment?
+
+[01:48:11] So the point is
+
+[01:48:13] cars से related जो भी information चाहिए we have given
+
+[01:48:17] that information on one website only so that
+
+[01:48:21] people should not go here and there.
+
+[01:48:23] एक यह factor बहुत important है engagement
+
+[01:48:27] वाला factor. जब आपकी website Google, ChatGPT किसी भी platform ने
+
+[01:48:31] recommend करी ना,
+
+[01:48:33] these platforms they observe कि यह जो user गया
+
+[01:48:37] था website पर यह कितनी देर बाद वापस आया है।
+
+[01:48:41] अगर तो user ने time ज्यादा spend किया है website पर it means the
+
+[01:48:45] user got the information that they were looking for and they engaged with the
+
+[01:48:49] website for more things as well. It means आप अपने business
+
+[01:48:53] में अच्छा कर रहे हो। आपको पता है क्या बोलना है, क्या नहीं बोलना आपकी website
+
+[01:48:57] पर and people are getting the information that they are looking for.
+
+[01:49:00] So उससे होगा क्या next time भी आपका ही business recommend
+
+[01:49:04] होगा
+
+[01:49:05] बाकी लोगों
+
+[01:49:07] के लिए भी जो car खरीदना चाहते हैं।
+
+[01:49:10] So अगर आपका engagement rate कम है, अगर आप कम time spend कर रहे हैं लोग
+
+[01:49:14] आपकी website पर then your website will stop getting recommended क्योंकि ChatGPT और
+
+[01:49:18] Google को लगेगा ठीक है हमें जो information चाहिए थी वो तो हमें मिल गई लेकिन
+
+[01:49:22] इनके पास और ज्यादा वो information नहीं है जो लोगों को और information चाहिए।
+
+[01:49:26] So probably this is not the right website to send people to because लोग
+
+[01:49:29] वापस आ जाते हैं जल्दी इस website से। तो website का experience अच्छा नहीं है।
+
+[01:49:34] Is it making sense?
+
+[01:49:45] Heavy हो गया आज कि नहीं?
+
+[01:49:56] मैंने presentation ज्यादा नहीं दिखाई but लेकिन presentation में भी यही सारी चीजें
+
+[01:50:00] covered थी if I show you कि
+
+[01:50:06] It should load fast and you have to have quick headings.
+
+[01:50:10] You have to have
+
+[01:50:12] answers in one sentence, short blocks, list and tables, just as I told
+
+[01:50:16] you.
+
+[01:50:17] What are you going to have? What will you learn from the blogs and all of that
+
+[01:50:20] stuff? I've already kind of covered all of this.
+
+[01:50:29] But
+
+[01:50:31] I want to understand from you.
+
+[01:50:33] We're almost at the two hours mark.
+
+[01:50:35] I can continue as well, but I
+
+[01:50:39] want to understand
+
+[01:50:41] from you, take feedback from you.
+
+[01:50:44] Is this enough for today
+
+[01:50:47] or should I cover more?
+
+[01:50:49] Keep tomorrow in mind as well, but don't get too overwhelmed.
+
+[01:50:55] It was a bit technical to understand what kind of things would happen and what
+
+[01:50:59] wouldn't, but I just don't want you to get overburdened and think,
+
+[01:51:02] "This is a very complicated topic." If you want some time to
+
+[01:51:06] understand, do your own research. We can continue tomorrow.
+
+[01:51:10] If you think I should cover a little more today, I can cover a little more today.
+
+[01:51:25] Let me look at the chat.
+
+[01:51:31] How can we monetize this?
+
+[01:51:33] This is what I said in the beginning. I'm going to cover this tomorrow.
+
+[01:51:39] And keep this in mind.
+
+[01:51:43] Everything is getting recorded, so you will get the recordings of these classes as
+
+[01:51:47] well.
+
+[01:51:47] You
+
+[01:51:52] can revise them later. Tomorrow there will be an interesting part because all the
+
+[01:51:54] things I have talked about, we have already automated many of them.
+
+[01:51:54] Today, it was very important to
+
+[01:51:58] understand
+
+[01:52:00] the
+
+[01:52:06] foundation,
+
+[01:52:09] so that you can understand what you are doing.
+
+[01:52:11] Because when you go to sell your services tomorrow, you cannot say, "I have a tool.
+
+[01:52:15] I am working with that tool." You have to
+
+[01:52:18] explain how things work and what doesn't
+
+[01:52:21] work because we are trying to create a business.
+
+[01:52:23] You need to understand what is happening, even if it is happening automatically.
+
+[01:52:27] That is why today's session was important so
+
+[01:52:31] that you can understand what the fundamental thing is and how it works.
+
+[01:52:34] Tomorrow
+
+[01:52:37] I will show you the tools. All the work that I have talked about today is happening
+
+[01:52:40] automatically with the tools.
+
+[01:52:44] You don't have to worry about it.
+
+[01:52:48] If the concept is understood,
+
+[01:52:52] then it's fine.
+
+[01:52:56] Just reading the messages.
+
+[01:53:07] Okay. A few of you are saying, "Okay, let's drop it for
+
+[01:53:11] today."
+
+[01:53:13] Let me go through a few of the screens on the presentation.
+
+[01:53:17] If you want to take a good screenshot
+
+[01:53:18] from it, take
+
+[01:53:23] a screenshot. If I see something very important, I'll just share that as well.
+
+[01:53:25] For example, if you are writing sentences like
+
+[01:53:29] this about your business, that "We proudly serve this
+
+[01:53:33] particular location for years," it makes no sense.
+
+[01:53:38] It makes no sense. From this, you are just telling about your business that
+
+[01:53:42] you have been in this business for so many years.
+
+[01:53:45] It doesn't make sense.
+
+[01:53:47] If you write that we provide
+
+[01:53:49] these
+
+[01:53:50] services
+
+[01:53:54] in this city at this cost and at this fee.
+
+[01:53:57] Now, in almost the same amount of words
+
+[01:54:01] in one sentence. One, two, three, four, five, six, seven, eight, nine, 10.
+
+[01:54:04] 12 words. One, two, three, four, five, six,
+
+[01:54:08] seven, eight, nine, 10, 11, and then one word here.
+
+[01:54:12] 12 words. 10 versus 12 words. I am giving all
+
+[01:54:16] that information in one sentence which is not here, that where can you
+
+[01:54:20] call us and how much will it cost you, basically.
+
+[01:54:29] So try providing. Don't use these generic words
+
+[01:54:33] anymore.
+
+[01:54:37] Okay?
+
+[01:54:43] This is a good one. Take a screenshot of this.
+
+[01:54:58] Don't use short forms in your business.
+
+[01:55:00] Maintain clarity about
+
+[01:55:03] what you are trying to say.
+
+[01:55:07] Make a Google My Business profile on Google.
+
+[01:55:11] On Google My Business, put your name, your business name,
+
+[01:55:15] address, phone number, the hours you operate,
+
+[01:55:19] what you sell, and who you
+
+[01:55:22] are. Write all these things in detail there.
+
+[01:55:36] If there is any old information on your website, like an old phone number, remove
+
+[01:55:40] that.
+
+[01:55:49] Because when the platforms are not sure about you, it doesn't
+
+[01:55:53] recommend you. So platforms have to be sure about you, what you are doing
+
+[01:55:57] and what you are not doing.
+
+[01:56:00] On your pages, on the websites,
+
+[01:56:03] this is what you need to have. If you have a website, take a screenshot.
+
+[01:56:09] You have to have all of these things.
+
+[01:56:12] If you don't have a website and you are planning to make one, then make sure your
+
+[01:56:14] website has all these things.
+
+[01:56:34] Okay.
+
+[01:56:35] वो मैंने सारी बात कर चुका था। Five numbers and what needs to
+
+[01:56:39] save, brand presence, citations.
+
+[01:56:42] This is technical.
+
+[01:56:47] Okay.
+
+[01:56:49] Yeah, बाकी I know it's mainly theory.
+
+[01:56:52] तो
+
+[01:56:54] जो दो-तीन main slides थे, वो I have basically asked you.
+
+[01:57:04] Just going through it very quickly ताकि आप
+
+[01:57:07] उन slides का
+
+[01:57:08] screenshot ना लो जिसकी जरूरत नहीं है।
+
+[01:57:28] Okay. Yeah.
+
+[01:57:30] That's about it, basically.
+
+[01:57:32] कल I'll show you the tools which have automated most of the
+
+[01:57:36] stuff so that आपको ये सब करने की जरूरत न पड़े। And I hope
+
+[01:57:40] आप कुछ सीख के जा रहे हो आज। I know it's 10:00 PM there.
+
+[01:57:44] Thank you so much for staying till the end.
+
+[01:57:47] कल का बहुत exciting होने वाला है because you will see the tools actually case.
+
+[01:57:50] जो सारी चीजें मैंने बोली, ये कैसे automated already हो चुकी हैं or you don't really
+
+[01:57:54] have to worry about any of that stuff. Right?
+
+[01:57:57] तो
+
+[01:57:58] ये आज की जो class थी, it will help you to sell these services.
+
+[01:58:02] explain करना आसान हो जाएगा सामने वाले को कि what you are going to do for them.
+
+[01:58:06] करने के लिए आप automated tools use कर सकते हो जो मैं कल दिखाने वाला
+
+[01:58:10] हूँ। Right? Thank you so much, guys.
+
+[01:58:13] We said it's going to be two hours. It's two hours. Thank you so much.
+
+[01:58:17] I'll see you again tomorrow. Alright. Thank you. Thanks. Take care.
+
+[01:58:21] Bye.

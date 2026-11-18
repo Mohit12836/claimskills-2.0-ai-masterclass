@@ -1,0 +1,3202 @@
+# WhatsApp Marketing & Official WACA API
+Course: 03_AI_Marketing_Academy
+Vimeo ID: 1230009845
+Track: English (auto-generated)
+Total Words: 15542
+================================================================================
+
+[00:05] This meeting is being
+
+[00:07] recorded.
+
+[01:10] Good evening, everyone. Once again, welcome to the AI
+
+[01:13] Specialist 2.0. Am I audible to all of you?
+
+[01:22] Please
+
+[01:23] open the camera.
+
+[01:26] I hope I am visible. Hello, everyone.
+
+[01:32] Hi.
+
+[01:33] How are you all doing, good?
+
+[01:37] Thank you so much for showing up on time.
+
+[01:42] All right. So,
+
+[01:45] can I see everyone's video?
+
+[01:54] Right.
+
+[01:55] Can see many of the team video. Thank you
+
+[01:59] so much for showing up on time.
+
+[02:02] All right.
+
+[02:04] Thank you so much. So cool, guys. Thank you.
+
+[02:08] Am I audible
+
+[02:09] properly, right? Everyone can listen to me?
+
+[02:12] Thank you.
+
+[02:16] So yes,
+
+[02:18] before moving to today's topic, as I told yesterday, that in today's class what we
+
+[02:21] are going to take and
+
+[02:23] what we
+
+[02:25] have
+
+[02:27] already taken in yesterday's class, we should revise that a little, right?
+
+[02:30] So that
+
+[02:31] our frequency matches. Because today's topic, yesterday's topic, it's
+
+[02:35] relative to the Meta only. WhatsApp is Meta's part, we are connecting
+
+[02:40] Facebook, Instagram, all these things. Right?
+
+[02:43] So basically, the connected topics-- So yesterday's class, I
+
+[02:47] hope all of you have attended.
+
+[02:49] In case, due to some genuine reason, if you have missed yesterday's class,
+
+[02:53] no problem. You have LMS access, you have the recording.
+
+[02:58] But this class, if you are attending directly, yesterday's class
+
+[03:02] has been missed, so make sure you watch yesterday's class
+
+[03:04] recording once again, then your mind will be completely clear.
+
+[03:09] I hope, right? This message is clear.
+
+[03:12] So now understand very carefully, what we understood yesterday.
+
+[03:14] Yesterday we saw how we can set up
+
+[03:18] professional ads,
+
+[03:20] the kind of setup that agencies do, we saw that kind of
+
+[03:24] setup yesterday. What kind of documents are required for that? Right.
+
+[03:28] I request everyone, please sit in a very comfortable space in front of camera and
+
+[03:32] with notes. Right? Because today's topic may be such that you may have to
+
+[03:37] be more attentive. Because WhatsApp is a product of
+
+[03:41] Meta, which Meta takes very seriously.
+
+[03:44] There are
+
+[03:45] two reasons for this.
+
+[03:49] One is that people
+
+[03:52] send messages on WhatsApp, right?
+
+[03:54] Everyone sends messages to other people and people create groups, and
+
+[03:58] people create communities. So that it does not get misused,
+
+[04:02] Meta takes this responsibility very seriously.
+
+[04:06] And obviously, as a
+
+[04:09] business owner, it also requires a qualified business owner, so that he uses
+
+[04:12] that product properly.
+
+[04:16] So basically, compared to yesterday's class, I would
+
+[04:19] say, focus, you should remain in this class.
+
+[04:22] And there will be some important things, which I will tell in this
+
+[04:26] whole process, which you may need to write in your notes many
+
+[04:31] times, which will be sensitive topics before
+
+[04:35] anybody
+
+[04:36] gets WhatsApp API. I will clear a little from the basics, what will happen?
+
+[04:39] But in yesterday's class, we understood how to set up a Meta business account.
+
+[04:42] What are
+
+[04:45] the things we need for that? Like card, we thought we need a Facebook profile,
+
+[04:48] Facebook page, Instagram page,
+
+[04:51] connecting them, then assigning a
+
+[04:55] team, creating ad account. We covered many topics yesterday in detail.
+
+[04:59] Right? How to launch an ad, how to set up Pixel, what is
+
+[05:03] the use
+
+[05:05] of Pixel? We covered
+
+[05:08] a lot
+
+[05:09] of things yesterday. I hope you all understood yesterday's class well.
+
+[05:12] One request for yesterday's class, if
+
+[05:15] you understood yesterday's class completely, show me a big thumbs up. Right?
+
+[05:19] So that I can relate with your frequency.
+
+[05:24] Perfect. Thank you so much, guys. Thank you so much.
+
+[05:29] Same way, I try my best to cover today's topic as well.
+
+[05:32] It may be a little complex, but I will do it very easiest way for you
+
+[05:37] to understand, so that you can easily understand that thing, its reasons and
+
+[05:40] logics as well.
+
+[05:42] So guys, let's start today's session without wasting any more time.
+
+[05:46] Today, we will see what is exactly WhatsApp API and how to
+
+[05:50] set up WhatsApp API, how to connect
+
+[05:54] it and how to use it. We will see it step by step.
+
+[05:58] Also, I will give a broader perspective that there are many platforms in the market
+
+[06:02] that
+
+[06:03] provide WhatsApp API. I will also give an understanding of that, so
+
+[06:07] that you have knowledge of that thing.
+
+[06:10] Or कौन सा genuine है, कौन सा नहीं है, इसकी भी knowledge मैं आपको दूंगा। तो
+
+[06:14] थोड़ा सा हो सकता है कि guys ये topics हो but be with me.
+
+[06:17] Number one,
+
+[06:19] मैं आधा घंटा obviously theory लूँगा आज के भी session में because it's
+
+[06:23] important कि कुछ ऐसी चीजें होती हैं जो concepts clear करने से,
+
+[06:27] practicals में जाने से पहले concepts clear करना जरूरी होता है हमारे लिए। Right?
+
+[06:32] So that is important
+
+[06:35] for
+
+[06:37] everyone.
+
+[06:40] All right, so let me share the screen with you
+
+[06:44] guys.
+
+[06:46] Focus on the screen and I request
+
+[06:49] कि पूरी class तक आप बने रहिएगा। starting में इसके लिए बोल रहा हूँ मैं
+
+[06:54] because you know that today कुछ special मैं बताने वाला हूँ।
+
+[06:59] एक ऐसी चीज बताऊंगा जो mostly आज के time पर बहुत ज्यादा use होती है।
+
+[07:03] क्या बताने वाला हूँ?
+
+[07:05] मैं आपको अभी बता दूँ but at the end of the class, after we will cover the WhatsApp
+
+[07:08] API learning। Right?
+
+[07:11] I will teach you today how to connect your
+
+[07:15] Excel sheet
+
+[07:17] with Claude and कैसे वो सब सारी चीजें automatic कर सकती है।
+
+[07:21] That is the most important skills at present
+
+[07:25] anywhere। जो आप job कर रहे हो, जो आप business कर रहे हो, आज के time पर ये सबसे
+
+[07:29] important skill है। How many of you agree with this?
+
+[07:34] Claude with Excel.
+
+[07:36] Right? You will see at the end of the class.
+
+[07:38] So be with me till the end
+
+[07:41] और obviously जैसे कहा है कि यह live only रहने वाला है तो ये
+
+[07:44] special bonus जो है ये हम live ही दिखाएंगे, इसके recording हम नहीं
+
+[07:48] रखेंगे।
+
+[07:49] ताकि आप
+
+[07:51] अगर live आए हो तो आपको कुछ extra advantage तो मिलना चाहिए। Right?
+
+[07:54] So thank you so much for
+
+[07:56] showing up on live.
+
+[07:58] Let's focus on the WhatsApp first.
+
+[08:01] Let me share you the screen. Just give me a minute.
+
+[08:07] Okay.
+
+[08:18] Sharing the screen.
+
+[08:25] I hope everyone is able to see the screen properly। Right?
+
+[08:30] Not yet. Now. Okay.
+
+[08:33] Is it visible? Right?
+
+[08:35] Thank you. So welcome again to the WhatsApp Business API Mastery.
+
+[08:38] सबसे पहले तो मैं यह clear करना चाहूँगा क्योंकि कुछ लोग होंगे जो शायद इस topic में
+
+[08:42] भी नए होंगे, काफी नए हो सकते हैं।
+
+[08:45] कई लोगों ने already WhatsApp API use किया हो सकता है, आप में से कई लोग होंगे
+
+[08:48] जिन्होंने WhatsApp API अपने लिए use कर रहे ही होंगे।
+
+[08:52] और उसमें भी आपको insights मिलेगी। ऐसा नहीं कि आप लोग already use किया तो उसमें आपको
+
+[08:55] insights नहीं मिलेगी। कुछ concepts में आपको उसमें मदद मिल सकती है, कुछ जगह पर आपको
+
+[08:59] उसका फायदा मिल सकता है। Math समझने में आपको फायदा मिल सकता है तो
+
+[09:03] focus सबका रहना चाहिए। ऐसा नहीं कि आपने किया है तो आपका focus नहीं रहना चाहिए। अगर
+
+[09:06] आपने बिल्कुल ही नहीं है इस topic पर तो obviously उस topic से भी मैं clear करूँगा।
+
+[09:10] सबसे पहले तो यह समझते हैं कि WhatsApp API मतलब क्या?
+
+[09:13] API मतलब Application Programming Interface. इसका full form क्या है?
+
+[09:16] Application Programming Interface। Basically WhatsApp Business.
+
+[09:20] आप सब लोग WhatsApp चलाते हो। Right?
+
+[09:23] Everyone is here on the WhatsApp.
+
+[09:26] मैं 99.99% भी नहीं 100% कह सकता हूँ। Right?
+
+[09:30] सबके पास WhatsApp है।
+
+[09:31] Obviously, if you are not from India, अगर आप UAE या इस country से हो तो
+
+[09:35] mostly वहाँ पर शायद WhatsApp की services इतनी नहीं होती है। तो
+
+[09:39] in that particular scenario I accept that.
+
+[09:42] So
+
+[09:43] WhatsApp mobile application is different thing.
+
+[09:47] Mobile में app जो चलाते हैं वो अलग चीज है। WhatsApp Business
+
+[09:51] application जो है, वो एक अलग चीज है। Just give me a minute, guys.
+
+[10:02] All right, am I audible?
+
+[10:04] Okay.
+
+[10:06] So WhatsApp Business is different application जो हमारे
+
+[10:10] mobile में होता है। WhatsApp एक अलग application है जो हमारे mobile में
+
+[10:13] होता है।
+
+[10:15] WhatsApp Business जो हम use करते हैं, वो basically हमारा कोई business है तो उसके
+
+[10:18] लिए हमें उसमें extra features WhatsApp हमें देता है। और general WhatsApp हम use कर
+
+[10:22] रहे हैं तो हमें normal WhatsApp जो हमारे mobile app store या Play Store से हम
+
+[10:25] download करके use करते हैं which is the another thing.
+
+[10:27] इसके अलावा एक और product है WhatsApp का which is called as an
+
+[10:31] WhatsApp Business API.
+
+[10:34] इसका सबसे important use case, मैं भी slide by slide जाऊंगा, आपकी सारी चीजें clear
+
+[10:38] होती जाएगी।
+
+[10:39] अच्छा एक चीज तो आपको पता ही होगी ना। आप में से सभी लोगों को
+
+[10:43] Claim Skills की तरफ से automatic एक message आता होगा reminder का
+
+[10:47] WhatsApp पर। अगर आपने notice किया है तो। Right?
+
+[10:54] तो वो आता है WhatsApp Business API से। कोई manual इंसान वहाँ पर
+
+[10:58] एक-एक को नहीं भेज रहा है। We have 4000 people data, 4000+
+
+[11:03] or भी आगे है। I am just giving a random number right now.
+
+[11:05] इतने लोगों को एक-एक करके आप कब भेजोगे?
+
+[11:07] और एक-एक करके भेजोगे अगर manual WhatsApp से भी तो WhatsApp आपका account
+
+[11:11] ban कर देगा। जो mobile application की बात कर रहा हूँ मैं। So this
+
+[11:15] is the
+
+[11:17] policy and rules by Meta कि आप एक number से अगर
+
+[11:21] repetitively mobile application या business mobile से अगर आप
+
+[11:24] repetitively message भेजते
+
+[11:26] जा रहे हो तो वो account ban हो
+
+[11:30] जाएगा या हो सकता है।
+
+[11:32] Depend कि उसको Meta कब notice कर रहा है। तो इसके लिए Meta ने
+
+[11:36] एक proper solution निकाला है जो है WhatsApp Business API। इसकी मदद से
+
+[11:40] आप एक number से at a time हज़ार,
+
+[11:44] 10,000, लाख, 10 लाख लोगों तक अपनी WhatsApp
+
+[11:48] भेज सकते हैं।
+
+[11:50] But ये ऐसा नहीं कि एकदम से उतनी limit मिल जाती है। उसकी भी hierarchy
+
+[11:54] है। उसके भी कुछ rules हैं जो मैं बताऊंगा सारी चीजें। Right?
+
+[11:58] So this is the power of this particular skill.
+
+[12:01] अब मैं बताऊंगा ये skills को इतना seriously क्यों लेना चाहिए।
+
+[12:05] इसका मैं advantage बता दूँ।
+
+[12:08] आज के time पर
+
+[12:10] जितने भी business owners हैं, चाहे
+
+[12:15] मैं एक example लेता हूँ। चाहे कोई perfume का business कर रहा
+
+[12:18] हो। चाहे कोई
+
+[12:21] clothing
+
+[12:22] का retail business कर रहा हो
+
+[12:25] या कोई real estate का business कर रहा हो। any business
+
+[12:29] owners आज के time में WhatsApp पर conversation तो करता है। yes or no?
+
+[12:34] but WhatsApp पर conversation करना एक अलग बात है। manual human से आपने
+
+[12:38] एक salesman रखा, उससे आपने करवाना वो एक अलग बात है। but WhatsApp Business
+
+[12:42] API से काफी सारे चीजें हमें करने मिलती हैं, जिसमें
+
+[12:45] सबसे important लोग इसको use करते हैं broadcasting के
+
+[12:48] लिए। just imagine a scenario
+
+[12:52] कि अगर आपके पास 5000 लोगों की client
+
+[12:56] list है। for example, आपके पास नहीं है तो आपके client के पास है। अब वो उन लोगों
+
+[13:00] को एक offer भेजना चाहता है। अभी गणेश उत्सव आ रहे हैं, तो गणेश उत्सव पर एक offer
+
+[13:04] भेजना चाह रहा है।
+
+[13:06] तो अगर वो manual करेगा तो obvious बात है, इसके ऊपर time लगेगा। तो इस particular
+
+[13:09] scenario में WhatsApp Business API ले के वो यह चीज
+
+[13:13] बड़े आसानी से कर सकता है और just एक साथ,
+
+[13:17] एक ही time पर
+
+[13:19] जितने भी clients हो वो interact कर सकता है। this is the base
+
+[13:22] version। उसके under और भी steps आते हैं कि उसमें AI integration
+
+[13:26] करना। बहुत चीजें इसके under है but we will see the most
+
+[13:29] important thing, जो कि concept आपका clear करना or
+
+[13:33] foundation आपकी clear करनी, फिर add-on चीजें करने के लिए बहुत चीजें।
+
+[13:37] जैसे
+
+[13:38] AI industry की अगर बात करूं, artificial intelligence की बात करूं, करने के लिए बहुत
+
+[13:42] चीजें। yes or no?
+
+[13:44] there is a huge,
+
+[13:46] there is a vast
+
+[13:48] concepts, vast technologies, हजारों applications
+
+[13:52] हैं इसके under। but foundation clear करनी जरूरी है,
+
+[13:55] processes समझनी जरूरी है।
+
+[13:59] तो आपका दिमाग हर जगह चलेगा।
+
+[14:02] that's where we focus more।
+
+[14:05] we don't focus कि यह वाला application कैसे use करना है। वो तो चलो एक वो सीख
+
+[14:09] जाओगे। but market में छह महीने के बाद कुछ updates भी आएंगे ना,
+
+[14:13] तब दिमाग कैसे चलेगा? तब आपका दिमाग तभी चलेगा जब आपके foundation concepts
+
+[14:17] and processes clear होगी। alright?
+
+[14:21] thank you.
+
+[14:22] so
+
+[14:23] what is basically WhatsApp Business API?
+
+[14:26] it's quite simple line में अगर बताऊं।
+
+[14:29] as you can see the screen, a business messaging platform by Meta that lets
+
+[14:33] companies send bulk messages at scale, including
+
+[14:36] automated notifications, customer support के लिए use किया जाता है, marketing
+
+[14:40] campaigns के लिए use किए जाते हैं, reminders किसको देना है, तो उसके लिए use किए
+
+[14:43] जाते हैं। जैसे we are using it for reminders for our classes, right?
+
+[14:46] AI chatbots, interactive flows, ये सारी facilities हमें
+
+[14:50] इस particular
+
+[14:53] products में मिलती है, जो Meta का product है। broadcasting के
+
+[14:57] लिए number one use ये है कि broadcasting के लिए। we will see today
+
+[15:01] also practicals भी बताऊँगा members को भी with you। AI agents and flows,
+
+[15:05] sales and supports and notifications। this is the most important use
+
+[15:09] cases of WhatsApp Business API in 2026।
+
+[15:13] second, जैसे कि मैंने बताया कि WhatsApp app अलग चीज है, WhatsApp Business API अलग
+
+[15:17] चीज है।
+
+[15:19] दोनों अलग-अलग चीज हैं।
+
+[15:21] आप mobile app जो उपयोग कर रहे हो, this is the different thing and WhatsApp
+
+[15:25] Business API is the different product। right?
+
+[15:28] वो mobile में नहीं होता है। for this you need a any kind of WhatsApp
+
+[15:32] business service provider का platform लगेगा आपको, जो बहुत सारे India में
+
+[15:36] हैं। right? so अब एक चीज इसमें
+
+[15:39] ध्यान से समझिए।
+
+[15:41] हम लोग जो WhatsApp use करते हैं ना,
+
+[15:44] उसमें हम message भेजते तो message भेजने का या message receive करने का Meta हमसे
+
+[15:47] कोई charge नहीं लेता है।
+
+[15:50] लेता है क्या?
+
+[15:51] नहीं लेता है?
+
+[15:53] hello,
+
+[15:54] are you with me?
+
+[15:57] please respond.
+
+[15:59] वो charge नहीं लेता है। क्यों नहीं लेता है?
+
+[16:01] क्योंकि वो उसकी free service है। but इसका मतलब यह नहीं कि उसको पैसा नहीं लग रहा है।
+
+[16:06] अगर Meta हमसे charge नहीं ले रहा है, इसका मतलब यह नहीं कि Meta को खर्चा नहीं
+
+[16:10] लग रहा है। आपके जो document आप share करते हो, videos एक दूसरे को
+
+[16:14] जो share करते हो, messages जो forward करते हो, यह हर चीज
+
+[16:18] store कहाँ पर हो रही है? Meta के तो server पर हो रही है।
+
+[16:21] और server की costing लगती है। message जब भेजे जाते हैं, लिए जाते हैं, उसकी भी
+
+[16:25] costing लगती है, right? तो हर चीज की costing लगती है।
+
+[16:29] technology में कोई भी चीज की costing किसी को लगेगी नहीं, ऐसा कभी नहीं होता है। हर
+
+[16:33] चीज की costing हर व्यक्ति को लगती है।
+
+[16:36] but WhatsApp की तरफ से वो service वो free रखा है क्योंकि उसका business model
+
+[16:40] अलग है। उसका जो main business आता है WhatsApp के product को लेकर, वो आता है
+
+[16:43] WhatsApp Business API से। right? so what is this
+
+[16:47] basically? यह कौन कर सकता है, इसके लिए apply कौन कर सकता है, पहले समझें।
+
+[16:51] WhatsApp तो हम सब लोग use कर सकते हैं but WhatsApp Business API only registered
+
+[16:55] businesses। मतलब कि आपका कोई business है।
+
+[17:00] business का मतलब यह नहीं कि private limited company हो।
+
+[17:03] business का मतलब है कि आपका अगर proprietorship भी है या मान लो आपने
+
+[17:07] एक उद्यमी आधार certificate भी है,
+
+[17:10] तब भी आप WhatsApp Business API के लिए apply कर सकते हैं। मतलब कि आपके पास genuine
+
+[17:14] business होना चाहिए, यह एक पहली condition है। right?
+
+[17:18] step by step समझोगे, यह important चीजें सारी।
+
+[17:21] दूसरा, इसमें हम automated or manual messaging दोनों कर सकते हैं।
+
+[17:25] automated messaging किसको कहते हैं?
+
+[17:26] जैसे कि मैंने बताया कि एक साथ आपने हजारों लोगों को भेज दिया, which is an
+
+[17:29] automation, one type of automation। दूसरे इसमें और भी flows होते हैं,
+
+[17:33] right? तो वो एक automation। तीसरा, आप इसमें unlimited scale
+
+[17:37] कर सकते हैं। यह step wise होता है। उसकी चीज मैं आगे बताऊँगा
+
+[17:41] scale कैसे यह हमें देता है करने के
+
+[17:43] लिए। चौथा, यह किसी भी
+
+[17:47] server या systems पर यह काम करता है। मतलब कि यह सिर्फ mobile में, mobile में
+
+[17:51] obviously it's not mobile use, it's on laptop based या
+
+[17:55] PC based, right? यह उसके category की
+
+[17:59] चीज है।
+
+[18:01] just a second
+
+[18:19] Alright, thank you.
+
+[18:21] So the next,
+
+[18:22] the most important thing in WhatsApp Business API,
+
+[18:27] जैसे मैंने कहा था WhatsApp पर तो यह free service WhatsApp देता है, but WhatsApp
+
+[18:31] Business API पर message भेजने के
+
+[18:34] charges वह हमसे लेता है।
+
+[18:37] For everyone, for me as well, for you as well, for anyone as well.
+
+[18:41] Meta का यह rule है कि वो WhatsApp Business API से अगर message भेजोगे तो उसके
+
+[18:45] charges वो लेता है, क्योंकि genuine business point of view से आप वो message भेज
+
+[18:49] रहे हो जिसका use case आपके business के लिए हो रहा है। Right?
+
+[18:52] That is the conditions. यहां clear है guys तो एक बार मुझे thumbs up
+
+[18:56] दिखा
+
+[18:58] दो। So that we can move to the next slide.
+
+[19:03] Okay, thank you.
+
+[19:06] Perfect. ठीक है।
+
+[19:09] अभी देख रहे हैं। यहां से आपको और clear होना जाएगा। Who can get WhatsApp Business
+
+[19:12] API? मैंने बताया आपको कि कौन ले सकता है। Simple,
+
+[19:16] अगर private limited company registered है, आप ले सकते हो, public limited है तो
+
+[19:20] भी ले सकते हो, LLP है तो भी ले सकते हो, partnership firm है तो भी ले सकते हो,
+
+[19:24] अगर proprietorship है तो भी ले सकते हो।
+
+[19:27] ठीक है? कोई ना कोई आपकी business होनी चाहिए, that is the first
+
+[19:32] condition।
+
+[19:34] Shops, retailers obviously, hospitals, clinics, schools,
+
+[19:37] institutes, E-commerce business owners, जो E-commerce में business कर
+
+[19:41] रहे हैं, D2C brands, and service companies जो हैं, जिनकी
+
+[19:45] registered firms हैं, जो service based 10:00 से type की हैं, जिनकी registered
+
+[19:49] firms हैं।
+
+[19:51] GST number है, Udyam Aadhar certificate है, तो यह सारे जो businesses हैं,
+
+[19:55] business सारे business आ गए already but कोई भी business जो registered है basically
+
+[19:59] in simple word वो WhatsApp
+
+[20:02] Business API के लिए apply कर सकता है। Clear?
+
+[20:06] Now, ऐसा है कि अगर यह documents नहीं है तो
+
+[20:10] क्या मैं WhatsApp Business API के लिए apply नहीं कर सकता?
+
+[20:13] ऐसा भी नहीं है। अगर आपके पास अभी कोई document नहीं है
+
+[20:17] तो आप शुरू तो कर सकते हो but आपको Meta एक limit
+
+[20:21] देता है जो आप नीचे पढ़ पा रहे हो screen के ऊपर, कि
+
+[20:24] individuals can not verify। मतलब कि
+
+[20:28] आप अपने business को verify नहीं करवा पा रहे हो क्योंकि आपके पास ही document
+
+[20:32] नहीं है। तो मतलब इसका क्या हुआ कि अगर आपकी individual identity
+
+[20:36] है, तो Meta आपको WhatsApp Business API number तो देगा
+
+[20:40] but आपके capping वो लगाता है कि आप एक दिन
+
+[20:44] में 250 customers को ही message भेज पाएंगे, उससे ऊपर नहीं भेज
+
+[20:47] पाएंगे। जब आप verify करवाते हो, मैंने
+
+[20:51] कल के class में यह बताया था आपको याद होगा, क्योंकि मैंने बताया था कल की class, आज
+
+[20:55] की class थोड़ी connected होगी। मैंने कल की class में बताया था कि
+
+[20:59] Security Center करके एक option है business.facebook.com पर,
+
+[21:03] जहां पर अपने business को verify करवाना है, जो मैंने बताया कि आज वो
+
+[21:07] हम देखेंगे।
+
+[21:09] वो basically जो verification है, वो अगर आपका
+
+[21:13] है तो आपकी 250 की limit direct 1000 per day
+
+[21:16] के limit पर Meta ले आता है initially।
+
+[21:20] 1000 messages per day customers को। तो यह limit Meta
+
+[21:24] increase करता है क्योंकि आप verified business हैं। फिर जैसे-जैसे आप
+
+[21:28] आगे बढ़ते हो, जैसे-जैसे उसके services आप use करते हो, जैसे-जैसे
+
+[21:32] आपके 1000 messages per day touch होना चालू हो जाते हैं, Meta खुद
+
+[21:36] ही उसको automatically
+
+[21:39] 10,000 per day के message तक ले जाता है।
+
+[21:42] फिर अगला जो stage आता है वो है 1 लाख per day messages के ऊपर।
+
+[21:47] So these are the stages given by Meta based on your quality.
+
+[21:50] मैं आपको बताऊं quality का मतलब what it is, it will be some time. ठीक है?
+
+[21:55] Now see, the main requirements in simple words अगर हम देखें,
+
+[21:59] to get WhatsApp Business API,
+
+[22:02] सबसे important, आपका business real होना चाहिए। अगर आपका business में कोई भी
+
+[22:05] गड़बड़ी है या
+
+[22:08] Meta को अगर लग रहा है कि कुछ illegal चीजें हो रही हैं तो वो आपका account ban कर
+
+[22:12] देगा। कुछ भी पूछेगा नहीं, कुछ भी request accept नहीं करेगा, because it is very
+
+[22:16] sensitive in its
+
+[22:19] policy. तो आपके पास physically और digital presence जरूर होना चाहिए।
+
+[22:22] Meta verify कैसे करेगा? आपके पास आपका landing page,
+
+[22:26] जो हमने पहले class में समझा था Marketing Academy में, landing page के ऊपर आपने
+
+[22:30] आपका
+
+[22:31] about me या जो भी आपने लिखा है, website आपकी है तो उसके ऊपर आपने लिखा हो, वहां से
+
+[22:35] Meta verify कर सकता है। Physical आपका कुछ document है obviously Udyam Aadhar हो
+
+[22:39] गया, GST हो गया, physical documents हैं जिससे Meta verify कर सकता है। तो
+
+[22:42] verification के लिए उसको कुछ ना कुछ proof चाहिए, तो वो एक genuine business को वो
+
+[22:46] समझ में आ जाए कि it is a genuine business। Second, आपका business legal registered
+
+[22:50] है कि नहीं, जैसे कि GST या company का PAN card या आपका
+
+[22:54] individual है तो आपका PAN card。 Obviously यह सारी चीजें तो होती है हमारे पास। GST
+
+[22:57] obviously optional है but अगर है तो well and good.
+
+[23:00] Incorporation मतलब private limited अगर आपका है तो which is well and good.
+
+[23:03] नहीं है तो कोई tension नहीं है। ऐसा नहीं कि इसके लिए private limited company open
+
+[23:06] करनी है, ऐसा भी नहीं है। Right?
+
+[23:10] Udyam certificate मिल जाता है
+
+[23:12] अगर आप business कर रहे हो।
+
+[23:15] Now, third point है कि is your business trustworthy?
+
+[23:20] trustworthy को कैसे वो verify करेगा?
+
+[23:22] बड़ी आसानी से, as a human हम कैसे verify करते हैं?
+
+[23:24] हम cross-check करते हैं ना, सारी चीजें match करेगी नहीं करेगी। Right?
+
+[23:28] तो हम check करते हैं कि documents जो दिए हैं और जो चीजें submit करी गई हैं, वो
+
+[23:32] matching हो रही है कि नहीं हो रही है। तो एक trustness वहां से check हो रही
+
+[23:36] है। So these are the main elements जो Meta देखता है
+
+[23:40] जब Meta business verify आप करवाते हो आपके
+
+[23:44] business को।
+
+[23:46] ठीक है?
+
+[23:48] Now, mandatory क्या है?
+
+[23:50] यह तो चलो मैंने business के related बता दिया but अभी technically
+
+[23:54] mandated क्या है? Technically क्या हमें लगेगा?
+
+[23:57] कल से आपको relate होगा कि कल हमने Meta business portfolio बनाया था।
+
+[24:01] Meta business portfolio क्या था? हमने Instagram, Facebook connect करके
+
+[24:05] हमने एक portfolio बनाया था, right?
+
+[24:08] Meta business.facebook.com पर। Right?
+
+[24:10] तो वो ही हमें लगने वाला है आज भी।
+
+[24:13] वो ad account के लिए हमने बनाया था, वो हमारा इधर भी काम आ जाएगा, same
+
+[24:16] account.
+
+[24:18] दूसरा हमें लगने वाला है एक WhatsApp number,
+
+[24:23] मतलब
+
+[24:24] I cannot say WhatsApp number but a naya number.
+
+[24:28] ध्यान से सुनिएगा। WhatsApp Business API apply करने के लिए
+
+[24:32] you need
+
+[24:35] a new number.
+
+[24:37] Right?
+
+[24:38] जो कहीं पर भी आपने use नहीं किया हो in anywhere in WhatsApp.
+
+[24:44] Are you getting the point?
+
+[24:47] आपके WhatsApp application में use नहीं होना चाहिए, आपके Business WhatsApp के भी ऊपर
+
+[24:51] use नहीं होना चाहिए। वह number WhatsApp के mobile application में use नहीं
+
+[24:55] होना चाहिए। तब ही वो WhatsApp Business API आप use कर सकते हो,
+
+[25:00] the safest and as per the Meta's policy.
+
+[25:04] Clear?
+
+[25:06] Now,
+
+[25:07] Facebook page obviously column ने बनाया। Instagram page, business
+
+[25:11] details. Business details में Security Center जो मैंने बताया or two factor
+
+[25:14] authentication का column मैंने बताया। वो चीज हमने कल cover कर ली थी, जो इसमें काम
+
+[25:18] आने वाली है। वापस double करने की जरूरत नहीं पड़ेगी। Right?
+
+[25:22] तो यह कोई चीज ऐसी है, कोई चीज, जैसे WhatsApp का number लेना हो गया,
+
+[25:26] तो वो एक चीज हो गई।
+
+[25:28] Business verification का column नहीं कर पाया था, क्योंकि वो WhatsApp के बाद मिलता
+
+[25:31] option है, तो वो एक चीज हो गई।
+
+[25:33] So these are the important
+
+[25:37] thing for moving forward
+
+[25:42] for WhatsApp as a API application.
+
+[25:44] So WhatsApp
+
+[25:45] Business portfolio, WhatsApp API is not possible अगर portfolio नहीं है आपका, तो
+
+[25:49] API आप नहीं ले सकते। आपको पहले portfolio बनाना पड़ेगा business.facebook.com पर, जो
+
+[25:53] कल भी बनाया हमने वही चीज। और उसके, ये सारे चीज अगर ready है
+
+[25:57] फिर आगे की process मैं बताऊंगा आपको।
+
+[26:01] अब देखिए, business verification में important steps क्या है?
+
+[26:05] मतलब business verification में क्या मिलेगा?
+
+[26:08] क्या-क्या documents वो accept करता है?
+
+[26:11] Private limited company है तो incorporation का letter मिलता है। MOA,
+
+[26:15] AOA करके दो documents मिलते हैं। तो ये सारे चीजें हैं, जिसमें से कुछ भी वो मांग
+
+[26:19] सकता है। उद्यम आधार certificate, इसके optional में अगर आपकी private limited
+
+[26:23] company नहीं है तो उद्यम आधार certificate है तो वो चल सकता है। GST
+
+[26:27] certificate है तो वो तो well and good है। company का PAN card है which is well and
+
+[26:30] good है। Address proof हो गया। ये mostly documents Meta
+
+[26:35] हमसे मांगता है। Individuals भी apply कर सकते हैं। अगर आप business
+
+[26:39] verify नहीं करवा रहे, इसका मतलब यह नहीं कि आपकी WhatsApp आप use नहीं कर सकते
+
+[26:42] API।
+
+[26:44] But आपको limit मिलती है, जो कि मैंने बताया 250 per day message की। और ये
+
+[26:48] Meta की तरफ से होती है, किसी भी service provider की तरफ से नहीं होती
+
+[26:51] है। Clear है?
+
+[26:55] Okay.
+
+[26:56] So now understand critical rules में name
+
+[27:00] आपके match होना चाहिए। Business name on
+
+[27:04] documents must match business portfolio name exactly.
+
+[27:08] यह मैं भी बताऊंगा आपको practicals में भी
+
+[27:11] कि business portfolio name कहाँ है और आपके legal name कहाँ है। Business
+
+[27:15] portfolio में अगर same नहीं है तो उसको आप change भी कर सकते हैं।
+
+[27:18] No personal documents, personal Aadhaar, individual PAN not accepted as in
+
+[27:22] business proof. मतलब आपकी individual अगर है तो आपको
+
+[27:25] verification के लिए जाना ही नहीं पड़ेगा, जब तक अपना कोई भी उद्यम आधार या
+
+[27:29] business को establish नहीं करते। Right?
+
+[27:32] तीसरा, clear valid PDFs होनी चाहिए आपकी। Right?
+
+[27:35] Your documents must be clear or उसमें कोई भी
+
+[27:38] inconsistency या
+
+[27:41] blurriness, clear नहीं दिख रहा, ऐसा नहीं होना चाहिए। Right?
+
+[27:44] ताकि वो easily read कर पाए। नीचे की एक line पढ़िए आप, यहां से आपको
+
+[27:48] clear होगा। लाल line जो red line में लिखा है नीचे।
+
+[27:52] Unverified accounts, मतलब जिन लोगों ने verifications नहीं कराए, business के
+
+[27:56] documents हैं ही नहीं, तो वो लोगों को क्या होगा 250 customers per
+
+[28:00] day message ही भेज पाएंगे।
+
+[28:03] उसके ऊपर वो limit नहीं देगा। अगर verified है तो वो
+
+[28:07] 250 पहले stage में 1,000 तक जाएगा। पर जैसे-जैसे आप
+
+[28:10] 1,000 messages per day hit करने लग जाओगे
+
+[28:14] consistently, तब आपके वो automatically Meta ही करता है, ये किसी के control
+
+[28:18] में नहीं है। 10,000 messages तक वो ले जाता है। और वो number
+
+[28:22] आपको दिखता है। कहाँ दिखता है वो भी बताऊंगा मैं आपको।
+
+[28:25] और जैसे 10,000 messages आपके hit होने start हो गए, वो automatically
+
+[28:29] 1 लाख per day के message तक आपको ले जाता है। और जैसे 1 लाख per day की hit
+
+[28:33] limit आपकी
+
+[28:34] hit होना start हो गई, वो unlimited number तक या 10 लाख तक वो ले जाता है।
+
+[28:39] So ये gradually Meta increase करता है कि आपकी quality ratings को improve कर
+
+[28:43] रहा है मतलब आप समझ लीजिए। Trustness, जो मैंने कल भी बताया था, trust check
+
+[28:47] कर रहा है वो, quality check कर रहा है आपकी। So I hope यहां
+
+[28:51] तक सबको clear है guys। एक बार मुझे सब लोग यहां का message
+
+[28:54] दीजिए। Clear है यहां तक?
+
+[29:00] Everyone please open the camera.
+
+[29:05] Thank you.
+
+[29:10] ठीक है। Next.
+
+[29:14] Website requirement very important.
+
+[29:16] इसके लिए कहा जा रहा है कि Meta checks your website to verify your brand is real.
+
+[29:20] अगर है ना तो बहुत easy हो जाता है। Right?
+
+[29:24] So यह एक important चीज है। Our website बनाना which is not
+
+[29:28] difficult in AI era. Obviously the claim skills classes are
+
+[29:32] not over yet. Right? So be with us.
+
+[29:35] So website में क्या ऐसी चीज है जो Meta देखता है, यह भी
+
+[29:39] यहां पर आपको समझ में आ गई, देखो। वो सब चीज नहीं देखेगा। वो यही चीज देखेगा।
+
+[29:43] सबसे पहले वो देखेगा आपके header में। Header मतलब क्या होता है?
+
+[29:47] आपका जो front
+
+[29:49] ऊपर वाला website का जो portion है, वहां पर आपका logo और
+
+[29:53] brand name,
+
+[29:55] जिस नाम से आप registered कर रहे हो अपने business को
+
+[29:59] WhatsApp Business API के लिए, वो देखेगा वो।
+
+[30:02] Website के footer में, मतलब सबसे नीचे company का नाम,
+
+[30:07] company का address, GST या CIN अगर है तो वो डालिए। Otherwise company का
+
+[30:11] नाम और company का address यह होना जरूरी है at the website के footer
+
+[30:14] में। एकदम end में। छोटे से line में भी होगा,
+
+[30:17] चलेगा। Contact us का page
+
+[30:21] mandatory होता है। यह Meta check करता है। जिसमें phone number, business
+
+[30:25] email. Business email क्या होता है?
+
+[30:28] abc@gmail.com यह business email नहीं है, यह general
+
+[30:32] email है। Business email होता है कि मान लो आपने domain name
+
+[30:35] लिया, कि abc.com आपने domain name purchase किया,
+
+[30:39] Namecheap, GoDaddy या Hostinger या कहीं से भी।
+
+[30:43] तो domain name
+
+[30:44] के अंदर ही आपको एक business email purchase करने का option मिलता है।
+
+[30:53] example यह हो गई
+
+[30:55] support@abc.com,
+
+[30:58] support@gmail.com नहीं, support@abc.com या
+
+[31:01] info@abc.com। Yeah, aapkanaam@abc.com.
+
+[31:04] So these are the business emails जो एक चीज आती है। वो नहीं
+
+[31:08] होगा, तभी एक बार चलेगा but contact us का page जरूरी है आपके
+
+[31:12] website के footer में।
+
+[31:14] Privacy policy page. Privacy policy आज के date में अगर आपको नहीं
+
+[31:18] बनाना आता, कोई इसमें rocket science नहीं है, guys.
+
+[31:22] आप सब लोग Chat GPT use करते हैं ना आज के date में?
+
+[31:25] Yes or no?
+
+[31:27] तो आप अपना business की information थोड़ी सी दे दीजिए। उसको बोलिए मुझे
+
+[31:31] privacy policy page का content बनाकर दे दे। वो content आप एक बार के लिए use कर
+
+[31:34] सकते हो। पर अगर जैसे आप business बड़ा करते हो आगे जाकर, तो I
+
+[31:38] recommend that आप किसी proper lawyer या किसी
+
+[31:43] person से जिसका knowledge इस चीज का है, उससे आप जरूर करवाएं।
+
+[31:46] ताकि
+
+[31:48] जब आप बड़े scale पर हो, तब तक एक बार starting के लिए चलेगा।
+
+[31:52] Terms and condition page. Obviously ये दो page important हैं जो footer में होने
+
+[31:56] चाहिए। तो ये कुछ important चीजें हैं जो Meta देखता है आपके
+
+[32:00] website में।
+
+[32:02] नीचे एक चीज पड़ी है, यह बहुत important है।
+
+[32:05] आपको मैं बता दूं Meta is very smart.
+
+[32:10] कुछ लोग वो हैं जो लगता है कि वो smart बनने के कोशिश में
+
+[32:14] अपनी disable या ban हो जाता है account. Meta is very smart.
+
+[32:18] Meta और AI भी आ गए तो obviously वो और ज्यादा smart हो गए। तो fake or
+
+[32:22] empty website will cause rejection.
+
+[32:24] Bottom में लिखा हुआ है, build a real one first.
+
+[32:28] इसमें इतना भी tension लेने की जरूरत नहीं है कि बहुत ही
+
+[32:32] ज्यादा strict हैं।
+
+[32:34] ये कुछ important चीजें होनी चाहिए। आप genuine business कर रहे हो, आपको पता है तो
+
+[32:37] genuine आप रखो वहाँ पर। But ये जो parameters हैं, ये आपके website में होनी चाहिए।
+
+[32:41] Header में logo, brand name, footer में company का नाम, contact us का page, privacy
+
+[32:45] policy का page और terms and conditions का page. That's it. Clear, guys?
+
+[32:50] Concept समझ में आ आपको? Technically क्या होगा वो सब बाद की बात है। But यह clear हो
+
+[32:54] रहा है?
+
+[32:55] ठीक है?
+
+[32:57] Okay.
+
+[32:59] All right. ABX समझने की जरूरत है। Common mistakes जो हो जाती है
+
+[33:03] और लोग कर लेते हैं क्योंकि knowledge नहीं होता है। तो यह नहीं
+
+[33:07] करनी चाहिए। Common mistakes क्या हैं? Using a number already on WhatsApp.
+
+[33:11] Obviously वो Meta लेगा ही नहीं। पहली बात, वो accept ही नहीं
+
+[33:14] करेगा। दूसरा, no website or fake website.
+
+[33:17] So Meta requires a real live website with proper pages.
+
+[33:22] Business name mismatch. Document में नाम कुछ और है, Business manager का name कुछ और
+
+[33:26] है, तो mismatch. ये mistakes लोग करते हैं जिसको
+
+[33:30] ध्यान में रखना।
+
+[33:31] Wrong document submitted. Personal document submit कर देंगे, कुछ भी document submit
+
+[33:34] कर देंगे तो सोचेंगे कि approve कर देंगे। ऐसा नहीं होगा। जो मांगे गए हैं वही
+
+[33:38] दो, तो approve करेगा। Or sending spam or bulk
+
+[33:42] promotion messages. यह सबसे important चीज है जो आप message सभी लोगों
+
+[33:46] को ध्यान में रखने वाली।
+
+[33:48] आप वैसे कई लोगों को, मान लो WhatsApp Business API अगर मिल भी जाता है Meta से,
+
+[33:53] but अगर आप उसका use spam या bulk message,
+
+[33:58] without any कि message जा
+
+[34:02] रहे हो,
+
+[34:03] और बहुत से लोगों ने उसको, मान लो report या block किया
+
+[34:07] क्योंकि आप को वो जानते ही नहीं हो और आप उनको message भेजे जा रहे हो।
+
+[34:11] तो simple सी बात है as an human behavior कोई भी block करेगा। Yes or no?
+
+[34:16] तो उसका indirect
+
+[34:18] effect आपके WhatsApp Business API पर आएगा। आपका business account Meta
+
+[34:22] ban कर देगा। Right? So ये Meta restrict करता है।
+
+[34:27] Clear है?
+
+[34:29] So obviously उसको authentically use किया जाता है। Genuine business,
+
+[34:33] genuine clients से use किया जाता है तो यह चीजें सही जाती
+
+[34:36] हैं। Final summary, let's focus
+
+[34:40] on this. WhatsApp Business API is equal to WhatsApp for business.
+
+[34:44] Not for personal use, only registered companies and firms.
+
+[34:49] Personal use के लिए नहीं है, यह इतना समझ लो। Meta business verification is
+
+[34:52] important. Submit the document, matching business name.
+
+[34:57] Build a website first. Header, footer, contact, privacy policy, terms and
+
+[35:00] conditions are required. Per message cost applies.
+
+[35:03] यहां से आपको clarity मिलेगी।
+
+[35:06] क्योंकि business के लिए use किया जाता है। तो Meta क्या करता है?
+
+[35:09] Meta charges per conversion.
+
+[35:11] Prices vary by category. Mainly तीन category के
+
+[35:15] message के अंदर Meta आपके message को filter करता
+
+[35:19] है।
+
+[35:25] All right. Thank you. Sorry.
+
+[35:29] Okay. तो वो कौन सी तीन category हैं?
+
+[35:33] जब भी आप message भेजते हो Meta पर या WhatsApp Business API से, तो
+
+[35:37] ऐसा नहीं कि आप WhatsApp पर भेज रहे हो तो आपको जो मन में आया वो
+
+[35:41] डाल के आपने भेज दिया, वैसा नहीं होता। आपको जो भी भेजना है, पहले
+
+[35:45] वो template आपको approve करवानी पड़ती है कि हाँ यह भेजना चाह रहा हूँ।
+
+[35:49] वो approval जब आएगा तब जाकर उसको आप भेज पाओगे। उसके बाद आप उसको भेजना
+
+[35:53] चाहे, जितना चाहो उतना भेजो, वो कोई tension नहीं है। But approval से
+
+[35:57] पहले आप direct नहीं भेज सकते।
+
+[36:00] तो वो जो template आप approve करवाते हो कि यह मेरा message है, यह मुझे भेजना
+
+[36:04] है, यह मेरा offer है मान लो, यह मुझे भेजना है। तो
+
+[36:07] वो तीन category में जा सकता है।
+
+[36:11] Meta का according.
+
+[36:12] और तीनों category के rates हैं।
+
+[36:15] एक marketing category, एक utility category, एक authentic
+
+[36:20] category. Right? So ये तीन category क्या मतलब करती है?
+
+[36:23] Marketing category मतलब कि Meta आपके message को पढ़ के अगर उसमें कोई
+
+[36:27] भी ऐसी marketing psychology लग रही है, कि marketing का message है,
+
+[36:31] उस message का Meta charge लेता है 0.86
+
+[36:35] पैसा per message plus GST. This is the Meta rate directly.
+
+[36:39] Your official rate बता रहा हूँ।
+
+[36:42] जो आज के, right?
+
+[36:44] Utility message मतलब कि मान लो कि
+
+[36:50] किसी ने किसी program के लिए registered किया।
+
+[36:53] ठीक है?
+
+[36:55] अब registration के बाद confirmation message आना है तो वो कोई marketing का message
+
+[36:58] तो नहीं है। कि आपने program के लिए register किया था, confirmation message आना चाहिए
+
+[37:02] तो वो एक utility message है। तो उसकी rate Meta कम
+
+[37:06] लेता है। उसकी rate है 0.115 पैसा
+
+[37:11] plus GST and same for all 0.115 plus GST.
+
+[37:15] Mostly जो widely use होता है utility and marketing.
+
+[37:20] एक और चीज। यह note down करना है यह चीज।
+
+[37:29] जब भी आप
+
+[37:31] marketing message भेजते हो,
+
+[37:34] यह industry standard by Meta है to prevent fraud,
+
+[37:38] scams and any kind of illegal activity on WhatsApp Business API।
+
+[37:42] उसके platform पर ऐसी चीज ना हो, तो यह उसके लिए वो
+
+[37:45] prevention के लिए करता है।
+
+[37:48] Generally यह उन्होंने set कर रखा है पूरा। तो marketing message
+
+[37:52] जब भी आप भेजते हो ना,
+
+[37:54] तो वो rate, तो उसका 86 पैसा plus GST तो है ही,
+
+[37:58] पर
+
+[37:59] आपने मान लो 1000 लोगों को भेजे,
+
+[38:02] तो हो सकता है कि वो सभी लोगों को ना
+
+[38:05] जाए। भले ही आपने template approve करी हो, भले ही
+
+[38:09] आपके पास official WhatsApp Business API हो, भले ही आपके numbers real हो, तब
+
+[38:13] भी वो 100% delivery में नहीं जाता है।
+
+[38:16] यह पूरे दुनिया की बात बता रहा हूँ। चाहे आप कहीं भी चले जाओ, यही चीज
+
+[38:19] है। Correct?
+
+[38:22] तो WhatsApp Business API में marketing message का delivery rate जो
+
+[38:26] है, generally 50% to 60%
+
+[38:30] on an average.
+
+[38:33] clear हो गया?
+
+[38:35] Utility message का जो delivery rate है which is 90% to
+
+[38:38] 95%.
+
+[38:43] Same for the all. Clear?
+
+[38:46] तो यह Meta के कुछ practical experiences हैं, जो मैं आपको दे रहा हूँ।
+
+[38:50] जो
+
+[38:52] starting में नहीं पता होते but जब आप use करते हो तो आपको पता चलता है कि हाँ, यह चीज
+
+[38:55] ऐसी ही चलती है। आप cross check कर चुके होते हो कि 10 जगह आपने check कर लिया, 10 जगह
+
+[38:59] पर ऐसी ही चल रही है तो Meta में भी ऐसी चल रही है। Meta के level पर भी वो चीज ऐसी है
+
+[39:02] तो वो फिर समझ में आती है आपके बाद। जो आपको मेरा experience gain कर रहा है। ठीक है?
+
+[39:06] All right, guys.
+
+[39:10] I hope so the right setup, setup is very important जो
+
+[39:14] कि setup part हम देखेंगे अभी और फिर उसको कैसे हमें use करना है, वो
+
+[39:18] भी हम करके देखेंगे। So guys, I hope आप लोगों को
+
+[39:23] concept clear हो गया है कि क्या करना है। कौन ले सकता है, कौन नहीं ले
+
+[39:27] सकता। कैसे, क्या-क्या चीजें लगने वाली हैं। clear है यहां तक?
+
+[39:38] ठीक है। तो सबसे पहले मैं यह process बताने के लिए मुझे हो सकता
+
+[39:42] है कि दो-तीन,
+
+[39:43] क्योंकि मुझे दिखाना आप लोगों को, मुझे सिखाना है आप लोगों को, तो मुझे
+
+[39:49] एक या दो Meta Business account दिखाने पड़ेंगे ताकि आप लोगों को concept clear हो,
+
+[39:53] practical level पर screen share करके। ठीक है?
+
+[39:55] तो मैं guide करूंगा। आप थोड़ा सा मेरी बातों पर ध्यान देना ताकि आप समझोगे चीजों
+
+[39:59] को। ठीक है?
+
+[40:01] So let me share my screen.
+
+[40:04] एक second देना।
+
+[40:24] जैसे मैं आपको पहले कल वाला दिखाता हूँ आपको।
+
+[40:28] यह देखिए।
+
+[40:29] Everyone can see the screen now.
+
+[40:33] कल वाले class में हमने जो Business portfolio बनाया था, ध्यान से
+
+[40:37] देखिएगा। यह कल वाला ही है। आपको याद है Ads for You?
+
+[40:41] यह कल हमने use किया था। Business portfolio कल बनाया था हमने Ads for You।
+
+[40:45] आज Ads for You यह Business portfolio का नाम है।
+
+[40:49] अब मेरे पास जो legal documents हैं, वो मान लो Ads for You के नहीं हैं। तो मेरे पास
+
+[40:52] legal documents अलग हैं। तो मैं इसका नाम change करूंगा। कहां से करूंगा?
+
+[40:56] Business Info में जाऊंगा top पर। Right?
+
+[40:59] यहां पर edit का option है।
+
+[41:02] यहां पर मैं जाऊंगा। यहां पर मैं नाम change करूंगा।
+
+[41:05] clear हो गया?
+
+[41:08] मेरे जो legal documents हैं उसके according मैं यहां पर नाम change करूंगा। वो
+
+[41:12] नाम जब change होगा तो मेरे Business portfolio का नाम change हो जाएगा। Second step
+
+[41:15] फिर होगा,
+
+[41:16] इसके बाद मेरे को क्या-क्या देखने वाली चीजें हैं?
+
+[41:20] जो कल ही मैंने बताई थी, वो cross check कर लेनी एक बार कि आपके
+
+[41:24] Facebook page, Instagram page यह connected है।
+
+[41:28] आपका ad account बना हुआ है। ad account में billing payment methods, जो कल card
+
+[41:32] attach करना, वो सारी चीजें आपने कर रखी हैं।
+
+[41:35] यहां तक अगर आपका clear है ना,
+
+[41:38] इसके बाद
+
+[41:39] आप जब security center में आते हो,
+
+[41:42] यहां पर आप देखोगे,
+
+[41:46] यहां पर verification for your Ads for You का options अभी तक open नहीं है। मतलब
+
+[41:50] यहां पर
+
+[41:51] does not need to verify बता रहा है। क्योंकि हमने इस account में WhatsApp
+
+[41:55] Business API के लिए apply ही नहीं किया। तो basically यह account में
+
+[41:59] हमने कल card भी attach नहीं किया था but मैंने बताया था कैसे attach करना है।
+
+[42:04] Right? तो I will show you different account जिसमें यह चीजें कुछ हद तक हो रखी
+
+[42:07] है ताकि आप समझोगे। but before that
+
+[42:11] अगर आपका Business account बन चुका है,
+
+[42:14] आपके
+
+[42:18] पास आपका नया number ready है। अब ये सारी चीजें जब ready
+
+[42:21] होती हैं तब आप कैसे WhatsApp Business API ले सकते हो?
+
+[42:26] अब मैं आपको थोड़ा industry level पर clear करता हूं ताकि आप समझोगे।
+
+[42:30] WhatsApp Business API लेने के लिए direct Meta से आप नहीं ले सकते
+
+[42:34] क्योंकि Meta direct वो service इतनी
+
+[42:37] flexibly provide नहीं करता है।
+
+[42:39] Right? उसके लिए कुछ Meta tech
+
+[42:43] partner, tech provider या business service provider होते हैं, जो
+
+[42:47] उस category के platforms ready करके आपको वो services share
+
+[42:51] करते हैं via Meta.
+
+[42:54] तो बीच में आपको एक service provider मिलता है। अब मैं आपको कुछ examples
+
+[42:58] दूंगा ताकि आपको और clear होगा। आप में से कुछ लोग तो जानते भी होंगे।
+
+[43:02] जैसे Indian market में कई ऐसे WhatsApp business service provider हैं, including
+
+[43:06] ASNC, जो लोग mostly use करते हैं। ऐसे और भी हैं,
+
+[43:10] जो WhatsApp business service provider, WhatsApp service API
+
+[43:13] services provide करते हैं via Meta.
+
+[43:16] क्या करना नहीं चाहिए, वो समझो आप। और कैसे right
+
+[43:23] platform को choose किया जाए?
+
+[43:26] WhatsApp service provider जितने भी होते हैं,
+
+[43:29] like ASNC,
+
+[43:31] ये
+
+[43:33] आपको WhatsApp services तो देते ही हैं, but
+
+[43:37] पहली चीज जो check करनी चाहिए, क्या वो official WhatsApp
+
+[43:41] API जो Meta का है, वही use कर रहे हैं कि नहीं कर रहे?
+
+[43:45] क्योंकि बहुत से ऐसे service provider होते हैं, जो official use नहीं करते।
+
+[43:49] इसकी वजह से आपके जो number है, उस पर भी effect आता है।
+
+[43:54] तो Meta हमेशा check करता है कि official Meta service provider से ही आप यह
+
+[43:58] चीजें लो। दूसरा,
+
+[44:01] कि जो per message हम भेजते हैं, मैंने आपको बताया Meta per
+
+[44:05] message के charge लेता है।
+
+[44:07] 86 पैसा marketing का लेता है वो।
+
+[44:12] 15, 0.115 utility का बताया मैंने आपको।
+
+[44:16] तो ये जो per message charge है, ये Meta के तो है ही है, but कुछ
+
+[44:20] ऐसे business service provider जो Indian market में या global level पर भी हो, वो
+
+[44:24] इसके ऊपर भी एक markup fees add करती हैं। यह knowledge
+
+[44:28] बहुत कम लोगों को होता है जिसकी वजह से
+
+[44:31] अगर आप 10,000 लोगों को
+
+[44:35] message भेज रहे हो, तो आपका बहुत मोटा पैसा markup में भी चला जाता है।
+
+[44:38] markup fees basically यही होगी कि per message अगर 86 पैसे का Meta का है,
+
+[44:43] तो ये जो service providers होते हैं, यह उसके ऊपर 10 पैसे या 20 पैसे
+
+[44:47] चढ़ाकर आपसे वो पैसा लेते हैं।
+
+[44:50] यह उनका business model हो गया। क्योंकि वो आपको infrastructure दे रहे हैं, तो यह
+
+[44:53] उनका business model हो गया। but कुछ ऐसे service providers भी होते हैं,
+
+[44:57] जो zero markup fees के साथ आपको
+
+[45:01] platform use करने देते हैं। तो मेरा suggestion क्या
+
+[45:05] है? जहां markup fees ना हो, वैसे service provider को चुनना चाहिए,
+
+[45:10] पहली तो यह और दूसरे कि वो official Meta Business Cloud API
+
+[45:14] use कर रहे हो, उनके technology में यह हमें
+
+[45:19] देखना चाहिए। यह दो चीजें अगर हैं, तो
+
+[45:22] आपका बहुत पैसा बच सकता है while broadcasting.
+
+[45:26] clear है तक?
+
+[45:28] तो अब जब भी कहीं से भी आप करो, करने के लिए बहुत से platforms
+
+[45:32] हैं। मैं सभी platforms का तो नहीं दिखा सकता but process जो होगी, वो same
+
+[45:35] होगी। Right? तो मैं अभी
+
+[45:39] आपको share करके दिखाता हूँ, how to connect
+
+[45:42] Meta
+
+[45:45] WhatsApp API with service provider, जो official
+
+[45:49] Meta tech partner companies हैं, उनके साथ। One of the company.
+
+[45:53] तो let me share you the screen, just give me a
+
+[45:57] minute. एक सेकंड देना मेरे को। मैं सारी चीजें एक बार login कर लूं and
+
+[46:02] after that I will update you. Just give me a minute.
+
+[46:08] Let me share you the screen.
+
+[46:25] All right, guys. तो
+
+[46:27] let me share you the screen.
+
+[46:30] सबसे पहले ...
+
+[46:34] WhatsApp को?
+
+[46:39] सबसे पहले, मैं आपको screen share करके दिखाता हूँ आपको, एक
+
+[46:42] सेकंड।
+
+[46:44] देखिए।
+
+[46:47] Number one thing you require...
+
+[46:54] यह एक business portfolio account है। business.facebook.com पर मैं
+
+[46:58] आया हूँ। और यहाँ पर मैं अभी
+
+[47:01] exactly कहाँ से आया हूँ, वो बताता हूँ आपको, एक सेकंड।
+
+[47:04] business.facebook.com.
+
+[47:10] And
+
+[47:11] in which, I am into the settings,
+
+[47:15] business settings.
+
+[47:19] And let me select the right business portfolio.
+
+[47:27] Business portfolio select हो गया and in which, यहाँ पर है मेरे पास
+
+[47:31] WhatsApp account का option. Can you see?
+
+[47:34] WhatsApp account. Screen पर focus करें सब लोग। WhatsApp account.
+
+[47:38] यहाँ पर मेरे पास already दो-चार हैं but एक मैं नया करके दिखाता हूँ, ताकि आप
+
+[47:42] समझ पाओ उस चीज को।
+
+[47:46] Security center में जाकर दिखा रहा हूँ मैं आपको।
+
+[47:49] इस account की
+
+[47:51] security center में जाकर देखोगे, तो यहाँ पर business account verified है।
+
+[47:55] Personal नाम से GST होता है, तो आप verify कर सकते हो personal नाम से भी। आपका
+
+[47:58] personal GST account number होना चाहिए। तो यह verified है। तो यह
+
+[48:02] इस case में verified है, तो आपके case में अगर नहीं है, तो compulsory नहीं है। अगर
+
+[48:06] आपको per day की limit बढ़ानी है, तो आपको फिर verification के लिए जाना होता है।
+
+[48:10] but यह verification का यहाँ पर क्यों आया?
+
+[48:12] उस पूरे नए account में क्यों नहीं दिख रहा था?
+
+[48:14] क्योंकि उसमें हमने WhatsApp के लिए apply नहीं किया था। इसमें already
+
+[48:18] apply हो चुका है, तो यह option खुल जाता है। तो इसके साथ सबसे important
+
+[48:22] है,
+
+[48:23] जब भी आपका यह ready हो जाता है, तब आपको एक चीज लगती है, which is
+
+[48:27] service provider platform। चाहे आप कोई भी use करो। मैं आपको
+
+[48:31] आज एक free platform भी बताऊंगा, जहाँ पर आप registrations free में करके एक
+
+[48:35] बार go through कर सकते हो सारे चीजें, जो मैं बता रहा हूँ आज आपको। ठीक है?
+
+[48:39] पर उसके लिए पहले setup, जो Meta के level पर है,
+
+[48:42] business.facebook.com के level पर, यह आपका complete होना चाहिए। तभी
+
+[48:45] आपको करना चाहिए यह चीज। ठीक है?
+
+[48:48] Now,
+
+[48:50] I am into the
+
+[48:51] WhatsApp of one of the service provider.
+
+[48:55] Here, a simple process is there. The first thing is that you have to login to your
+
+[48:58] service provider account and the second thing is that
+
+[49:01] you have to
+
+[49:04] login to your Meta business account in
+
+[49:06] the same tab. Clear it?
+
+[49:09] Hello everyone, are you with me?
+
+[49:13] Connection process is done.
+
+[49:15] So now I will go to the simple service provider,
+
+[49:17] WhatsApp options will appear on connect, right? As I click on it.
+
+[49:23] So
+
+[49:25] I think you people are not able to see the window.
+
+[49:26] Just a second, I will double share the screen.
+
+[49:29] A pop-up window has appeared.
+
+[49:31] Okay, now you people will be able to see. Okay.
+
+[49:36] So see,
+
+[49:37] a pop-up window has appeared. Some information has come in the pop-up window.
+
+[49:41] See, as I clicked on connect WhatsApp, an information has come. What has come?
+
+[49:45] That you are connecting WhatsApp to Gautam Jain.
+
+[49:47] Is that isn't your business?
+
+[49:51] Close this page. Meaning, the account in which I have logged in,
+
+[49:56] the business service provider's account, when I logged in, it is confirming my
+
+[49:59] account. Okay, yes, it is my account, so all these options have come.
+
+[50:04] Second option, it is asking what is your business type?
+
+[50:05] So from here you select your business
+
+[50:09] type. As your business type can be education and training, travel and
+
+[50:12] hospitality, professional services.
+
+[50:14] If you are not able to understand anything, you can select professional services.
+
+[50:18] Correct?
+
+[50:22] Below that, there is an acknowledgment that I
+
+[50:25] can read here. I will only message people who have asked to hear from us.
+
+[50:28] I understand that messaging people who didn't ask can get this number blocked by
+
+[50:32] WhatsApp, not for any service provider.
+
+[50:34] Meta itself has official control over it. Right? They take that quality.
+
+[50:38] Two-step verification. What I told you yesterday, right?
+
+[50:39] What is two-step verification?
+
+[50:40] There
+
+[50:46] are two things in it.
+
+[50:48] One, when you take WhatsApp business API, after that there is a
+
+[50:51] two-step
+
+[50:53] verification of it. And what you saw yesterday in Facebook's security center
+
+[50:58] which is different.
+
+[51:00] If you don't know, then leave it as I don't know. That's okay.
+
+[51:03] After this, you simply connect to WhatsApp by clicking.
+
+[51:09] As you click,
+
+[51:10] Facebook's official
+
+[51:14] portal will open, where
+
+[51:17] you will see this type of window. Click on continue.
+
+[51:20] Here,
+
+[51:21] your WhatsApp business API number has to be
+
+[51:24] entered. Let me enter this. Just give me a minute.
+
+[51:31] I'm sharing the screen. Just give me a minute. Let me enter the number.
+
+[51:41] Okay.
+
+[51:42] So as I entered the number,
+
+[51:44] I clicked on next.
+
+[51:46] Okay, now I am sharing the screen.
+
+[51:50] Okay, just give me a minute. As I clicked on next, I cannot share the
+
+[51:54] screen, some things are
+
+[51:56] secure. So I will get an
+
+[51:58] OTP that I have to put on that,
+
+[52:03] which will come on my number, which I have to share.
+
+[52:06] Just give me a minute. I am checking the OTP.
+
+[52:09] Okay, the OTP has come
+
+[52:11] and I am entering my OTP. Six-digit OTP comes.
+
+[52:15] A text message will come.
+
+[52:17] Then click on next.
+
+[52:20] Okay.
+
+[52:21] Now.
+
+[52:27] See this.
+
+[52:29] As I clicked on next,
+
+[52:31] I entered the number, I entered the OTP.
+
+[52:34] Clicked on next, as I clicked on next, it is written that select a business
+
+[52:36] portfolio option is there. A business portfolio which I told you.
+
+[52:41] Let me show you that. Business portfolio means,
+
+[52:45] this is the business portfolio that I told you
+
+[52:49] about yesterday. Right? But this is just an example.
+
+[52:51] Your's
+
+[52:52] will be your real one
+
+[52:53] which
+
+[53:04] you will know. So you have to select that. As you select here.
+
+[53:04] Under business portfolio, below are the options, create WhatsApp business account.
+
+[53:06] That's it. Stop as it is. Click on next.
+
+[53:11] On next click, the error which has come, you can remove this error.
+
+[53:15] See, a
+
+[53:17] green has come. Category, a select option has come below. What did we select?
+
+[53:21] We selected
+
+[53:22] professional service. If you have anything else
+
+[53:26] here, you can select that.
+
+[53:28] India by default selected because at the time of business account setup, when the
+
+[53:31] business portfolio was made, at that time also we had selected India.
+
+[53:34] So it came here. A website has come here. A time zone has come here.
+
+[53:38] Below see, it is not required, it's optional. Click on next.
+
+[53:44] So this is showing you the demo. This is not the official.
+
+[53:47] So understand the process. Right?
+
+[53:52] So let's wait for the
+
+[53:55] reward.
+
+[54:00] All right. Complete review option has come here.
+
+[54:03] Review your complete profile and click on confirm.
+
+[54:07] Once I click on the confirm,
+
+[54:10] so it will take some time
+
+[54:14] to connect with
+
+[54:17] official Meta service, WhatsApp business API service provider.
+
+[54:24] All right, so let's wait for the message.
+
+[54:30] Perfect. See this, guys.
+
+[54:32] As the screen is visible, it is connected.
+
+[54:35] So this is one of the service provider, so you can see.
+
+[54:38] As the screen appears, then you click on the finish button, not click
+
+[54:42] on the add payment button right now. I just clicked on finish button.
+
+[54:47] You can see
+
+[54:49] you have to click on refresh one. Let me
+
+[54:53] wait.
+
+[54:57] All right. देखो, दिख रहा है।
+
+[54:59] पूरा portal open हो गया और यहां पर यह
+
+[55:02] मैं settings में आकर देख पा रहा हूं।
+
+[55:08] Setting up your number. It can usually take a minute and you can leave this page.
+
+[55:12] It's okay. इसको हम होने देते हैं। यह setup होगा, इसमें थोड़ा time लगेगा।
+
+[55:16] But in the meantime, मैं आपको अभी business portfolio पर लेकर जाता हूं।
+
+[55:21] इसके आगे की process आपको Meta पर करनी है, जो मैं बताता हूं। एक बार
+
+[55:25] connect हो गया। Connect होने के बाद,
+
+[55:32] देखिए यह latest जो अभी दिख रहा है, हमने
+
+[55:36] अभी connect किया है। यह आपको
+
+[55:39] WhatsApp पर दिख रहा है। WhatsApp account on Meta, business.facebook.com पर,
+
+[55:43] जहां आप already थे। मैंने refresh किया खाली। यह अभी recent आया, right?
+
+[55:46] तो यह business ID अभी,
+
+[55:48] यहां पर भी हम अगर देखें, it's setting up. It's okay. But no worries.
+
+[55:53] जो पहले नहीं था, हमें पता है यह अभी आया है। अब यहां पर नीचे आप आओ।
+
+[55:56] यहां पर WhatsApp manager का एक option है, एक payment setting का option है।
+
+[56:01] जैसे ही मैं payment setting पर click करूंगा...
+
+[56:05] कल मैंने आपको एक process बताई कि card कैसे attach करना है, ad
+
+[56:09] manager account के लिए। Now understand very carefully.
+
+[56:12] When you apply WhatsApp,
+
+[56:15] उसकी process आपको वापस से एक बार करनी पड़ती है। This is a setup separately,
+
+[56:20] not with ad account.
+
+[56:22] Clear है?
+
+[56:24] Hello?
+
+[56:27] Clear, guys?
+
+[56:30] I hope you are on the screen, right?
+
+[56:33] तो process same होगी। जो कल मैंने business information आपकी यहां पर
+
+[56:37] डालोगे,
+
+[56:41] same आपकी business information यहां पर डालोगे, जो कल मैंने दिखाई थी आपको,
+
+[56:45] same होगी, right?
+
+[56:47] और यहां पर आपकी payment method add करनी है, जो कि मैंने बताया था।
+
+[56:51] Make sure international payment mode for online
+
+[56:55] transactions must be activated before adding any card on
+
+[56:59] Meta anywhere. Second,
+
+[57:02] आपका
+
+[57:04] limit उस में at least ₹5000-₹10000 per day रखना चाहिए।
+
+[57:08] और तीसरा, Visa या MasterCard ही acceptable है।
+
+[57:12] RuPay debit card, RuPay credit card are not accepted.
+
+[57:15] I hope यह तीनों conditions WhatsApp के payment method में भी आपको
+
+[57:19] same ही लगती है। यहां पर आप जैसे add करोगे, पर WhatsApp पर
+
+[57:23] जब payment method add करते हो, कल हमने add funds का option
+
+[57:27] तो देखा था ना कि Meta हमें देता है fund add करने का prepaid wallet.
+
+[57:31] वैसा यहां पर नहीं होता है। यहां पर आपके card से ही कटेगा।
+
+[57:34] जैसे-जैसे आप message भेजोगे, वैसे-वैसे एक amount जमा होता जाएगा। एक amount
+
+[57:38] hit हो गया, फिर वह card से debit होगा।
+
+[57:41] Message भेजोगे तभी कटता है, नहीं भेजोगे तो नहीं कटता है। Clear हो गया?
+
+[57:48] All right.
+
+[57:49] So
+
+[57:50] in payment methods,
+
+[57:53] यहां पर आपके पास अभी कुछ नहीं दिख रहा obviously क्योंकि मैंने card डाला नहीं है।
+
+[57:57] But that you have to add. And payment activity में आप देख पाओगे कि
+
+[58:01] आपकी जो भी invoices बनती है, कि आपके पैसे Meta कब कटता है और
+
+[58:04] card से payment कटता है, वह सारी activities यहां पर आप देख सकते हो। Right?
+
+[58:08] So this is the important step before
+
+[58:14] sending any message to
+
+[58:16] your
+
+[58:18] clients. Your clients के clients, whatever.
+
+[58:22] Right?
+
+[58:24] और इसके साथ
+
+[58:26] एक चीज last जो बता रहा हूं अभी मैं आपको कि जैसे आपके पास...
+
+[58:31] Let me go back.
+
+[58:33] जैसे आपके पास यहां पर
+
+[58:36] एक WhatsApp number जो आपने registered किया, यहां पर connect कर दिया, right?
+
+[58:40] देखिए, यहां पर भी दिख रहा है। Payment method add नहीं है तो यहां पर भी दिख रहा है।
+
+[58:43] Right? Because it's the official Meta business tech partner service provider.
+
+[58:47] This is why यह real-time में बता पा रहा है कि payment method आपका add नहीं है
+
+[58:51] इस account में, जो कि हमने अभी तक नहीं किया, right?
+
+[58:54] So
+
+[58:55] now
+
+[58:56] नीचे आप आओ। WhatsApp manager करके एक option है। Payment method तो हमने अभी
+
+[59:00] देखा। WhatsApp manager.
+
+[59:02] इस पर जैसे मैं click करूंगा।
+
+[59:04] See this, guys, very carefully.
+
+[59:07] मैंने आपको बताया था ना कि per day की limit कितनी है, उस number पर Meta की कहां
+
+[59:10] देखनी है, यहां वह मिलेगा आपको सारा information.
+
+[59:14] उससे पहले...
+
+[59:17] ठीक है, वो दिखा देता हूँ मैं पहले। Messaging limit. Can you see this?
+
+[59:23] यहां पर देखो। इस number पर per day की already
+
+[59:27] limit ज्यादा है क्योंकि यह number already use में आया हुआ है।
+
+[59:30] Don't take it कि मेरे number पर भी या किसी और के number पर भी
+
+[59:34] directly आएगा क्योंकि number already use में है। I am using it for you to
+
+[59:38] show demo today. Right? But generally नए number पर
+
+[59:42] यह 250 message per day की limit होती है।
+
+[59:45] कितनी?
+
+[59:47] फिर यह 2000 तक जाएगी, फिर यह 10,000 तक जाएगी। पहले 1000 हुआ करती
+
+[59:51] थी। फिर यह 2000 तक, फिर 10,000 तक, फिर 1 लाख तक, फिर unlimited.
+
+[59:55] यह stage Meta हमें देता है जैसे हम उसकी services जितनी use करें,
+
+[59:59] तब। दूसरा,
+
+[01:00:01] phone number वाले section में आप देखो। यहां पर मैं अगर आता हूँ,
+
+[01:00:05] profile में मैं आता हूँ। Profile में यहां पर आपके WhatsApp का
+
+[01:00:09] DP क्या होना चाहिए। यहां पर आप upload करोगे, choose
+
+[01:00:13] DP आपके laptop से।
+
+[01:00:15] Display name क्या होना चाहिए? यह आपका already है क्योंकि आपने जब
+
+[01:00:21] submit किया था यहां पर, तब आपने नाम select किया था, याद हो
+
+[01:00:24] तो। Right?
+
+[01:00:26] नीचे आप आओ। यहां पर professional service हमने select कर दी थी, वो automatically आ
+
+[01:00:29] गया है। Address वगैरह, email ID वगैरह जो आपका है, वह यहां पर डालिए। It's
+
+[01:00:34] optional but डालोगे, उतना secure रहता है आपका account। Right?
+
+[01:00:37] और नीचे Facebook, Instagram connect करने का option है, which is optional but अगर
+
+[01:00:41] कर सकते हो तो करो। कोई compulsory नहीं है कि करना ही करना
+
+[01:00:44] है। Right? But at least DP जरूर लगाओ। यह
+
+[01:00:48] mandatory है। जो कि एक trust बनता है आपका market में
+
+[01:00:51] भी। All right. यह process आपकी जब complete
+
+[01:00:55] हो जाएगी, guys, इसके बाद
+
+[01:00:58] आगे का process क्या है, वह बताता हूँ आपको।
+
+[01:01:02] Now I am asking the question
+
+[01:01:06] यह जो process हमने देखा, अब तक हमने Meta
+
+[01:01:10] के level पर क्या settings चाहिए वह समझ लिया।
+
+[01:01:13] और उसको connect करने के बाद card attach करना,
+
+[01:01:16] Security Center में जाकर अपने verified documents submit
+
+[01:01:20] करके verifications करना। अगर कर सकते हो, तो।
+
+[01:01:24] नहीं कर रहे तो उसको छोड़ दो। और WhatsApp
+
+[01:01:28] payment method के बारे में WhatsApp Manager का जो option है, वहां पर जाकर हमने DP
+
+[01:01:32] जो अपना upload कर दिया। तो ये सारे चीजें हमने करी।
+
+[01:01:35] एक सबसे important चीज ध्यान रखिएगा। मैं अभी कुछ
+
+[01:01:39] broadcasting या उसको भी करके दिखाऊंगा आप लोगों को, but एक चीज ध्यान रखिएगा।
+
+[01:01:45] Meta,
+
+[01:01:46] हर WhatsApp number को, जो API में use होता है, उसको
+
+[01:01:50] तीन category में divide रखता है। तीन category की quality ratings देता
+
+[01:01:54] है।
+
+[01:01:55] Green, orange, red.
+
+[01:01:59] इसको समझाता हूं, आप समझिए।
+
+[01:02:01] Green आपकी rating है, मतलब आपकी quality rating सबसे अच्छी है।
+
+[01:02:06] आपके messages अच्छे से लोगों तक पहुंच सकते हैं।
+
+[01:02:10] अब,
+
+[01:02:12] अगर मान लो कि आपने हज़ार लोगों को messages भेजते
+
+[01:02:15] गए, भेजते गए, भेजते गए,
+
+[01:02:18] frequently,
+
+[01:02:19] और in case कई लोगों ने आपको restrict कर दिया या block
+
+[01:02:23] कर दिया या आपको spam में डाल दिया।
+
+[01:02:26] यह एक-दो लोगों की बात नहीं कर रहा, 500 लोगों ने कर दिया उसमें से। मान लो 400 लोगों
+
+[01:02:30] ने कर दिया। तब
+
+[01:02:33] उस category में Meta आपके number को orange zone में लेकर आएगा।
+
+[01:02:36] Quality rating आपकी orange हो जाती है।
+
+[01:02:41] तो उस situation में क्या करना चाहिए?
+
+[01:02:44] उस situation में आपको दो-तीन दिन तक WhatsApp उस number से नहीं भेजना चाहिए।
+
+[01:02:47] automatically Meta green करता है, थोड़े time के बाद।
+
+[01:02:53] Easy?
+
+[01:02:54] और अगर red हो गई है, तो at least 10-15 दिन तक तुम ना
+
+[01:02:58] भेजे।
+
+[01:03:00] और red होने के बाद भी अगर आप बेचते जा रहे हो, तो Meta फिर
+
+[01:03:04] next step उठाता है कि आपका account disable कर देगा। That is the
+
+[01:03:08] simple and smart decision. So this is the knowledge for you
+
+[01:03:12] क्योंकि यह चीज लोगों को नहीं पता होती और फिर अचानक number बंद हो जाता है, उनको पता
+
+[01:03:16] नहीं चलता कि क्यों बंद हो गया। तो यह चीज होती है। Clear हो गया, guys?
+
+[01:03:21] Okay. So,
+
+[01:03:24] perfect.
+
+[01:03:26] Now,
+
+[01:03:36] now मैं आपको because यह वाला जो number मैंने अभी
+
+[01:03:40] attach किया, guys, उस पर मैंने ना तो payment method add करा,
+
+[01:03:44] card add नहीं किया, कुछ भी add नहीं किया। But मैंने process पूरी समझा दी कि कैसे
+
+[01:03:47] उसको connect किया मैंने। Right?
+
+[01:03:50] Now I will show you एक already account where I connected हूँ। Connection process
+
+[01:03:54] तक तो same ही होगी but आगे की जो process है,
+
+[01:03:57] कैसे bulk broadcasting करनी है, कैसे
+
+[01:03:59] हमें
+
+[01:04:03] contacts upload करने हैं, या कैसे हमें templates approve करवाने हैं,
+
+[01:04:07] यह चीजें मैं अभी बता रहा हूँ आपको। तो इस चीज के लिए आप people
+
+[01:04:11] focus on the screen.
+
+[01:04:13] Just a second.
+
+[01:04:16] Let me login into the account.
+
+[01:04:33] Okay.
+
+[01:04:43] एक second, एक number
+
+[01:04:43] दे।
+
+[01:04:49] Sorry.
+
+[01:04:58] Let me ready and login your account.
+
+[01:05:04] Okay.
+
+[01:05:30] Sharing the screen.
+
+[01:05:47] Oh!
+
+[01:05:49] ठीक है।
+
+[01:05:52] Now see this, guys.
+
+[01:05:56] Step by step understanding इस चीज को।
+
+[01:06:01] See this.
+
+[01:06:03] Number one:
+
+[01:06:05] जैसे आपका account के under payment method connect हो जाता है,
+
+[01:06:09] आपका account verify है, सारा की चीज सही है, तो इन्हें की इस तरह की ratings देती है।
+
+[01:06:13] You can see the quality rating high दिख रहा है। Is it written quality rating
+
+[01:06:17] high?
+
+[01:06:18] यह एक WhatsApp की number है temporary. Right?
+
+[01:06:21] और इसके under can start 1999 new
+
+[01:06:25] chats today। मतलब 2000 के per day की limit है इस account के, इस number
+
+[01:06:29] में।
+
+[01:06:30] Correct? So it's mention all.
+
+[01:06:33] Now, पहली चीज मैंने आपको बताई थी कि
+
+[01:06:37] कुछ भी भेजना है ना, सबसे पहले हमें template approve करवाना पड़ता है।
+
+[01:06:41] Template approve करवाने के लिए हमें
+
+[01:06:43] templates के section में जाकर, क्या हमें भेजना है, वह हमें ready करना होता
+
+[01:06:47] है।
+
+[01:06:48] मैं आपको एक करके दिखाऊंगा। But approval के लिए कई बार पांच minutes से लेकर कई
+
+[01:06:52] बार 12 घंटे तक भी time लगता है।
+
+[01:06:55] तो इसके लिए
+
+[01:06:57] best, जो लोग इस business में इसको use करते हैं,
+
+[01:07:01] वो इस चीज को समझते हैं। इसीलिए वो smartly इसको इस तरह से use
+
+[01:07:05] करते हैं, वो बताता हूँ। Smart तरीका यह हो गया
+
+[01:07:08] यह आपको मान लो कि पता है कि आपको कुछ चीजें अगर आगे जाकर भेजनी हैं।
+
+[01:07:12] मान लो सात दिन का आपको आगे का data पता ही होता है कि यह offer होगी, यह भेजना है।
+
+[01:07:17] वो templates आप already approve करवा के रख लीजिए।
+
+[01:07:22] पांच दिन पहले, तीन दिन पहले या चार दिन पहले। approve करवा के जब आप रख लेते हो फिर
+
+[01:07:25] उस template को आप चाहे जितनी बार भेजो, उसके बाद बार-बार आपको wait नहीं
+
+[01:07:29] करना पड़ेगा।
+
+[01:07:31] Easy?
+
+[01:07:32] तो अभी मैं एक template आपको दिखाता हूं। देखो यहां पर एक template approve दिखा रही
+
+[01:07:36] है।
+
+[01:07:37] But अभी हम एक नया करके दिखाते हैं। Click on new template.
+
+[01:07:40] New template में देखो यहां पर messages के type हैं Marketing, Utility,
+
+[01:07:44] Authentication जो मैंने आपको concepts में समझाए थे।
+
+[01:07:48] Right? तो Marketing message है, Utility message है कि Authentication message है।
+
+[01:07:51] Generally हर कोई चाहता है कि मेरा message Utility में
+
+[01:07:55] approve हो क्योंकि उसके rate भी कम हैं और वो ज़्यादा लोगों तक पहुंचता भी है।
+
+[01:08:00] तो generally लोगों का यही रहता है, तो वो लोग यही select करते हैं। But अगर आप यह
+
+[01:08:04] select करोगे पर आपके content Marketing का है message के अंदर,
+
+[01:08:08] तो आपका Meta automatically उसको Marketing में shift कर देगा। तो Meta
+
+[01:08:12] already smart है। जैसे मैंने पहले भी कहा आपको, so you have to
+
+[01:08:16] select the right category. Now
+
+[01:08:19] इसके बाद आपको एक नाम देना है आपके campaign का, तो मैं यहां पर देता हूँ
+
+[01:08:23] "Reminder
+
+[01:08:26] class"。
+
+[01:08:27] ये लोगों को नहीं दिखेगा, ये only मेरे ही होता है template name.
+
+[01:08:29] Language यहां पर select करनी है। Language is my English.
+
+[01:08:32] English language mostly Indian में user पे है।
+
+[01:08:37] यहां पर header का option है which is optional and message का main text है
+
+[01:08:41] जो यहां पर मुझे use करना है। Now understand it very carefully.
+
+[01:08:43] मैंने एक message बनाकर रखा हुआ है, यह message आप सब लोगों को पता ही होगा जो यहां पर
+
+[01:08:47] copy कर रहा हूँ। See this. जैसे मैंने यहां पर copy किया,
+
+[01:08:51] मेरे पास एक visual representation आ गया right side में कि कैसा दिखेगा वो।
+
+[01:08:58] Can you see everyone?
+
+[01:09:00] तो मैंने एक message copy करके यहां पर डाला। यही message आप लोगों को आई भी होगी।
+
+[01:09:03] Right? तो यह visual representation कैसे है वो यहां पर दिख रहा है। तो यह
+
+[01:09:07] तो एक पहला तरीका हो गया।
+
+[01:09:10] दूसरा यह हो गया कि अगर मान लो...
+
+[01:09:13] Let me check.
+
+[01:09:16] यहां पर एक और तरीका होता है
+
+[01:09:19] कि आपके
+
+[01:09:22] variables आप यहां पर select कर सकते हैं। Variables में क्या होता है?
+
+[01:09:26] कि मान लो आपको personalized name से,
+
+[01:09:29] अरे कोमानो! दसरू को personalized name से message आनी
+
+[01:09:33] चाहिए। तो आपका dear के आगे आपका variable क्या होगा?
+
+[01:09:37] Variable मतलब आपका नाम बदलता रहेगा और बाकी चीजें same रहेंगी।
+
+[01:09:41] तो वो अपने इस style में यह लिखा जाता है।
+
+[01:09:47] जो आप देख रहे हो,
+
+[01:09:48] इस style में लिखा जाता है।
+
+[01:09:51] तो आपके पास एक variable था, पहला तो यह हो गया। दूसरा
+
+[01:09:55] अगर कोई variable है मान लो कि आपकी Zoom meeting change होती रहती है,
+
+[01:09:59] तो यहां पर
+
+[01:10:01] इस तरह से
+
+[01:10:03] दो number डाल सकते हैं। Template approval के time पर। जब आपकी template approve हो
+
+[01:10:06] जाएगी, तो उसी जगह पर आप actual URL और आपका actual जो नाम होगा वो
+
+[01:10:11] उठाएगा आपके contacts message.
+
+[01:10:13] clear हो गया? अभी के हिसाब से हम simple वाला देखते हैं। simple में हमारा जो
+
+[01:10:17] था
+
+[01:10:18] कि
+
+[01:10:20] कैसे
+
+[01:10:21] हम template को approve कर रहे हैं। ठीक है?
+
+[01:10:24] Dear
+
+[01:10:26] मान लो Deepak. ठीक है?
+
+[01:10:28] तो यह मैंने approval के लिए डाल दिया। अब यह नीचे आप देखोगे footer
+
+[01:10:32] का option है। footer में आपको कुछ डालना था, आप डाल सकते हो कि मान लो कि
+
+[01:10:35] "Reply
+
+[01:10:38] stop
+
+[01:10:40] for
+
+[01:10:42] unsubscribe"
+
+[01:10:44] like that if you want to write. आप देखोगे एक छोटे से line में इस तरह से लिख के आता
+
+[01:10:48] है
+
+[01:10:49] footer वाला section. अभी के हिसाब से मैं इसको नहीं रखता हूँ। नीचे आप देखोगे
+
+[01:10:53] button का option है। button के options में अगर मान लो quick reply चाहिए
+
+[01:10:57] या आपको कोई link डालनी है button पर, तो आप वो डाल सकते हो। quick reply क्या होता है
+
+[01:11:01] वो बताता हूँ। "Yes,
+
+[01:11:02] I am ready"
+
+[01:11:04] you can see this button. आपको ऐसे messages में button दिखते हैं?
+
+[01:11:07] WhatsApp पर कहीं सारे।
+
+[01:11:09] है ना? Messages में आते हैं, तो इस तरह के buttons होते हैं जिसमें कुछ लिखा होता है।
+
+[01:11:12] जब आप click करते हो तो automatically reply चला जाता है।
+
+[01:11:15] तो ये buttons के options हैं यहां पर। link अगर डालनी है मान लो, तो यहां पर "Yes, I
+
+[01:11:18] am ready" या आपका कोई Zoom link या जो भी डालना है उस link पर वो divert हो जाएगा, जो
+
+[01:11:22] button पर click करेगा।
+
+[01:11:24] quick reply का मैंने रखा अभी "submit for Meta approval"
+
+[01:11:28] यहां पर जैसे मैं click करूंगा, मेरा सब कुछ सही लग रहा है मुझे, यह सब कुछ
+
+[01:11:32] सही है। "Submit for Meta approval" पर जैसे मैं click करूंगा,
+
+[01:11:35] आप नीचे देखोगे।
+
+[01:11:47] Okay. देखिए यहां पर भी pending दिखा रहा है।
+
+[01:11:51] Can you see?
+
+[01:11:54] Pending है।
+
+[01:11:56] तो Meta पर यह verification में pending status में भी चला गया है।
+
+[01:12:00] अब
+
+[01:12:02] मैं इसको cross check भी कर सकता हूँ। cross check कैसे करना है?
+
+[01:12:05] मैं मेरा business portfolio पर जाऊंगा और यहां पर मेरे पास जो
+
+[01:12:09] अभी था right phone number वाले section में और हमने जो messaging limit देखी थी,
+
+[01:12:13] वहीं पर मैं Manage Templates में जाता हूँ।
+
+[01:12:17] Manage Templates में जैसे मैं अभी यहां पर refresh करूंगा क्योंकि मैंने अभी किया
+
+[01:12:20] है। Let me refresh.
+
+[01:12:26] Okay, one second.
+
+[01:12:29] If I am not the wrong template.
+
+[01:12:34] Okay, I am at the wrong account. Sorry.
+
+[01:12:39] The wrong account.
+
+[01:12:43] Give me a minute.
+
+[01:12:46] Okay, see this guys.
+
+[01:12:49] यह रहा In Review. Time देख लो September 11
+
+[01:12:53] और इसके अंदर जैसे ही मैं click करूंगा,
+
+[01:12:56] आपको समझ में आ जाएगा। देखो यही template हमने approval के लिए डाला था
+
+[01:12:59] अभी। Right? तो यहां पर दिखा रहा है Meta के ऊपर
+
+[01:13:04] and
+
+[01:13:05] it's in
+
+[01:13:08] review. तो यह automatically system में लिख जाता
+
+[01:13:11] है। जैसे आपका approve हो जाता है, तो यह approve करके लिख के आ
+
+[01:13:15] जाता है।
+
+[01:13:17] In case अगर नहीं आता है, तो हमें simply refresh करना होता है। क्योंकि server से अगर
+
+[01:13:20] कई बार
+
+[01:13:21] आपका laptop में या server पर connection miss हो गया, तो approve के लिए आप refresh
+
+[01:13:25] कर दो या synchronize button का option है, इस पर click कर दो।
+
+[01:13:29] यह तुरंत नहीं होता है। But आप देखोगे यह अभी pending status में
+
+[01:13:33] नीचे चला गया। यह approve होने के बाद, इसका message आप भेज सकते
+
+[01:13:37] हैं। But obviously इसके लिए पांच minute भी लगता है, कई बार 10 minute भी लगता है, कई
+
+[01:13:40] बार आधा घंटा या 12 घंटे के अंदर mostly हो जाता है। So
+
+[01:13:44] you have to wait. There is no alternate option to get
+
+[01:13:48] approval for the template by Meta.
+
+[01:13:50] एक बार message template approve हो गए, then you can message to anyone,
+
+[01:13:55] कोई दिक्कत नहीं। Clear, guys?
+
+[01:13:58] Now tell me once again, सबको अगर यहां तक clear हो गया है,
+
+[01:14:02] एक बार मुझे सभी response में thumbs up show कर सकते हैं।
+
+[01:14:08] Because छोटी-छोटी चीजें हैं guys, वो चीजें ध्यान देने वाली हैं, जो
+
+[01:14:12] हमें पूरे process में देखनी हैं।
+
+[01:14:19] जब आप handle
+
+[01:14:21] user-friendly हो जाता है, फिर आपको ये चीजें कुछ बड़ी लगती नहीं।
+
+[01:14:25] Okay, perfect. तो अभी हम एक बार test करके
+
+[01:14:29] देखेंगे, क्योंकि हम wait नहीं करेंगे जो approval के लिए गया है, उसके लिए हम wait न
+
+[01:14:33] करें कि वो कब approve होगा। उसके लिए क्योंकि we have limited
+
+[01:14:37] time. तो हमें एक already approved template है, उसको हम
+
+[01:14:40] broadcast करके देखते हैं। I will ask few of the numbers in
+
+[01:14:44] this chat or मैं उस number को use करके broadcast
+
+[01:14:48] करके test करके देखूंगा। मैं सभी लोगों को obviously अभी नहीं कर सकता क्योंकि it will
+
+[01:14:51] take some major time for me to create a list all of yours
+
+[01:14:56] in Excel. तो वो एक अलग चीज हो जाएगी। But ठीक है, कुछ numbers हम select कर सकते हैं।
+
+[01:15:00] But उसके पहले मैं context के options में लेकर जाता हूँ। Context के options में
+
+[01:15:04] add contact का option है। यहां पर manually भी डाल सकते हो or
+
+[01:15:08] import CSV file का option है।
+
+[01:15:11] Java CSV file upload कर सकते हैं। Right? So we have both the options.
+
+[01:15:15] But before that एक testing अगर मुझे करनी है कि message
+
+[01:15:19] जा रहा है कि नहीं जा रहा है, to send message का option है। यहां से मैं testing कर
+
+[01:15:22] सकता हूं। तो मैं एक बार आपको testing करके दिखाता हूं, कैसे यह
+
+[01:15:26] message जाते हैं और inbox में कैसा दिखता है। So let me
+
+[01:15:30] select the template जो approve template होगी वो यहां पर आ रही है। और यहां पर देखिए
+
+[01:15:34] यह मेरा approve template पहले से था, वो यहां पर आ गया है। Right?
+
+[01:15:37] यहां पर मुझे नाम देना है, यहां पर मुझे number देना है। So I am just stop
+
+[01:15:41] sharing the screen and I am asking, सबसे पहले,
+
+[01:15:45] let me check what's the messages already है,
+
+[01:15:49] guys. But
+
+[01:15:54] five people can send me your number so that I can test with
+
+[01:15:58] you and I can
+
+[01:16:00] check and you can also check
+
+[01:16:03] and in return for everyone, बाकी लोगों को पता चले
+
+[01:16:07] कि हम उस चीज को in return आप लोगों की तरफ से एक
+
+[01:16:13] heart वाला emoji लेंगे। बाकी लोग सिर्फ देखेंगे। Right?
+
+[01:16:19] So
+
+[01:16:20] anyone can share. Okay, एक number आ गया मेरे पास।
+
+[01:16:24] So let me share first. अभी नहीं, guys.
+
+[01:16:27] मैं जिन लोगों को number मांग रहा हूं ना,
+
+[01:16:30] वो लोग बताएंगे कि उनको message आया कि नहीं आया by a heart symbol.
+
+[01:16:34] Right? अक्षय ने मेरे को पहला number दिया है।
+
+[01:16:37] तो अक्षय का number मैं दे रहा हूं
+
+[01:16:40] and let me copy and paste अक्षय number.
+
+[01:16:45] I have sent.
+
+[01:16:47] All
+
+[01:16:47] right.
+
+[01:16:56] Perfect. अक्षय you can check आपको message आया।
+
+[01:17:01] Second, I have नीतू
+
+[01:17:04] शर्मा.
+
+[01:17:06] Right? So I am taking her name.
+
+[01:17:12] Right? नीतू शर्मा।
+
+[01:17:16] अक्षय you can show heart symbol to
+
+[01:17:20] everyone
+
+[01:17:22] if you receive the message
+
+[01:17:25] so that everyone can also understand. Perfect. तो अक्षय go again.
+
+[01:17:30] नीतू जी you can also check.
+
+[01:17:33] Just one second.
+
+[01:17:35] Now check you have also received.
+
+[01:17:39] I am sending the messages using WhatsApp business API, guys.
+
+[01:17:42] It's not from my WhatsApp. Right? जो मैंने आपको बताया पूरा।
+
+[01:17:47] अनिल
+
+[01:17:49] जी। All right.
+
+[01:17:52] Let me use the अनिल जी number.
+
+[01:17:57] And don't
+
+[01:17:59] think this is my number.
+
+[01:18:01] यह temporary number है, इस पर conversation करने का
+
+[01:18:06] । Right?
+
+[01:18:10] So अनिल जी
+
+[01:18:14] you can check
+
+[01:18:16] now.
+
+[01:18:18] आपको आ गया। अजीत
+
+[01:18:22] जैन let me use yours as well.
+
+[01:18:25] You can reply that reaction
+
+[01:18:28] message आया है, आप heart का symbol दे दीजिए ताकि बाकी लोगों को
+
+[01:18:32] भी clear हो जाए।
+
+[01:18:45] Okay। अजीत जैन। Now एक चीज मैं बताना
+
+[01:18:49] चाहूंगा। अभी मैं अजीत जैन का मैं number delete कर रहा हूं। एक बार आपको screen share
+
+[01:18:52] करके बताता हूं। देखो, यह एक example है आपको सीखने के लिए।
+
+[01:18:57] See this.
+
+[01:18:58] अजीत जैन का number manager use किया तो
+
+[01:19:02] इस पर message नहीं गया। क्यों नहीं गया?
+
+[01:19:06] आप देखो नीचे reason भी है। Failed. WhatsApp is limiting
+
+[01:19:10] how many market-
+
+[01:19:12] It's right now, so it wasn't delivered. Try again later.
+
+[01:19:17] Are you getting the point?
+
+[01:19:18] So यह Meta decide करता है कई बार कि इसको message जाना चाहिए कि नहीं जाना
+
+[01:19:22] चाहिए। उस number पर और क्या activities चल रही है आपके business के अलावा, वह
+
+[01:19:26] सारी data Meta पर रहती है। उसके basis पर अभी देखो इनका number भी नहीं गया।
+
+[01:19:31] So that is the example in front of you कि ऐसा भी होता है।
+
+[01:19:35] So
+
+[01:19:37] it's normal in this
+
+[01:19:39] thing.
+
+[01:19:41] Okay, perfect.
+
+[01:19:44] So now,
+
+[01:19:49] नहीं Rakesh, miss call वगैरह तो नहीं आता है। Miss call दूसरे किसी का आया होगा।
+
+[01:19:54] Vishal Rawal, last name मैं लिखिंग। Vishal Rawal, यह last
+
+[01:19:58] number में try कर रहा हूँ।
+
+[01:20:00] ठीक है?
+
+[01:20:13] Okay.
+
+[01:20:14] I hope same issue with the Vishal Rawal as well because Meta is limiting now
+
+[01:20:19] to send messages on the particular
+
+[01:20:23] numbers. But I hope बाकी लोग जो है जिन्होंने numbers दिए थे, उन लोगों
+
+[01:20:27] को clear हो गया और आप सबको clear हो गया कि किस तरह से यह चीजें work करती है, right?
+
+[01:20:32] Now understand.
+
+[01:20:37] Now
+
+[01:20:38] understand.
+
+[01:20:40] एक second देना मेरे को।
+
+[01:20:47] यह तो मैंने single-single किया ना?
+
+[01:20:51] अब एक बार मैं आपको एक चीज दिखाता हूँ। Just a second.
+
+[01:21:05] One second.
+
+[01:21:18] Okay. Okay.
+
+[01:21:21] Now we will see broadcasting की process क्या है। एक
+
+[01:21:25] साथ, right? Which is important.
+
+[01:21:31] मैं screen share नहीं कर रहा हूँ। एक second देना मेरे को, screen अभी बंद है।
+
+[01:21:42] Okay.
+
+[01:22:04] Just a second, guys.
+
+[01:22:13] Let
+
+[01:22:36] me add.
+
+[01:22:38] Just give me a minute. Hold on, guys. Just give me a minute.
+
+[01:23:56] Okay, perfect. So what I did now, just for your information.
+
+[01:24:04] I have
+
+[01:24:07] created a list.
+
+[01:24:09] I have created one list like this. Islam Community we are the best
+
+[01:24:13] team. Test team दे रखा है मैंने, okay दिया। Okay करने के बाद मैंने test team का एक
+
+[01:24:17] section बन गया है। Can you see everyone?
+
+[01:24:20] यह section क्या है? मतलब कि group बना है, basically a group.
+
+[01:24:25] For example, इसका use case समझा दूंगा आपको।
+
+[01:24:28] For example, कि आपके
+
+[01:24:32] Malwa classes ले रहा है। ठीक है? Classes में
+
+[01:24:38] 11th standard के भी कुछ बच्चे हैं, 12th standard के भी बच्चे हैं, कुछ
+
+[01:24:42] first year के बच्चे हैं। तीनों category के मान लो 200-200
+
+[01:24:46] students हैं।
+
+[01:24:48] So अब आपको अगर कोई message 11th standard के बच्चों को भेजना है, तो
+
+[01:24:52] आप 12th standard के बच्चों को कैसे differentiate करोगे?
+
+[01:24:54] तो उस case में इसका use case आपको समझ में आ रहा होगा। क्या आपने एक group बनाया है
+
+[01:24:58] कि इस group को मुझे broadcast करना है। So इस category में
+
+[01:25:02] आपका यह जो list वाला option है, यह यहाँ पर काम आएगा। तो यहां पर
+
+[01:25:06] मैंने दो number यहां पर डाले हैं। जो मैंने team करके डाला है, the team
+
+[01:25:10] Claim Skills team update करके एक number मैंने यहाँ पर add कर दिया है। Don't take it
+
+[01:25:14] but आपको एक idea के लिए बता रहा हूँ, ठीक है?
+
+[01:25:16] दूसरा option है import CSV। CSV क्या होता है? Excel sheet. Simple.
+
+[01:25:20] Excel sheet में आप एक column में आपके नाम लिख दो or
+
+[01:25:24] phone number लिख दो। That's it
+
+[01:25:27] नाम की list, उसके आगे phone number की list.
+
+[01:25:30] वह आप यहां पर import कर दो, तो वह number automatically यहां पर import हो
+
+[01:25:34] जाएंगे।
+
+[01:25:35] यहां तक clear है सबको?
+
+[01:25:38] Hello, it's super easy. इसको rocket science नहीं था तो मैंने कुछ ज्यादा किया नहीं
+
+[01:25:41] है। Right?
+
+[01:25:43] The next is click on broadcast. Broadcast के अंदर आप
+
+[01:25:47] जाते हो,
+
+[01:25:49] new broadcast पर click करते हो। Broadcast का नाम आता है यहां पर।
+
+[01:25:52] Right?
+
+[01:25:53] broadcast name के अंदर जब मैं यहां पर broadcast name डालूंगा, मान
+
+[01:25:57] लो testing
+
+[01:26:00] or
+
+[01:26:02] basically it's not visible to the people.
+
+[01:26:04] Pick an approved template. यहां पर यह वही list
+
+[01:26:08] देगा जो आपकी template approve होगी।
+
+[01:26:11] Right? तो यह वही list देगा। तो यहां पर मैंने already approve दी, वो मैं select कर
+
+[01:26:14] रहा हूँ। नीचे अब there will be send to this list.
+
+[01:26:17] अभी मैंने जो list बनाई थी test team की, वो list का option यहां पर दिख रहा है।
+
+[01:26:22] Or skip list मतलब कि अगर मान लो आप test team की list को select कर रहे हो, आपके पास
+
+[01:26:25] मान लो 10 list हैं, आपको कौन सी list skip करनी है, ये नहीं होगा। ये आप no
+
+[01:26:29] select unselect कर दोगे तो आपको वो
+
+[01:26:32] skip होगी, उसको नहीं जाएगा। मेरे को जिसको भेजना है, वो मैंने select कर
+
+[01:26:36] लिया। एक सबसे important learning जो मैं आपके पास बता रहा हूँ, इस
+
+[01:26:40] पूरे process में जो आपके पैसे बचा सकता है,
+
+[01:26:43] वो यह है
+
+[01:26:44] कि जब भी आप किसी को WhatsApp broadcast भेजते हो, ध्यान से
+
+[01:26:48] सुनिएगा।
+
+[01:26:50] उसने मान लो in return आपको वहां से कुछ message वापस
+
+[01:26:54] भेजा।
+
+[01:26:57] तो जब भी आप भेजते हो तो उसका cost लगता है। जैसे मैंने
+
+[01:27:00] बताया 86 पैसा या 0.115 पैसा template
+
+[01:27:04] कौन से category है उसके basis पर, उस per message का। But जब भी
+
+[01:27:08] भेजा जाता है or जब reply back आता है user से, आपके client के through
+
+[01:27:12] reply back आया मान लो और आप मान लो WhatsApp Business API से chat करना चाह रहे
+
+[01:27:16] हो।
+
+[01:27:18] Right? यह service आप अगर अपने client को दे रहे हो, तो आप
+
+[01:27:21] अगले 24 घंटे तक आपके conversation का meta कोई जान नहीं
+
+[01:27:25] पाएगा।
+
+[01:27:28] Clear हो रहा है?
+
+[01:27:31] अपना message भेजा,
+
+[01:27:33] सामने वाले ने reply किया, 24 घंटे के अंदर या 24 घंटे के अंदर जो भी conversation
+
+[01:27:37] हो रहा है, message भेजने के बाद तब तक meta वापस
+
+[01:27:41] charge नहीं लेगा। यह manual conversation की बात कर रहा
+
+[01:27:45] हूँ over the WhatsApp Business API.
+
+[01:27:48] Not broadcasting. अगर आप इस broadcasting करोगे तो obviously उसका charge लगेगा।
+
+[01:27:53] Clear हो रहा है?
+
+[01:27:55] तो यह एक important फायदा है जो meta हमें देता है।
+
+[01:27:59] Now यहां पर there was a test name and एक phone number डालने का option है, तो
+
+[01:28:03] यहां पर मैं test करके देख सकता हूँ कि पहले वो जाके message। कि मान
+
+[01:28:07] लो कि मुझे अगर पहले 10,000 local broadcast करना है,
+
+[01:28:11] ऐसी situation है। तो as in user मैं चाहूंगा ना कि मैं पहले
+
+[01:28:15] एक application number पे check करूँ कि message किस तरह से दिख रहा है
+
+[01:28:19] security के लिए। ऐसा ना हो कि भेजने के बाद पता चले कि गलत message चला
+
+[01:28:23] गया या गलत link चली गई।
+
+[01:28:26] तो एक test number, यहां पर हम testing के लिए use करते हैं कि आप
+
+[01:28:30] एक बार test करके देखो कि हाँ भाई सही message है, mobile में सही दिख रहा
+
+[01:28:33] है। Then you go to the finalize send now.
+
+[01:28:37] If the your option A, दूसरा option है schedule for later.
+
+[01:28:40] यह एक smart technique है। Send now मतलब तुरंत चला जाएगा।
+
+[01:28:44] Schedule for later मतलब कि आपको कल सुबह, साथ में ଯେ
+
+[01:28:47] ମିଳିଯାଏ। या कल सुबह no 10 बजे
+
+[01:28:51] ਮିଳିଯାଏ। या परसों सुबह ਮିଳିଯାଏ। Date and time of select
+
+[01:28:55] करो। Are you getting the point? तो आप यह schedule as
+
+[01:28:58] well, in the future।
+
+[01:29:02] whose time पे वो automatically deliver हो जाएगा लोगों को, जो भी आपने template
+
+[01:29:06] select करी है, जो भी आपने contacts की list बनाकर select करी है
+
+[01:29:10] or जो भी आपका--
+
+[01:29:12] sorry, ये दोनों चीजें हैं or जब भी आप time select करोगे, जब भी आप date select
+
+[01:29:15] करोगे, उस time date पे automatically trigger हो जाएगा और उन
+
+[01:29:19] लोगों को messages चले जाएंगी उस time पे।
+
+[01:29:22] I hope इस पे कोई भी rocket science नहीं है जो मैंने ज्यादा detail में नहीं
+
+[01:29:26] दिया। I am just using send broadcast now. Click on this simple.
+
+[01:29:36] It's processing, that's it.
+
+[01:29:39] Sending the two people like ये दोनों लोगों को sending हो चुका है।
+
+[01:29:43] यहां पर date आ गई, यहां पर time आ गया, यहां पर template आ गई है, यहां पर broadcast
+
+[01:29:47] का नाम आ गया है। अभी zero out of two sent, zero deliver बता रहा है यहां
+
+[01:29:51] पर। नीचे अगर हम लोग detail में, यहां पर refresh का option है।
+
+[01:29:56] Let me refresh once.
+
+[01:30:00] So let me take some time. But within some time it may land to the
+
+[01:30:04] number inbox, जो भी WhatsApp का inbox है। Right?
+
+[01:30:09] So okay, now see this. यहां पर status आ चुका है। Refresh कर दिया तो status आ
+
+[01:30:13] चुका है। इस वाले number पे deliver का status है।
+
+[01:30:17] Time भी आ गया।
+
+[01:30:18] इस वाले number पे भी आपके सामने just deliver हुआ, sends and deliver
+
+[01:30:22] time भी आ गया। दोनों के number पे delivery
+
+[01:30:25] successful हो गई है। I hope इस
+
+[01:30:29] पे कोई ज्यादा complications नहीं है। बस आपके numbers सही होने
+
+[01:30:33] चाहिए, आपके templates सही होने चाहिए, broadcasting
+
+[01:30:37] करना both easy है।
+
+[01:30:39] But before this all setup सही होना चाहिए, आपका business
+
+[01:30:43] genuine होना चाहिए, और आप सही लोगों को message भेजो,
+
+[01:30:47] unofficial message भेजते रहोगे तो वो फिर number ban हो सकता
+
+[01:30:51] है। Inbox भी दिखा देता हूँ आपको एक बार, inbox कैसा दिखता है। You can see
+
+[01:30:55] this.
+
+[01:30:57] यह वाला inbox है। अब देख रहे हो? यहां we just take
+
+[01:31:00] message गया है 9:22 PM AK. Right? You can see and
+
+[01:31:05] all the messages जो कि यहां पर
+
+[01:31:08] हैं। अभी मैं एक cast भी दिखा दूंगा आपको, एक second wait करो। You can
+
+[01:31:12] see. अब यह वाला जो एक number है,
+
+[01:31:15] इस number पे आप देखोगे top right corner में
+
+[01:31:19] एक लिखी हुई चीज है, free replies until
+
+[01:31:23] 6:46 PM tomorrow.
+
+[01:31:26] यह calculate automatically कर रहा है कि आपका पहला message गया है
+
+[01:31:30] 6:46 PM today, तो कल 6:46 PM tomorrow
+
+[01:31:34] तक free replies आप कर सकते हो।
+
+[01:31:37] For your information.
+
+[01:31:39] Money saving
+
+[01:31:42] knowledge message communication
+
+[01:31:45] . This is the thing.
+
+[01:31:49] scale, guys.
+
+[01:31:51] Knowledge
+
+[01:31:53] numbers, what's the conversion
+
+[01:31:55] ? Top here costing to
+
+[01:31:58] short scale pay
+
+[01:32:06] calculate message
+
+[01:32:08] Rs
+
+[01:32:13] yes or no?
+
+[01:32:14] The shortest
+
+[01:32:16] calculation
+
+[01:32:19] this is our
+
+[01:32:21] scale
+
+[01:32:26] saving . All good?
+
+[01:32:29] So guys,
+
+[01:32:30] now let me
+
+[01:32:34] ask you this one time. I hope WhatsApp
+
+[01:32:39] WhatsApp API set up
+
+[01:32:41] . You put a process
+
+[01:32:44] important documentation
+
+[01:32:46] use . Market KB awareness
+
+[01:32:50] consist service provider choose
+
+[01:32:53] markup fees now. The meta
+
+[01:32:57] official cloud API use
+
+[01:33:00] . The official meta tech provider .
+
+[01:33:05] Or the documents . Obviously, unethical use
+
+[01:33:11] . To see the account to bank
+
+[01:33:13] quality rating all over the meta
+
+[01:33:18] . So connected meta
+
+[01:33:20] . All good?
+
+[01:33:22] So now it's 9:35 PM now, guys. I hope
+
+[01:33:26] WhatsApp
+
+[01:33:27] clear
+
+[01:33:30] . And now it's the time
+
+[01:33:34] because the concept
+
+[01:33:36] clear. Now it's the time
+
+[01:33:38] to show you
+
+[01:33:39] platform
+
+[01:33:41] free registrations
+
+[01:33:43] class already,
+
+[01:33:46] starting me with the
+
+[01:33:49] app
+
+[01:33:52] end . Tell it, it
+
+[01:33:57] says,
+
+[01:34:05] set up meta . This is the site.
+
+[01:34:09] Screen share . This is the site
+
+[01:34:12] app jacket
+
+[01:34:14] home.ai.com. This is the site jacket.
+
+[01:34:17] Get started with click
+
+[01:34:19] . Your WhatsApp is a service provider here, Meta official tech partner.
+
+[01:34:22] detail submit
+
+[01:34:24] .
+
+[01:34:25] Free account
+
+[01:34:27] go through
+
+[01:34:29] . Platform
+
+[01:34:31] features and services with you, but your most important factor
+
+[01:34:35] use
+
+[01:34:36] messaging broadcasting.
+
+[01:34:39] message primary use case
+
+[01:34:43] . Flows, chatbots, agents,
+
+[01:34:46] platforms features with that. That is also the--
+
+[01:34:51] obviously,
+
+[01:34:53] the different category key with teaching it.
+
+[01:34:56] We will also try to cover in the future classes if possible.
+
+[01:34:59] But
+
+[01:35:00] achieve, correct?
+
+[01:35:02] business journey. I hope your link
+
+[01:35:06] you can take it in this chat.
+
+[01:35:10] If your
+
+[01:35:14] all documents are clear and Meta business account after ready at the--
+
+[01:35:19] Sorry, let me
+
+[01:35:21] put to the everyone's chat.
+
+[01:35:25] So on this, you can
+
+[01:35:27] try and register for free and
+
+[01:35:30] just go through.
+
+[01:35:32] For broadcasting, the
+
+[01:35:34] template approval . But set up
+
+[01:35:41] guys, right? To give Meta
+
+[01:35:45] . That's right. Now,
+
+[01:35:48] what we will going to cover in the next week.
+
+[01:35:51] The next week,
+
+[01:35:52] class
+
+[01:35:58] AI agents.
+
+[01:36:01] Okay?
+
+[01:36:02] So
+
+[01:36:03] must attend that class because
+
+[01:36:06] class me. Second class
+
+[01:36:10] AI Software Academy part one.
+
+[01:36:13] Third class
+
+[01:36:15] AI Software Academy part two.
+
+[01:36:17] And
+
+[01:36:20] final bootcamp
+
+[01:36:22] 19th of September, morning 10:30 to evening 4:00 PM.
+
+[01:36:34] So I wish you very all the best
+
+[01:36:36] for your AI journey or in the coming time as well.
+
+[01:36:40] Whatever we will try to cover
+
+[01:36:43] apart from the class because of WhatsApp community
+
+[01:36:51] . Ussi community, we have mostly
+
+[01:36:54] updates and classes announcements
+
+[01:36:57] in coming times after the bootcamp and all the stuff
+
+[01:37:00] . So do not leave the community because
+
+[01:37:07] we believe in ethical AI community, we believe in ethical AI mission.
+
+[01:37:11] Right?
+
+[01:37:13] So thank you so much guys for joining us on time and staying till the end
+
+[01:37:17] and wish you all the best. See you on the next Wednesday,
+
+[01:37:22] 8:00 PM.
+
+[01:37:24] All good.
+
+[01:37:25] Bye bye.

@@ -1,0 +1,4034 @@
+# Agentic AI & Autonomous Workflows
+Course: 04_Agentic_AI_Automation
+Vimeo ID: 1230038807
+Track: English (auto-generated)
+Total Words: 25792
+================================================================================
+
+[01:05] Good evening everyone. How are you all?
+
+[01:11] Please open your camera fast.
+
+[01:17] All right. I hope I am visible and audible to all of you.
+
+[01:22] Once again, welcome to another class of
+
+[01:27] claimskins.ai. Am I audible? Am I visible?
+
+[01:31] Please show thumbs up. Everyone, please.
+
+[01:39] Request to on the camera,
+
+[01:42] keep your diary and pen
+
+[01:45] and be excited. Obviously, today's class will be very interesting.
+
+[01:49] As you know that AI agents and automation is one of the most fascinating thing in
+
+[01:55] AI. All right, I can see most of them
+
+[02:04] cameras are open and thank you so much guys for showing up on time.
+
+[02:10] I request your dedication and
+
+[02:17] all that.
+
+[02:19] Thank you.
+
+[02:21] All right, so obviously the class, it will be approximately two hours now.
+
+[02:29] So in which, सबसे पहले मैं यह पूछना चाहूंगा आप लोगों से because I want to
+
+[02:33] understand better before we go ahead.
+
+[02:38] So let me ask that
+
+[02:42] if I talk about journey so far हम जहां तक पहुंचे अभी तक, हम थोड़ा सा review करें इस
+
+[02:48] चीज को क्योंकि हो सकता है कि आप में से-- most of them, most of you are working
+
+[02:52] professionals, I know that. But before anything else, सबसे पहले यह समझना
+
+[02:58] जरूरी है कि हम ने क्या-क्या अभी तक
+
+[03:02] समझा है, सीखा है और क्या-क्या cover किया है। Obviously, थोड़ा सा हम उसका outline
+
+[03:06] लिया करते हैं तो
+
+[03:08] जिससे जो लोगों ने बीच की classes miss की होगी जो आज का class मेरे को सुन रहे हैं so
+
+[03:13] that they can relate कि उन्होंने क्या miss किया है, तो वो जाकर LMS पर वो recording
+
+[03:18] जो है वो देख पाएँ। I hope are you agree with me?
+
+[03:23] So I am a person जो सभी को साथ में रखने वाला है। Obviously,
+
+[03:29] आप में से कई लोग अच्छे होंगे tech में, कुछ लोग होंगे जो नहीं होंगे। But देखिए जी,
+
+[03:34] मैंने previous class में भी ऐसी एक बात कही है आप लोगों को
+
+[03:39] in AI or in technology,
+
+[03:44] technology is completely different skills and completely different thing
+
+[03:50] जो सीखी जाती है। But as we always say in our community,
+
+[03:56] business of technology is completely different skills and different things to
+
+[04:01] learn. दोनों अलग-अलग है।
+
+[04:04] सिर्फ technology आने से, technical skills आने से आप उसका business बना लोगे, उससे
+
+[04:09] monetize कर लोगे, it is not like that.
+
+[04:12] And it is not like कि we are saying it just कि उन्हें बोलना है। We are saying it
+
+[04:17] from our own wide and deep experience in AI all over the globe.
+
+[04:24] Because we have met very intelligent people all over the globe.
+
+[04:28] हमारी काफी सारी one to one meeting हुई पिछले तीन साल से। हजारों लोगों से हमारी one
+
+[04:32] to one meeting हुई है जो normal इंसान नहीं है। जो already कुछ identity रखते हैं
+
+[04:37] market में। They have a
+
+[04:39] good presence, they have a good background, they have a good skills, good talent,
+
+[04:44] good brain. But if I talk about the outcome, अगर वो उसकी present situation देख रहा
+
+[04:49] हूँ but still he is doing nothing.
+
+[04:53] So this line is, यहाँ से ये line है कि business of tech, ये पूरी अलग
+
+[04:59] psychology, अलग brain है और tech एक अलग चीज है। But obviously हमें दोनों चाहिए।
+
+[05:05] Yes or no?
+
+[05:07] So थोड़ा सा मैं आप लोगों के space में-- एक beautiful smile देख सकता हूँ क्या?
+
+[05:12] Can I see a beautiful smile?
+
+[05:15] एक छोटी सी smile brains के happy molecules जगह देती है और learning का जो
+
+[05:21] motivation है वो अच्छे से उतरता है अंदर। That I feel.
+
+[05:25] Many of you are senior than me, so I understand you are getting my point very well.
+
+[05:30] Thank you. So we have started with the AI Content Creation Academy जिसमें हमने
+
+[05:35] ChatGPT, Gemini, Text Wheel जैसी platforms को use करके कैसे content हम create कर
+
+[05:41] सकते हैं AI से, UGC ads कैसे create कर सकते हैं। AI Avatar वाला आपको जो bonus class
+
+[05:45] मिला है, जो नए batch के students obviously, I hope कि आपने LMS में जाकर वो देखा
+
+[05:50] होगा। आपके पास है। LMS का access आप सबके पास एक साल तक रहेगा so don't worry about
+
+[05:55] it but make sure that एक साल है मतलब ऐसा नहीं कि एक साल तक देखेंगे। Make sure that
+
+[06:00] अगर आपको सच में कुछ AI में build करना है ना, एक चीज मैं मेरा personal message आप
+
+[06:05] लोगों को देना चाहूंगा जो मैंने सीखा है in this journey that is कि आपको अंदर से
+
+[06:11] extra भूख लानी पड़ेगी। जो सिखा रहे हैं, वो तो सिखा ही रहे हैं लोग। But अगर एक
+
+[06:16] entrepreneur का mindset अगर मैं बोलूं, entrepreneur mindset को अगर एक hint मिल जाती
+
+[06:21] है ना, वो उससे 10 चीजें और खुद के लिए भी सीखता है। That is my
+
+[06:27] personal message to you. अगर मैं आपकी जगह होता तो मैं ये करता। और ये चीजें कोई
+
+[06:33] market में आपको इस तरह से नहीं बोलेगा because we are not teachers, obviously.
+
+[06:36] We are the entrepreneurs, we are the founders जो actual में business कर रहे हैं
+
+[06:41] market में and we have already built multiple crores in the market from scratch.
+
+[06:47] But obviously, ये चीज ऐसी नहीं है कि एक class में cover हो सकती है, एक महीने में
+
+[06:51] cover हो सकती है, एक batch में cover हो सकती obviously so that we have understand
+
+[06:55] कि आप लोगों के इस batch के बाद भी कुछ ऐसी classes हम लोग conduct करेंगे। उसकी
+
+[07:00] reminders जो भी होगी, जब भी होगी, team आपको update कर देगी in messages, WhatsApp
+
+[07:05] message या फिर जो भी emails, whatever the communication medium.
+
+[07:09] So
+
+[07:11] first we have conducted AI content creation in Avatar Academy, UGC ads.
+
+[07:17] Then we have conducted a special high ticket skills of AEO, Answering in
+
+[07:22] Optimization by Dar sir. इसकी दो classes हमारी हुई। Then we have covered one of the
+
+[07:28] most important skills, जो कुछ भी आप सीख लो, कितने भी skills आ जाए, कितने भी आपके
+
+[07:34] पास technical skills हो जाए but AI Marketing Academy by Gautam Jain sir that we
+
+[07:39] have one of the most academy I can see जो सबसे ज्यादा valuable है।
+
+[07:46] Then we have covered the Meta Ads AI Academy जिसमें कैसे agency level
+
+[07:51] set up करके कैसे ads को launch किया जाता है, जहां से actual में leads आएगी।
+
+[07:57] Business वहां से आएगा। Then how to use WhatsApp API,
+
+[08:04] how to set up WhatsApp API that we have covered so far.
+
+[08:07] So this is all we have covered till now.
+
+[08:11] इसमें एक चीज जो बार-बार questions multiple लोगों से हमने face किए, जो common
+
+[08:15] question generally आता है, उसका मैं answer जरूर देना चाहूंगा ताकि आप लोगों का भी वो
+
+[08:19] mindset clear हो।
+
+[08:21] जो practical है, जो honest answer होगा वही मैं आप लोगों को दूंगा। That is my
+
+[08:27] nature कि मैं जो है वो बताता हूँ, जो नहीं है वो नहीं होगा, जो होगा वो होगा। That is
+
+[08:32] better for everyone.
+
+[08:34] So the point is कि AI industry एक ऐसी industry है जहाँ पर आप दुनिया का कोई
+
+[08:40] भी software अगर use कर रहे हो,
+
+[08:44] basic common sense ये होता है कि AI अगर use हो रहा है, चाहे वो आप कर रहे हो, चाहे
+
+[08:50] वो मैं कर रहा हूँ, चाहे वो कोई भी company कर रही हो, चाहे वो भी इंसान कर रहा हो,
+
+[08:53] उसकी uses पर कुछ ना कुछ costing लगती है। चाहे वो आपको लगे, चाहे वो
+
+[08:59] company को लगे, किसी ना किसी को लगती है। तो companies के business plans पर depend
+
+[09:04] करता है कि क्या वह tokens and credits आपसे ले रहे हैं या आपको starting में थोड़ा
+
+[09:08] free दे रहे हैं। That depends completely on the business plans and इसकी future
+
+[09:13] vision है कि आगे बढ़ना है उनको। दूसरा,
+
+[09:17] अगर business genuinely खड़ा करना है AI की skills के साथ, service sell करोगे
+
+[09:23] या फिर आपने कोई platform लिया, उसको sell किया, whatever.
+
+[09:27] एक बात मैं आपको honest कहना चाहूंगा। social media में जो भी दिखाया जाता है,
+
+[09:33] उसका intent viral होना होता है। उसका intent कभी यह नहीं होता है कि actual में क्या
+
+[09:38] है वह दिखाना।
+
+[09:40] Short 30 second की reel देखने से कभी पूरी बात समझ में नहीं आती। That is my personal
+
+[09:45] experience जो कि मैं देखता हूँ। बहुत से लोग हैं जो अच्छे हैं, 1 million to 2
+
+[09:49] million followers हैं but obviously at the end जब आप business करने जाओगे ना, एक बात
+
+[09:55] समझो। AI में कई ऐसे tools हैं जो free में भी available हैं। I understand that
+
+[10:00] point. But for businesses you have to opt
+
+[10:06] some paid apps also क्योंकि quality requires a business.
+
+[10:12] How many of you agree with me?
+
+[10:14] How many of you agree with me? You can show me a thumbs up.
+
+[10:17] You can show me a heart, whatever to the reaction.
+
+[10:20] You know,
+
+[10:22] मैं उस चीज़ पर focus ज्यादा करता हूँ guys, जो
+
+[10:28] इस call पर तो आप मेरे को सुन रहे हो but जब client के सामने बैठते हो ना,
+
+[10:33] वहाँ पर जो actual answer demand होता है guys, वह
+
+[10:40] चीज के लिए क्या जरूरी होगा ना, वहाँ पर मेरा focus रहता है। I hope are you getting
+
+[10:45] the importance कि मैं किस चीज के लिए बोल रहा हूँ। Right?
+
+[10:48] कितना यह important है। Right? So mindset जो लोगों का है कि सब कुछ free में हो सकता
+
+[10:54] है क्या? बहुत सी चीजें free में हो सकती हैं but अगर आपको regular basis उसको करना
+
+[11:00] है।
+
+[11:06] जो मैंने आपको कहा कि
+
+[11:10] अगर मैं एक बार कर रहा हूँ तो चलो ठीक है, दो बार कर रहा हूँ तो चलो ठीक है but अगर
+
+[11:14] मुझे उसको regular basis पर करके sell करना है आगे, चाहे agent बनाकर sell कर दिया,
+
+[11:19] चाहे मैंने Meta Ads की service ली नहीं। चलो वो Meta Ads is completely free from
+
+[11:23] Meta। खाली वो Meta Ads का fund मांगते हो। पर मुझे WhatsApp API use करना हो, अगर
+
+[11:28] मुझे content
+
+[11:31] create करना है। चलो मैं basic idea देता हूँ। तो content create करना है तो content
+
+[11:36] एक बार, दो बार, पांच बार create करो but आप में से कितने लोग हैं जो ChatGPT को उस
+
+[11:40] level तक use किए हैं जहाँ पर आपका cool down period आता है। You can show me a big
+
+[11:43] thumbs up so that बाकी लोग भी समझें इस चीज से।
+
+[11:47] Are you getting the point? Cool down period क्यों आता है?
+
+[11:51] आपको मैं यह reality बताना चाहूंगा market की अगर आप ChatGPT का paid subscription भी
+
+[11:55] लेते हो या Claude का लेते हो, चाहे आप Gemini का लेते हो, कहीं का भी लेते हो। अगर
+
+[12:01] आप उसको intensely use करोगे ना, consistent use करते जाओगे बिना रुके तो एक moment
+
+[12:07] ऐसा जरूर आएगा भले ही paid subscription है कि वह cool down period में जाएगा।
+
+[12:12] और इसका reason बड़ा simple है। जब भी कोई चीज generate हो रही है, heavy processing
+
+[12:18] हो रही है hardware level पर और hardware पर अगर heavy processing होती है GPU server
+
+[12:22] पर तब heat and electricity। Right?
+
+[12:26] Electricity बहुत बड़े मात्रा में use होती है और electricity जितनी use होती है
+
+[12:31] obviously heat भी उतनी generate होती है और heat जितनी generate होती है water का
+
+[12:34] उतना use किया जाता है AI servers को ठंडा रखने के लिए। तो इसको control नहीं करोगे।
+
+[12:40] आप intensely use करते जाओगे, करते जाओगे, करते जाओगे। आपके जैसे करोड़ों लोग हैं।
+
+[12:43] Just imagine a scenario, AI servers ही जल्दी खत्म हो सकते हैं। If you not control
+
+[12:49] the
+
+[12:51] ability to use the intelligence.
+
+[12:55] Are you getting the point, everyone? I hope you are getting my point. Right?
+
+[12:58] So these are some important things to understand in AI for a long time, not just
+
+[13:03] for this course, not for this program of claims used, but for long term broadly
+
+[13:10] in the world. All right, guys. So now
+
+[13:15] how many are excited for today's class? How many of you know about today's class?
+
+[13:20] मजा आएगा। लग रहा है?
+
+[13:23] पहली चीज मैं आपको good news यह देना चाहूंगा ताकि आप लोगों का मजा और double हो जाए
+
+[13:27] directly
+
+[13:31] कि आज की चीज में जो भी बताने वाला हूँ, आज के class के बाद, I
+
+[13:37] starting of the class में ही बता दूँ कि आज के class के बाद you go and implement the
+
+[13:42] same stuff
+
+[13:45] and build your own AI agents.
+
+[13:50] पहली चीज। दूसरी चीज। मेरी आवाज़ क्लियर है एक मिनट। सब लोग एक बार मुझे thumbs up
+
+[13:56] करें सब लोग because two-three people are saying messages like voice is not audible.
+
+[14:01] Everybody, my voice is एकदम clear है।
+
+[14:05] Thank you so much. Please check your network guys.
+
+[14:08] जो लोग मुझे कह रहे हैं, please check your network. Thank you so much.
+
+[14:13] So second point that is
+
+[14:17] 90% today अगर मैं बताऊं कि जितने भी हम tools use करेंगे, 90% will
+
+[14:22] be free to use in starting. So that is a good point for you to initiate some
+
+[14:28] practice on the AI agent creation.
+
+[14:32] ठीक है। Now
+
+[14:37] कुछ outline clear कर दूँ कि क्या हम आज देखेंगे, किस तरह से हम समझेंगे। AI
+
+[14:43] agent और AI automation। यह एक ऐसी skill है ना, इसको मैं
+
+[14:49] बताऊँगा सबसे पहले कि यह एक ऐसी skill है कि इस चीज को अगर मुझे
+
+[14:55] सच में सीखना है पूरी तरह से, just imagine तो fact क्या
+
+[15:01] कहता है market का?
+
+[15:03] जो इस चीज की real knowledge देता है। Fact यह कहता है कि
+
+[15:09] nobody can teach you each and every automation, each and every AI agent
+
+[15:14] types because it is a very creative topic.
+
+[15:20] आप समझो या मत समझो। Very creative topic.
+
+[15:23] आपको मैं एक example करवाऊँगा, आपको समझ में आ जाएगा। आपको अगर मैं 1000 dots दे दूँ।
+
+[15:27] 1000 dots. Imagine. ठीक है। एक example देता हूँ ताकि relate कर पाओ कि कितनी बड़ी
+
+[15:33] चीज है। 1000 dots दिए मैं मान लो कि आपके सामने 1000 dots हैं छोटे-छोटे।
+
+[15:39] अब maths और mathematical calculations और probability क्या कहती है कि उन 1000 dots
+
+[15:44] को हम कितने तरीके से जोड़ सकते हैं?
+
+[15:48] There is a big number.
+
+[15:52] There is a huge number. Probability का number huge है।
+
+[15:57] Similarly दुनिया भर के जितने भी softwares हैं जो mostly use होते हैं, highly use
+
+[16:03] होते हैं, उन लोगों को उन softwares को कैसे एक दूसरे से connect करके data को
+
+[16:09] transfer किया जाए। मेरी बात अगर आप सुनोगे ना guys, बड़े ही easiest form
+
+[16:15] में बड़ा complex subject guide करने वाला हूँ। So बस one request from your side,
+
+[16:20] that is attentiveness.
+
+[16:23] Attentiveness and focus.
+
+[16:28] So
+
+[16:30] उन softwares को connect करके data को कैसे flow करके उसका use case किया जाए अब
+
+[16:36] उस software के intelligence को लेकर। एक example देता हूँ। For example कि
+
+[16:43] मान लो कि मेरा एक website है। उस website पर किसी ने form submit किया।
+
+[16:49] तो थोड़ा सा हम थोड़े से शुरू करते हैं ताकि हम उस चीज को step by step समझें
+
+[16:55] कि how to connect my website with Google Sheet.
+
+[17:01] मैं यही सोचता हूँ। मैं हमेशा सोचता हूँ business point of view से। तो मैं आपको वह
+
+[17:04] again एक revised version देता हूँ इस चीज का।
+
+[17:07] How to connect client's website to Google Sheet so that client can see each lead
+
+[17:13] into Google Sheet. तो client के लिए आपने यह कर के दिया। client के Google Sheet के
+
+[17:18] साथ client के जो website है जो आपके किसी न किसी platform पर बनी होगी मान लो।
+
+[17:23] website के लिए बहुत से platforms हैं बनाने के लिए। Right?
+
+[17:26] But आपने बनाई but आपके पास वो website का पूरा system है but data जो है वो client को
+
+[17:31] Google Sheet में चाहिए। तो this is one of the automation. Right?
+
+[17:36] So there are the endless dots जो आप connect कर सकते हो।
+
+[17:42] तो अगर इस चीज को सच में सीखना है तो you have to understand
+
+[17:47] in 2026। अगर यही call आज से साल भर, डेढ़ साल पहले मैं लेता तो
+
+[17:53] मैं यह सब चीजें नहीं बोल पाता जो मैं आज आपको सिखा रहा हूँ because today's time is
+
+[17:57] the time of intelligence.
+
+[18:01] Today's time is the time of using the intelligence effectively
+
+[18:09] Positive बात यह है।
+
+[18:11] Eye-opener moment यह है।
+
+[18:14] Intelligence मेरे पास तो है।
+
+[18:19] Not here.
+
+[18:21] Obviously, हमारे पास human intelligence तो सबके पास है, उसकी बात नहीं कर रहा है।
+
+[18:26] I'm talking about the intelligence in your hand,
+
+[18:30] intelligence in your laptop। You have the ChatGPT, you have the Gemini, you have
+
+[18:35] the Claude, you have the DeepSeek, you have all the LLMs free to use starting with,
+
+[18:41] right?
+
+[18:44] Hello, are you with me?
+
+[18:47] Right? You have?
+
+[18:49] The question is how much you are using
+
+[18:56] versus how much your
+
+[19:00] competitor is using.
+
+[19:04] Right? The way you use intelligence can solve your each and
+
+[19:09] every problem you are facing in your journey in AI business or AI industry
+
+[19:16] or apart from AI industry.
+
+[19:19] The only thing you have to learn अगर मैं core of the concepts आने वाले
+
+[19:25] पाँच साल तक सिखाऊँ, core of the concepts, तो यह
+
+[19:31] रहेगा कि 2026 में you don't have to master each and
+
+[19:37] every software.
+
+[19:40] In 2026, you have to be a good communicator।
+
+[19:45] Are you getting the point? If you are a good communicator, then you are a very good
+
+[19:50] AI expert।
+
+[19:52] Because आज की date में AI को coding से या फिर code देख के या उसको
+
+[19:59] drag and drop करके नहीं समझाना पड़ता। If you are a good communicator, then
+
+[20:05] AI can understand your intent and वो right output आपको देगा।
+
+[20:11] Clear है?
+
+[20:14] So now, चलिए ठीक है। Now we will see the number one thing that we will
+
+[20:19] cover today, how to connect, how to do automations।
+
+[20:26] Second, we are going to see
+
+[20:29] a real AI voice agent that you can create without
+
+[20:35] any coding, that you can deploy it on any website,
+
+[20:39] and that agent can talk to the human in real-time, voice-to-voice
+
+[20:45] and can take appointments
+
+[20:49] and book the appointments in real-time।
+
+[20:54] थोड़ा सा business point of view से भी समझो। इसके लिए भी हो सकता है। ये अगर CT है तो
+
+[20:59] इनके लिए भी आप use कर सकते हैं।
+
+[21:02] Doctors, interior designers,
+
+[21:06] dentist obviously the part of the doctor, real estate
+
+[21:11] companies। Right?
+
+[21:15] MSME,
+
+[21:18] electrical shop owners like video sales, etc.
+
+[21:23] आपके city में भी आपके level के होंगे उस तरह के category।
+
+[21:27] So these are the some coaches and consultants। Right?
+
+[21:33] So these are the some target markets, इससे ज्यादा हो सकते हैं but these are the
+
+[21:39] most part
+
+[21:41] जिनके लिए यह चीज बहुत useful है। Right?
+
+[21:44] Beauty parlours जो अच्छे quality के होते हैं, premium beauty parlours, appointment
+
+[21:48] setups उसमें यह लगता है। Right?
+
+[21:54] So many जहाँ पर अगर service बेची जा रही है या मान लो--
+
+[22:00] obviously most of the sales में service बेची जा रही है, वहाँ पर एक चीज का use होता
+
+[22:03] है क्योंकि service जहाँ बेची होती है, वहाँ पर पहले meeting होती है। Right?
+
+[22:08] And चीजें समझी जाती है तब जाकर service खरीदता है इंसान। So वहाँ पर ये चीजें काम आती
+
+[22:12] हैं। So यह हमारा process समझेंगे हम पहले कि किस तरह से हम शुरू कर सकते हैं और जो भी
+
+[22:17] हम process आज देखने वाले हैं, वो 99% free tools हम करने वाले हैं जो मैं आप लोगों को
+
+[22:22] आज सिखाने वाला हूँ। So that is a happy moment। Right?
+
+[22:29] Second, we are going to see how to build AI calling agent
+
+[22:36] जो real-time में आपके number पर call करेगा, आपकी details लेगा और
+
+[22:42] available slot देख के आपकी appointment book करेगा।
+
+[22:47] For me, it's not planned. We are going to see naturally throughout the call जिसमें
+
+[22:51] कुछ challenges भी आएंगे तो you will see understand कि किस तरह से वो challenges भी
+
+[22:54] solve किए जाते हैं।
+
+[22:56] So जो एक proper process होगी, उसके साथ ही हम जाएंगे।
+
+[23:02] So how many are excited now
+
+[23:06] to see this stuff? Right?
+
+[23:09] In this journey, but before that obviously कोई भी चीज shortcut नहीं होती। अगर
+
+[23:13] shortcut से सीखी जा रही है तो वो shortcut चीज कभी भी practicals में काम नहीं ले
+
+[23:17] सकते, that I believe। Proper तरीके से चीजें जब आप समझते हो ना,
+
+[23:22] वो concepts clear हो जाए ना, तब आपको उस चीज का
+
+[23:26] फायदा मिलता है in business।
+
+[23:29] All right, guys. So thank you so much। I am super excited today to see this stuff।
+
+[23:36] So let me share my screen first now। थोड़ा सा आप लोग अभी
+
+[23:42] screen पर focus करेंगे and let me share my screen। Just a minute।
+
+[23:48] I am just opening my screen।
+
+[23:53] Right.
+
+[24:08] Oh.
+
+[24:16] 15-20 minutes तक मैं पहले कुछ आपको concepts clear करूंगा। आप लोग देखिए इस चीज को
+
+[24:20] ताकि आप लोगों को understanding हो जाए कि ये चीजें क्या है। आप में से कई लोगों ने
+
+[24:23] शायद कुछ चीजें सुनी पहली बार होगी, तो शायद आप लोगों के लिए नई हो, तो ऐसे ये चीजें
+
+[24:27] करनी जरूरी है मेरे लिए। Right? Directly practicals में लेकर जाऊँ, वो आपको समझ में
+
+[24:31] तो आ जाएगा but सिर्फ वही समझ के आपको बाकी चीजें की भी idea रखनी है कि आपका engine
+
+[24:37] ready करना है। दिमाग का engine, creative brain activate करना जरूरी है। तो उसके लिए
+
+[24:41] concepts clear करना जरूरी है। Clear, guys?
+
+[24:44] So let me share my screen first and आज हम देखेंगे mostly कि हम
+
+[24:50] किस-किस apps को use करने वाले हैं।
+
+[24:53] Number 1,
+
+[24:58] just a second। Can everyone see the screen?
+
+[25:04] Screen is visible? Right。 Thank you।
+
+[25:07] So all right, most of the
+
+[25:11] platform we will cover today।
+
+[25:15] market में बहुत platforms हैं, especially यह चीज समझो, market में बहुत platforms
+
+[25:18] हैं जो AI agents और automations के लिए use होते हैं। But एक experience ये कहता है
+
+[25:24] कि शुरुआत में जब हम start करते हैं तो कौन सी चीजों को हम select करें ताकि हम उस चीज
+
+[25:29] को सीख के, उस चीज को monetize कर सकें, उस service को। Clear it?
+
+[25:35] So you can see the screen that first we will-- first one of the system or platform
+
+[25:41] or apps we can see, we can use the ElevenLabs for voice agent। Second,
+
+[25:48] the second apps we will cover omni.io which is used for AI calling agent।
+
+[25:54] Third, we will see make.com। A good news भी होगा my at the end of the class जो लोग
+
+[25:59] नए batch के हैं। Right? उन सबके लिए good news होगी ये चीज।
+
+[26:04] How many of you heard about Anytim?
+
+[26:10] Most, right?
+
+[26:15] Okay, ठीक है। So be with me till the end। Right?
+
+[26:18] There is a good news for you। नहीं सुना है तो वो मैं बता दूँ ahead में क्या है।
+
+[26:23] Make.com we will see how to use it। Right?
+
+[26:26] इसकी क्या processes हैं। Fourth, Google Sheet obviously you know all of the Google
+
+[26:30] Sheets। Google Sheet बहुत use होती है, हर जगह use होती है। Gemini है। Gemini क्या
+
+[26:34] है? मैंने आपको पहले वाले class में भी बताया था ये Content Creation Academy में हमने
+
+[26:38] इसको use भी किया हुआ है। Right? Gemini is a LLM, Large Language Model। Basically,
+
+[26:43] इस image model में सबसे अच्छा ये कहते हैं ChatGPT के बाद। And
+
+[26:48] ChatGPT we will see। ये सारी चीजें हम आज use करने वाले हैं for different-different
+
+[26:54] purposes and इसके अंदर क्या है थोड़ा सा समझेंगे पहले ताकि हम इस चीज को देखने से
+
+[26:59] पहले हम थोड़ा सा mindset ready हो, थोड़ा सा हम understanding हो कि ये चीजें हैं।
+
+[27:03] So basically ElevenLabs जो है वो human-like voice और voice agents के लिए mostly use
+
+[27:08] होता है। Human-like voice मतलब आपको मान लो कोई भी चीज आपका content return है, तो उस
+
+[27:14] चीज को text to voice में cover करना। एक basic शुरुआत वहीं से होती है कि मेरे पास
+
+[27:18] text है, उसे text to voice में cover करना है, उसको बोलना है मुझे। बोल कर दिखाना है
+
+[27:21] कि कैसा लगेगा। मुझे professionally बोलना नहीं आता, for example.
+
+[27:24] मुझे कुछ record चाहिए in voice. तो Eleven Labs is one of the most
+
+[27:30] used system जो market में पूरी दुनिया में use होता है। Highly professional लोग इसको
+
+[27:35] use करते हैं।
+
+[27:37] Recently, within
+
+[27:41] last एक साल के अंदर की बात है, उसने AI agents भी integrate कर
+
+[27:48] उसको develop किया अपने system में। AI voice agents.
+
+[27:51] तो वह एक latest चीज है जो हम समझ लें।
+
+[27:54] Omnibeing is used for AI calling agent
+
+[27:59] जो इसका main use case है।
+
+[28:01] Outbound calls, inbound calls. क्या होता है?
+
+[28:05] मैं बड़े आसानी से समझाऊंगा। कई लोगों को पता होगा। Outbound calls like जो calls हम
+
+[28:09] करते हैं। Inbound calls जो calls company में आते हैं। Easy. Clear.
+
+[28:16] Make.com. Make.com is like an n8n but n8n से easy to use it.
+
+[28:23] Clear?
+
+[28:25] Right. So make.com is also widely used by most of the professionals all over the
+
+[28:30] world to build AI automations for the corporates and the business owners.
+
+[28:35] Google Sheets, इसके बारे में मुझे कुछ बोलने की जरूरत नहीं है। Gemini also you know
+
+[28:39] that Gemini is the brain, intelligence का brain है। Right?
+
+[28:42] ChatGPT is also the intelligence brain.
+
+[28:44] So this is what we cover in this product test.
+
+[28:47] Now understand this slide very carefully.
+
+[28:52] Eleven Labs के अंदर अगर हम देखें तो Eleven Labs के अंदर एक process समझ लो। पहले
+
+[28:56] process क्या है? Process का एक थोड़ा सा idea लगेगा कि imagine करो कि आपका एक
+
+[29:00] website है। आपके client का एक website है। उस website के ऊपर content तो है,
+
+[29:05] जो उसके business है, उसका content हो, उसकी services का content होगा, उसके prices भी
+
+[29:10] हो सकते हैं, वो उसने रखे हो। FAQ section हो सकते हैं। There are so many content
+
+[29:14] available
+
+[29:16] on website of each business owner.
+
+[29:19] अब उस website के ऊपर जो उसकी traffic आ रही है, जो उसके visitors आ रहे हैं, उस
+
+[29:23] visitors को आज के date में सिर्फ content ही मिल रहा है। तो यहाँ पर practical यदि आप
+
+[29:29] सोचो तो एक ऐसा human जो intelligence भी रखता है, knowledge भी रखता है उस business
+
+[29:34] owner का और वह इंसान से बात कर पा रहा है जब वह website पर आ रहा है। Is this
+
+[29:39] powerful?
+
+[29:42] Is this powerful? Right? 24 by 7.
+
+[29:45] और जो
+
+[29:47] बात हो रही है, उस बात के basis पर अगर वह appointment book करना चाह रहा है या
+
+[29:52] meeting book करना चाह रहा है, वह traffic जो भी आ रही है उसमें वह आपका real time
+
+[29:56] appointment book कर रहा है और आपको एक mail भेज रहा है कि आपकी appointment है, आपकी
+
+[30:02] Google Meet की link है, यह आपका date है और
+
+[30:06] मान लो business owner आप हो तो आपको भी वह mail आ रहा है। This is the person जिसने
+
+[30:11] appointment book करी। यह time है, date है, यह Google Meet की link है। Is this
+
+[30:14] powerful?
+
+[30:16] So this is gonna see. Agent का जो काम है, agent के अंदर क्या चीजें होती हैं, थोड़ा
+
+[30:21] समझो। Agent के अंदर आप यह सोचो कि एक human को अगर मुझे train करना है तो सबसे पहले
+
+[30:26] मुझे उसको SOP सिखाना होती है। Corporates में होता है SOPs。 Most of you may be know,
+
+[30:31] right? SOP मतलब Standard Operating Process.
+
+[30:35] Easy. Standard Operating Process मतलब कुछ चीज ऐसी है जो standard तरीके से की जाए तो
+
+[30:39] वह corporates में अच्छी मानी जाती है। उसको professional माना जाता है। तो वह सिखाई
+
+[30:45] जाती है। Company to company अपनी SOPs होती है काम को करने की। मुझे यह काम करना है।
+
+[30:51] वैसे तो मुझे करना आता है but proper process क्या है?
+
+[30:54] वह सिखाया जाता है। Same AI agents को भी Eleven Labs में आप समझो कि यह सारी चीजें हम
+
+[31:00] बता रहे हैं उसको। जैसे कि first message.
+
+[31:02] First message मतलब कि अगर कोई पहली बार आ रहा है तो पहले आपको क्या बोलना चाहिए?
+
+[31:06] That we give the intelligence जो हम दे रहे हैं। दूसरा, हम उसको एक ऐसा
+
+[31:12] intelligence भी दे रहे हैं जिससे वह चीजों को समझे, जैसा human समझता है। तो हम LLM
+
+[31:17] से उसको connect करते हैं। Knowledge base क्या होता है?
+
+[31:20] Knowledge base basically यह होता है कि अगर मान लो agent तो बन गया। Intelligence तो
+
+[31:23] उसके पास है क्योंकि Gemini है। Intelligence के base उनके पास basic intelligence तो
+
+[31:27] होता ही है, general intelligence को बोलते हैं। But उस particular company का
+
+[31:31] knowledge नहीं है उसके पास जो insight में है। तो वह knowledge कहाँ से आएगा जब हम
+
+[31:37] उसको knowledge base देंगे कि यह सारी चीजें हैं। Imagine कि company में 500 products
+
+[31:42] है।
+
+[31:44] अब वो 500 products website पर नहीं है। पर वो 500 products को बेच रहा है और उनके
+
+[31:49] clients को भी वो पता है।
+
+[31:52] अब इस situation में knowledge base जब हम इन agents को देते हैं तो वह
+
+[31:58] knowledge base से उनको सब पता है कि हाँ, यह product इस चीज के लिए है, उसका rate यह
+
+[32:02] है, उसका MLA है, उसका expiry date कितना होता है, उसको कैसे use करना है। Are you
+
+[32:08] getting the point? तो यह पूरा data होता है और यह
+
+[32:12] data company provide करती है जो knowledge base में हम उसको देते हैं। System prompt
+
+[32:17] मतलब कि actual में उसको करना क्या है। उसका काम क्या है समझो। System prompt मतलब कि
+
+[32:22] उसको काम समझा रहे हो आप। Right?
+
+[32:26] So यह prompt भी हम खुद नहीं लिखते आज के time में। Right?
+
+[32:32] Prompt भी हम AI से निकालते हैं कि कैसे हम उसको better train कर पाएँ।
+
+[32:38] एक point यहाँ पर आपको इस topic पर बोलना चाहूंगा ताकि यह topic हम आगे बढ़ सकें इस
+
+[32:43] topic से। System prompt एक ऐसी चीज है ना जिससे उसका behavior
+
+[32:49] वह क्या कर सकता है, क्या नहीं कर सकता, वह सारा decide हम उसको बोल रहे हैं तो ये कर
+
+[32:53] सकता है। Like you are giving a instructions properly.
+
+[32:57] मान लो कि आपकी company में कोई rule book है, किसी की company में कोई rule book है
+
+[33:01] कि भले ही आपको आता है फिर भी आप यह नहीं कर सकते। यह आपको अगर बोल दिया जाए तो आप
+
+[33:06] नहीं करोगे। Right? Because you are working in the company.
+
+[33:10] Are you getting the point?
+
+[33:12] Right. So same like system prompt.
+
+[33:15] System prompt मतलब कि उसका क्या actual role है, उसको क्या करना है, वह सारी चीजें
+
+[33:20] उसको detail में लिखी जाती है और यह AI से ही निकाल के हम उसको देते हैं। Right?
+
+[33:25] So इस चीज को ध्यान से रखना। Voice and language obviously language किस language में
+
+[33:30] बात करना है उसको। Hindi या English or any other language जो options available है
+
+[33:34] Eleven Labs में we will see all this and voice male या female that these are the
+
+[33:39] all settings part of the agent. Tools like हम इसको tools से connect कर सकते हैं।
+
+[33:43] Like there are so many tools to connect with Eleven Labs.
+
+[33:46] Tools मतलब कि जैसे कि मान लो मुझे calendar book करना है तो calendar
+
+[33:51] Eleven Labs खुद का calendar नहीं बनाता। उसके पास वह capacity नहीं है। तो calendar
+
+[33:57] booking softwares भी market में बहुत हैं। Right?
+
+[34:01] The best way to figure out कि हर चीज का solution market में है until and unless you
+
+[34:05] found it.
+
+[34:07] Right? दुनिया में बहुत बड़ी दुनिया है। Right?
+
+[34:10] बहुत चीजें available हैं। हमें नहीं knowledge है, यह फर्क है। But हमारे पास
+
+[34:14] resources है आज पता करने के। Intelligence सबके पास है। Right?
+
+[34:17] So the right answer give you the right.
+
+[34:19] Right question will give you the right answer.
+
+[34:23] So like that की calendar या cal.com हमने connect किया जो हमें एक ability दी कि वह
+
+[34:27] appointment अगर ले रहा है तो appointment book कहाँ करेगा। So we have our own
+
+[34:31] cal.com calendar which is free to use in starting.
+
+[34:34] Conversion history obviously conversion history क्या है?
+
+[34:37] मान लो कि जो भी chats या जो भी data है उसकी history कहाँ मिलेगी?
+
+[34:40] So these are all the outlines कि किस तरह से यह Eleven Labs के agents में चीजें होती
+
+[34:45] हैं। अभी जो agent है, यह यहाँ पर Eleven Labs में बना है मान लो। यह platform अलग है
+
+[34:50] और आपका website जो है वह अलग platform पर बना है। तो उसको connect करने के लिए
+
+[34:55] widgets use होता है जो कि one single code होता है जिसको समझने की कोई जरूरत नहीं है
+
+[34:59] आपको। उस code को simply आपके website में header section में जाता है, custom code
+
+[35:03] में डाल के paste करना है। मैं आपको और कुछ बता रहा हूँ। ठीक है। So this is all the
+
+[35:08] processes।
+
+[35:11] I hope एक बार में समझना चाहूंगा कि you know that। I hope this is clear till now
+
+[35:17] you are on the same page with me.
+
+[35:20] You can show me hearts.
+
+[35:24] Right?
+
+[35:26] थोड़ा सा ध्यान दोगे ना guys, थोड़ा सा।
+
+[35:30] कोई rocket science नहीं है। ठीक है जी।
+
+[35:36] और कभी भी कोशिश यह मत करो कि सब कुछ सब चीजें एक साथ सीख जाऊंगा मैं। ऐसा कभी नहीं
+
+[35:41] होने वाला है। कोई ऐसा बोल भी रहा है तो गलत है। You will always learn percentage by
+
+[35:46] percentage. Real चीज ऐसी सीखी जाती है। ठीक है। So okay
+
+[35:52] thank you guys for the response. Let's show on the next slide.
+
+[35:59] अब थोड़ा सा इसको हम elements wise भी समझेंगे कि Eleven Labs में क्या-क्या basically
+
+[36:02] होता है। इसको थोड़ा सा memorize करना है guys memory power आज strong करनी जरूरी है।
+
+[36:07] Agents obviously agent का काम क्या है?
+
+[36:09] One complete voice agent with its own name, ID and settings like for example Riya
+
+[36:14] for a dental clinic, second
+
+[36:17] clinic is equal to second agent। मतलब individual agent is individual business wise
+
+[36:22] First message basically the first sentence it speaks when the someone clicks। मतलब
+
+[36:28] कि अगर कोई पहली बार उससे बात करने जा रहा है तो वह कौन सा पहला line बोले?
+
+[36:32] उसकी शुरुआत क्या होता है कि सामने वाले person को पता चले कि यह कौन सा agent है।
+
+[36:36] support agent है या appointment booking agent है या sales agent है etc.
+
+[36:42] System prompt - इसका job description। जैसा मैंने आपको कहा कि उसका काम क्या है, वह
+
+[36:47] समझा रहा है in the form of prompt in English. Right?
+
+[36:50] Who it is, what to do and what never to do।
+
+[36:55] कुछ चीज हम यह भी बोलते हैं हमारे team में भी हम कुछ हो या हमारे office में कोई आपको
+
+[36:59] देखा होगा तो हमको बोलते हैं कि यह चीज नहीं करनी है तुझे। अगर नहीं बोलते तो कर लेता।
+
+[37:05] Same like for AI.
+
+[37:10] Second,
+
+[37:12] LLMs - the brain। We need the intelligence। अगर AI का we use कर रहे हैं agent
+
+[37:18] में, तो we need the intelligence obviously। So the intelligence is the brain
+
+[37:23] behind all the agents, LLMs। Voice and language - कैसी बात, उसका
+
+[37:29] आवाज़ कैसा होगा? वह male होगा, female होगा। उसकी language वह कौन सी use करेगा?
+
+[37:33] हिंदी कर सकता है, English कर सकता है या हिंदी-English दोनों कर सकता है या English
+
+[37:36] कर सकता है। There are so many possibilities.
+
+[37:39] Knowledge base - उसके पास क्या knowledge है उस company को लेकर। वह पूरा data एक PDF
+
+[37:45] में आपने upload कर दिया, website की link दे दी। जितना हमको data, जितना अच्छा देंगे
+
+[37:49] उतना better वह आपके business के बारे में समझेगा और सही answers देगा।
+
+[37:55] आपके business की बात करो, चाहे client के business की बात करो, दोनों तरह की समझेगा।
+
+[38:00] Tool - tool basically it's like an कि अगर मैं action ले रहा हूँ तो
+
+[38:06] मैं action अगर ले रहा हूँ तो मैं action किस tool पर लूंगा?
+
+[38:09] अगर मुझे appointment book करनी है तो मेरे पास Eleven Labs में कोई ability नहीं है,
+
+[38:12] हाथ पर नहीं है कि वह calendar हो उसका खुद का। तो उसके लिए जिसके पास
+
+[38:19] वह ability है, उससे हम Eleven Labs connect करेंगे। इसे connection बोलते हैं। इसमें
+
+[38:23] कोई coding नहीं करना है। बड़ा simple है
+
+[38:26] कि अब यह use case पर depend है। अगर appointment booking है तो चलो वो connect करना
+
+[38:30] है। अगर वहां पर appointment booking नहीं है, दूसरा कुछ है तो उस चीज को लेकर दूसरी
+
+[38:35] चीज connect होगी। Simple. Right? जहां पर जिसका use है, उस तरह से होगा। Widget and
+
+[38:41] embed code - widget basically and embed code इसलिए होता है कि अगर उस agent को आपने
+
+[38:45] Eleven Labs से बनाया है तो कैसे उसको वहां से निकाल के किसी भी website पर publish
+
+[38:49] करोगे
+
+[38:51] जो आपकी delivery है। Just imagine कि आपने किसी का service लिया। आपने सबसे पहले तो
+
+[38:57] meeting करी उसके साथ। meeting करके उसका business समझा, क्या कर रहा है, operations
+
+[39:01] क्या है समझा। Support agent उसको बनाना है। Right?
+
+[39:04] आपको हमने booking agent बनाना है। इससे शुरू करो। ऐसा नहीं कि सब कुछ एक साथ समझ में
+
+[39:08] आ जाएगा। मैं practical आपको समझा रहा हूँ। अब उसके सबसे पहले आप समझोगे कि वह क्या कर
+
+[39:13] रहा है। तो अब दूसरा उससे आप मांगोगे उसकी website है कहीं। Right?
+
+[39:19] तो website की link आपने मांगी।
+
+[39:21] उसके साथ एक PDF उससे मांगा जिसमें FAQ sections हो कि सारे question answers की, यह
+
+[39:27] question है, उसका क्या answer है, यह question है, उसका क्या answer है। यह एक हो
+
+[39:29] सकता है। दूसरा एक PDF आप उससे मांग सकते हो कि आपकी अगर product और services है तो
+
+[39:33] product और services की list आप दो detail में कि वह हर product किस काम का है, उसका
+
+[39:38] rate क्या है। जितने detail आप दे सको in PDF वह आप knowledge base में आपके agent को
+
+[39:43] आप दे सकते हो। आपने पूरी development ElevenLabs तक कर ली। अब जब delivery करनी होगी
+
+[39:48] तो delivery से पहले आपने remaining 50% लिया, पहले 50% लिया। Right?
+
+[39:53] और remaining 50% आपने delivery से पहले लिया और deploy किया उसकी website। So we
+
+[39:59] are going to see this. पूरा development cycle, deploy process अपना हम आज देखेंगे।
+
+[40:04] So be with me. मैंने एक idea के लिए सारी चीज आपको visualize कर रही हूँ। All right,
+
+[40:10] now.
+
+[40:13] Okay Eleven Labs तक clear है सबको, right?
+
+[40:16] ठीक है। मैं थोड़ा सा back जा रहा हूँ यहाँ तक。 Convergence history हम the last देखा।
+
+[40:21] So these are all the understand points जो हम समझेंगे जब हम live जाएंगे।
+
+[40:28] Same with अगर मैं इस चीज को साथ में ले रहा हूँ क्योंकि theory part हमारा clear हो
+
+[40:31] जाए पहले। Same with OmniDeem। OmniDeem.io करके एक platform है जहाँ पर
+
+[40:37] आप calling agent बना सकते हो जो मैंने आपको बोला कि हम use करेंगे। अब calling agent
+
+[40:41] कहाँ का use हो सकता है? मैंने आपको कहा calling agent receptions में use हो सकता है।
+
+[40:46] Right? जो receptionist होते हैं तो physical receptionist तो आपने सुना ही होगा but
+
+[40:51] virtual receptionist जो 24 by 7 call आ रहा है तो एक agent आपका हो company में जो
+
+[40:57] call उठाए और जो भी information का knowledge उसके पास है वह answer दे पाए। या
+
+[41:03] आपके पास मान लो
+
+[41:05] 10,000 लोगों, 5,000 लोगों का data है जो आपके client के ही रहे थे आज से चार साल
+
+[41:09] पहले, 10 साल पहले या आपके client के पास होगा। तो आपने एक ऐसा agent बनाया कि नया
+
+[41:14] product launch हुआ है तो उस product को लेकर sales calls या फिर एक मान लो interest
+
+[41:19] qualification call आपने broadcast किया। सबको call गए। सभी calls पर वो
+
+[41:25] agent
+
+[41:27] human language में बात करके जो उसका काम है, जो system prompt में बताया था वो same
+
+[41:32] OmniDeem में भी आ गया। System prompt उसका क्या कर सकता है, क्या नहीं कर सकता है और
+
+[41:35] उसका काम क्या है, यह बताया। Right? तो this is the
+
+[41:42] inbound like जो customer call कर रहा है outbound। Right?
+
+[41:46] जब आप call कर रहे हो।
+
+[41:49] Via phone it's like a phone call so phone call की तरह आता है। आप work क्या करेगा
+
+[41:55] वह जो आप prompt बताओगे उसको कि इसका काम क्या है, यह काम है भाई आपका
+
+[42:00] support का काम है, आपका
+
+[42:03] lead qualification का काम है। Whatever. Right?
+
+[42:06] So voice and language you can select also here। Knowledge base also here। तो ये
+
+[42:10] सारी चीज connected है। Take a points। कुछ चीज ऐसी है ना जो same-same लग रही थी
+
+[42:13] आपको। Knowledge base, voice and language, system prompts। तो ये agents में
+
+[42:20] आपको most of the platforms में same-same मिलेगी। तो यह चीज समझनी जरूरी है। अब call
+
+[42:25] खत्म हो गया। call पर बात हो गई। call खत्म हो गया तो call में क्या बात हुई उसकी पूरी
+
+[42:30] recording आपके system में आपको मिलती है। Right?
+
+[42:32] Call का log मिलता है। वो सारी चीज stock system में मिलती है। Post call action कि
+
+[42:36] मान लो call के बाद अगर आप action लेना है वो post call action हो गया which is an
+
+[42:40] another level। पहले हम यह system पहले foundation समझ लेते हैं। Right?
+
+[42:45] Clear है?
+
+[42:47] All right. So in the OmniDeem अगर आप समझे तो थोड़ा सा जैसे हमने
+
+[42:53] उसमें समझाया agent
+
+[42:55] basically it's an same as Eleven Labs prompt हो गया, आपका voice हो गया, knowledge
+
+[42:59] हो गया built for phone calls। वह हो गया website के लिए कि website पर आपने बैठा
+
+[43:04] लिया। यह हो गया call के लिए। Phone call.
+
+[43:09] Getting?
+
+[43:11] Phone number obviously the real number attached to the agent people call it and it
+
+[43:15] calls out from it. एक real number। अगर आप किसी human person को रखते हो salary
+
+[43:20] pay, right तो वह working hours में काम करेगा। जो भी calls आएंगे, उनको उठाएगा। जो भी
+
+[43:26] leads को call करके sales close करना है, जो भी करना है, उसको call करके वह चीज करेगा।
+
+[43:30] वह तो उसके level पर करेगा। But यह agent को मान लो रात को 12:00 बजे call आ जाए तो यह
+
+[43:34] ready है pick करने के लिए।
+
+[43:37] आपको एक साथ 10,000 लोगों को phone करना है तो he is capable। Getting?
+
+[43:41] So यह बड़ी powerful चीज है but obviously foundation clear करेंगे तभी आपको चीजें use
+
+[43:47] सही समझ में आएंगी। Inbound call customer dials agent answer में use होगा। जैसे
+
+[43:51] मैंने कहा outbound calls agent dials the customer and one call or many। Right?
+
+[43:55] एक call भी use कर many use कर सकता है। Right?
+
+[43:59] Perfect।
+
+[44:01] Now
+
+[44:04] इसमें एक चीज और है scaled records। मतलब कि अगर आपका agent एक बार सही से बन गया
+
+[44:10] कि उसकी सारी intelligence सही है, सही answer दे रहा है, सब कुछ सही है, testing done
+
+[44:14] हो गई। अब उस चीज को scale करना। Scale in the sense कि मान लो उसको बड़े level use
+
+[44:18] करना है। मान लो campaign आपने launch campaign in the form of किसी। यहाँ पर campaign
+
+[44:21] मतलब Meta Ad का campaign नहीं। Campaign जैसे मैंने कहा broadcasting कि मान लो आपके
+
+[44:26] पास किसी doctor के पास 200 patient, यहाँ पर example दिया 200 patient की list है।
+
+[44:31] अब 200 patient को checkup के लिए उसको phone करवाना है कि आपका checkup time यह
+
+[44:37] है। वह data तो होगा वो knowledge base से होगा। Right?
+
+[44:42] तो वह उसको पता है कि किसका कहाँ है, क्या है। Excel sheet में हो सकता है। तो वो
+
+[44:47] चीजें के basis पर वह individual call करेगा जो data available है उस data के basis पर
+
+[44:51] उसको बताएगा कि this is your appointment time and this is your time to checkup। Just
+
+[44:55] एक example मैंने आपको दिया to understand the concept। Clear?
+
+[45:01] Variables - variables वहाँ use होते हैं जहाँ पर broadcast या
+
+[45:07] multiple लोगों को एक साथ connect करना हो या बात करनी हो या appointment book करनी हो
+
+[45:13] whatever उस time पर variables चीज होते हैं। Variables मतलब क्या?
+
+[45:15] Variable क्या होता है? जो चीजें vary करती हैं हमेशा। जैसे अगर
+
+[45:22] किसी clinic के लिए भी अगर agent बना रहे हो imagine करो
+
+[45:27] dentist के लिए तो clinic का नाम तो fix है ना। वह बार-बार change थोड़ी होगा।
+
+[45:34] तो वह fix है। But clinic पर आने वाले client के नाम हर बार change हो जाएंगे। तो
+
+[45:40] client के नाम variable हैं। तो variables मतलब एक place होता है जहाँ पर
+
+[45:45] वह आपके given data से नाम उठाता है, उस नाम से उसको call करता है। So this is the
+
+[45:50] name कि "Hi name, your treatment", जैसे जहाँ पर आपको call progress लग रहा है, वो
+
+[45:55] variables हैं। इस तरह से ये चीजें आप visualize करो। It's just one example। Call
+
+[46:00] logs and transcript - every call as a data, who and how long, what was said, what
+
+[46:06] was decided। Right? तो ये चीजें इसमें हमें revision है। आपको मान लो कि
+
+[46:13] जिस company के लिए आपने बनाया है, जिस client के लिए बनाया है, उस client के पास भी
+
+[46:17] तो कुछ team member होंगे। आप खुद देखेंगे ना कि कोई call कर रहा है, actual में agent
+
+[46:21] क्या बात कर रहा है, लोग क्या response कर रहे हैं, तो वह agent को better कर सकता है,
+
+[46:24] वो चीज को समझ के। और उसके पास एक cross check करने के लिए भी होगी। कोई client बोले
+
+[46:29] कि मैंने तेरी बात नहीं करती या करी थी। यह सब practically होता है जब आप genuine
+
+[46:34] business करते हो या कुछ सच में market में करते हो। तो ये चीजें होती हैं। क्योंकि AI
+
+[46:39] also is the technology। Right? So it's one of the technology.
+
+[46:46] तो audit करने के लिए call logs and transcripts भी important हैं। Post call actions
+
+[46:50] होगी क्योंकि उसके बाद उसको आगे का action perform करना है कि उसको email भी जाना
+
+[46:55] चाहिए, webhook से उसे invoice या payment भी मिलनी चाहिए। Whatever the actions that
+
+[46:59] are possible, there are less possibilities। All right, guys.
+
+[47:04] तो
+
+[47:06] एक बार मैं इससे शुरू करने से पहले again I want to ask you guys।
+
+[47:12] Tell me, यहाँ तक सब को clear है?
+
+[47:15] Concept समझ में आ रहा है? Because it's important before moving to the practical.
+
+[47:22] Give me the honest answer.
+
+[47:28] Okay. Thank
+
+[47:30] you.
+
+[47:32] Perfect। Next आगे बढ़े।
+
+[47:43] ठीक है। Now Make.com। Make.com जैसे मैंने कहा N8N के बारे में कभी न कभी
+
+[47:49] सुना है। N8N basically बहुत ज़्यादा use होता है automations के लिए।
+
+[47:54] N8N is very
+
+[47:56] complex and super professional platform for automation.
+
+[48:03] But आज जैसे technology change हो रही है guys, नई-नई चीजें market में आ रही हैं।
+
+[48:07] Other competitors भी N8N के जो है वो भी better कर रहे हैं। So
+
+[48:12] Make.com at present I can say is one of the most easiest and good
+
+[48:18] friendly for beginners
+
+[48:21] to start with। Right? So this is the at present situation in the market जो Make.com
+
+[48:27] पर updates है, जैसे जैसे सब उसने develop किया अपने चीजों को, वैसे वैसे मैं आपको बता
+
+[48:31] रहा हूँ। तो अब इसका use क्या इसके लिए होता है कि Make.com use किया जाता है
+
+[48:36] automations के लिए। Automations मतलब
+
+[48:40] कि अगर मान लो एक action हो रही है तो उसका reaction क्या आना
+
+[48:44] चाहिए। So and so. उसकी भी endless चीजें हैं but it's just an example। Automation वो
+
+[48:49] चीज repeat हो रही है, तो वो चीज automatically होती रहेगी। जैसे कि मान लो मेरी
+
+[48:54] MetaAds चल रही है। तो MetaAds के ऊपर leads तो consistently आती रहती हैं ना फिर अगर
+
+[48:58] चल रही है तो। Leads अगर आ रही हैं तो उस leads की list में automatically data आता
+
+[49:02] रहना चाहिए। So this is one of the example। अब वो data आ रहा है तो उस data को कुछ न
+
+[49:07] कुछ email जाना चाहिए। This is one of the external automation, उसी को external
+
+[49:12] declare है। Right? So these are the types। But इसके
+
+[49:18] अंदर कुछ basic चीजें हैं जैसे कि सबसे पहले imagine करो कि--
+
+[49:29] बड़े easy language में समझाऊंगा मैं आपको इस चीज को। किसी इंसान से
+
+[49:39] काम निकालना है, तो उसका trigger point
+
+[49:43] दबाओ। समझ रहे हो मेरी बात? How many of you understand me? Right?
+
+[49:50] Trigger point मतलब कि ऐसा trigger जिससे उसका trigger, trigger हो और वो action
+
+[49:56] में आ जाए। Getting the point? तो सबका अपना-अपना अलग होता है। Human level पर तो अलग
+
+[50:02] होता है। But एक idea के लिए। तो same agents के भी एक trigger points होते हैं कि कोई
+
+[50:07] चीज अगर happen हुई तो उस point को trigger हो जाता है। जब trigger start हो गया तो
+
+[50:13] आगे का flow जो है वो active हो जाता है step by step। Easy?
+
+[50:19] So triggers are like कि जो data आया, input का पहला stage entry gate आप
+
+[50:24] सो लो। Each automation का entry gate.
+
+[50:29] अब उसके अंदर और भी बहुत चीजें हैं like filter हम लगा सकते हैं कि अगर मान लो trigger
+
+[50:35] के अंदर कुछ चीजें missing हैं या कुछ चीजें हैं तो वो check करें filter। And the
+
+[50:40] next is action। Right, action. इस slide को, इस imagination
+
+[50:47] को दो parts में देखो। पहले foundation will be trigger and action।
+
+[50:54] ये दो चीजें main हो गई।
+
+[50:57] Then you can add the trigger, filter, action.
+
+[51:00] Then you can add the trigger, filter, action, router.
+
+[51:03] Router मतलब कि अगर मान लो अगर ये चीज है तो ये वाला flow आगे से active हो
+
+[51:08] जाएगा। पहले तीन तक मान लो एक ही flow चल रहा है। अब यहाँ से अगर कुछ चीज change हो
+
+[51:14] रही है, conditions हो रही हैं-- मतलब conditions भी होती हैं ना कि अगर ये हुआ तो ये
+
+[51:18] करना है, ये हुआ तो ये करना है। तो आगे से दो pipe चल रहे हैं। आपके दो routes हो
+
+[51:24] गए कि मान लो ये वाला if happens this then runs this flow again
+
+[51:30] ahead and if happens this then runs this flow ahead। And the
+
+[51:36] last is again the action। Right?
+
+[51:39] All right. Basic understanding में ये आपको समझ में आ गई at present situation to
+
+[51:44] understand the concept। Right।
+
+[51:48] In which you can see the canvas। Canvas मतलब कि एक ऐसा page जहाँ पर drag करके सारे
+
+[51:53] चीजें कर रहे हो। But all don't worry about it, don't overthink कि मैं कुछ भी बोल
+
+[51:58] रहा हूँ, आपको theory से समझ नहीं आ रहा। Don't worry। Easiest way में agents कैसे
+
+[52:03] बनाना है, we will see in today's class। So उसमें आप clear हो होगी topics। But
+
+[52:09] now कुछ names ऐसे हैं ना जो आपको काम आएंगे। Scenarios। Make.com पर
+
+[52:14] scenarios एक one of the important नाम है जो आपको हमेशा याद रखना होगा।
+
+[52:20] Scenario का मतलब होता है कि one complete automation start to finish। N8N में इसको
+
+[52:25] हम बोलते हैं workflows।
+
+[52:27] आपने वो देखी होगी कहीं न कहीं ऐसी visualization कि जहाँ पर बहुत से ऐसे छोटे-छोटे
+
+[52:32] boxes हैं जो एक दूसरे से connected बनाए गए हैं। Which is called as a generally
+
+[52:36] scenarios। Right? Workflows या scenarios। Modules। Modules मतलब कि one
+
+[52:42] step in a scenario, it circles on a canvas। N8N इसको बोलते हैं nodes।
+
+[52:49] Modules को अगर मैं ऐसा भी बोलूं कि
+
+[52:53] जैसे
+
+[52:55] एक particular task trigger node है, वो अपना एक trigger module बोल सकते हैं
+
+[53:01] उसको। Right? और एक action node है। Right?
+
+[53:04] तो वहाँ पर उसको हम action module बोल सकते हैं। तो वो दोनों से connect होता है, वो
+
+[53:09] basically connections। Like connectors। उसके बीच का connection। पहले ये सारी चीजें
+
+[53:15] coding से होती थी but आज की date में बहुत resources available हैं जिसका use करके,
+
+[53:19] उसको समझ के, सीख के हम उसका business बना सकते हैं। उस चीज के। Connections।
+
+[53:24] Connections मतलब कि you are save login to an app, set once, reuse N8N credentials।
+
+[53:29] मतलब कि जैसे कि मान लो Google Sheet है या मान लो आपका Calendly का account है,
+
+[53:34] calendly.com account है। तो ये जो credentials हैं ना,
+
+[53:38] ये आपने add कर दिए, उसको बार-बार use कर रहे हो अलग-अलग workflows के लिए, अलग-अलग
+
+[53:42] automations के लिए, तो आपके पास बार-बार ID, password नहीं है। Right?
+
+[53:46] So this is all the important
+
+[53:49] things to memorize।
+
+[53:53] Now, how data enters and moves? जैसे मैंने कहा trigger node आ रहा, the first module
+
+[53:57] waits for something to happen। वो wait करता है कुछ हो जो उसका काम है and then
+
+[54:03] starts the scenario। उसके बाद scenario start होता है। मतलब webhooks ने received
+
+[54:06] data किया, lead का data आया, lead आ गई, उसके पास data आ गया, फिर आगे का scenario
+
+[54:10] start होगा। Action का मतलब है कि अगर वो lead का data आया तो उसका करना क्या है?
+
+[54:14] उसको आगे हम actions जो decide करेंगे उसके basis पर वो action लेगा। Webhook एक
+
+[54:20] ऐसी चीज है जो industry में widely use होती है। Webhook, इसको technologically अगर
+
+[54:26] समझाऊं कि ऐसा
+
+[54:29] collector-- collector in the sense not collector, collector in the sense of जो
+
+[54:33] collect करता है data को। Right?
+
+[54:36] एक ऐसा collector जो data को collect करके एक system से दूसरे system में ला रहा है।
+
+[54:44] Example, मान लो मुझे website से
+
+[54:49] sheet में लाना है, website से email में लाना है, website से मुझे किसी CRM में लाना
+
+[54:54] है। एक example, तो ये सारी चीजें हो गई। तो यह हो गया Make.com का काम। And bundle -
+
+[54:59] one packet of data traveling through one lead, one order। Name, Priya, 4988,
+
+[55:04] treatment, cleaning. यह पूरा उसका bundle हो गया। Easy? Right.
+
+[55:11] Alright guys. So now the final
+
+[55:15] shaping, routing cost like mapping, filters, router, operations and run once these
+
+[55:20] सारी चीजें जो कुछ एक level ऊपर की चीज है। But क्योंकि यह चीज आपको पता होनी चाहिए,
+
+[55:24] so मैंने इसको भी presentation में रखा हुआ है कि mapping मतलब कि driving the data
+
+[55:29] from an earlier module into fields of a later one। Right?
+
+[55:33] तो यह mapping मतलब यह हो गया कि मान लो मेरे पास एक node है, जिसको हम module
+
+[55:39] बोलते हैं Make.com में। वह data को collect कर रहा है website
+
+[55:44] से। अब वह data जब collect हुआ तो उस data को pass करके दूसरे module
+
+[55:50] में लाना है Google Sheet के module में, तो वह mapping करनी होती है कि यह data
+
+[55:56] है। यह नाम है, यह मेरा ID, phone number है। हमारे पास जो भी उसका whatever और inputs
+
+[56:01] होंगे, वो उसका mapping हम बोलते हैं।
+
+[56:04] जैसे आपको इसको मैं और easily clear करना चाहूंगा कि आप और easily इसको समझो। School
+
+[56:10] और colleges में हम लोगों को पता है, वो एक questions आते थे बीच-बीच में जहां पर
+
+[56:14] right में पास
+
+[56:16] dots question ये होते थे और left में जा जो चीज थी, तो हमें उसको map करना होता था कि
+
+[56:20] ये इसका, ये इसका। कितने लोगों ने किया है? Show me the response.
+
+[56:28] School वाले तो हमने सब ने किया होगा ये। Map कर देते हैं। Similarly, the mapping in
+
+[56:33] the Make.com.
+
+[56:37] See.
+
+[56:41] Right?
+
+[56:43] So filter, obviously the filter is like any कुछ conditions या qualifications pass
+
+[56:48] करना है कि phone number अगर सही नहीं है या phone number की length सही नहीं है तो ये
+
+[56:51] चीज हमको नहीं कर सकता। Router मतलब splits into several parts, each with its own
+
+[56:55] condition। तो अगर मान लो condition A यह है कि अगर मान लो
+
+[57:02] कि client India से है तो यह वाला flow run होगा आगे जाकर। Client India से नहीं है तो
+
+[57:07] यह वाला flow run होगा। एक example से दिमाग में just आया, मैं आपको बता रहा हूँ।
+
+[57:11] Operations मतलब कि one module running once, this is the what plan base। कि मान
+
+[57:17] लो अगर एक module run हो रहा है तो उस हिसाब से जैसे मैंने कहा AI में
+
+[57:23] कुछ भी use करो तो कुछ ना कुछ costing generate होती है। Starting में चलो थोड़ी देर
+
+[57:26] हम free में use कर सकते हैं उस चीज को। But अगर business owner use कर रहा है,
+
+[57:29] consistent use कर रहा है, use इसको client के लिए दे रहा है तो obviously platforms
+
+[57:33] को भी खर्चा लगता है और जो companies है उनको भी खर्चा लगता है तो वो long term तो वो
+
+[57:37] free में नहीं दे सकते। कोई भी नहीं दे सकता because all uses costing लग रही है AI
+
+[57:42] की। Technology ऐसी है। Three modules is equal to 300 leads is equal to 900
+
+[57:47] operations। Are you getting the point?
+
+[57:49] Example से समझा रहा हूँ। कि ये मान लो तीन modules है। तीन modules मतलब
+
+[57:54] एक lead collect कर रहा है, trigger node, एक filter है और एक Google Sheet है। या मान
+
+[57:59] लो एक lead collect कर रहा है, एक Google Sheet है और एक Gmail कर रहा है, जिसको mail
+
+[58:03] करना है। तो ये तीन modules है। 300 lead अगर आई तो 900
+
+[58:09] operations हुए। Hello.
+
+[58:13] Right? तो 900 operations पर आपका costing लगता है Make.com पर।
+
+[58:19] So यह understanding के लिए costing की किस तरह से ये चल रहा है। Run once and
+
+[58:23] history. Like ये एक बार का test, obviously you test and test के
+
+[58:29] बाद आप उसको publish करोगे कि testing successfully हो रहा है या नहीं। Right?
+
+[58:35] Now,
+
+[58:38] okay this is also an important point like model, a specific AI version you choose -
+
+[58:42] fast and cheap or slow and smart.
+
+[58:45] Model बहुत सारे होते हैं। हम देखेंगे वो list, आप देखोगे तो आपको समझ में आएगा। उसमें
+
+[58:50] list दे दे वो लोग कि Gemini use कर रहे हो, ChatGPT use कर रहे हो, Claude use कर रहे
+
+[58:55] हो, Qwen जो China का model है वो use कर रहे हो। तो हर model की अपनी
+
+[59:01] intelligence है। अब जब model आपका सस्ता use हो रहा है तो
+
+[59:06] उसका performance भी वैसा ही होगा। इसको आप इस तरह समझिए कि अगर आप low quality
+
+[59:12] skills के individuals को salary दे रहे हो अपनी company में तो उसकी performance वैसी
+
+[59:16] ही होगी, उसका brain वैसे ही चलेगा। But अगर आप experts को hire करके उसको salary दे
+
+[59:20] रहे हो तो उसका performance और उसकी quality and outcome वैसा होगा। So इसमें जो हम
+
+[59:25] सीख रहे हैं आज के class में, उस पर depend नहीं करता कि आपका agent कितना अच्छा
+
+[59:29] बनेगा, कितना बुरा बनेगा। It also depends on the system prompt कितना अच्छा है आपका
+
+[59:35] और आपका agent का intelligence कितना अच्छा है, LLM का जो model आप use कर रहे हो। Is
+
+[59:40] it clear?
+
+[59:42] Right. So यह वहाँ से दिमाग आ रहा है उसका। So Gemini Flash for voice is widely used
+
+[59:48] at present. Claude is one of the most intelligent model at present globally.
+
+[59:53] GPT का Astra भी launch हुआ है ChatGPT का but obviously वो सब जगह available नहीं है
+
+[59:58] अभी। So I am not focusing on that. So these are the
+
+[01:00:04] intelligence का peak है अभी उस सारे modules में। बाकी भी है but वो उतने develop
+
+[01:00:10] नहीं हुए अभी तक। Prompt क्या मैंने बताया आपको?
+
+[01:00:12] जो system prompt like क्या करना है उसको। Tokens - the unit the model reads,
+
+[01:00:18] writes what you pay. अब देखो दो चीज है। Make.com पर जो आप बोल रहे हो operations
+
+[01:00:23] वाला तो हो गया but अगर आप intelligence Gemini का use कर रहे हो तो Gemini Make.com
+
+[01:00:27] अलग company है।
+
+[01:00:29] Gemini Google का product है, Make.com एक अलग company का product है। तो Make.com के
+
+[01:00:35] operations का cost Make.com हमसे लेता है but Gemini का intelligence use हो रहा है
+
+[01:00:40] तो obviously Gemini इसके tokens का use करती है। वो tokenized format में use करता
+
+[01:00:44] है। तो एक million tokens का कुछ एक rate होता है, उस हिसाब से उसके tokens wise rate
+
+[01:00:50] होता है। तो token मतलब क्या? यह भी एक concept थी जो शायद clear नहीं हुआ होगा आप
+
+[01:00:55] लोगों को। Token मतलब कि अगर मान लो यह word है - what you pay for.
+
+[01:00:59] ये आप देख लो इसमें कि what you pay for इतना पढ़ रहा हुआ है। हम humans के लिए ये चार
+
+[01:01:05] words है। But AI models के लिए ये चार token भी हो सकते हैं और ये
+
+[01:01:11] तीन token भी हो सकते हैं
+
+[01:01:14] या पाँच token भी हो सकते हैं। Are you getting the point?
+
+[01:01:19] तो models जो पढ़ता है वो human की तरह नहीं पढ़ता है। वो पढ़ेगा what you pay for.
+
+[01:01:25] ये तीन token भी ले सकता है उसको
+
+[01:01:28] या what
+
+[01:01:30] you pay for, ये चार token भी ले सकता है। So tokens count होते हैं। जितना आपका
+
+[01:01:37] complex task होगा, उतने ज्यादा tokens use होगी। उस तरह से इस चीज को देखा जाता है।
+
+[01:01:43] Alright, now take this screenshot is one of the most-- एक one page पर पूरी चीज
+
+[01:01:49] समझाने के लिए इसको रखा गया है ताकि आपको एक idea लगे outline की। बाकी तो PPT and
+
+[01:01:54] video recording तो होगी आपकी but बस obviously एक clarity के लिए। Eleven Labs, Only
+
+[01:01:59] the Team, Make.com के ऊपर हमने जो भी चीजें समझी अभी तक agent का काम क्या है, first
+
+[01:02:04] message का मतलब क्या है, system prompt का मतलब क्या है, LLMs का मतलब क्या है, voice
+
+[01:02:08] and language. कुछ चीजें ऐसी है जो कहीं समझाने की जरूरत नहीं है guys। आप as a human
+
+[01:02:13] sense of humor से समझोगे तो आपको समझ में आएगा कि ये voice and language हो गया,
+
+[01:02:17] knowledge base हो गया। ये चीजें पढ़ के भी समझ आ जाएगा इसका काम क्या
+
+[01:02:20] है। तो don't worry that इतनी सारी चीजें है, कैसे समझ में आएगी? It's not like that.
+
+[01:02:26] सभी एक साथ use तो नहीं करनी but you have to understand this.
+
+[01:02:28] You have to keep record of this. Alright guys. Perfect.
+
+[01:02:33] So
+
+[01:02:35] excited to see.
+
+[01:02:39] मजेदार। Thank you.
+
+[01:02:46] चलिए। So सबसे पहले we will see कि हम एक point से शुरू करते
+
+[01:02:52] हैं
+
+[01:02:54] कि Make.com का use कैसे करते हैं। पहले हम वो देखते हैं। उसके बाद हम धीरे-धीरे आगे
+
+[01:02:59] बढ़ते हैं। तो उसको हम पहले-- और उसका use करने के दो तरीके हैं। एक तो manual drag
+
+[01:03:04] and drop
+
+[01:03:05] जो आज से छह महीने पहले या साल भर पहले लोग करा करते थे। But at present
+
+[01:03:11] चीजें थोड़ी update हो गई है और वो updated चीजों से ही हमें करना चाहिए that is my
+
+[01:03:15] suggestion जो easy और fast आपको outcome देगा। ठीक है?
+
+[01:03:22] So मैंने पहले कहा कि if you are a good communicator then you can use AI better than
+
+[01:03:27] the computer.
+
+[01:03:29] You can use the leverage of the intelligence, you can take more।
+
+[01:03:35] Okay.
+
+[01:03:37] So सबसे पहले मैं जाऊंगा-- let me share my screen, एक सेकंड देना मुझे।
+
+[01:03:53] मैं screen share कर रहा हूँ and let's see।
+
+[01:03:56] सबसे पहले मुझे क्या लगेगा? Okay, sorry। सबसे पहले मुझे
+
+[01:04:03] obviously एक account लगेगा। So I will go to the Google
+
+[01:04:09] and I will go to the make.com।
+
+[01:04:15] सबसे पहले आप देखोगे तो इस तरह की आपको website दिखेगी। You will click on
+
+[01:04:18] 'Understand'. Get started for free का option है। You have to click on this।
+
+[01:04:27] आप इस पर दो तरह से account बना सकते हो। एक तो आप Google से भी sign in कर सकते हो।
+
+[01:04:30] Obviously और भी options हैं-GitHub, Facebook, Apple या direct आपका email ID डाल के।
+
+[01:04:35] So let me enter one of the email ID that we have
+
+[01:04:41] right now।
+
+[01:04:47] Let's enter some password।
+
+[01:04:54] Click on sign in। Okay, sorry। I have to sign up। We will click on sign up here at
+
+[01:04:59] the bottom and sign up with work email ID.
+
+[01:05:02] I have to
+
+[01:05:05] enter the work email ID. I hope it takes it should be ठीक है
+
+[01:05:11] that। Full name, let's say Deepak। Password, let's enter some password।
+
+[01:05:18] Sign up for free। Okay, password की length और ज़्यादा चाहिए। Normal password नहीं
+
+[01:05:23] चलेगा। तो ठीक है, ले लो जी। Sign up for free। जैसे ही
+
+[01:05:29] मैंने click किया,
+
+[01:05:31] यहाँ पर मेरा account बन चुका है। मैंने password यहाँ पर obviously Google का same
+
+[01:05:34] button click किया ताकि आगे use कर सकूं। And we send an email to the mindcation.in.
+
+[01:05:40] Open your email to verify। इसने कहा कि email आया होगा, email में जाना है, verify
+
+[01:05:43] करना है। Account कैसे बनाना है, यह एक obvious process है।
+
+[01:05:46] बड़ा simple है, आप खुद भी कर लोगे। मैं थोड़ा fast कर रहा हूँ इसको।
+
+[01:05:53] email आ गया है। Verify email। That's it.
+
+[01:05:58] Okay so
+
+[01:06:01] check। मैं बाकी चीजें बंद कर रहा हूँ, उसकी ज़रूरत नहीं है। Whenever you
+
+[01:06:07] come first time on make.com, it shows like this.
+
+[01:06:12] It's loading, just a minute। It shows like this। बाकी चीजें मैंने बंद कर दीं। Now
+
+[01:06:17] see, कुछ patients पूछेंगे कि क्या automate करना चाहते हो?
+
+[01:06:22] Like customer support हो गया है। मान लो
+
+[01:06:25] मेरा level क्या है? मान लो intermediate लेता हूँ मैं। यहाँ पर which apps you
+
+[01:06:32] use the most? Like यहाँ बहुत से market के apps हैं जो अलग-अलग use होते हैं। जैसे कि
+
+[01:06:35] मान लो WhatsApp Business Cloud जो हमने WhatsApp API
+
+[01:06:40] सीखा। तो WhatsApp Business Cloud हो गया। Twilio basically calling के लिए use होता
+
+[01:06:45] है। यहाँ से आप dedicated number purchase कर सकते हो जो
+
+[01:06:49] AI agent calling के लिए लोग use करते हैं।
+
+[01:06:52] Zendesk customer support हो गया। Google Drive, Google Docs ये सारी चीजें आपको पता
+
+[01:06:57] है। Tally आपको पता है, Shopify आपको पता है। ये सारी चीज़ें क्या हैं?
+
+[01:07:00] ManyChat basically automation के लिए use होता है, social media automation के लिए।
+
+[01:07:04] ये सारी चीज़ें हैं। तो इसने कहा but I would like to skip here। मैंने कुछ confirm
+
+[01:07:08] नहीं किया। यहाँ पर मुझे size लिखनी है। Let's say for example my size of company
+
+[01:07:12] like 51 to 200।
+
+[01:07:15] One last thing, how did you discover make? कहाँ से discover करा?
+
+[01:07:18] ये सारा data ही लेता है। Let's say for example, मैंने discover करा search engines।
+
+[01:07:23] कुछ भी डाल दो, it doesn't matter। Perfect.
+
+[01:07:29] Now see guys, सबसे पहले हम देखेंगे कि कैसे एक lead जब website पर आती है तो उस
+
+[01:07:34] lead का data मुझे किसी Excel sheet में चाहिए या Google Sheet में चाहिए। उस चीज़ को
+
+[01:07:39] मैं कैसे automate करूं ताकि जब भी कोई lead आए तो वो automatically मेरे Google Sheet
+
+[01:07:43] में आ जाए। Clear है? ready है सब?
+
+[01:07:48] तो जैसा मैंने कहा कि हमने जो अभी तक सीखा, आप देखोगे left-hand side में सारी चीजें
+
+[01:07:52] आपको दिख रही होंगी। हमने scenarios का use किया था। Webhooks का हमने use किया
+
+[01:07:57] था। Theory part में जो हमने सीखा सारा। Credentials हो गए। MCP toolbox is like
+
+[01:08:02] another level skills but obviously at present we need to focus on scenarios, AI
+
+[01:08:06] agents, credentials, webhooks and organization। जब आप इसके homepage पर जाओगे, यहाँ
+
+[01:08:11] पर आपको एक chat का option मिलता है। This is updated in make.com जो chat से आप सारी
+
+[01:08:16] चीजें कर सकते हो और जो बहुत अच्छा outcome भी देता है। तो पहले मैं थोड़ा सा आपको यह
+
+[01:08:22] समझा दूं कि इससे पहले क्या करते थे लोग। इससे पहले लोग क्या करते थे?
+
+[01:08:25] मैं scenarios में आ रहा हूँ left-hand side में। Scenarios के अंदर सबसे पहले मैं
+
+[01:08:30] simply open scenario builder पर जाता हूँ। अब आप देखो actual में canvas दिखता ऐसा है
+
+[01:08:35] जो एक workflow बनता है automation का। Slowly, just a minute। Canvas दिखता इस तरह से
+
+[01:08:41] है। See this. Plus का icon है simple सा। और यहाँ पर आपको canvas का options
+
+[01:08:47] है, जिस पर जैसे आप click करोगे सभी जितने भी आपके trigger points हैं वो
+
+[01:08:52] सारे open हो जाएंगे। जैसे मैंने कहा webhook चाहिए तो webhook का मैंने यहाँ पर open
+
+[01:08:55] किया। Webhook के अंदर आपका triggers when webhook receives data.
+
+[01:08:59] यहाँ पर लिखी हुई है सारी चीज़ें। क्या उसका काम है?
+
+[01:09:02] तो obviously receive हुई वो मुझे चाहिए। Webhook तो create हो गया है। Create
+
+[01:09:06] webhook,
+
+[01:09:08] save. यह आपकी webhook की URL आ गई जो आपके websites में आपको डालनी होती है to
+
+[01:09:13] connect website with webhook। अभी मैं इतना ही कर रहा हूँ यह but क्योंकि
+
+[01:09:19] ये चीज़ें होती थी पहले। अब इस trigger point के ऊपर अगर मैं plus icon पर click
+
+[01:09:24] करूंगा, add modules पर click करूंगा तो यहाँ पर आप देखोगे इस चीज़ से आपको क्या-क्या
+
+[01:09:28] करना है। यहाँ पर आपको सारी apps की list मिलती है। It's a
+
+[01:09:34] huge list
+
+[01:09:36] जो market के अलग-अलग applications हैं। हमें कुछ चीज़ का knowledge हो सकता है, सबको
+
+[01:09:41] सभी knowledge नहीं होता है। आप उसको बता सकते हो कि उसका काम क्या
+
+[01:09:46] है। But पहले आपको क्या पता करना है? आपको apps पता नहीं करना है। आपको यह पता करना है
+
+[01:09:51] कि आपको outcome क्या चाहिए। Automation का outcome अगर clear है तो AI ही मुझे बता
+
+[01:09:56] देगा कि इसमें ये apps use करो, ये connectors use करो, इस तरह का flow बनाओ। Getting
+
+[01:10:01] the point? The smarter way to use automation at present in 2026.
+
+[01:10:05] तो सभी apps पता करोगे it's not possible practically because there is thousands and
+
+[01:10:10] lakhs of applications all over the world। That's not possible for any human to have
+
+[01:10:14] knowledge of all applications. So the smarter people focus on the intent and the
+
+[01:10:20] outcome of the automation. Clear?
+
+[01:10:22] बाकी चीज़ें AI को सब पता है, उससे पूछो आप। That is the best way at present.
+
+[01:10:28] So ये drag and drop है मान लो मैंने second outcome लिया। Let's say for example
+
+[01:10:33] Google Sheet.
+
+[01:10:36] So अब यहाँ पर मुझे करना क्या है? Google Sheet में add a row मतलब कि अगर कोई नई data
+
+[01:10:40] है तो वो add कर दे row। तो ये दो modules मैंने बना लिए। Create connections,
+
+[01:10:45] connections मेरे को यहाँ पर click करना है और यहाँ पर मेरे को sign in करना है। ये
+
+[01:10:48] process हम अभी नहीं करेंगे but क्योंकि मैं अभी बता रहा हूँ आपको कि इस तरह से चीज़ें
+
+[01:10:51] होती हैं manually। अभी ये बीच में देख रहे हो connector है। This is the connector।
+
+[01:10:56] So likewise, ये चीज़ें अगर मुझे आगे बढ़ाना है तो मुझे इसको लेकर जाना है Gmail पर। So
+
+[01:11:02] I send an email। इसके अंदर ये activity action मैं ले सकता हूँ ना कि यह list यहाँ पर
+
+[01:11:06] आ जाए। Save. मुझे obviously मेरा Gmail account connect करना होगा इन सब process के
+
+[01:11:10] लिए। तो मैं अभी उस चीज़ को नहीं कर रहा हूँ। But are you getting the point?
+
+[01:11:16] You can see now। Further action मुझे और कुछ लेना है I can take that and let's say
+
+[01:11:21] for example लोग
+
+[01:11:25] HubSpot का CRM use करते हैं जो corporates होते हैं mostly। तो उनके CRM account से
+
+[01:11:29] अगर उसको CRM में सीधे lead जानी चाहिए तो वो भी आप करके दे सकते हो। This is one of
+
+[01:11:33] the example। There is a so many examples like WhatsApp Business Cloud से हम
+
+[01:11:36] WhatsApp API अभी से connect कर सकते हैं। These are the examples। Now understand
+
+[01:11:40] why. ये हमें manually सीखने की अभी ज़रूरत उतनी नहीं रही है जितना पहले हुआ करती थी।
+
+[01:11:48] तो मैं इस चीज़ को भी discard कर रहा हूँ, मैं कोई save नहीं कर रहा। But क्योंकि आपको
+
+[01:11:52] इस चीज़ का awareness होना चाहिए कि अगर मान लो कहीं पर कुछ हुआ। जैसे-जैसे आप कोई भी
+
+[01:11:56] चीज़ करते हो on this, थोड़ा सा इस चीज़ को उस तरह समझो कि शुरू में तो चलो आप
+
+[01:12:02] foundation से कर रहे हो। But जैसे-जैसे आप उस चीज़ में deep जाते हो ना तो हमेशा AI का
+
+[01:12:07] use नहीं करते हो आप। क्योंकि आपकी खुद की भी एक knowledge बन जाती है, skills मिल
+
+[01:12:11] जाती है। तो फटाफट खुद से समझ आ गया कि यहाँ problem है, इसको fix कर दो, यह ठीक हो
+
+[01:12:15] जाएगा।
+
+[01:12:17] Alright.
+
+[01:12:19] Now see the magic।
+
+[01:12:21] Now we have the chat box here to build any kind of automation.
+
+[01:12:26] Literally any kind of automation.
+
+[01:12:31] Until and unless, यह line बहुत important है, हमारा intent and outcome
+
+[01:12:37] clear होना चाहिए।
+
+[01:12:41] और उस चीज़ के अंदर क्या-क्या use होगा, कैसे use होगा, वो सारी चीज़ें यहाँ पर ये खुद
+
+[01:12:45] ही देखेगा, ये खुद ही करेगा और ये हमें बनाकर दे देगा। ये आज की smart use case है
+
+[01:12:51] make.com की। चलिए, तो मैं सबसे पहले इस चीज़ को--
+
+[01:12:57] अच्छा, एक और point बताना चाहूंगा ताकि यह चीज़ आपको knowledge में रहे। Make.com हमें
+
+[01:13:01] by default भी कुछ templates देता है। You can see the template section at the bottom
+
+[01:13:05] left where mouse है।
+
+[01:13:09] Hello.
+
+[01:13:11] Right.
+
+[01:13:13] So if I click on this template on the bottom left, आप देखोगे यहाँ पर कई से
+
+[01:13:17] templates already created हैं जो widely use होते हैं। जैसे यहाँ पर already एक है,
+
+[01:13:23] add webbook data to Google sheet. But जब आप ये use करोगे तब भी आपको basic knowledge
+
+[01:13:28] होना चाहिए जो starting में शायद आप AI की help के भी better उसको समझ पा रहे हैं जो
+
+[01:13:32] मैं आपको बताऊंगा। So that's why I am not recommending this to use directly.
+
+[01:13:37] You can see there are so many automations जो अलग-अलग use case के लिए है। एक और
+
+[01:13:42] smart तरीका बताता हूँ मैं इसे। अब आप बोलोगे, "Sir आप इस call में मुझे सिखा रहे हो।
+
+[01:13:48] चलो मैं आपको जितनी चीजें सिखा सकता हूँ, मैं सिखाऊँगा तो सही।" But I also have
+
+[01:13:52] limited time, you also have limited time.
+
+[01:13:53] You cannot sit 24/7 in the call।
+
+[01:13:56] जब आप कुछ चीजें
+
+[01:13:59] नहीं समझ में आ रही है, जब आप सच में खुद बैठे हो, अकेले बैठे हो you have to
+
+[01:14:02] understand कि मुझे समझ नहीं आ ये वाला तो क्योंकि मैंने वो cover शायद नहीं कर पाएगा।
+
+[01:14:07] इतना cover नहीं कर सकते। So smart तरीका क्या है?
+
+[01:14:10] Smart तरीका बताता हूँ मैं क्या है। You go to the ChatGPT or Claude.
+
+[01:14:16] Open the ChatGPT. Create the free account.
+
+[01:14:21] Let's create the free account.
+
+[01:14:34] All right, just a second, guys. Okay, account is created.
+
+[01:14:37] You can see bottom left में देख सकते हो it's a free account.
+
+[01:14:41] So what you can do, guys, you can simply take
+
+[01:14:46] screenshots. Let's say कि मैं मान लूँ मुझे क्या समझ में नहीं आ रहा यहाँ पर।
+
+[01:14:58] Okay. मैंने मान लो ये वाला screenshot लिया। ये वाला।
+
+[01:15:04] ठीक है। ये वाला workflow है, पर मेरे पास idea ही नहीं है उसका use case कहाँ का होता
+
+[01:15:09] है। तो मैंने वो screenshot लिया। screenshot लेने का भी एक तरीका है। Print screen
+
+[01:15:13] करके एक option laptop है तो आपको सब पता है keyboard में आता है। There you can see.
+
+[01:15:17] मैंने screenshot ChatGPT को दिया और इसको मैं just एक पूछूंगा।
+
+[01:15:23] The voice. Mic on किया। Analyze the screenshot that I can see on
+
+[01:15:28] make.com. I don't know what is the market use case and where to use it
+
+[01:15:35] if I want to sell this automation and
+
+[01:15:39] whom to I can sell. So give me the proper guidance.
+
+[01:15:43] तो इसको आप हिंदी में भी बोल सकते हो। It's not like that कि आपको English आनी चाहिए।
+
+[01:15:47] मैंने इसको enter दिया। अभी analysis basis पर ये कुछ outcome मुझे देगा जिससे मुझे
+
+[01:15:52] समझ में आएगा। You can see the wait for the minutes. Okay, here.
+
+[01:15:56] अब इसने क्या honest answer दिया। देखो मैंने honest word use किया है। I hope मैंने
+
+[01:16:00] किया है।
+
+[01:16:02] Proper guidance. ठीक है, ये भी चलेगा। So you can see that.
+
+[01:16:05] ये इसमें बोला कि don't sell Notion calendar automation, sell the business results
+
+[01:16:09] it creates. क्या बोल रहा है आप समझो। First understand what automation really does.
+
+[01:16:14] Strategy call
+
+[01:16:16] हो गया आपका, designs review हो गया, sales demo हो गया। ये सारे चीजें हैं and we say
+
+[01:16:22] Notion manually open calendars, create events, enter date, enter time, enter title,
+
+[01:16:28] add details. That's boring administrative work.
+
+[01:16:31] मतलब manually अगर कोई कर रहा है तो वो Notion करके एक platform है। Let's
+
+[01:16:37] say I open platform.
+
+[01:16:40] This is the platform. AI workplace that works for you.
+
+[01:16:43] This is the platform in Notion. एक example है, इसको हम focus नहीं कर रहे हैं किसी
+
+[01:16:47] चीज के ऊपर but इस चीज की बात कर रहे हैं वो। उसमें manually calendar open कर रहा है,
+
+[01:16:52] event create कर रहा है, date डाल रहा है, time डाल के title डाल रहा है, event
+
+[01:16:55] details डाल रहा है। So ये चीजें manually कर रहा है। But the big commercial insights
+
+[01:17:00] अगर हम देखें इस चीज का, if you approach a business and say, "Hi, I can connect your
+
+[01:17:03] Notion to Google Calendar. Okay, and because you are selling technology, not a
+
+[01:17:08] problem. I build a system that automatically turns your team's Notions schedule
+
+[01:17:13] into a live Google Calendar, so nobody has to enter the same meeting twice." मतलब
+
+[01:17:17] ये एक operations है जो companies में manually चल रहा है वो आप automate करके दे दो।
+
+[01:17:23] I am not going to read this entire ChatGPT stuff but आपको एक idea आ गई इस तरह से
+
+[01:17:27] इसका use case समझ मैंने। अगर इसको नहीं समझ में आया, चलो मैं आपको इसकी optimal way
+
+[01:17:31] भी समझाता हूँ। अगर नहीं समझ में आया। What you can do is this.
+
+[01:17:34] और ये चीज यहाँ पर applicable नहीं होगी। ये चीज हर जगह applicable होगी जहाँ पर आपको
+
+[01:17:38] कुछ चीज समझ में नहीं आ रही। You have the intelligence मैंने पहले ही कहा।
+
+[01:17:43] उसको दो। कहाँ stick हो, क्या stick हो। अपने language में पूछो आप।
+
+[01:17:48] I am not understanding या I am not getting.
+
+[01:17:58] Please explain me
+
+[01:18:04] in layman language. Layman is like a very easy language.
+
+[01:18:10] Imagine, देखो यहाँ इसने पूरा समझा दिया। Notion is equal to your notebook.
+
+[01:18:14] Google Calendar is like a diary. Suppose a business owner writes in Notion, meeting
+
+[01:18:18] with John, Monday 3:00 p.m. अब समझ रहा है आप वो?
+
+[01:18:23] Better than previous. So you have to ask
+
+[01:18:27] जो चाहिए वो उस तरह से बताएगा। ठीक है। ये एक बड़ी
+
+[01:18:33] important hidden चीज है जो आपके लिए आप बैठे हो ना तो आपको ये सब काम आने वाला है।
+
+[01:18:38] ठीक है। हर जगह पर. Objection handling skills बोल दे इसको जो AI की intelligence से
+
+[01:18:42] आप solve कर रहे हो actually। ये objections आएंगे। आपने आज के class में सीख ली but
+
+[01:18:46] आप tour में जाओगे तो वो objections आएंगे। It's not shortcut and straightforward
+
+[01:18:51] thing. ठीक है, इसको हम side में रखते हैं। हमारा main topic पर आ जा रहे हैं हम। Now
+
+[01:18:56] let's build the first AI automation in which leads आ रही है और sheets में entry हो
+
+[01:19:02] रही है। पहला हम ये achieve करते हैं। So मैं आ रहा हूँ organization में यहाँ पर। अब
+
+[01:19:06] organization में मेरे पास एक simple chart है। यहाँ पर भी इसको simple बोलूंगा।
+
+[01:19:10] I want to
+
+[01:19:13] collect leads using webhooks and
+
+[01:19:20] from my website and
+
+[01:19:25] enter or you can say forward
+
+[01:19:31] it properly.
+
+[01:19:34] You can say forward it to
+
+[01:19:37] Google Sheet. That's it. ये two step का एक simple automation मैंने simply language
+
+[01:19:42] में कहा that collect leads using webhook.
+
+[01:19:45] easy part मैंने इसके लिए लिया था कि webhook मैंने पहले ही बता दिया था तो आपको समझ
+
+[01:19:48] में नहीं आया webhook क्या है। तो आपको भी समझ में आ रहा है। मैंने इसको बोला कि using
+
+[01:19:52] webhook and from my website and you forward it to Google Sheet.
+
+[01:19:55] Simple, just click on Enter. Let's wait for the
+
+[01:19:59] game.
+
+[01:20:01] Imagine मैंने कुछ नहीं किया, guys.
+
+[01:20:03] मैंने सिर्फ उसको एक intent करके एक single line दी है। Just see the screen now.
+
+[01:20:10] इससे आपको possibilities की भी chances समझ में आएगी। Now see, कुछ questions उसने
+
+[01:20:15] पूछे। दो questions हैं left hand side में आप देखो। दो questions के answers मुझे
+
+[01:20:18] देने हैं। अब उसने पहले question पूछा है कि which leads field should the webhook
+
+[01:20:23] capture and write to the Google Sheet.
+
+[01:20:25] अब मेरे को पता है कि मेरे website में मैं क्या-क्या collect कर रहा हूँ। नाम कर रहा
+
+[01:20:29] हूँ, email ID कर रहा हूँ, क्या-क्या कर रहा हूँ। तो वो चीजें मुझे लेनी हैं। तो अभी
+
+[01:20:32] के लिए मैं लिखता हूँ name, number, email ID.
+
+[01:20:36] तो ये चीजें चली। मैंने next पर click किया। Second question ये पूछ रहा है कि how
+
+[01:20:40] should the webhook respond after the lead is received?
+
+[01:20:44] So return a basics received and success response or it's a basic
+
+[01:20:50] or JSON form like JSON is like a लिखने का एक structured format जो
+
+[01:20:56] LLMs को समझना है। JSON इसको बोलते हैं। JSON format.
+
+[01:21:01] एक structured format में आपने LLMs को वही चीज लिखी जो आप manually
+
+[01:21:07] English में लिखते हो। All right?
+
+[01:21:10] So let's say for example, अगर मुझे नहीं पता I can also skip this part ताकि honest
+
+[01:21:16] रहूँ मैं इस चीज को। चलो मैं इस चीज को simple success लिख रहा हूँ और submit कर रहा
+
+[01:21:19] हूँ। That's it. Let's wait further. It's thinking now.
+
+[01:21:27] It may take up to five minutes but इससे आप लोग भी सीखोगे शुरुआत में
+
+[01:21:33] कि कैसे ये कर रहा है, क्या कर रहा है, कौन सा node use कर रहा है, कहाँ क्या कर रहा
+
+[01:21:37] है। और English में आपसे बात करेगा तो आगे क्या करना है, क्या नहीं करना है वो
+
+[01:21:40] instructions दे वह भी। ठीक है?
+
+[01:21:44] So it's thinking now. Okay, perfect.
+
+[01:21:46] So इसने कुछ चीजें बोली। अब इसने बोला आगे
+
+[01:21:49] permission मांग रहा है मेरे से like क्या-क्या build करेगा इसने पहले plan कर दिया है
+
+[01:21:53] like webhooks लगेगा। webhook आपके website से connect होगा। Google Sheet लगेगी,
+
+[01:21:57] उसमें आप Google Sheet को connect करोगे। Or webhooks response को आप respond करोगे in
+
+[01:22:03] the Google Sheet. So let's click on Continue.
+
+[01:22:08] Sorry
+
+[01:22:17] Okay, let's wait for this.
+
+[01:22:35] All right, I see this, guys.
+
+[01:22:39] Can you see this?
+
+[01:22:41] एक चीज यहाँ पर जो बनी ना, उसमें एक चीज मुझे feel हुई। यह जो तीसरा module है, उसकी
+
+[01:22:46] जरूरत नहीं है। So I gonna remove that.
+
+[01:22:49] But obviously इसको बनाने दे रहा है अभी। Let's wait for this, just a minute.
+
+[01:23:01] Okay.
+
+[01:23:04] So it's building live for me visually.
+
+[01:23:12] पूरा बनने देते हैं।
+
+[01:23:16] All right guys, now see. अब पहली चीज, इसने पूरे modules ready कर दिया। left hand
+
+[01:23:20] side में ये मेरे को webhook मार रहा है। Webhook बड़ा common word है जो आपको
+
+[01:23:24] धीरे-धीरे समझ में आ ही जाएगा। So don't confuse कि पहली बार सुना हो तो। Right?
+
+[01:23:28] So don't confuse. Webhook हर जगह use होता है जब कोई lead कहीं से collect करके
+
+[01:23:34] दूसरी जगह ले जानी है। चाहे वह WordPress पर website हो, आपकी wix.com पर website हो
+
+[01:23:40] या आपकी किसी भी जगह पर website हो। तो webhook का use किया जाता है उस lead को दूसरी
+
+[01:23:45] जगह transfer करने के लिए।
+
+[01:23:47] ठीक है। Now यहाँ पर इसने क्या पूछा मुझे?
+
+[01:23:50] Like ये सारे tools use करके इसने flow बनाया है। यहाँ मुझे webhook का
+
+[01:23:56] option देना है। अब इसने मुझे बोला webhook और यह एक already है my gateway webhook.
+
+[01:24:01] मैं add पर click करता हूँ यहाँ पर। Add पर click करने के बाद मेरे पास यहाँ पर नाम
+
+[01:24:05] देना है my gateway webhook. इसको मैं नाम दूँगा let's say for example, AI
+
+[01:24:08] specialist.
+
+[01:24:10] Webhook का नाम मैं कुछ भी दे सकता हूँ। AI specialist नाम दे दिया। मैंने save पर
+
+[01:24:14] click किया। Save पर जैसे मैंने click किया, देखिए webhook का URL मुझे इसने दिया है।
+
+[01:24:19] ठीक है।
+
+[01:24:25] Mostly हर website
+
+[01:24:29] builder के settings में आपको webhook URL डालने का options mostly होता है।
+
+[01:24:34] मैं सभी website builder का आपको नहीं कह सकता कि कहाँ-कहाँ होता है। But same answer
+
+[01:24:39] for these questions also.
+
+[01:24:42] You can ask any LLM. आपका website builder कहीं पर भी हो, उसको आप पूछोगे कि इसके ऊपर
+
+[01:24:47] मुझे webhook डालना है, इसकी settings मुझे बताओ, exact steps मांगो, वह आपको दे देगा।
+
+[01:24:52] Are you getting the point?
+
+[01:24:55] So most of the common questions आपके LLMs और AI ही खुद solve कर रहे हैं। You have
+
+[01:25:00] to understand the process, that is your real skills now.
+
+[01:25:04] Okay, just a minute, guys.
+
+[01:25:10] All right, now you see on the big screen.
+
+[01:25:14] तो इसने मेरे को दे दिया है और I have the webhook URL.
+
+[01:25:17] अब basically I go to the--
+
+[01:25:20] copy करूँगा इस चीज को। I am going to website builder.
+
+[01:25:25] Just a second. Let me go to website builder.
+
+[01:25:32] One second.
+
+[01:25:48] Let me share this screen.
+
+[01:25:55] Okay.
+
+[01:26:01] ठीक है, मैंने वो webhook copy किया just guys and at settings, I am under the
+
+[01:26:05] settings of one of the website builder.
+
+[01:26:08] उसके settings में हूँ। आप देखोगे यहाँ पर option है मेरे पास और ये सभी website
+
+[01:26:13] builder में options होता ही है। Mostly.
+
+[01:26:16] मैं webhook यहाँ पर डाल रहा हूँ जो मैंने copy किया है webhook URL में। Save webhook
+
+[01:26:21] पर click किया। That's it. My webhook has been installed correctly on my website.
+
+[01:26:25] Now I go to the build and I will go to the open live.
+
+[01:26:29] Open live में अभी मेरी website है। इस चीज को मैं copy करके उस वाले Chrome account
+
+[01:26:34] में लेकर जा रहा हूँ। Just a second, guys.
+
+[01:26:37] क्योंकि मेरा webhook install हो चुका है।
+
+[01:26:42] Now we are on the page. यहाँ मैंने website खोल कर ली,
+
+[01:26:46] जो बनी है। अब ये मैंने open करके यहाँ पर रखा अभी। But at present मुझे आगे कुछ नहीं
+
+[01:26:50] करना है। मैंने इसको दे दिया। अब यहाँ पर इसने क्या बोला है कि send test data no run.
+
+[01:26:55] मतलब अभी कुछ आपको real test करने की जरूरत नहीं है। Test data इसने लिया हुआ है कुछ
+
+[01:26:59] अपने level पर। वो इसने send and enter करने को बोल रहा है। So I just click on this.
+
+[01:27:05] ठीक है।
+
+[01:27:12] अच्छा, in the meantime ये जब तक कर रहा है, आपको कुछ questions दिमाग में आते हैं कि
+
+[01:27:16] sir कैसे समझ में आएगा कहाँ डालना है?
+
+[01:27:18] अब मैं आपको बताता हूँ कैसे डालना है। एक second.
+
+[01:27:21] मैं एक नई chat ले रहा हूँ। अब मैं आपको पूछता हूँ कि
+
+[01:27:26] I want to add a webhook in WordPress. So give me the exact steps.
+
+[01:27:38] See this guys.
+
+[01:27:40] Option one, using a WordPress form plugin.
+
+[01:27:43] इस चीज से आप कर सकते हो। Go to the WordPress.
+
+[01:27:46] अब इस चीज से भी आपको नहीं समझ में आ रहा है। What you can ask now?
+
+[01:27:50] Give me the easy layman step-by-step steps that I can
+
+[01:27:55] do along with you.
+
+[01:28:04] All right, see. Open the WordPress. Open your website WordPress admin.
+
+[01:28:09] Usually it looks like इस तरह का URL होगा, वो मिल जाएगा, login करो आप। आगे आपके
+
+[01:28:13] steps होंगे। यहाँ तक पहुँचो फिर वो आगे बताएगा। Okay. Okay now I am done.
+
+[01:28:18] मैंने इतना कर लिया। Guide me next step.
+
+[01:28:24] Are you getting मैं क्या समझा रहा हूँ आपको?
+
+[01:28:29] Most of the FAQs are already here. आपके पास answers है, आप जान ही रहे हो।
+
+[01:28:38] I understand that ये questions आते हैं दिमाग में। But मैं आपको वो strategy दे रहा
+
+[01:28:43] हूँ जो actually professionals भी use करते हैं आज की date, complex situations को
+
+[01:28:47] solve करने के लिए। Getting the point? The process you have to understand.
+
+[01:28:51] ठीक है। अब जब आप वो चीजें करते हो ना एक-दो बार, तब आपको बाद में वो सीख जावेगा। उसके
+
+[01:28:56] बाद आपको कुछ लेने की जरूरत नहीं पड़ती, simple.
+
+[01:28:59] अब यहाँ पर webhook वाला connection इसने बता दिया। हो गया। अब
+
+[01:29:05] यहाँ पर Google Sheet connect करने को बोल रहा है। Can you see this?
+
+[01:29:08] Search and create a Google Sheet connection.
+
+[01:29:10] और उसके लिए मेरे पास Google Sheet में Google Drive मेरे को चाहिए। Google Sheet मेरे
+
+[01:29:14] को connect तो करनी पड़ेगी। बनानी तो पड़ेगी पहले। मैं drive.google.com पर गया।
+
+[01:29:20] एक new button पर click किया मैंने। New button पर click करके मैंने Google Sheet
+
+[01:29:25] click करी, blank template बन रही है। Simple.
+
+[01:29:29] जैसे एक normal Google Sheet बनती है। अब यहाँ पर drive वाली जरूरत नहीं मुझे। अब यहाँ
+
+[01:29:35] पर मेरे को Google Sheet का नाम देना है। Let's say इसको नाम दिया make a test
+
+[01:29:42] sheet। ठीक है। मैंने इसको मेरे level पर एक नाम दे दिया। Make test sheet.
+
+[01:29:47] इसको मैंने नाम देने के बाद यहाँ पर बस क्या data मैं ले रहा हूँ?
+
+[01:29:50] Name ले रहा हूँ। मैं column बना रहा हूँ एक, data enter करेंगे। Name, phone number
+
+[01:29:55] and email ID। ठीक है। ये data और मेरे website का और क्या data?
+
+[01:29:59] Let's check this first.
+
+[01:30:03] Bottom of--
+
+[01:30:06] I am primarily the, क्या उसका identity है। तो मैं इस चीज को इस तरह से भी ले सकता
+
+[01:30:12] हूँ। But ठीक है। Let's collect this three first because हम starting में उसको बोला
+
+[01:30:15] था कि हमें तीन चीजें चाहिए। Now
+
+[01:30:18] मेरा Google Sheet ready है। Now let's create a connection.
+
+[01:30:22] Connection create पर मैंने click किया। Sign in का button है। बड़ा simple process
+
+[01:30:25] है, जरा ध्यान से देखिएगा। Sign in पर मैंने click किया।
+
+[01:30:29] I think आप लोगों को window नहीं आ रही थी ये। मैं इसको वापस share करता हूँ एक
+
+[01:30:34] second. Full screen करूँ। See.
+
+[01:30:38] Focus on the screen, guys.
+
+[01:30:43] ठीक है। तो जैसे मैंने sign in पर click किया, ये देखिए Google checkout form आ गया।
+
+[01:30:47] Simple मैं अपना account create कर रहा हूँ। Google पर जो account है, उसको connect कर
+
+[01:30:50] रहा हूँ। Continue कर रहा हूँ। Continue करने के बाद select all, continue.
+
+[01:30:58] That's it. My account has been connected with successfully my.com के साथ, Google
+
+[01:31:03] वाला। अब इसके बाद ये आएगा उस topic पर कि sheet कौन सी use करनी है।
+
+[01:31:09] Google Sheet आपने बनाई ना, वो sheet select करनी पड़ेगी। Let's wait for the outcome.
+
+[01:31:31] Alright, देखिए आ गया। Now let's select this sheet.
+
+[01:31:35] अब यहाँ पर मैं डालूंगा make।
+
+[01:31:38] आ गया। Make test sheet आ गया। जो मैंने अभी बनाई थी sheet, उसको मैंने select किया।
+
+[01:31:42] Now उसके अंदर भी एक चीज पूछेगा मुझे that is sheet one, sheet two कौन सा?
+
+[01:31:48] Maybe, I think अगर उसको समझ में आ गया तो नहीं पूछेगा क्योंकि this AI है।
+
+[01:31:55] So it's thinking.
+
+[01:32:11] एक और चीज दिमाग में जो आती है कि यह एक बड़ा simple workflow है जो हम देख रहे
+
+[01:32:17] हैं। What I am thinking and what maybe you are thinking the difference is
+
+[01:32:24] I am not teaching you this workflow.
+
+[01:32:27] I am teaching you the process to build any type of workflow.
+
+[01:32:31] Are you getting the point?
+
+[01:32:34] तो क्योंकि उसकी कोई limit नहीं है। वो multiple workflows बना सकते हैं। There is
+
+[01:32:40] endless possibilities. So that is where my focus is। ठीक
+
+[01:32:44] है। Now the repo and Google Sheets are mapping
+
+[01:32:50] are done. तो इसमें सारी चीजें हो गई हैं। Anything left? No.
+
+[01:32:55] ठीक है। So use a real lead. सबसे पहले मैं इसको
+
+[01:33:02] how to test पूछ लेता हूँ। इसको पूछ लेते हैं how to test
+
+[01:33:06] because उसने कुछ
+
+[01:33:09] buttons दिए हैं तो उसको हम use करते हैं।
+
+[01:33:15] So here is my Google sheet now, जिसके अंदर कोई data नहीं है। At present you can see
+
+[01:33:20] name number मेरी already है। Let's wait for the process। देखो यहाँ पर यह काम कर रहा
+
+[01:33:25] है। Okay now यहाँ पर इसके पास एक sample data है। नाम है Alex Johnson, email
+
+[01:33:31] ID यह है, phone number यह है, company यह है। Let's run and send your data.
+
+[01:33:35] मैंने run कर दिया। देखिए, पहला यह यहाँ पर काम कर रहा है अभी। Right.
+
+[01:33:41] Alright. Maybe यह मेरा पुराना account है तो इसकी limit इसने use कर ली है but no
+
+[01:33:44] worries। यह successful हो गया है। Let's see here now. Can you see this?
+
+[01:33:49] यह data automatically आ गया है। मैं इसको बड़ा करता हूँ। See this.
+
+[01:33:55] Actually यह
+
+[01:33:57] international number है, US number है तो इसने यहाँ पर आ गया। इसलिए दिखा रहा है
+
+[01:34:00] क्योंकि space लिया उसने। वो also fix हो गया है। तो नाम, phone number, email ID
+
+[01:34:05] तीनों चीजें आ गई। Which means कि यहाँ पर ये तीनों modules जो हैं वो successful काम
+
+[01:34:10] कर रहे हैं। इस चीज में basically इसकी मुझे जरूरत नहीं है but I am keeping it as it
+
+[01:34:15] is now क्योंकि उसे तो करना ही पड़ेगा। Now,
+
+[01:34:20] अब मुझे real data देखना है कि real data pass हो रहा है कि नहीं हो रहा है। Website
+
+[01:34:23] पर जो डालना है तो real data आना चाहिए। That is the main outcome of this particular
+
+[01:34:27] workflow. Now let's test it out। ठीक है।
+
+[01:34:31] So मैं run once पर click कर रहा हूँ। Run once पर click करने के बाद यहाँ पर wait कर
+
+[01:34:36] रहा है। Now let's go to the website and let's click on refresh,
+
+[01:34:41] जिसके साथ मैंने web hook ने किया था। वो यही है। यहाँ पर मैं डालता हूँ मान लो Deepak
+
+[01:34:47] and let's enter the email ID, one of the email IDs.
+
+[01:34:53] Right and let's enter the phone number.
+
+[01:34:59] Primary, I am a let's say for example, a graphic designer. Let's enter.
+
+[01:35:05] Data submitted
+
+[01:35:08] and let it has been submitting.
+
+[01:35:12] ठीक है, done. Data has been submitted.
+
+[01:35:14] Let's go to the-- now see this successful है। यह green मतलब successful
+
+[01:35:21] है। Now let's go to the Google sheet. Now see this.
+
+[01:35:28] My name, number and email ID has been successfully automatically
+
+[01:35:34] in the Google sheet. Right to work.
+
+[01:35:37] अब imagine करो कि एक साथ हजार लोग भी register कर रहे हैं, उन लोगों की list यहाँ
+
+[01:35:42] बनती जा रही है। अब यह Google sheet आपने share करी अपने
+
+[01:35:48] client के साथ और यह link अपने client के
+
+[01:35:54] साथ share कर दी और client को सारा data उसकी Google Sheet में दिख रहा है। अब इस
+
+[01:35:57] Google Sheet से आपको आगे क्या करना है that you can also decide.
+
+[01:36:00] Now you can go to the make.com और उसके बाद बोलोगे okay, this workflow
+
+[01:36:09] is successfully
+
+[01:36:13] working. Now in action, I want to send them
+
+[01:36:20] a email from my Gmail account. ठीक
+
+[01:36:26] है। तो मैंने एक बोला कि अब sheet में तो data आ रहा है but अगर वो register कर रहे
+
+[01:36:29] हैं तो उनको मेरी तरफ से भी एक mail जाना चाहिए automatically. Right?
+
+[01:36:32] तो वो एक mail, मुझे एक action mode और चाहिए तो ये मैंने इसको कहा। ये शायद इस
+
+[01:36:37] account में मेरे make.com में नहीं चलेगा क्योंकि थोड़ा पुराना account है तो free
+
+[01:36:40] credits मैंने use कर लिए इसके। But आप नया बनाओगे तो आपको एक 1000 free credits ही
+
+[01:36:44] देता है। इसकी packages भी आप देख सकते हो उसकी website पर। तो मैं एक बार try करता
+
+[01:36:48] हूँ अगर ये बन जाए।
+
+[01:36:51] So मैंने इस दो चीजें बोल दी। I hope it's working so that you can understand this as
+
+[01:36:56] well.
+
+[01:36:58] Okay, अब यह पूछ रहा है कि lead में Gmail तो जाएगा but Gmail में जाना क्या है?
+
+[01:37:03] Like इसको lead confirmation जानी है like thank you for submitting, like internal
+
+[01:37:06] notification जाना है या अगर both जाना चाहिए। So मैंने बोला let's say for example
+
+[01:37:11] both। ठीक है। Let's wait for the another outcome.
+
+[01:37:16] अब किस-किस type के automations बनते हैं। इसको भी हम समझें। Right?
+
+[01:37:22] Automations की अगर मैं list निकालूं that if at present मुझे research करनी है, what
+
+[01:37:27] I can do now? At present मुझे research करनी है। I will go to the Perplexity.
+
+[01:37:31] Why Perplexity?
+
+[01:37:34] Because Perplexity हमें real-time research करके देता है। एक ऐसा LLM है जो real-time
+
+[01:37:39] research कर सकता है। Most accurate.
+
+[01:37:42] तो perplexity.ai पर मैं आया हूँ। यहाँ पर मैंने free account बना लिया।
+
+[01:37:49] I am giving you the brain of using the intelligence correctly
+
+[01:37:56] to solve the real objections that you can face while you are alone, not on the
+
+[01:38:01] call. Get started. मैंने कुछ details डाली
+
+[01:38:05] जो मांग रहा है ये। चलो इस time free plan कर रहा है। Free plan है तो मैं इसको
+
+[01:38:09] बोलूंगा continue with free.
+
+[01:38:12] यहाँ पर मैं इसको input दूंगा।
+
+[01:38:17] I
+
+[01:38:18] have the automation skills of make.com.
+
+[01:38:20] Research the market at present and give me the top 10 high-ticket
+
+[01:38:26] automations that people are looking for in India, in Mumbai.
+
+[01:38:33] Are you getting the point मैं क्या कर रहा हूँ?
+
+[01:38:39] Now see this intelligence.
+
+[01:38:43] Mumbai is a strong market for make.com automation because it combines finance,
+
+[01:38:46] fintech, commerce, healthcare, education, real estate, media सब कुछ बता रहा है
+
+[01:38:50] details. यह real-time है। यह ऐसा नहीं कि कोई knowledge के पास पढ़ा हुआ है। It's a
+
+[01:38:54] real time, इसकी real-time की links कहाँ हैं, वो सारे links कौन use कर रहा है,
+
+[01:38:57] resources कौन सा बता रहा है। Perplexity is very good for this research के लिए। अब
+
+[01:39:02] देखिए, यहाँ पर बता दिया इसने automation package, WhatsApp lead to CRM engine.
+
+[01:39:07] लोग WhatsApp पर connect करते हैं mostly। तो WhatsApp business API जो हमने समझा था
+
+[01:39:10] उससे CRM engine जो उनका sales engine है CRM का, वो उससे connect करके दे दिया।
+
+[01:39:15] Target market कौन हो सकता है? Real estate, education, clinics, B2C financial
+
+[01:39:18] advisors ये हो गए। दूसरा हो गया GST invoicing and receivables automations। मतलब
+
+[01:39:23] zoho.com करके एक platform है या tally आपको पता होगा। यह invoice बना के देता है। तो
+
+[01:39:29] उनको भी आप connect कर सकते हो automation से through. Right?
+
+[01:39:33] उनके account से आप connect कर सकते हो। So यह एक particular solution है। Agencies,
+
+[01:39:38] distributor, manufacturers, AI customer support for ticketing system.
+
+[01:39:42] अब यह चीज भी बोल रहा हूँ ना। यहाँ पर भी इस AI intelligence के साथ आप make.com की
+
+[01:39:47] intelligence को भी combine करके और better conversation और better और faster results
+
+[01:39:51] निकाल सकते
+
+[01:39:53] हो। What I will do basically? What I will do?
+
+[01:39:55] I will click on let's say for example मुझे यह customer support ticketing system
+
+[01:40:00] मुझे चाहिए इन लोगों के लिए। तो मुझे लगा कि मैंने इसको बोला
+
+[01:40:08] I like the third one AI customer support ticketing system for SaaS, fintech and
+
+[01:40:12] commerce, logistics and healthcare.
+
+[01:40:14] So give me a complete
+
+[01:40:16] prompt that I can give to the make.com to build such automated agent. Automation.
+
+[01:40:22] Sorry, it's not agent but--
+
+[01:40:25] ठीक है, it's ok.
+
+[01:40:30] It asked for the code but it's ok, it will work.
+
+[01:40:33] देखिए, पूरा उसने copy paste agent का prompt इसने दे दिया मेरा। Can you see this?
+
+[01:40:39] कि क्या है, क्या नहीं, कैसे क्या है?
+
+[01:40:41] सारा कुछ इसने दे दिया है। अब इसने क्या बोला है?
+
+[01:40:44] ये आप देख सकते हो। Make recommends, this is an MCQ tools, make also recommends
+
+[01:40:49] human validation for sensitive outputs। मतलब कुछ ऐसी चीजें जो check करनी होती है।
+
+[01:40:53] sensitivity होती है उस चीज को check करने की। healthcare sector में mostly देखा जाता
+
+[01:40:57] है कि data सही वो ले या सही से काम करे। क्योंकि health से related चीजें हैं वो। तो
+
+[01:41:02] आप वो पढ़ो at least। That is your role is to read it out in English। So आप इस चीज
+
+[01:41:07] को copy करो and you go to the make.com and organization में जाकर, जैसे मैंने ये
+
+[01:41:12] prompt दिया, वैसा आप ये prompt दे दो। It will start building this। अब मैं ये करूंगा
+
+[01:41:16] नहीं अभी क्योंकि मैंने सिर्फ एक idea के लिए ये बनवाया था। तो मैंने ये बताया आपको
+
+[01:41:21] idea कहाँ से कैसे use करके मैं कर रहा हूँ। Process तो same ही है। Right?
+
+[01:41:27] Tools change होंगे, workflow change होंगे but intent clear होना चाहिए। Clear है
+
+[01:41:33] सबको? Hello? Very important point.
+
+[01:41:41] Alright.
+
+[01:41:43] Thank you. Now, अब इसने मुझे email भी भेजना है तो यहाँ पे वापस इसने Gmail मुझे
+
+[01:41:49] connect करने बोला है। तो मैं इस पर click करूंगा। यहाँ पर sign in करूंगा। Sign in
+
+[01:41:53] करने के बाद simply मेरा authentication कर रहा है account को। मेरा Gmail account
+
+[01:41:58] मांग रहा है।
+
+[01:42:00] मैंने continue करा।
+
+[01:42:02] Continue.
+
+[01:42:05] Select all, continue.
+
+[01:42:17] Perfect. My Gmail account has been connected successfully। कोई coding नहीं मैंने।
+
+[01:42:21] कहीं भी कोई code लिखा है, कुछ करा technical?
+
+[01:42:23] It's not technical। It's like आप login कर रहे हो किसी system में, उस तरह का process
+
+[01:42:27] है।
+
+[01:42:32] So देखो ये check कर रहा है हर board को। आप देख सकते हो ये जो emoji दिख रहा है ना
+
+[01:42:36] purple color का, वो वहाँ पे काम कर रहा है।
+
+[01:42:44] Right?
+
+[01:42:50] It's 9:45 and obviously I request कि आप call थोड़ा लंबा, अगर is okay with you।
+
+[01:42:56] Right? Because cover करना है मुझे।
+
+[01:43:03] ठीक है?
+
+[01:43:05] Thank you.
+
+[01:43:13] Just checking every module.
+
+[01:43:17] Perfect. Sample data भी asks कर रहा है। मैंने वो दे दिया। पहला module
+
+[01:43:23] successful, दूसरा successful, तीसरा successful, चौथा successful। सब successful हो
+
+[01:43:26] गए। सारी green checkmark आ गई है। Now
+
+[01:43:31] got the-- okay, perfect.
+
+[01:43:42] If you sit with a laptop and internet and you have this intelligence with you,
+
+[01:43:46] ChatGPT खोल दो, Perplexity खोल दो, Make.com खोल दो। क्या demand है market में बता
+
+[01:43:51] दो। Try to build। It's like an very interesting thing जब आप करोगे। देखने में अगर
+
+[01:43:56] मजा आ रहा है guys तो करने में और मजा आएगा। इतना समझ लीजिए। Right?
+
+[01:44:00] So yes, continue करके कर रहा हूँ मैं।
+
+[01:44:06] Alright. So
+
+[01:44:10] again let's continue. Bank का है तो मैं पढ़ नहीं रहा हूँ। I just keep on continue.
+
+[01:44:18] Alright. So let's just-- ठीक
+
+[01:44:20] है।
+
+[01:44:25] Okay. So I can switch it directly from here. Click the on.
+
+[01:44:32] मैं इसको एक बार में फटाफट answer दे रहा हूँ because you can read it
+
+[01:44:38] out with your time, but the process is same.
+
+[01:44:40] That's my time बचा रहा है पूरा। So check Gmail setup script for now.
+
+[01:44:45] Show configuration. Alright. Explain how it works.
+
+[01:44:49] So एक काम करते हैं। Let's explain how it works.
+
+[01:44:56] Okay. So इसने पूरा explanation दे दिया है। I am done. ठीक है? Yes, continue.
+
+[01:45:02] Finally एक बार मैं check करूँ अभी इसको हम test करें and let's go to the back।
+
+[01:45:09] इसको refresh करता हूँ website को।
+
+[01:45:12] Send an email.
+
+[01:45:23] Okay. Who should receive an email?
+
+[01:45:25] What should it says and when you correct workflows and tell me words.
+
+[01:45:29] ठीक है। It should
+
+[01:45:35] have all information by client and
+
+[01:45:41] it shows them a confirmation
+
+[01:45:48] over email। ठीक है? Send now.
+
+[01:45:57] Now
+
+[01:46:00] let's test it out. ठीक है? एक बार ये बनने दे।
+
+[01:46:05] One question to you all guys.
+
+[01:46:10] Is it easy that you can understand the process easily?
+
+[01:46:15] समझ में आ रहा है आपको? You can respond in the form of heart.
+
+[01:46:22] Can you do it?
+
+[01:46:27] अगर दिमाग में आ रहा कि नहीं कर सकते तो मैं आपको एक answer देना चाहूंगा।
+
+[01:46:31] ये recording वापस Labs में upload हो जाएगी। आप जब देखोगे, आप side by side करते
+
+[01:46:36] जाना। करते-करते आपका automatic mind trigger होगा। Right?
+
+[01:46:43] अब what kind of business you can look forward, इसकी आपको Perplexity answer already
+
+[01:46:49] दे चुका है कि कितना आप market में charge ले सकते हैं। You can see this 25,000 to 1
+
+[01:46:55] लाख implementation is 2 लाख to 15 लाख depending on the complexity of the
+
+[01:47:01] automation.
+
+[01:47:03] So क्यों सीखना चाहिए? इसका answer मुझे देने की जरूरत नहीं है। ChatGPT, Perplexity
+
+[01:47:08] ही दे रहे हैं। Right? So time क्यों invest कर रहे हो आपको समझ में आ रहा है। Right?
+
+[01:47:14] So चलो ये हो गया। एक बार test कर रहे हैं। So let's test it out.
+
+[01:47:19] ठीक है। Now it's written success, all success.
+
+[01:47:21] Then चलिए इसको हम real में भी test करते हैं।
+
+[01:47:26] Real testing एक बार कर लूँ मैं। It's waiting for the outcome।
+
+[01:47:32] Okay. Perfect.
+
+[01:47:41] ठीक है, done. So now मैं इसको run once कर रहा हूँ यहाँ पे। Run once करने के बाद मैं
+
+[01:47:45] आ रहा हूँ मेरे email में। यहाँ मैं test करता हूँ। चलिए एक बार मैं मेरा नाम दे दूँ
+
+[01:47:49] इसको। Let's enter the email ID.
+
+[01:47:53] Let's enter the phone number.
+
+[01:47:56] Let's enter the details and submit। Let's wait.
+
+[01:48:02] मैं test कर रहा हूँ सबसे पहले एक one of the email ID है उसके ऊपर। Right?
+
+[01:48:10] So data has been submitted। Let's go to the outcome.
+
+[01:48:13] ठीक है। इसका अगर हम outcome देखें। Alright.
+
+[01:48:18] So
+
+[01:48:21] confirmation.
+
+[01:48:23] Perfect. So I got the mail। "Hi Deepak, thank you for contacting us.
+
+[01:48:27] We receive the following information name, number, email ID company में and we will
+
+[01:48:32] get back to you soon. Thank you." Let me show you over the mail here because मैं तो
+
+[01:48:38] mobile में देख रहा हूँ।
+
+[01:48:43] Let me show you.
+
+[01:48:46] मैं screenshot कर रहा हूँ just a minute.
+
+[01:48:52] Okay. See this guys, मैंने अभी just mail किया। मैंने नहीं किया
+
+[01:48:58] obviously, it's an automation। Right? You can see this.
+
+[01:49:02] जो मैंने mail ID डाली थी वो यही mail ID है। You can see over here
+
+[01:49:04] stevenj1992@gmail.com. This is the
+
+[01:49:10] message that I received as an client.
+
+[01:49:13] अब इस चीज को और modify कर सकते हैं हम। इसके अंदर AI ला सकते हैं, इसके अंदर और
+
+[01:49:17] better details के professional mail चला जाए तो वो हमारे हाथ में है कि क्या भेजना है
+
+[01:49:21] उसको। But workflow is working successfully। Lead आई Google Sheet में, Google Sheets
+
+[01:49:26] से उसको mail चला गया automatically। So it's an automation for me। जब भी एक visitor
+
+[01:49:30] your website पे आएगा, उसको automatically चीजें होनी start देंगी। I hope this makes
+
+[01:49:34] sense. Right? तो मैं पूरी--
+
+[01:49:40] जो workflow है वो यहाँ पर आप देख रहे हो that we have built live with you.
+
+[01:49:45] All good. Is it clear, guys?
+
+[01:49:48] Don't focus कि यह कैसे किया। Focus कि process क्या use करी मैंने, तरीके क्या-क्या
+
+[01:49:53] use करे, possibilities क्या-क्या है। Right?
+
+[01:49:56] So that is your main advantage of this particular study. ठीक है?
+
+[01:50:02] Alright। So now let's without wasting any more time, we are now gonna see--
+
+[01:50:08] अच्छा this is Google Sheet. You can see this जो data भी डाला वो यहाँ पर भी आ गया।
+
+[01:50:12] ये वो testing वाला data है। ये जो देख रहे हो testing करने का वो data है। और ये हमने
+
+[01:50:16] अभी latest डाला हुआ data है। ये तो Google Sheet में भी आ रहा है। It's working
+
+[01:50:19] properly. So let's close this all and
+
+[01:50:24] now
+
+[01:50:29] we see how to build an AI voice agent that can talk to the people on website and
+
+[01:50:34] take an appointment in real-time, that you can receive an email कि मेरी appointment
+
+[01:50:40] book हो गई है और सामने वाले company को भी चले जाएगी appointment आ गई। ठीक है, फटाफट
+
+[01:50:45] हम start करते हैं इस चीज को। सबसे पहले मैं जाऊंगा Eleven Labs में। मैं Google
+
+[01:50:49] करूंगा Eleven Labs.
+
+[01:50:55] Eleven Labs मैंने Google किया। This is the Eleven Labs screen.io this is the
+
+[01:51:00] website. सबसे पहले आप आओगे इस तरह से दिखेगा elevenlabs.io.
+
+[01:51:04] यहाँ पर sign up कर लो। Free sign up हो जाएगा आप लोगों का। यहाँ पर आप आओगे-- और एक
+
+[01:51:09] चीज मैं जरूर कहना चाहूंगा इस call के बाद आज या कल में before tomorrow's call
+
+[01:51:14] क्योंकि कल के call पर AI software academy का पहला class होने वाला है।
+
+[01:51:20] ठीक है। तो उस चीज को लेकर एक activity मैं आज भी आपसे expect करूंगा। जबकि जो लोग आज
+
+[01:51:26] call पर नहीं आए हैं, उन लोगों को पता चलेगा कि हमने आज क्या देखा है। Right?
+
+[01:51:30] दूसरा, परसों का call जो है, कैसे आप monetization में business
+
+[01:51:36] start कर सकते हो, startup start कर सकते हो। गौतम sir का वो class रहने वाला है। So
+
+[01:51:41] 18th की class सबसे important रहेगी। अगर आप genuinely serious हो startup genuine
+
+[01:51:47] कैसे start होता है, उस चीज को लेकर, कैसे leads लाई जाती है, कैसे आप अपनी brand
+
+[01:51:52] positioning कर सकते हो। वो सारी चीजें जो हैं उसकी process and understanding and
+
+[01:51:55] platforms के बारे में परसों बताया जाएगा। ठीक है?
+
+[01:51:59] So make sure you attend the both the classes tomorrow and the day after tomorrow.
+
+[01:52:02] 19th of September we will gonna have-- हम आज दो घंटे के लिए connect होते हैं हफ्ते
+
+[01:52:08] में तीन बार। 19th of September को we will be with you from 10:30 AM to 4:00
+
+[01:52:14] PM live जिसमें multiple topics हम cover करेंगे। ठीक है? The bootcamp.
+
+[01:52:20] तो देखिए, मैं अभी create कर रहा हूँ Eleven Labs में। Sign up पर हूँ। Sign up मैंने
+
+[01:52:23] Google पर create किया
+
+[01:52:26] and
+
+[01:52:29] एक simple account बना रहा हूँ मैं यहाँ पर।
+
+[01:52:33] Continue.
+
+[01:52:42] Eleven Labs में मैं आया। My account has been created successfully.
+
+[01:52:47] जैसे मैं पहली बार आऊंगा, यहाँ पर मेरे को इस तरह का एक UI दिखेगा। मेरा account है।
+
+[01:52:53] यहाँ पर नीचे देखोगे Eleven Labs Creative। At the bottom left में देखो नीचे एकदम।
+
+[01:52:58] Right? Eleven Labs Creative. बहुत सी चीजें हैं, देख के confuse मत हो जाओ। कोई बड़ी
+
+[01:53:02] rocket science नहीं है। ठीक है? कोई coding नहीं, कुछ नहीं करना है। कोई tension मत
+
+[01:53:06] लेना। नीचे bottom left में देखो Eleven Labs Creative का option है। यहाँ पर आप click
+
+[01:53:11] करो। यहाँ पर आपको तीन option है। Eleven Labs Creative like create and localize with
+
+[01:53:15] content. यह एक basic चीज हो गई। Eleven Agents मतलब agents बनाने का आपको यहाँ पर
+
+[01:53:21] click करना है। ठीक है? तो हम ये वाला देखेंगे। बाकी चीजें जो हैं यहाँ पर बड़ी simple
+
+[01:53:25] है like text to speech समझ लोगे। आप यहाँ पर जाओगे अगर, तो अगर मुझे कुछ भी लिखना है
+
+[01:53:30] और उसको बोलकर वो सुनना है, वो बोलेगा कैसे?
+
+[01:53:33] यहाँ पर सारी voices हैं। बहुत सी चीजें हैं but हमारे यह point अभी आज नहीं सीखेंगे।
+
+[01:53:39] हम आज जो देखेंगे Eleven Labs में agents कैसे create करें। तो मैं bottom left में जा
+
+[01:53:44] रहा हूँ और Eleven Agents पर click कर रहा हूँ। ठीक है?
+
+[01:53:48] यहाँ पर मुझे agree obviously terms and conditions के, जिसका सही use होगा obviously
+
+[01:53:52] उनके कुछ terms होंगे, उस पर agree करना है। Agree कर दिया मैंने और जैसे ही agree
+
+[01:53:56] करता हूँ, मुझे इस तरह की interface दिखेगी सबसे पहले। Confusion कुछ नहीं है। बड़ा
+
+[01:54:01] simple है। मैं आपको process समझाता हूँ। You have to understand the process finally.
+
+[01:54:05] ठीक है? अब इसके साथ मुझे agent बनाना है। मान लो कि जो support agent हो।
+
+[01:54:11] Let's say, for example मैं कोई company ले लेता हूँ। Let's say कि
+
+[01:54:16] लोढा करके एक builder है Mumbai का। Real estate builder है। तो इसकी website open कर
+
+[01:54:22] रहा हूँ। So this is the builder. अब इसके लिए मुझे-- मान लो इसकी website पर कुछ ना
+
+[01:54:26] कुछ content है। चलो इसको ले लेते हैं। अब इसके website पर
+
+[01:54:31] के लिए मुझे agent बनाना है। तो एक तो तरीका ये है कि यहाँ पर आप left-hand side--
+
+[01:54:37] right-hand side में आप देख सकते हो कि Welcome to the AI agent platform.
+
+[01:54:39] These templates are quick way to create your first agents and you can start from
+
+[01:54:43] blank one. Tell me what would you like your agent to do?
+
+[01:54:48] I will help you pick the best starting point.
+
+[01:54:50] तो इससे भी आप help ले सकते हो। This is also the new thing in Eleven Labs.
+
+[01:54:55] तो जैसे हम Make.com में गए थे। Manual process भी है। Blank agent शुरू करो। Blank
+
+[01:55:01] agent के अंदर आपसे कुछ वो पूछेगा। You have to go through this and वो उस तरह से आपका
+
+[01:55:05] agent type step by step भी बना सकते हैं। But fastest way जैसे कि मेरे को system
+
+[01:55:11] prompt आ गया। जैसे मैंने आपको बताया था system prompt के अंदर क्या लिखना है। अब क्या
+
+[01:55:14] लिखना है वो भी हम बताएंगे। मैं करूंगा
+
+[01:55:18] But I am not gonna build this like this.
+
+[01:55:23] Let's
+
+[01:55:24] see here some templates are available already.
+
+[01:55:26] Customer support, front desk receptionist, inbound lead qualifier, language
+
+[01:55:30] practice tutor, right?
+
+[01:55:33] जो किसी client के लिए कर सकते हैं, जो education के institute में हो। There are so
+
+[01:55:39] many different templates. Right? Appointment scheduler.
+
+[01:55:43] You can see this appointment scheduler.
+
+[01:55:45] अगर मैं इस चीज को use करता हूँ तो मेरे लिए ये useful रहेगा। But ठीक है, मैं एक बार
+
+[01:55:50] इसको side में glance से करता इस चीज को।
+
+[01:55:58] I want to build an agent for my client that can-- okay, sorry.
+
+[01:56:08] I want to build an agent for my client that can collect data on
+
+[01:56:14] website
+
+[01:56:16] name, number and email ID and schedule an appointment on cal.com
+
+[01:56:24] with checking the real-time available slot.
+
+[01:56:29] ठीक है? ये मैंने इसको data दिया। अच्छा ठीक है, ले लिया उसने। हो रहा। ठीक है। ये
+
+[01:56:35] मैंने data दिया इसको। Let's enter the button.
+
+[01:56:37] Now wait for the Eleven Labs intelligence to check कि मैं क्या बना रहा हूँ, उसका
+
+[01:56:42] क्या process है। So it is analyzing.
+
+[01:56:44] मैं देख रहा हूँ ये क्या कर रहा है। I am just waiting now.
+
+[01:56:48] Okay.
+
+[01:56:50] Now इसने कुछ questions मुझे पूछे हैं। That sounds like a great use case.
+
+[01:56:54] The agent can definitely existing application documentation to get started.
+
+[01:56:58] Agent will agent will be interacting users on website widget or are you planning to
+
+[01:57:01] deploy it on different channel WhatsApp?
+
+[01:57:03] Obviously ये पूछ रहा है deploy कहाँ करना है?
+
+[01:57:04] तो obviously मुझे पता है मुझे website पर करना है। तो मैं इस चीज को website widget
+
+[01:57:08] click करूंगा।
+
+[01:57:11] Right?
+
+[01:57:13] मैंने click किया। Now it's asking another questions like to make sure your agent
+
+[01:57:17] handles the scheduling smoothly we are giving you live scheduling.
+
+[01:57:19] अभी इसने question पूछा। Great. Then ask for the details.
+
+[01:57:23] Check available slot first then details and ask the details for the check
+
+[01:57:27] availability. मतलब ये पहले पूछ रहा है कि कैसा process होना चाहिए। पहले वो detail
+
+[01:57:30] पूछना चाहिए उसको या पहले available slot दे के उसका work, उसका काम वो पूछ रहा है कि
+
+[01:57:35] agent कैसे काम करना चाहिए। User कर रहा है human से बात कर रहा है तब। तो मैंने पूछा
+
+[01:57:40] कि great then ask for details, check availability first then details.
+
+[01:57:44] Ask for details and then check availability.
+
+[01:57:46] So ये वाली चीज सही लगी मुझे।
+
+[01:57:51] पहले detail तो पूछ ले अगर data तो है। फिर उस चीज को आप देखोगे appointment book
+
+[01:57:55] करेंगे कि नहीं। Data तो ले लेता है।
+
+[01:57:58] Okay, so now it's working the intelligence of Eleven Labs now.
+
+[01:58:07] Okay, the flow makes perfect sense to make sure your agent stays on track.
+
+[01:58:12] What should it do for do if it can't find an available slot and use it for a user
+
+[01:58:18] ask which doesn't matter so it's as per human specific field areas. Okay.
+
+[01:58:23] So यहाँ पर मैं दे सकता हूँ उसको fallback message if देना चाहिए क्योंकि अगर
+
+[01:58:28] available slot है ही नहीं तो वो क्या करेगा? Right? हो सकता है ऐसी situation.
+
+[01:58:32] The fallback message ये हो सकता है मेरा। Okay?
+
+[01:58:36] We do not have-- maybe fast लिख दो। We do not have any
+
+[01:58:42] slots at present.
+
+[01:58:44] Right? So we request you to reach out our
+
+[01:58:52] Support team on number दे देते हैं। Right, that's it.
+
+[01:58:57] तो ये मैंने दे दिया इसको।
+
+[01:59:02] situations कुछ भी हो सकती है। 24 घंटे तो हम नहीं बैठेंगे but agent तो 24 घंटे है,
+
+[01:59:06] like this.
+
+[01:59:10] Okay, the sounds clear. Helpful product। ये पूछा भी है। agent का नाम पूछा है कि
+
+[01:59:14] agent का नाम। मैंने उसको नाम दे दिया है Lodha
+
+[01:59:21] Support,
+
+[01:59:23] Lodha
+
+[01:59:26] Appointment
+
+[01:59:28] Setup. ठीक है?
+
+[01:59:31] Name है ये। Right, तो इसको clearly में बता दो, name of the agent
+
+[01:59:36] is Lodha Appointment Setup.
+
+[01:59:45] अब ये confirmed करें the sounds like solid plan.
+
+[01:59:48] Here is the summary of what we can build. नाम, job क्या है उसका?
+
+[01:59:52] Collect user details, name, number, email ID, schedule an appointment cal.com by
+
+[01:59:55] checking the real-time availability. Channel: website widgets. Flow क्या हो गया?
+
+[01:59:59] User ask for the details. Now check for the available slot.
+
+[02:00:03] If user slots are available, then provide the fallback message: We do not have any
+
+[02:00:07] slots at present, so we request you to reach out to the support team.
+
+[02:00:09] Does this look right for you? ये पूछ रहा है। plan सही लग रहा है?
+
+[02:00:12] plan सही लग रहा है? plan सही लग रहा है आपको?
+
+[02:00:13] confirm कर रहा है। plan सही लग रहा है। मैं बोलूं, ठीक है। Okay, it looks perfect.
+
+[02:00:19] Right, तो मैंने इसको clear किया।
+
+[02:00:23] Now it will go to the further process if कुछ चीजें नहीं रही भी हो तो।
+
+[02:00:29] Right? So agent is being generated in the background.
+
+[02:00:32] While we wait, do you have a preference for the agent's voice or personality?
+
+[02:00:37] For example, would you like to sounds professionals and formal and more friendly
+
+[02:00:40] and casual? ये पूछ रहा है, tone कैसा चाहिए, क्या चाहिए?
+
+[02:00:43] तो मैं इसको बता दूं। Right, male
+
+[02:00:47] with confident.
+
+[02:00:53] चलो, इस चीज को इसने आगे ले लिया है but I am not giving the outcome now.
+
+[02:01:00] मैं इसको भी answer नहीं दे रहा हूँ। ये बना रहा है और इसने क्या बनाया है?
+
+[02:01:05] इसने बना लिया है। agent मेरे सामने इसने बना लिया है। Let's see guys.
+
+[02:01:08] Lodha Appointment Setup नाम आ गया है। इसमें सारी चीजें आ गई हैं। अब मैं इस चीज को
+
+[02:01:13] एक बार check जरूर करूंगा कि I have generated your agent Lodha Appointment Setup.
+
+[02:01:18] Here's a quick look at the how it's set up. Personality: it acts as friendly.
+
+[02:01:22] अब मैं इसको दे नहीं पाया that time क्योंकि उसने आगे action ले लिया। उसको भी change
+
+[02:01:27] कर सकता हूँ। Right? Friendly, efficient assistant and name Alex है उसका। ये सारी
+
+[02:01:31] चीज हो गई। अब ये उसका process हो गया flow का। ये उसका fallback answer हो गया and
+
+[02:01:36] guardrails, okay. It won't book anything until it has all three pieces of
+
+[02:01:40] information. तीनों चीजें हो गई तब ये appointment book कर पाएगा। ये इसकी चीज है। अब
+
+[02:01:44] ये सारी चीज हो गई। अब मैं इस चीज को एक बार test जरूर कर लूं। अभी appointment book
+
+[02:01:49] नहीं करेगा क्योंकि cal.com integrate नहीं किया हमने but एक बार testing हम कर सकते
+
+[02:01:53] हैं। So let's
+
+[02:01:55] test it out. मैं मेरे laptop का audio share कर रहा हूँ। Let's-
+
+[02:02:04] Hello there, I'm Alex, your appointment assistant.
+
+[02:02:08] I can help you schedule your next appointment.
+
+[02:02:10] To get started, may I please have your full name?
+
+[02:02:13] So my name is Deepak, Alex.
+
+[02:02:16] Thank you, Deepak Alex. Could you please confirm your phone number for me?
+
+[02:02:21] Oh, my number is 777888877.
+
+[02:02:27] Thank you, Deepak. Just to confirm, your phone number is 777888877.
+
+[02:02:33] Is that correct?
+
+[02:02:34] Right.
+
+[02:02:38] Right.
+
+[02:02:42] Are you still there, Deepak?
+
+[02:02:43] Yeah, I am here.
+
+[02:02:46] It's correct.
+
+[02:02:46] Great. Thank you for confirming. Could you please provide your email address so I
+
+[02:02:50] can complete your booking details?
+
+[02:02:52] My email address is stevedj92@thegmail.com.
+
+[02:02:58] Thank you, Deepak. Just to confirm, your email is
+
+[02:03:01] stevedj92@gmail.com. Is that correct?
+
+[02:03:06] Right.
+
+[02:03:06] Perfect. I have all your details now.
+
+[02:03:08] Would you like to go ahead and schedule an appointment?
+
+[02:03:10] Now, as you can see, guys, appointment book करने नहीं गया क्योंकि अभी मैंने आगे कर
+
+[02:03:14] नहीं आया हूँ that. But उसने जो conversation करा, जितना मैंने
+
+[02:03:20] information दिया, उस basis पर करा है। मैंने कोई knowledge भी इसको दिया नहीं है अभी।
+
+[02:03:23] company के बारे में नहीं दिया, ना website दिया, कुछ भी नहीं दिया। तो फिर भी वो बात
+
+[02:03:26] कर रहा है। He is ready to talk. Right? अब उस चीज को मैं और better कैसे करूंगा?
+
+[02:03:31] I will also go to the chat here. Now, यहाँ पर enable guardrails का एक option आ रहा
+
+[02:03:36] है। अब मैं इस चीज को पहले यहाँ पर लेकर जाऊंगा। मैं इसको बोलूंगा। Okay.
+
+[02:03:41] Now
+
+[02:03:43] connect
+
+[02:03:45] mycal.com.
+
+[02:03:47] If it works, if it's not works-- मैं आपको दूसरा process बताऊंगा। Let's wait for the
+
+[02:03:51] intelligence कि क्या कर रहा है। Account
+
+[02:03:57] with this agent. Right?
+
+[02:04:02] इस पूरे process के दौरान मैं side हो गया। जब तक कर रहा है तब तक मैं cal.com account
+
+[02:04:06] बनाता हूँ ताकि मुझे देना पड़ेगा उसको। cal.com पर मैं गया।
+
+[02:04:11] calendar booking software है, free account बन जाएगा यहाँ पर आपका। यहाँ पर Get
+
+[02:04:15] started पर click कर सकते हो, Sign up with Google कर सकते हो। Sign up with Google कर
+
+[02:04:18] लो simple. मैंने Sign up with Google किया। अब यहाँ मैंने एक simple free account बना
+
+[02:04:24] लिया। Continue.
+
+[02:04:28] Select all. Continue.
+
+[02:04:38] ये कुछ questions पूछ रहा है obviously, तो मैं इसको continue कर रहा हूँ।
+
+[02:04:43] Continue करता रहूंगा, अभी कुछ ज्यादा इसमें changes नहीं कर रहा हूँ। आप details
+
+[02:04:47] submit कर सकते हो obviously, आपके हिसाब से। Google Calendar already connect है यहाँ
+
+[02:04:50] पर, continue
+
+[02:04:54] । क्योंकि Google से ही मैंने account बनाया है ना Gmail से। Continue, that's it.
+
+[02:04:57] आप dashboard पर आ गए connect करके। यहाँ पर तीन events by default होते हैं। मैं
+
+[02:05:02] तीनों में से दो delete कर दूंगा। मेरे को
+
+[02:05:06] एक ही चाहिए। Right? अब इसमें already 15 मिनट की meeting का calendar already बना
+
+[02:05:12] पड़ा है। इसके अंदर आप जब जाओगे,
+
+[02:05:14] right, तो आपको दिखेगा यहाँ पर कि--
+
+[02:05:21] let's go back। वो चीजें यहाँ पर change करनी आपको। एक availability.
+
+[02:05:24] Availability मतलब कि आप कहाँ से कहाँ available हो, by default ये रहेगा आपका सुबह 9
+
+[02:05:29] से 5, Monday to Friday. इसको आप change कर सकते हो as per your convenience time.
+
+[02:05:34] Right? So edit availability click करोगे तो वहाँ पर options मिल जाएगा। दूसरा:
+
+[02:05:40] booking form. ये एक important point है जो आपको पहले click करना पड़ेगा otherwise
+
+[02:05:44] agent आपकी appointment book नहीं कर पाएगा। booking form के अंदर यहाँ पर आपको
+
+[02:05:48] क्या-क्या collect कर रहे होना, by default ये रहता है। तो ये सब बंद कर दो।
+
+[02:05:52] Additional details,
+
+[02:05:54] ये सारी चीज बंद कर दो।
+
+[02:05:56] बस name, number, email ID चाहिए मुझे और Save पर click कर दो top right.
+
+[02:06:01] Save पर click कर दिया, that's it. Now मुझे यहाँ पर एक चीज समझनी है जो एक छोटा सा
+
+[02:06:07] process है, आपको समझाता हूँ मैं। अभी मैं पहले जाता हूँ वहाँ पर जो मैंने उसको करने
+
+[02:06:11] बोला था।
+
+[02:06:13] To connect your agent to cal.com, we will need to create a web hook tool.
+
+[02:06:17] This is allow your agent to communicate directly with your cal.com account to check
+
+[02:06:21] an availability and book appointment.
+
+[02:06:22] Do you have the API documentation for the specific endpoint you are scheduling?
+
+[02:06:26] अब ये पूछ रहा है API. API क्या होता है?
+
+[02:06:29] Application programming interface। मतलब एक platform को दूसरे platform से connect भी
+
+[02:06:33] करवाएगा वो और
+
+[02:06:36] एक platform दूसरे platform पर जाकर के activity भी कर सकता है।
+
+[02:06:41] जो activity मैं खुद कर रहा था जैसे मैंने यहाँ पर जाकर edit button दबाया, मैंने
+
+[02:06:45] calendar में date change कर दी। job जो भी मैंने किया, वो मैंने खुद किया ना। API एक
+
+[02:06:50] ऐसी medium है जो हर platform पर mostly होती है, जो दूसरे platform को ability
+
+[02:06:56] देती है कि वो जाकर के उस platform में वो activity करे जो एक human करता है
+
+[02:07:02] और वो data भी check कर सकता है। So this is called API, Application Programming
+
+[02:07:06] Interface.
+
+[02:07:08] ठीक है। अब इसने मुझे API की मांगी so I have to give the API
+
+[02:07:14] key. मैं अपने cal.com पर आया। At the bottom I will click on
+
+[02:07:20] Settings.
+
+[02:07:22] Settings में मुझे नीचे आना है। यहाँ पर मेरे पास options हैं API keys.
+
+[02:07:25] यहाँ पर मैं click करूंगा।
+
+[02:07:28] Create your first API key. एक बात मैं लिख रहा हूँ बहुत important कि API keys कभी भी
+
+[02:07:33] किसी को भी share नहीं किया जाता है। It's like a private vault. ठीक है?
+
+[02:07:38] तो ये password की तरह आप समझ लीजिए because वो अगर किसी के पास गया तो उसका misuse भी
+
+[02:07:42] होता है, इसीलिए नहीं किया जाता। But it's a test account, it's all testing, तो मैं
+
+[02:07:46] अभी यहाँ पर screen share करके दिखा रहा हूँ। तो यहाँ पर मैं लिखूंगा let's say for
+
+[02:07:49] example Lodha
+
+[02:07:51] appointment. नाम दे रहा हूँ API की, इसके लिए use कर रहा हूँ मैं Lodha Appointment
+
+[02:07:55] Setup. Right? So
+
+[02:07:59] never expire and create. यहाँ पर मैंने जैसे click किया
+
+[02:08:04] API key आ गई। यहाँ मैंने copy किया and let's put the
+
+[02:08:08] mycare.com API key
+
+[02:08:17] is this. So let's click on enter. Wait for the outcome,
+
+[02:08:23] यह क्या बता रहा है? "I cannot accept API directly due to our security reasons.
+
+[02:08:29] Please keep your credentials private" See, AI खुद बोल रहा है कि मैं directly नहीं
+
+[02:08:33] ले सकता। "To connect your care.com security, you can go to ads API" यह process बता
+
+[02:08:37] दी इसने मुझे क्योंकि यह sensitive चीज है, यह खुद नहीं करेगा। Elevenlabs workspace
+
+[02:08:41] में मैं गया, settings में मुझे जाना है और secret कुछ डालना है। यहाँ मैं जाऊंगा
+
+[02:08:45] settings में। At the bottom left settings में मैं गया and
+
+[02:08:51] in the settings, in the security
+
+[02:08:55] it's asking me to enter the-- Just wait for a moment.
+
+[02:09:00] Security can add API key.
+
+[02:09:03] Okay, one of the most easiest way we have added the security because it's the
+
+[02:09:08] sensitive part, the best way to enter this, this is not the right way because it's
+
+[02:09:14] a new thing on Elevenlabs, as I said.
+
+[02:09:18] Sometimes you have to understand it.
+
+[02:09:22] Exit.
+
+[02:09:26] But this for you. Open हो गया। So now I will click on tools। Okay, I found it.
+
+[02:09:32] Tools.
+
+[02:09:34] In the tools,
+
+[02:09:38] no tool found. So I will add my add integration tool।
+
+[02:09:44] यहाँ मैं integrate करूँगा, new integration।
+
+[02:09:50] I have this care.com here already। So इसको मैं click करूँगा। Click जैसे मैंने किया।
+
+[02:09:55] You can see now. Perfect. You can see now the name, let's say Lodha appointment
+
+[02:10:02] setup and API key that I have
+
+[02:10:06] given
+
+[02:10:09] in the chat, जो मैंने यहाँ भी ले ली। Just and click on enter. Correct.
+
+[02:10:15] Okay. No, thanks.
+
+[02:10:18] Perfect. अब connect तो हो गया। connect करने के बाद ये क्या-क्या कर सकता है?
+
+[02:10:21] मैं select all कर देता हूँ।
+
+[02:10:24] That's it. My care.com account has been connected। It will take some time। ठीक है,
+
+[02:10:30] आ गया यहाँ पर। यह क्या-क्या activity कर सकता है, वो सारी चीज यहाँ पर आ गई है। So
+
+[02:10:34] it's now perfect। तो अब मैं जाऊंगा मेरे agent में
+
+[02:10:41] जो यहाँ पर बनाया है।
+
+[02:10:44] Now I will test it out again in the
+
+[02:10:53] full screen mode में test करता हूँ इसको एक बार।
+
+[02:10:58] Speak to me.
+
+[02:10:59] Hello there. I'm Alex, your appointment assistant.
+
+[02:11:03] I can help you schedule your next appointment.
+
+[02:11:05] To get started, may I please have your full name?
+
+[02:11:08] My name is Deepak and I want to book an appointment for the property in Mumbai।
+
+[02:11:15] Thank you, Deepak. I'd be happy to help you book an appointment for the property in
+
+[02:11:19] Mumbai। Before we proceed, could you please confirm your phone number and email
+
+[02:11:24] address? These details are required।
+
+[02:11:28] My phone number is 999777989।
+
+[02:11:32] Thank you, Deepak। Just to confirm, your phone number is
+
+[02:11:36] 999777-
+
+[02:11:38] That's it।
+
+[02:11:40] Great, thank you for confirming। Could you please provide your email address so I
+
+[02:11:44] can complete your booking details?
+
+[02:11:46] Yeah, my email ID is stevedj92@gmail.com।
+
+[02:11:51] Thank you, Deepak। Just to confirm-
+
+[02:11:53] It's not Steve, it's Steve。
+
+[02:11:56] Understood, Deepak।
+
+[02:11:58] So your email is Steve, S-T-E-V-E।
+
+[02:12:03] Thank you for the clarification, Deepak। So your email is
+
+[02:12:06] stevedj92@gmail.com. Is that correct?
+
+[02:12:10] Yes।
+
+[02:12:12] Perfect, Deepak। I have your name, phone number and email address confirmed।
+
+[02:12:19] Now do you have a specific date or time in mind for your appointment?
+
+[02:12:21] Tell me the next available slot on the calendar।
+
+[02:12:26] Let me check the calendar for the next available slot for you।
+
+[02:12:31] I'm sorry, but we do not have any slots at present, so we request you to reach out
+
+[02:12:35] to our support team on 777788877।
+
+[02:12:41] Perfect। So
+
+[02:12:43] at present इसको और fine-tune करने की जरूरत है। इसके पास access है but इसकी
+
+[02:12:48] prompting ही करने की जरूरत है। System prompting हमें बताया था that we have to make
+
+[02:12:51] more better। So we can do it now। इसके साथ हम यहाँ से भी कर सकते हैं। So
+
+[02:12:58] my agent
+
+[02:13:02] have care.com in tools।
+
+[02:13:09] It is collecting
+
+[02:13:13] the leads properly but not booking
+
+[02:13:19] real-time appointment
+
+[02:13:24] on care.com। Fix this properly। Just a second। इसे जब
+
+[02:13:30] तक कर रहा है, just a second। Just give me a minute।
+
+[02:13:57] All right, guys, so see this, इसने क्या किया?
+
+[02:14:00] आपने सामने देखा है।
+
+[02:14:02] So इसने two चीजें, right and conversation detail language, काफी सारी चीजें इसने
+
+[02:14:06] यहाँ से ठीक कर ली है। Now I can attach the care.com available slots and then add
+
+[02:14:10] tools to your engine if you would like me to go ahead.
+
+[02:14:12] इसने question पूछा, yes। मैं इसको बोलूंगा yes। See this.
+
+[02:14:17] Sorry.
+
+[02:14:24] It's working.
+
+[02:14:30] Okay.
+
+[02:14:37] Right। Yes। You have to read out। मैं पूरी read करके नहीं बता रहा हूँ। आप
+
+[02:14:43] screen देखो, आप भी पढ़ लो, everybody हो। इसने चीज की, वो सामने खोला मैं कुछ नहीं
+
+[02:14:47] करा वैसे। It is doing something।
+
+[02:14:53] Attach care.com tools while I will be checking for booking। So now wait for the
+
+[02:14:58] publish dialog is now open for you to review and changes made when you hit publish।
+
+[02:15:05] Okay.
+
+[02:15:09] Okay।
+
+[02:15:12] So I have successfully
+
+[02:15:17] published this। Please cross-check everything
+
+[02:15:25] that it will
+
+[02:15:28] book appointment on mycare.com। Sorry,
+
+[02:15:34] spelling mistake है but it's okay।
+
+[02:15:43] So it is doing it। Something is missing here, देख रहे हो
+
+[02:15:52] आप।
+
+[02:15:52] Okay।
+
+[02:15:59] Reading agent prompts, system prompts ने पढ़ा।
+
+[02:16:02] Now applying the changes
+
+[02:16:07] you are seeing।
+
+[02:16:10] All right।
+
+[02:16:12] अभी publish करने बोल रहा है। Let's hit on publish।
+
+[02:16:23] Okay। All right। So now एक बार मैं इसको वापस test करके देखता हूँ कि updates जो भी
+
+[02:16:29] इसने की है, उसके ऊपर, update में फर्क पड़ा है, changes किया है। So let's click on
+
+[02:16:35] this। Okay। One more thing इसके बाद मैं, इसके पहले बता दूँ, इसके अंदर एक और चीज है
+
+[02:16:40] जो आप कर सकते हो।
+
+[02:16:42] जो मैं बताना चाहूंगा, एक second देना मुझे।
+
+[02:16:48] Agent। All right, देखिए। Agent पर मैं आया। This is my agent
+
+[02:16:54] जो अभी बनाया मैंने। So यहाँ पर पूरा उसका system prompt है। Time zone select नहीं
+
+[02:16:59] है, this is the problem एक जो मुझे समझ में आ रहा है। Asia Kolkata मैंने select कर
+
+[02:17:02] दिया अपना। First message क्या है? यह first message यहाँ पर दिया गया है। आप नीचे देख
+
+[02:17:08] सकते हो। This is the first message and
+
+[02:17:13] आवाज यहाँ से clear हो रही है। आप Hindi, English रख सकते हो, यहाँ पर आप language और
+
+[02:17:17] रख सकते हो। We are adding the Hindi.
+
+[02:17:22] Right? Hindi में मैंने click किया। Hindi भी अभी use भी है। और English mode भी है
+
+[02:17:26] अगर चाहिए। But अभी मैं Hindi ही नीचे रखता हूँ ताकि confusion ज्यादा ना हो। अब एक
+
+[02:17:30] important point है यहाँ पर समझो कि जो LLMs है, जो मैं आपको बता रहा intelligence का
+
+[02:17:35] brain, वहां पर भी गड़बड़ी हो सकती है। यहाँ पर देखो Qwen 3.5 है China का LLM से use
+
+[02:17:39] हो रहा है। But यहाँ से मैं इसको change करके LLM की list खुल जाएगी। यहाँ से मैं
+
+[02:17:44] change करके यहाँ पर सारे LLMs हैं, उनके message और time use case है उसके हिसाब से
+
+[02:17:48] उसने rates दी है। तो यहाँ पर मैं GPT 3.8 Flash, यह वाला use कर रहा हूँ at present।
+
+[02:17:54] Sorry, Gemini 3.5 है। यह Google का है। And that's it.
+
+[02:17:59] ये सारी चीजें हो गई change. Anything I want to change? No. Click on publish.
+
+[02:18:05] सारी चीजें change हैं। अब इसको मैं publish पर click कर रहा हूँ। Now let's test it
+
+[02:18:11] out again.
+
+[02:18:16] Okay. Sorry. Let's wait for the testing again.
+
+[02:18:24] Hello there. I'm Alex, your appointment assistant.
+
+[02:18:27] I can help you schedule your next appointment.
+
+[02:18:30] To get started, may I please have your full name?
+
+[02:18:33] मेरा नाम दीपक है।
+
+[02:18:40] Nice to meet you, Deepak. Would you like to continue our conversation in Hindi?
+
+[02:18:45] Yes, कृपया Hindi
+
+[02:18:46] में।
+
+[02:18:54] धन्यवाद दीपक जी। अब हम Hindi में बात करेंगे। क्या आप कृपया मुझे अपना
+
+[02:18:59] phone number बता सकते हैं?
+
+[02:19:02] हाँ, मेरा phone number है 77788877।
+
+[02:19:09] धन्यवाद दीपक जी। आपका phone number
+
+[02:19:12] 7777888877 note कर लिया है। क्या
+
+[02:19:18] आप कृपया मुझे अपना email पता भी बता सकते हैं?
+
+[02:19:22] Okay, my email is stevedj92@gmail.com.
+
+[02:19:34] Hello.
+
+[02:19:37] Can you hear me?
+
+[02:19:46] हाँ, दीपक जी, मैं आपको सुन सकती हूँ। आपका email पता
+
+[02:19:50] stevedj92@gmail.com note कर लिया गया है। अब
+
+[02:19:56] मैं आपके लिए appointment के slot देख रही हूँ।
+
+[02:20:05] Okay.
+
+[02:20:15] हमारे पास 17 सितंबर को दोपहर के समय कई slot उपलब्ध हैं। जैसे कि
+
+[02:20:21] भारतीय समय अनुसार शाम 6:30 पर या शाम 7:00 बजे का समय।
+
+[02:20:28] क्या इनमें से कोई समय आपके लिए ठीक रहेगा?
+
+[02:20:30] हाँ, शाम को 6:30 वाला आप book कर लीजिए।
+
+[02:20:44] आपका appointment 17 सितंबर को शाम 6:30 के लिए सफलतापूर्वक book हो गया
+
+[02:20:49] है। इसकी पुष्टि आपके email पते पर भेज दी गई है। क्या मैं आपकी किसी और चीज में
+
+[02:20:55] सहायता कर सकती हूँ?
+
+[02:20:56] नहीं, thank you.
+
+[02:20:59] All right guys. So now I can check my email first so that
+
+[02:21:06] we can confirm
+
+[02:21:09] कि यह work हुआ या इसको और refinement की जरूरत है। Perfect.
+
+[02:21:21] Okay. So now I am going to see the screen.
+
+[02:21:26] Obviously, small refinement की जरूरत होगी but process will be same.
+
+[02:21:29] It's not कि कुछ अलग करेंगे हम लोग। See the email जो मैंने email दिया था। Obviously
+
+[02:21:35] email दिया था stevedj92 वाला। Right?
+
+[02:21:37] अब यहाँ पर देखोगे नीचे email जो अभी just आया है 10:23 p.m.
+
+[02:21:41] को। This is the organizer name क्योंकि मैंने डाला नहीं था। cal.com में मैंने कुछ भी
+
+[02:21:46] डाला नहीं था कि कौन organizer है, क्या है, कुछ नहीं। तो मैंने simple एक यह दिया।
+
+[02:21:51] Email ID क्या है उसका दे दिया। उसने Gmail आपका दिया, मेरा email ID। यह मेरा Cal
+
+[02:21:55] video करके एक option आता है cal.com पर। Gmail अगर आपको use नहीं करना, आपको Google
+
+[02:21:59] Meet use नहीं करना हो तो ये Cal video use किया उसने। ये उसकी link आ गई। This is my
+
+[02:22:04] attendee phone number आ गया। ये पूरे details उसने दे दी। Now another thing that I
+
+[02:22:08] can check again कि यह appointment...
+
+[02:22:13] एक second देना मुझे। मैं screen check कर रहा हूँ। That I can check here.
+
+[02:22:19] कहाँ गया? अरे! Second.
+
+[02:22:24] Okay.
+
+[02:22:26] Now let's go to the
+
+[02:22:30] email of--
+
+[02:22:33] Okay.
+
+[02:22:43] Just a second, guys. Okay, now perfect.
+
+[02:22:46] So
+
+[02:22:47] there are so many ways we can do it, but the process is same.
+
+[02:22:52] I think क्योंकि 10:25 p.m. I have to cover one more point for you.
+
+[02:22:58] But एक चीज मैं आपको दिखाना चाहूँगा। Alright,
+
+[02:23:04] we have one problem here that we have to fix.
+
+[02:23:09] मैं आपको बताऊंगा
+
+[02:23:12] what is the issue.
+
+[02:23:15] The calendar has been booked with random data.
+
+[02:23:19] That is the reason क्योंकि मैंने मेरे cal.com में जो event calendar है वो सही से
+
+[02:23:24] बनाया नहीं है। मैंने data ही दे रही है उसको, कि इस चीज के अंदर किस चीज की meeting
+
+[02:23:29] है, जो मेरे को देना चाहिए। 15 minutes title क्या है?
+
+[02:23:32] I have to give like लोढ़ा appointment। Right?
+
+[02:23:37] Setup.
+
+[02:23:39] Title ये हो गया। So ये title यहाँ पर हो गया। लोढ़ा appointment meeting हम बोल देते
+
+[02:23:44] हैं इसको।
+
+[02:23:48] One to one meeting। Right? So यहाँ पर मुझे cal.com video था। Obviously हमें
+
+[02:23:54] Google Sheet, Google Meet करना है। तो ये सारे जो चीजें हैं छोटी-छोटी। cal.com में
+
+[02:23:59] मुझे proper calendar बनाना था, पहली चीज। दूसरी चीज है कि यहाँ मुझे इसको बताना होगा
+
+[02:24:04] कि ये अभी appointment तो book कर रहा है but right candidate के साथ नहीं कर रहा है
+
+[02:24:10] और cal.com में मुझे वो दिख नहीं रहा है। So यह इसका process होगा आगे का। जैसे मैंने
+
+[02:24:15] पहला वाला process solve किया कि पहले cal.com पर वो दिख ही नहीं रहा था, book ही नहीं
+
+[02:24:19] कर रहा था। पर वो अभी वो कर रहा है but सही तरीके से नहीं कर रहा।
+
+[02:24:24] Point here to convey you कि कैसे वो process हम follow कर रहे
+
+[02:24:30] हैं to solve any kind of issues. मैं अभी भी ये कर सकता हूँ but I have to show
+
+[02:24:36] another thing for you as well as. So I hope you are getting my point। Right?
+
+[02:24:42] I hope you are getting my point. That is an important point.
+
+[02:24:44] But process will be the same। Right? It will definitely book an appointment.
+
+[02:24:50] मैं आपको एक alternate में बनाया हुआ है with the same that I can show
+
+[02:24:56] you
+
+[02:24:59] on my another account of Eleven Labs।
+
+[02:25:03] Just a second. Eleven Labs.
+
+[02:25:11] Okay.
+
+[02:25:13] So I have built another demo for you to understand
+
+[02:25:21] the process.
+
+[02:25:29] It's signing in.
+
+[02:25:32] Okay.
+
+[02:25:42] Okay.
+
+[02:25:44] Let's go over the agents.
+
+[02:25:48] I
+
+[02:25:52] hope I am on the right account.
+
+[02:25:56] Hopefully.
+
+[02:26:00] Okay, sorry, I am on the right account. एक second। Alright guys.
+
+[02:26:06] Just give me a minute.
+
+[02:26:20] Sorry.
+
+[02:26:30] Login.
+
+[02:26:41] Okay, perfect. This is the talk. So now see this guys because ये चीज यहाँ हमने
+
+[02:26:46] solve कर रखी है। Solve करने का तरीका तो वही है। But to save our time मैं आपको यहाँ
+
+[02:26:50] बता रहा हूँ, ठीक है? So I have this agent.
+
+[02:26:55] There's two agents. I have to check which one.
+
+[02:27:06] This agent.
+
+[02:27:10] See, same process मैंने वही agent बनाया है on different topic.
+
+[02:27:15] So यहाँ पर आप देखोगे। Let me show you the full screen of this.
+
+[02:27:21] Let's try this once.
+
+[02:27:26] नमस्ते, मैं Emily हूँ from ClaimSkills.ai। मैं आपके AI
+
+[02:27:32] specialist program से जुड़े किसी भी सवाल में आपकी मदद कर सकती हूँ। बताइए आप
+
+[02:27:37] आज किस-
+
+[02:27:38] Hi, my name is Deepak. क्या आप मेरी appointment book कर सकते हैं?
+
+[02:27:43] नमस्ते Deepak. जी बिल्कुल। मैं आपके लिए Claim Skills team के साथ एक appointment
+
+[02:27:48] schedule कर सकती हूँ। क्या आप मुझे बता सकते हैं कि आप मुख्य रूप से किस बारे में
+
+[02:27:54] चर्चा करना चाहेंगे? जैसे कि program की जानकारी, career guidance या enrollment.
+
+[02:28:00] मुझे career guidance चाहिए।
+
+[02:28:03] और कल कौन सा available slot है?
+
+[02:28:08] Deepak, कल 17 सितंबर के लिए हमारे पास कई slots उपलब्ध हैं। आप दोपहर
+
+[02:28:14] 2:30 बजे से लेकर शाम 6:00 बजे तक या फिर रात 8:00 बजे से
+
+[02:28:20] 9:45 के बीच कोई भी समय चुन सकते हैं। आपको इनमें से कौन सा समय
+
+[02:28:25] सुविधाजनक रहेगा?
+
+[02:28:26] 2:30 वाला सही रहेगा।
+
+[02:28:31] ठीक है Deepak. मैंने 17 सितंबर को दोपहर 2:30 बजे का समय note कर लिया
+
+[02:28:37] है। booking पूरी करने के लिए क्या आप मुझे अपना email address बता सकते हैं?
+
+[02:28:42] Yes, मेरा email address है stevedj92@gmail.com.
+
+[02:28:51] Perfect. Deepak, आपका appointment सफलतापूर्वक book हो गया है। आपकी call 17
+
+[02:28:57] सितंबर को दोपहर 2:30 बजे भारतीय मानक समय पर schedule की गई
+
+[02:29:03] है। meeting के details आपके email पर भेज दी गई हैं। क्या मैं आपकी किसी और चीज में
+
+[02:29:09] मदद कर सकती हूँ?
+
+[02:29:10] Perfect. Thank you so much.
+
+[02:29:14] आपका बहुत-बहुत स्वागत है।
+
+[02:29:15] Perfect.
+
+[02:29:18] So guys, let me show you on my phone now because it's login on my phone.
+
+[02:29:24] You can see
+
+[02:29:29] this time
+
+[02:29:32] because ये data मैंने डाला हुआ था। You can see everyone.
+
+[02:29:35] I hope ये visible हुआ आपके लिए। This email has just received from
+
+[02:29:40] calid.com और इसके अंदर पूरा detail है कि your booking has been confirmed, submitted
+
+[02:29:45] और आपका time है 17th Thursday, September 8:00 p.m.
+
+[02:29:50] to 8:00 जो भी Indian Time है, उसके अनुसार इसने appointment मेरे लिए book कर ली है।
+
+[02:29:55] So that's the way because क्योंकि ऐसा नहीं है कि solution हम नहीं निकाल सकते। To
+
+[02:30:00] save our time, we have to
+
+[02:30:02] see कि किस तरह से मैंने वो appointment book करी। One thing left here now जो बची
+
+[02:30:08] है, कि कैसे इसको website में हम deploy करें।
+
+[02:30:14] वो एक बार मैं आप लोगों को दिखा दूं because वो एक important learning है आप लोगों के
+
+[02:30:18] लिए।
+
+[02:30:21] चलिए।
+
+[02:30:23] एक second।
+
+[02:30:25] Okay. Let me share my screen.
+
+[02:30:29] कैसे हम website में import कर सकते हैं। So
+
+[02:30:35] किसी भी editor में आप जा रहे हो, सबसे पहले आपके पास जो agent है,
+
+[02:30:41] उस agent को आप यहाँ से
+
+[02:30:46] screenshot-- screen देखिए सब लोग, screen पर focus
+
+[02:30:48] करें। Conversation में आप जाएं।
+
+[02:30:55] Right, conversation में आप गए।
+
+[02:30:58] Let's see. Just a second, guys.
+
+[02:31:02] Okay, sorry. Channel. Channels में आप गए। Channels के अंदर आपके पास यहाँ पर option
+
+[02:31:06] है देखिए। Channels में आप गए, widgets का option है। On the widget section, on the
+
+[02:31:10] third कहाँ पर आपको इसको लाना है। You have the option on website पर लाना है,
+
+[02:31:14] embedded chart on website. इसको आप simply select करिए। जब आप select
+
+[02:31:19] करोगे
+
+[02:31:21] तो यहाँ पर--
+
+[02:31:25] Let me arrange my screen first, आप लोगों का face देखने के लिए। So
+
+[02:31:30] now here are some details. Okay. ये सारे details हैं, यहाँ पर कुछ
+
+[02:31:36] settings इसने दी हैं कि किस तरह से करना चाहिए, क्या होना चाहिए। Chat only होना
+
+[02:31:39] चाहिए। Chat only करूंगा तो ये chat wise बात करेगा। Chat only नहीं करूंगा तो ये
+
+[02:31:44] verbally बात करेगा। So यहाँ पर मेरे पास ये code है। Basically it's an embedded code
+
+[02:31:49] जो singly आपको copy करना होता है and you have to go to any editor, not only this जो
+
+[02:31:54] मैं बता रहा हूँ। You have to go to the any editor.
+
+[02:31:56] You can click on edit visually या आपको उसके editor में जाना है।
+
+[02:32:01] उसके editor में
+
+[02:32:06] custom code का option मिलता है, header section का option मिलता है। In many websites
+
+[02:32:11] generally आपको custom code का option भी मिलता है। Custom code कहाँ से देखिये?
+
+[02:32:15] Elements, if you go to the elements.
+
+[02:32:18] Any website mostly have this option, custom HTML embedded code.
+
+[02:32:23] इसको आप simply click करो। ये ऊपर वाला delete कर दो, ये पहले वाला है। तो इसको मैं
+
+[02:32:28] जैसे click करूंगा open code editor और जो मैंने वहाँ से copy किया था वो यहाँ पर मैं
+
+[02:32:34] paste कर दूँ। That's it and apply करूंगा। Click on save.
+
+[02:32:40] Second option है कि आपका custom code option नहीं दिख रहा है तो आप उस website editor
+
+[02:32:44] के header section में इस चीज को डालोगे। नहीं पता, you have to ask any kind of
+
+[02:32:49] element. तो it will show you the exact steps जो पहले मैं बता रहा था। ये save हो गया
+
+[02:32:54] है। Let's click on the preview button. Now the site is loading.
+
+[02:32:59] Now see this, guys। Wait for the changes.
+
+[02:33:04] एक second। मैंने शायद गलत वाला रखा, दूसरा वाला delete कर दिया। So मैं पूरा delete
+
+[02:33:09] कर दूँ, नया डाल देता हूँ। Perfect.
+
+[02:33:16] Earlier I use this site for Omni Dimension जो मेरा calling agent है उसके लिए। तो
+
+[02:33:22] मैंने उस चीज का भी code डाल रखा था।
+
+[02:33:26] Go on apply, click on save
+
+[02:33:37] । Saving, save, come back.
+
+[02:33:42] Let's wait for the... Okay. It's taking your because इसका code अलग-अलग रहा होगा।
+
+[02:33:47] That's the reason. Let me
+
+[02:33:52] open it live for you because ये दोनों के लिए दिखा रहा है क्योंकि पहले वाला एक code
+
+[02:33:55] इसमें डाल रखा था Omni Dimension। But पीछे you can see the agent is
+
+[02:34:01] here with me on the site जो Eleven Labs का agent है। आपके case में ये नहीं आएगा
+
+[02:34:07] क्योंकि ये already इसमें import है, मुझे check करना होगा। So time जा रहा है इसलिए
+
+[02:34:10] मैं नहीं कर रहा हूँ। So यहाँ पर देखो ये Eleven Labs का agent जो मेरा Eleven Labs पर
+
+[02:34:14] था, अब वो मेरे site पर आ चुका है। I can talk to him right now.
+
+[02:34:21] नमस्ते, मैं Emily हूँ from ClaimSkills.ai। मैं आपके AI specialist
+
+[02:34:26] program से जुड़े किसी भी सवाल में आपकी मदद कर सकती हूँ।
+
+[02:34:30] Hello, Emily।
+
+[02:34:30] बताइए आप आज किस बारे में-
+
+[02:34:32] बात करें मेरे course के बारे में।
+
+[02:34:35] ClaimSkills.ai का AI specialist program उन लोगों के लिए design किया गया है
+
+[02:34:41] जो AI की मदद से अपने career या business को आगे बढ़ाना चाहते हैं। ये 28
+
+[02:34:47] दिन का एक practical program है जिसमें आपको AI marketing, AEO, AI engine
+
+[02:34:53] optimization-
+
+[02:34:53] Alright, I am not going to talk कि मैं लंबा जाऊँ इस चीज को आप समझ गए हो। ये 28 दिन
+
+[02:34:57] इसलिए बोल रहे क्योंकि इसको पुराना data दिया गया है। So previously it was 28 days
+
+[02:35:02] but time के according हमने उसको short करा हुआ है ताकि कम हफ्तों में हम ज्यादा चीज
+
+[02:35:06] सीखें। So don't think like that. Alright, so now I think that ये वाली process जो
+
+[02:35:12] है, ये जो custom code, embedded code है ना, वही code जिस website builder में वो
+
+[02:35:17] site है उसमें आपको डालना होता है। In the header section or in the custom code,
+
+[02:35:21] दोनों options हैं। सभी editors में mostly custom code का option होता है। Drag and
+
+[02:35:27] drop builders होता है, जिस website में, उसमें होता है। अगर नहीं मिल रहा है तो you
+
+[02:35:31] can go to the header section। Still you are not getting the answer, you can take
+
+[02:35:34] the screenshot, go to the ChatGPT or Gemini, ask the exact steps.
+
+[02:35:39] It will instantly solve your queries.
+
+[02:35:42] Alright? So I hope ये वाली process आपको समझ में आ गई होगी। It's 10:38 p.m.
+
+[02:35:49] Let me ask you because it's important to ask you for this कि
+
+[02:35:53] one more thing left for today's class because काफी topics रहे हैं। आपको पता है
+
+[02:35:57] मैंने करने की कोशिश करी है but topic इतना important है, ये बड़ा है। Calling agent
+
+[02:36:03] is left.
+
+[02:36:05] So I need your permission today or tomorrow first 30 minute.
+
+[02:36:11] If today show me thumbs up, if tomorrow show me heart.
+
+[02:36:21] Right.
+
+[02:36:23] I understand. It's okay, no problem.
+
+[02:36:24] But चलिए सिखाने में मजा आता है, सीखने में मजा आता है but obviously सब की अपनी
+
+[02:36:29] commitments हैं। So tomorrow we will cover the one more important point that
+
+[02:36:35] is calling agent.
+
+[02:36:40] अगर extra class में anybody, don't worry but we will gonna cover whatever we are
+
+[02:36:43] gonna cover. So don't worry about it. ठीक है?
+
+[02:36:46] So I hope that today's class you got some value and some powerful insights,
+
+[02:36:52] not just कि एक work में कैसे करना है, दो work में कैसे करना है। You have the
+
+[02:36:55] insights now कि कैसे किसी भी situation में किसी भी problem को कैसे solve करना है।
+
+[02:37:01] That is the conclusion of today's class.
+
+[02:37:04] Not just one agent, not just 10 agent बना लेना।
+
+[02:37:09] You have the tool कि intelligence को कैसे use करना है to solve your own objections,
+
+[02:37:14] not your competitors, not your बाजू वाला।
+
+[02:37:20] सभी problems आज हम solve कर सकते हैं but time limit नहीं है इसीलिए हम वो चीज को
+
+[02:37:24] execute कर रहे हैं उस तरह से। So one thing that we can do together that two minute
+
+[02:37:29] I will take for you because you can see thousands of people registered
